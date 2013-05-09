@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams xmlns="http://feed.elasticstats.com/schema/mlb/teams-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013">
+  <team id="ef64da7f-cfaf-4300-87b0-9313386b977c" abbr="LA" name="Dodgers" market="Los Angeles" league="NL" division="W" venue="66a19c3d-24fe-477d-bee7-c6ef1b98352f"/>
+  <team id="c874a065-c115-4e7d-b0f0-235584fb0e6f" abbr="CIN" name="Reds" market="Cincinnati" league="NL" division="C" venue="f102d8fb-de67-4b86-9053-8b55f578d45c"/>
+  <team id="1d678440-b4b1-4954-9b39-70afb3ebbcfa" abbr="TOR" name="Blue Jays" market="Toronto" league="AL" division="E" venue="84d72338-2173-4a90-9d25-99adc6c86f4b"/>
+  <team id="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" abbr="PIT" name="Pirates" market="Pittsburgh" league="NL" division="C" venue="61314394-c8b8-411e-b891-ca41285d5362"/>
+  <team id="833a51a9-0d84-410f-bd77-da08c3e5e26e" abbr="KC" name="Royals" market="Kansas City" league="AL" division="C" venue="6fca95c9-7f2c-4acb-a9f3-02ef96340d2a"/>
+  <team id="5cf8efee-97a2-4477-a154-92d6cbcd61bd" abbr="RETIRED" name="Retired" market="" league="" division="" venue=""/>
+  <team id="3bbb3b39-b5cb-4fc9-bd22-522521f0f329" abbr="NL" name="National League" market="NL" league="NL" division="" venue=""/>
+  <team id="1d905816-c244-41b4-b058-6f8324484d05" abbr="NOTEAM" name="No Known Team" market="" league="" division="" venue=""/>
+  <team id="55714da8-fcaf-4574-8443-59bfb511a524" abbr="CHI" name="Cubs" market="Chicago" league="NL" division="C" venue="53f8eb0d-a361-4a7a-930b-2f8735ea0698"/>
+  <team id="80715d0d-0d2a-450f-a970-1b9a3b18c7e7" abbr="CLE" name="Indians" market="Cleveland" league="AL" division="C" venue="2b0ccd49-4d87-4996-ac4d-27ffc7ee4c16"/>
+  <team id="bdc11650-6f74-49c4-875e-778aeb7632d9" abbr="TB" name="Rays" market="Tampa Bay" league="AL" division="E" venue="3aaaf4af-0f8c-49c1-8bf1-1780bb5a5f5c"/>
+  <team id="2142e1ba-3b40-445c-b8bb-f1f8b1054220" abbr="PHI" name="Phillies" market="Philadelphia" league="NL" division="E" venue="b4186004-b6d0-42e7-8dc1-82ef0d946ecc"/>
+  <team id="43a39081-52b4-4f93-ad29-da7f329ea960" abbr="SEA" name="Mariners" market="Seattle" league="AL" division="W" venue="f1c03dac-3c0f-437c-a325-8d5702cd321a"/>
+  <team id="25507be1-6a68-4267-bd82-e097d94b359b" abbr="ARI" name="Diamondbacks" market="Arizona" league="NL" division="W" venue="bf05de0d-7ced-4a19-8e17-2bbd985f8a92"/>
+  <team id="a7723160-10b7-4277-a309-d8dd95a8ae65" abbr="SF" name="Giants" market="San Francisco" league="NL" division="W" venue="2d7542f5-7b80-49f7-9b24-c53ffdc75af6"/>
+  <team id="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8" abbr="CWS" name="White Sox" market="Chicago" league="AL" division="C" venue="4a550fc1-c03d-4294-b63a-30ff197bedc4"/>
+  <team id="575c19b7-4052-41c2-9f0a-1c5813d02f99" abbr="DET" name="Tigers" market="Detroit" league="AL" division="C" venue="ef9a5eef-06c6-4963-ac70-7fd02c8c8d42"/>
+  <team id="f246a5e5-afdb-479c-9aaa-c68beeda7af6" abbr="NY" name="Mets" market="New York" league="NL" division="E" venue="265c7d6c-427a-4b8a-8def-392c41954bec"/>
+  <team id="75729d34-bca7-4a0f-b3df-6f26c6ad3719" abbr="BAL" name="Orioles" market="Baltimore" league="AL" division="E" venue="434aa63c-1049-4a54-a6bc-3790c7772ee1"/>
+  <team id="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" abbr="MIN" name="Twins" market="Minnesota" league="AL" division="C" venue="302f8dcd-eed6-4b83-8609-81548d51e955"/>
+  <team id="4f735188-37c8-473d-ae32-1f7e34ccf892" abbr="LAA" name="Angels" market="Los Angeles" league="AL" division="W" venue="60732da9-ad03-4feb-9a36-aee3e98c7a2b"/>
+  <team id="03556285-bdbb-4576-a06d-42f71f46ddc5" abbr="MIA" name="Marlins" market="Miami" league="NL" division="E" venue="d5a66fb3-ff26-4f36-910c-3df5cedb36b3"/>
+  <team id="29dd9a87-5bcc-4774-80c3-7f50d985068b" abbr="COL" name="Rockies" market="Colorado" league="NL" division="W" venue="85dd5cd6-7324-4b52-a1cc-68f816d0cdce"/>
+  <team id="27a59d3b-ff7c-48ea-b016-4798f560f5e1" abbr="OAK" name="Athletics" market="Oakland" league="AL" division="W" venue="48cbd35a-d932-4a75-beab-067bfbacfc26"/>
+  <team id="93941372-eb4c-4c40-aced-fe3267174393" abbr="BOS" name="Red Sox" market="Boston" league="AL" division="E" venue="b27b0dc5-c2c5-401d-b8b9-a6a2dbc225e5"/>
+  <team id="12079497-e414-450a-8bf2-29f91de646bf" abbr="ATL" name="Braves" market="Atlanta" league="NL" division="E" venue="0c6fc7f2-a2cc-4821-b125-f087f8bfcaa7"/>
+  <team id="dd59d49e-caee-4443-9220-f05d0d9bd1e1" abbr="AL" name="American League" market="AL" league="AL" division="" venue=""/>
+  <team id="d99f919b-1534-4516-8e8a-9cd106c6d8cd" abbr="TEX" name="Rangers" market="Texas" league="AL" division="W" venue="3f47c1c6-b059-4fa2-9d85-5d37b7000992"/>
+  <team id="a09ec676-f887-43dc-bbb3-cf4bbaee9a18" abbr="NYY" name="Yankees" market="New York" league="AL" division="E" venue="706e9828-6687-4ac8-a409-3fb972e8bae9"/>
+  <team id="eb21dadd-8f10-4095-8bf3-dfb3b779f107" abbr="HOU" name="Astros" market="Houston" league="AL" division="W" venue="f0600f04-1386-4c61-a412-804960c46cb1"/>
+  <team id="44671792-dc02-4fdd-a5ad-f5f17edaa9d7" abbr="STL" name="Cardinals" market="St. Louis" league="NL" division="C" venue="83cc591a-1096-4383-a6ca-e2bd6f8db629"/>
+  <team id="dcfd5266-00ce-442c-bc09-264cd20cf455" abbr="MIL" name="Brewers" market="Milwaukee" league="NL" division="C" venue="3d13c8a7-283f-482b-ade1-441e25b6465d"/>
+  <team id="d52d5339-cbdd-43f3-9dfa-a42fd588b9a3" abbr="SD" name="Padres" market="San Diego" league="NL" division="W" venue="0ab45d79-5475-4308-9f94-74b0c185ee6f"/>
+  <team id="be065035-b9d7-4533-8114-2c694b87bc37" abbr="MINOR" name="Minor League" market="" league="" division="" venue=""/>
+  <team id="d89bed32-3aee-4407-99e3-4103641b999a" abbr="WSH" name="Nationals" market="Washington" league="NL" division="E" venue="bb062fb1-e268-412e-b3d2-2ddb6acc1822"/>
+</teams>
+<!-- 2013-05-09T17:20:19-05:00 -->

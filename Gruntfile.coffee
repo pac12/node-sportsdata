@@ -19,6 +19,13 @@ module.exports = (grunt)->
             src: ['**/*.js']
             dest: 'out/'
         ]
+      testReplies:
+        files: [
+            expand: true
+            cwd: 'src/test/'
+            src: ['**/*.txt']
+            dest: 'out/test/'
+        ]
     coffeelint:
       gruntfile:
         src: 'Gruntfile.coffee'
