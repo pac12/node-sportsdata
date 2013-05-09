@@ -58,3 +58,84 @@ describe 'Awesome', ()->
     it 'awesome', ()->
       node_sportsdata.awesome().should.eql('awesome')
 
+describe 'Node SportsData API', ->
+  describe 'v3', ->
+
+    it 'should be an object', ->
+      node_sportsdata.v3.should.be.a('object')
+
+    it 'should have a MLB function', ->
+      node_sportsdata.v3.mlb.should.be.a('function')
+
+    describe '#mlb()', ->
+
+      it 'should return an MLB object', ->
+        node_sportsdata.v3.mlb('api-key').should.be.a('object')
+
+      it 'should throw an error without api key', ->
+        (->
+          node_sportsdata.v3.mlb()
+        ).should.throwError(/You must provide an API Key/)
+
+  describe 'v2', ->
+
+    it 'should be an object', ->
+      node_sportsdata.v2.should.be.a('object')
+
+    it 'should have an NBA function', ->
+      node_sportsdata.v2.nba.should.be.a('function')
+
+    describe '#nba()', ->
+
+      it 'should return an NBA object', ->
+        node_sportsdata.v2.nba('api-key').should.be.a('object')
+
+      it 'should throw an error without api key', ->
+        (->
+          node_sportsdata.v2.nba()
+        ).should.throwError(/You must provide an API Key/)
+
+    it 'should have an NCAAMB function', ->
+      node_sportsdata.v2.ncaamb.should.be.a('function')
+
+    describe '#ncaamb', ->
+
+      it 'should return an NCAAMB object', ->
+        node_sportsdata.v2.ncaamb('api-key').should.be.a('object')
+
+      it 'should return an error without api key', ->
+        (->
+          node_sportsdata.v2.ncaamb()
+        ).should.throwError(/You must provide an API Key/)
+
+  describe 'v1', ->
+
+    it 'should be an object', ->
+      node_sportsdata.v1.should.be.a('object')
+
+    it 'should have an NCAAF function', ->
+      node_sportsdata.v1.ncaaf.should.be.a('function')
+
+    describe '#ncaaf()', ->
+
+      it 'should return an NCAAF object', ->
+        node_sportsdata.v1.ncaaf('api-key').should.be.a('object')
+
+      it 'should throw an error without api key', ->
+        (->
+          node_sportsdata.v1.ncaaf()
+        ).should.throwError(/You must provide an API Key/)
+
+    it 'should have an NFL function', ->
+      node_sportsdata.v1.nfl.should.be.a('function')
+
+    describe '#nfl', ->
+
+      it 'should return an NFL object', ->
+        node_sportsdata.v1.nfl('api-key').should.be.a('object')
+
+      it 'should return an error without api key', ->
+        (->
+          node_sportsdata.v1.nfl()
+        ).should.throwError(/You must provide an API Key/)
+
