@@ -36,7 +36,11 @@
     "grunt-coffeelint": "~0.0.6",
     "grunt-simple-mocha": "~0.4.0",
     "should": "~1.2.2",
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.1",
+    "nock": "~0.18.0"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "xml2js": "~0.2.7"
+  }
 }
