@@ -20,8 +20,8 @@ exports.awesome = ()->
   'awesome'
 
 exports.v3 = {
-  mlb: (apiKey) ->
-    new MLB apiKey
+  mlb: (apiKey, accessLevel) ->
+    new MLB apiKey, accessLevel
 }
 
 exports.v2 = {

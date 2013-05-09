@@ -70,12 +70,17 @@ describe 'Node SportsData API', ->
     describe '#mlb()', ->
 
       it 'should return an MLB object', ->
-        node_sportsdata.v3.mlb('api-key').should.be.a('object')
+        node_sportsdata.v3.mlb('api-key', 't').should.be.a('object')
 
       it 'should throw an error without api key', ->
         (->
           node_sportsdata.v3.mlb()
         ).should.throwError(/You must provide an API Key/)
+
+      it 'should throw an error without access level', ->
+        (->
+          node_sportsdata.v3.mlb('api-key')
+        ).should.throwError(/You must provide an Access Level/)
 
   describe 'v2', ->
 
