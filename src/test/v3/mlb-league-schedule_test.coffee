@@ -36,7 +36,7 @@ describe 'V3 MLB', ->
         should.not.exist result
         done()
 
-    it 'should pass no error and teams as result on 200', (done) ->
+    it 'should pass no error and schedule as result on 200', (done) ->
       mlb.getLeagueSchedule 2013, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
@@ -46,7 +46,7 @@ describe 'V3 MLB', ->
         result.calendars.event[0].season_type.should.match /REG/
         done()
 
-    it 'should pass no error and empty teams as result on 200 and no teams', (done) ->
+    it 'should pass no error and empty schedule as result on 200 and no schedule', (done) ->
       mlb.getLeagueSchedule 2011, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
