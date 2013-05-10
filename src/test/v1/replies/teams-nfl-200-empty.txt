@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league xmlns="http://feed.elasticstats.com/schema/nfl/hierarchy-v1.0.xsd" id="NFL">
+</league>
