@@ -18,8 +18,11 @@ class SportApi
       throw new Error 'You must provide an Access Level'
 
   getTeamsHierarchy: (year, callback) ->
+    if typeof year is 'function'
+      callback = year
+      year = null
     if not year
-      throw new Error 'Year is a required parameter'
+      year = new Date().getFullYear()
 
     this.getResource '/teams/%(year)s', { year: year }, callback
 

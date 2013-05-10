@@ -5,12 +5,14 @@ nock = require 'nock'
 MLB = require '../../lib/v3/mlb.js'
 
 describe 'V3 MLB', ->
+  mlb = new MLB 'api-key', 't'
+
   describe '#getTeamsHierarchy()', ->
     scope = undefined
-    mlb = new MLB 'api-key', 't'
-
     before ->
       scope = nock('http://api.sportsdatallc.org')
+        .get("/mlb-t3/teams/#{new Date().getFullYear()}.xml?api_key=api-key")
+        .replyWithFile(200, __dirname + '/replies/teams-200.txt')
         .get('/mlb-t3/teams/2013.xml?api_key=bad-key')
         .replyWithFile(403, __dirname + '/replies/api-key-error.txt')
         .get('/mlb-t3/teams/2013.xml?api_key=api-key')
@@ -21,10 +23,11 @@ describe 'V3 MLB', ->
     it 'should be a function', ->
       mlb.getTeamsHierarchy.should.be.a('function')
 
-    it 'should throw an error without year', ->
-      (->
-        mlb.getTeamsHierarchy()
-      ).should.throwError /Year is a required parameter/
+    it 'should default to current year', (done) ->
+      mlb.getTeamsHierarchy (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        done()
 
     it 'should pass error and no result with bad api key', (done) ->
       badMlb = new MLB 'bad-key', 't'
