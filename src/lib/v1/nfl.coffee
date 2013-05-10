@@ -1,7 +1,10 @@
-class NFL
-  constructor: (@apiKey) ->
-    if (not apiKey)
-      throw new Error 'You must provide an API Key'
+SportApi = require '../sport-api'
+
+class NFL extends SportApi
+  league: 'nfl'
+  version: 1
+
+  getTeamsHierarchy: (callback) ->
+    this.getResource '/teams/hierarchy', {}, callback
 
 module.exports = NFL
-

@@ -34,6 +34,6 @@ exports.v2 = {
 exports.v1 = {
   ncaaf: (apiKey) ->
     new NCAAF apiKey
-  nfl: (apiKey) ->
-    new NFL apiKey
+  nfl: (apiKey, accessLevel) ->
+    new NFL apiKey, accessLevel
 }
