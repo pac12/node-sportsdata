@@ -137,10 +137,15 @@ describe 'Node SportsData API', ->
     describe '#nfl', ->
 
       it 'should return an NFL object', ->
-        node_sportsdata.v1.nfl('api-key').should.be.a('object')
+        node_sportsdata.v1.nfl('api-key', 't').should.be.a('object')
 
       it 'should return an error without api key', ->
         (->
           node_sportsdata.v1.nfl()
         ).should.throwError(/You must provide an API Key/)
+
+      it 'should throw an error without access level', ->
+        (->
+          node_sportsdata.v3.mlb('api-key')
+        ).should.throwError(/You must provide an Access Level/)
 
