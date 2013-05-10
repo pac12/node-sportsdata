@@ -1,27 +1,45 @@
 http = require 'http'
+sprintf = require('sprintf-js').sprintf
 xml2js = require 'xml2js'
 
 class MLB
+  domain: 'api.sportsdatallc.org'
+  league: 'mlb'
+  version: 3
+  parser: new xml2js.Parser {
+    trim: true
+    normalize: true
+    mergeAttrs: true
+    explicitArray: false
+  }
+
   constructor: (@apiKey, @accessLevel) ->
     if not apiKey
       throw new Error 'You must provide an API Key'
     if not accessLevel
       throw new Error 'You must provide an Access Level'
 
-    @parser = new xml2js.Parser {
-      trim: true
-      normalize: true,
-      mergeAttrs: true,
-      explicitArray: false,
-    }
-
   getTeamsHierarchy: (year, callback) ->
     if not year
       throw new Error 'Year is a required parameter'
 
-    @parser.reset()
+    this.getResource '/teams/%(year)s', { year: year }, callback
 
-    req = http.get "http://api.sportsdatallc.org/mlb-#{@accessLevel}3/teams/#{year}.xml?api_key=#{@apiKey}", (res) =>
+  getResource: (pattern, params, callback) ->
+    options = this.getHttpOptions pattern, params
+    this.performHttpGet options, callback
+
+  getHttpOptions: (pattern, params) ->
+    if typeof params is 'undefined'
+      params = {}
+
+    options =
+      hostname: @domain
+      path: "/#{@league}-#{@accessLevel + @version + sprintf(pattern, params) + sprintf('.xml?api_key=%s', @apiKey)}"
+
+  performHttpGet: (options, callback) ->
+    @parser.reset()
+    req = http.get options, (res) =>
       res.setEncoding('utf8')
       data = ''
 
@@ -30,7 +48,7 @@ class MLB
 
       res.on 'end', =>
         if 200 isnt res.statusCode
-          return callback 'Get Teams Hierarchy returned HTTP ' + res.statusCode
+          return callback 'GET returned HTTP ' + res.statusCode
 
         @parser.parseString data, (err, result) ->
           if err
@@ -39,7 +57,7 @@ class MLB
           return callback null, result
 
     req.on 'error', (e) ->
-      console.log 'Got Error: ' + e.message
+      callback 'Could not get ' + options + ': ' + err.message
 
 module.exports = MLB
 

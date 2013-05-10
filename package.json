@@ -41,6 +41,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "xml2js": "~0.2.7"
+    "xml2js": "~0.2.7",
+    "sprintf-js": "0.0.7"
   }
 }
