@@ -24,7 +24,7 @@ class SportApi
     if not year
       year = new Date().getFullYear()
 
-    this.getResource '/schedule/%(year)s', { year: year }, callback
+    this.getResource '/schedule/%(year)s.xml', { year: year }, callback
 
   getTeamsHierarchy: (year, callback) ->
     if typeof year is 'function'
@@ -33,7 +33,7 @@ class SportApi
     if not year
       year = new Date().getFullYear()
 
-    this.getResource '/teams/%(year)s', { year: year }, callback
+    this.getResource '/teams/%(year)s.xml', { year: year }, callback
 
   getResource: (pattern, params, callback) ->
     options = this.getHttpOptions pattern, params
@@ -45,7 +45,7 @@ class SportApi
 
     options =
       hostname: @domain
-      path: "/#{@league}-#{@accessLevel + @version + sprintf(pattern, params) + sprintf('.xml?api_key=%s', @apiKey)}"
+      path: "/#{@league}-#{@accessLevel + @version + sprintf(pattern, params) + sprintf('?api_key=%s', @apiKey)}"
 
   performHttpGet: (options, callback) ->
     @parser.reset()

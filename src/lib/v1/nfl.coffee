@@ -5,6 +5,6 @@ class NFL extends SportApi
   version: 1
 
   getTeamsHierarchy: (callback) ->
-    this.getResource '/teams/hierarchy', {}, callback
+    this.getResource '/teams/hierarchy.xml', {}, callback
 
 module.exports = NFL
