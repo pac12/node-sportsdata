@@ -26,6 +26,9 @@ class SportApi
 
     this.getResource '/schedule/%(year)s.xml', { year: year }, callback
 
+  getRollingThreeDaySchedule: (callback) ->
+    this.getResource '/schedule-3day', {}, callback
+
   getTeamsHierarchy: (year, callback) ->
     if typeof year is 'function'
       callback = year

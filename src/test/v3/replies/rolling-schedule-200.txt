@@ -1,0 +1,407 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<outlook season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" xmlns="http://feed.elasticstats.com/schema/mlb/outlook-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <schedules>
+    <event id="07d6a56b-659c-4789-821c-862a66987094" season_type="REG" status="scheduled" visitor="d99f919b-1534-4516-8e8a-9cd106c6d8cd" home="eb21dadd-8f10-4095-8bf3-dfb3b779f107" venue="f0600f04-1386-4c61-a412-804960c46cb1" tbd="false">
+      <broadcast network="CSN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="cc672f14-6c84-4dde-8beb-90664d467843"/>
+      </visitor>
+      <home>
+        <pitching probable="e9c7033a-f2af-4efc-b4cc-eba4d931bf1f"/>
+      </home>
+    </event>
+    <event id="0c40306a-276f-4ab4-a9b0-05abb35a0ffa" season_type="REG" status="scheduled" visitor="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" home="f246a5e5-afdb-479c-9aaa-c68beeda7af6" venue="265c7d6c-427a-4b8a-8def-392c41954bec" tbd="false">
+      <broadcast network="WPIX" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T17:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="ef6e13f3-c4c7-4233-b098-356f73e50d39"/>
+      </visitor>
+      <home>
+        <pitching probable="b72391ac-fd01-444d-9536-f103a8c1858a"/>
+      </home>
+    </event>
+    <event id="1f8bf105-b74d-4198-bba4-0b53686d7a83" season_type="REG" status="closed" visitor="2142e1ba-3b40-445c-b8bb-f1f8b1054220" home="25507be1-6a68-4267-bd82-e097d94b359b" venue="bf05de0d-7ced-4a19-8e17-2bbd985f8a92" tbd="false">
+      <broadcast network="FS-A" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-10T01:40:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="4e487d9a-1a44-459b-b0bf-69f5d08c28d9" start="4e487d9a-1a44-459b-b0bf-69f5d08c28d9" loss="4e487d9a-1a44-459b-b0bf-69f5d08c28d9"/>
+      </visitor>
+      <home>
+        <pitching probable="0764772b-e8ab-42b3-9ee4-2b61af785e75" start="0764772b-e8ab-42b3-9ee4-2b61af785e75" win="0764772b-e8ab-42b3-9ee4-2b61af785e75" save="dd33d45e-c45a-43bf-bf3b-4f383ef69074"/>
+      </home>
+    </event>
+    <event id="306c84ec-5707-438b-b692-82531fb7adb2" season_type="REG" status="scheduled" visitor="a09ec676-f887-43dc-bbb3-cf4bbaee9a18" home="833a51a9-0d84-410f-bd77-da08c3e5e26e" venue="6fca95c9-7f2c-4acb-a9f3-02ef96340d2a" tbd="false">
+      <broadcast network="FSKC" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="ef86a576-367c-45fb-a9fb-49917ca0a3e6"/>
+      </visitor>
+      <home>
+        <pitching probable="de817242-9745-420a-b278-f47ec9fc7012"/>
+      </home>
+    </event>
+    <event id="44a0c0d2-f62d-4c82-b047-b5db6087fd68" season_type="REG" status="closed" visitor="575c19b7-4052-41c2-9f0a-1c5813d02f99" home="d89bed32-3aee-4407-99e3-4103641b999a" venue="bb062fb1-e268-412e-b3d2-2ddb6acc1822" tbd="false">
+      <broadcast network="MASN 2" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-09T20:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="40fdeb6f-06d1-48e2-9e73-545150c95703" start="40fdeb6f-06d1-48e2-9e73-545150c95703" loss="40fdeb6f-06d1-48e2-9e73-545150c95703"/>
+      </visitor>
+      <home>
+        <pitching probable="c4f314c0-86cb-444d-bf9b-5f30badb7f2c" start="c4f314c0-86cb-444d-bf9b-5f30badb7f2c" win="c4f314c0-86cb-444d-bf9b-5f30badb7f2c" save="75a2283f-a85b-457e-ba67-cf08a3214ddf"/>
+      </home>
+    </event>
+    <event id="45758eca-438c-41f9-aa38-3c5c2a12cdfe" season_type="REG" status="scheduled" visitor="55714da8-fcaf-4574-8443-59bfb511a524" home="d89bed32-3aee-4407-99e3-4103641b999a" venue="bb062fb1-e268-412e-b3d2-2ddb6acc1822" tbd="false">
+      <broadcast network="MASN HD" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-10T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="c8f30e7e-118c-4a16-b899-8ef2cfc75f02"/>
+      </visitor>
+      <home>
+        <pitching probable="2d0e1c28-a11c-49db-a59e-0c00e7b55ae0"/>
+      </home>
+    </event>
+    <event id="53a79146-d425-4138-bef6-c7c73b51b907" season_type="REG" status="scheduled" visitor="27a59d3b-ff7c-48ea-b016-4798f560f5e1" home="43a39081-52b4-4f93-ad29-da7f329ea960" venue="f1c03dac-3c0f-437c-a325-8d5702cd321a" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-12T01:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="15e86ea6-6659-42ce-a0d9-9f923b8e9d85"/>
+      </visitor>
+      <home>
+        <pitching probable="f250a01d-2386-4ab8-b856-c84467ef8d95"/>
+      </home>
+    </event>
+    <event id="55b63787-89ce-4515-8338-a9f46e7f7ff5" season_type="REG" status="scheduled" visitor="75729d34-bca7-4a0f-b3df-6f26c6ad3719" home="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" venue="302f8dcd-eed6-4b83-8609-81548d51e955" tbd="false">
+      <broadcast network="FS-N" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="ab92d3cd-71a4-4840-b58a-308d4021ed86"/>
+      </visitor>
+      <home>
+        <pitching probable="cfea261e-b8d0-4ac5-bacc-19ce63c0fe79"/>
+      </home>
+    </event>
+    <event id="5f02065c-1d82-4fe0-9da8-c49308c4f164" season_type="REG" status="scheduled" visitor="dcfd5266-00ce-442c-bc09-264cd20cf455" home="c874a065-c115-4e7d-b0f0-235584fb0e6f" venue="f102d8fb-de67-4b86-9053-8b55f578d45c" tbd="false">
+      <broadcast network="FS-O" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T20:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="15b60409-d19c-4262-8398-403251200aa9"/>
+      </visitor>
+      <home>
+        <pitching probable="0117d05d-0fbb-4df8-9f16-d068c1cc8b32"/>
+      </home>
+    </event>
+    <event id="620853b9-c4ec-4354-848f-d60fcaa7e2b7" season_type="REG" status="scheduled" visitor="03556285-bdbb-4576-a06d-42f71f46ddc5" home="ef64da7f-cfaf-4300-87b0-9313386b977c" venue="66a19c3d-24fe-477d-bee7-c6ef1b98352f" tbd="false">
+      <broadcast network="PRIME ALTERNATE" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T02:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="29e9830d-b31a-4246-998c-6ca6f5a73ee8"/>
+      </visitor>
+      <home>
+        <pitching probable="1d6e5679-5969-40de-a3af-80dde8332140"/>
+      </home>
+    </event>
+    <event id="6247a11b-f5ba-4cf9-aca7-16be80dc2f5d" season_type="REG" status="scheduled" visitor="03556285-bdbb-4576-a06d-42f71f46ddc5" home="ef64da7f-cfaf-4300-87b0-9313386b977c" venue="66a19c3d-24fe-477d-bee7-c6ef1b98352f" tbd="false">
+      <broadcast network="PRIME" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-12T01:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="03e1fd45-2e6c-4a9e-aa5d-16cf36253372"/>
+      </visitor>
+      <home>
+        <pitching probable="01d71849-6f8e-4394-ae98-155bd61c68e8"/>
+      </home>
+    </event>
+    <event id="68be11f9-ccf6-4d57-a7d0-0f9fda126327" season_type="REG" status="scheduled" visitor="29dd9a87-5bcc-4774-80c3-7f50d985068b" home="44671792-dc02-4fdd-a5ad-f5f17edaa9d7" venue="83cc591a-1096-4383-a6ca-e2bd6f8db629" tbd="false">
+      <broadcast network="FS-M" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T00:15:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="eddc5866-4854-46dc-8ea3-a4d9475f55f7"/>
+      </visitor>
+      <home>
+        <pitching probable="f83736c4-6587-438f-af93-bb880f0763c5"/>
+      </home>
+    </event>
+    <event id="7125e020-c205-43ef-9ea5-641e25ed7020" season_type="REG" status="closed" visitor="4f735188-37c8-473d-ae32-1f7e34ccf892" home="eb21dadd-8f10-4095-8bf3-dfb3b779f107" venue="f0600f04-1386-4c61-a412-804960c46cb1" tbd="false">
+      <broadcast network="CSN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-10T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="2d60f0d5-dacb-40dd-b9a2-adb7716b40e2" start="2d60f0d5-dacb-40dd-b9a2-adb7716b40e2" win="be749bfe-5f67-4761-80e0-acb06fc78d73" save="3338e84f-7a49-4781-b99e-48e52aab6fea"/>
+      </visitor>
+      <home>
+        <pitching probable="e2806637-018b-42a3-8d4e-c86ce4f8baff" start="e2806637-018b-42a3-8d4e-c86ce4f8baff" loss="14bc0e8d-6024-498a-8952-9fc381f1e128"/>
+      </home>
+    </event>
+    <event id="713d24fa-e94a-421a-aa2c-fbb5051ecc98" season_type="REG" status="scheduled" visitor="d52d5339-cbdd-43f3-9dfa-a42fd588b9a3" home="bdc11650-6f74-49c4-875e-778aeb7632d9" venue="3aaaf4af-0f8c-49c1-8bf1-1780bb5a5f5c" tbd="false">
+      <broadcast network="Sun Sports" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T22:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="5572a539-360c-4779-aa68-68bcbc7ae922"/>
+      </visitor>
+      <home>
+        <pitching probable="09bb7528-d8a1-4d91-b28e-53a35ce3f678"/>
+      </home>
+    </event>
+    <event id="73ba8f37-1c9c-42ca-89ec-cbebba28994c" season_type="REG" status="scheduled" visitor="d52d5339-cbdd-43f3-9dfa-a42fd588b9a3" home="bdc11650-6f74-49c4-875e-778aeb7632d9" venue="3aaaf4af-0f8c-49c1-8bf1-1780bb5a5f5c" tbd="false">
+      <broadcast network="Sun Sports" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-10T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="ffac4f57-30d8-44f7-888f-80188a62b99d"/>
+      </visitor>
+      <home>
+        <pitching probable="d2c5e643-fe5d-4ece-8f1e-560d6b2048ed"/>
+      </home>
+    </event>
+    <event id="7952617a-420b-45cf-a93f-3dcb0e16f32c" season_type="REG" status="scheduled" visitor="29dd9a87-5bcc-4774-80c3-7f50d985068b" home="44671792-dc02-4fdd-a5ad-f5f17edaa9d7" venue="83cc591a-1096-4383-a6ca-e2bd6f8db629" tbd="false">
+      <broadcast network="FS-M" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T18:15:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="0dbcd440-68fd-4e69-af97-8a7076f21eaf"/>
+      </visitor>
+      <home>
+        <pitching probable="c399c961-1b45-430c-858e-f0a33ae0af85"/>
+      </home>
+    </event>
+    <event id="7a2d0ed4-03ac-45b3-adbe-721e03650473" season_type="REG" status="closed" visitor="1d678440-b4b1-4954-9b39-70afb3ebbcfa" home="bdc11650-6f74-49c4-875e-778aeb7632d9" venue="3aaaf4af-0f8c-49c1-8bf1-1780bb5a5f5c" tbd="false">
+      <broadcast network="Sun Sports" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-09T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="9fb18838-6ac8-43b6-bbdd-69f9f8a983ac" start="9fb18838-6ac8-43b6-bbdd-69f9f8a983ac" loss="454b4642-c1ad-4b8e-8728-0d8bb03051be"/>
+      </visitor>
+      <home>
+        <pitching probable="875b903a-aabd-424e-b70e-1aa46a7334bc" start="875b903a-aabd-424e-b70e-1aa46a7334bc" win="0a717623-e1fb-41a1-8842-76d71bc3286d"/>
+      </home>
+    </event>
+    <event id="7f69d1e0-7c65-4b82-9d0f-9cc255da90fa" season_type="REG" status="closed" visitor="a09ec676-f887-43dc-bbb3-cf4bbaee9a18" home="29dd9a87-5bcc-4774-80c3-7f50d985068b" venue="85dd5cd6-7324-4b52-a1cc-68f816d0cdce" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-09T19:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="34c78a46-c798-4545-a05c-f9b693635e9b" start="34c78a46-c798-4545-a05c-f9b693635e9b" win="6ea9ca2c-55ff-407d-99ef-8f3e741af0a7" save="30ca4c6f-144b-4e5c-807a-bac1d6509db7"/>
+      </visitor>
+      <home>
+        <pitching probable="24b6f004-b276-4537-97ea-0edcfcd08721" start="24b6f004-b276-4537-97ea-0edcfcd08721" loss="24b6f004-b276-4537-97ea-0edcfcd08721"/>
+      </home>
+    </event>
+    <event id="81922c59-05ed-4b8f-a541-fe875cb36172" season_type="REG" status="scheduled" visitor="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" home="f246a5e5-afdb-479c-9aaa-c68beeda7af6" venue="265c7d6c-427a-4b8a-8def-392c41954bec" tbd="false">
+      <broadcast network="SNY" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-10T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="7ed5c01f-5309-4d40-b56b-b1b35f76632a"/>
+      </visitor>
+      <home>
+        <pitching probable="792a2e07-49cb-4ad0-a1bc-a901ca6a7cf8"/>
+      </home>
+    </event>
+    <event id="831c7296-e0d7-4568-93df-d33c09491719" season_type="REG" status="closed" visitor="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" home="93941372-eb4c-4c40-aced-fe3267174393" venue="b27b0dc5-c2c5-401d-b8b9-a6a2dbc225e5" tbd="false">
+      <broadcast network="" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-09T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="61593da6-408b-4777-b404-c283e5d3bb00" start="61593da6-408b-4777-b404-c283e5d3bb00" win="61593da6-408b-4777-b404-c283e5d3bb00" save="c182d4ce-7604-47b4-8477-a6392ec357ec"/>
+      </visitor>
+      <home>
+        <pitching probable="bd95385d-827f-444c-bdc5-659b88a6a1af" start="bd95385d-827f-444c-bdc5-659b88a6a1af" loss="bd95385d-827f-444c-bdc5-659b88a6a1af"/>
+      </home>
+    </event>
+    <event id="87047258-021a-484b-942d-d73b85a57a4a" season_type="REG" status="scheduled" visitor="80715d0d-0d2a-450f-a970-1b9a3b18c7e7" home="575c19b7-4052-41c2-9f0a-1c5813d02f99" venue="ef9a5eef-06c6-4963-ac70-7fd02c8c8d42" tbd="false">
+      <broadcast network="FS-D+" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-10T23:08:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="48982279-0e43-4d94-95fb-fd5e623b54b6"/>
+      </visitor>
+      <home>
+        <pitching probable="2527770b-cf48-42b9-81fa-9323756fb311"/>
+      </home>
+    </event>
+    <event id="8d309359-52c1-475f-95c4-560ecf7bd730" season_type="REG" status="scheduled" visitor="4f735188-37c8-473d-ae32-1f7e34ccf892" home="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8" venue="4a550fc1-c03d-4294-b63a-30ff197bedc4" tbd="false">
+      <broadcast network="CSN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="be7d9371-bdaa-405c-bbf3-255493511842"/>
+      </visitor>
+      <home>
+        <pitching probable="97033dc6-7b8c-4afb-ac7f-a36a4d1fb25a"/>
+      </home>
+    </event>
+    <event id="909fd9fe-b212-445e-b959-3fc87602adf4" season_type="REG" status="scheduled" visitor="75729d34-bca7-4a0f-b3df-6f26c6ad3719" home="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" venue="302f8dcd-eed6-4b83-8609-81548d51e955" tbd="false">
+      <broadcast network="FS-N" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="8fe2b36b-2183-4c8f-a492-ac6ec0bd86a1"/>
+      </visitor>
+      <home>
+        <pitching probable="85f71381-e86e-471e-a344-182ec1f6a76b"/>
+      </home>
+    </event>
+    <event id="9491e180-fe5d-4377-9c31-9f3c948d9739" season_type="REG" status="scheduled" visitor="4f735188-37c8-473d-ae32-1f7e34ccf892" home="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8" venue="4a550fc1-c03d-4294-b63a-30ff197bedc4" tbd="false">
+      <broadcast network="WGN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="801092a2-012f-45c4-9b8d-6743472271f3"/>
+      </visitor>
+      <home>
+        <pitching probable="b1e3b804-0022-40bc-8f53-8c82ee4eb1b9"/>
+      </home>
+    </event>
+    <event id="a4f80cee-5b75-4951-9997-9ee6e53abd7b" season_type="REG" status="scheduled" visitor="2142e1ba-3b40-445c-b8bb-f1f8b1054220" home="25507be1-6a68-4267-bd82-e097d94b359b" venue="bf05de0d-7ced-4a19-8e17-2bbd985f8a92" tbd="false">
+      <broadcast network="FS-A" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T01:40:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="a0c83903-6d3f-414e-8bde-c90555453d4d"/>
+      </visitor>
+      <home>
+        <pitching probable="d9ed48ab-6740-411c-84b2-be4cc75b83c5"/>
+      </home>
+    </event>
+    <event id="a899ddd4-6481-4347-b1db-7dd33ae40081" season_type="REG" status="scheduled" visitor="2142e1ba-3b40-445c-b8bb-f1f8b1054220" home="25507be1-6a68-4267-bd82-e097d94b359b" venue="bf05de0d-7ced-4a19-8e17-2bbd985f8a92" tbd="false">
+      <broadcast network="FS-A" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-12T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="eb396b37-7b6e-485f-8b1f-f7d675229548"/>
+      </visitor>
+      <home>
+        <pitching probable="d41234eb-9f4c-4393-ab86-44ca0b5bc1f5"/>
+      </home>
+    </event>
+    <event id="aefe1dd4-75ee-44e8-90aa-ee30289bb9e7" season_type="REG" status="scheduled" visitor="dcfd5266-00ce-442c-bc09-264cd20cf455" home="c874a065-c115-4e7d-b0f0-235584fb0e6f" venue="f102d8fb-de67-4b86-9053-8b55f578d45c" tbd="false">
+      <broadcast network="FS-O" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-10T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="90fb6719-5135-42f3-88c0-0ccde448368c"/>
+      </visitor>
+      <home>
+        <pitching probable="9a6712d0-0b34-4313-9e27-645d5f703538"/>
+      </home>
+    </event>
+    <event id="b5a10351-ba90-41f1-8260-9986540f1b70" season_type="REG" status="closed" visitor="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" home="f246a5e5-afdb-479c-9aaa-c68beeda7af6" venue="265c7d6c-427a-4b8a-8def-392c41954bec" tbd="false">
+      <broadcast network="SNY" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-09T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="85690701-2b69-4d00-936d-1eed143d418f" start="85690701-2b69-4d00-936d-1eed143d418f" loss="ece2f891-e92e-4825-9c40-8650a6b2af09"/>
+      </visitor>
+      <home>
+        <pitching probable="c5b20b29-9b09-474f-863e-b96eb955f5c9" start="c5b20b29-9b09-474f-863e-b96eb955f5c9" win="45f1e923-20c1-4cad-bdf4-e82092d14709"/>
+      </home>
+    </event>
+    <event id="b9caaa5e-c218-4f1f-b316-a50d34ec678b" season_type="REG" status="scheduled" visitor="a09ec676-f887-43dc-bbb3-cf4bbaee9a18" home="833a51a9-0d84-410f-bd77-da08c3e5e26e" venue="6fca95c9-7f2c-4acb-a9f3-02ef96340d2a" tbd="false">
+      <broadcast network="FSKC" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="066fd376-96cb-4504-b531-138d8082a436"/>
+      </visitor>
+      <home>
+        <pitching probable="ae9e0be2-30f9-4dab-ac78-f592f5a50f31"/>
+      </home>
+    </event>
+    <event id="bd5adf5f-a1b3-4816-b47c-9a90ff927641" season_type="REG" status="scheduled" visitor="80715d0d-0d2a-450f-a970-1b9a3b18c7e7" home="575c19b7-4052-41c2-9f0a-1c5813d02f99" venue="ef9a5eef-06c6-4963-ac70-7fd02c8c8d42" tbd="false">
+      <broadcast network="FS-D" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T23:08:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="c8b89470-a344-46f4-b0e4-e73fdb964a37"/>
+      </visitor>
+      <home>
+        <pitching probable="2fe6cb9b-c41e-4ee2-9b22-f8b27bf6c5be"/>
+      </home>
+    </event>
+    <event id="bd8b75a6-0636-4a29-93a2-e190582d1787" season_type="REG" status="scheduled" visitor="1d678440-b4b1-4954-9b39-70afb3ebbcfa" home="93941372-eb4c-4c40-aced-fe3267174393" venue="b27b0dc5-c2c5-401d-b8b9-a6a2dbc225e5" tbd="false">
+      <broadcast network="" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-10T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="365210de-b306-4bec-ab89-6dfab8d45752"/>
+      </visitor>
+      <home>
+        <pitching probable="46734ad0-e55b-4e2f-8a0d-72387470fcdf"/>
+      </home>
+    </event>
+    <event id="c8457f5d-d8ed-4949-8c92-b341e5b37fa4" season_type="REG" status="scheduled" visitor="12079497-e414-450a-8bf2-29f91de646bf" home="a7723160-10b7-4277-a309-d8dd95a8ae65" venue="2d7542f5-7b80-49f7-9b24-c53ffdc75af6" tbd="false">
+      <broadcast network="CSN-BA" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T20:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="42ab85a9-d914-426e-b5d0-af6d8a1734d7"/>
+      </visitor>
+      <home>
+        <pitching probable="f05364d7-024b-4699-b947-c8bb42c968bc"/>
+      </home>
+    </event>
+    <event id="e69607b6-8df9-4175-a30d-872d7a9eebf4" season_type="REG" status="scheduled" visitor="27a59d3b-ff7c-48ea-b016-4798f560f5e1" home="43a39081-52b4-4f93-ad29-da7f329ea960" venue="f1c03dac-3c0f-437c-a325-8d5702cd321a" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T02:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="e0d2b0e4-3bc1-4a12-b8ca-9bbac33ea3a1"/>
+      </visitor>
+      <home>
+        <pitching probable="cb40edda-8fa3-4813-888f-0f543f6efeaf"/>
+      </home>
+    </event>
+    <event id="e8e7f3f3-7964-4594-b814-58444a7515fb" season_type="REG" status="scheduled" visitor="55714da8-fcaf-4574-8443-59bfb511a524" home="d89bed32-3aee-4407-99e3-4103641b999a" venue="bb062fb1-e268-412e-b3d2-2ddb6acc1822" tbd="false">
+      <broadcast network="MASN HD" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T20:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="37bde4c1-9b16-417b-bd86-92e88afd0dae"/>
+      </visitor>
+      <home>
+        <pitching probable="8df4f3bd-61f2-4fbf-8266-80ba7e15dc2d"/>
+      </home>
+    </event>
+    <event id="e9105fa4-e466-475e-8910-474f9d590e4f" season_type="REG" status="scheduled" visitor="1d678440-b4b1-4954-9b39-70afb3ebbcfa" home="93941372-eb4c-4c40-aced-fe3267174393" venue="b27b0dc5-c2c5-401d-b8b9-a6a2dbc225e5" tbd="false">
+      <broadcast network="" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T17:35:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="2aee445d-7116-4616-bcfd-1a8931da5a06"/>
+      </visitor>
+      <home>
+        <pitching probable="17f41dd6-d2e9-41cf-83f3-7e6cd07f3171"/>
+      </home>
+    </event>
+    <event id="eaaee4a4-093d-4877-b049-cf3602bcc400" season_type="REG" status="closed" visitor="833a51a9-0d84-410f-bd77-da08c3e5e26e" home="75729d34-bca7-4a0f-b3df-6f26c6ad3719" venue="434aa63c-1049-4a54-a6bc-3790c7772ee1" tbd="false">
+      <broadcast network="MASN HD" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-09T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="cc47e6ef-f625-4028-ab8d-cff2d408d4ae" start="cc47e6ef-f625-4028-ab8d-cff2d408d4ae" win="cc47e6ef-f625-4028-ab8d-cff2d408d4ae"/>
+      </visitor>
+      <home>
+        <pitching probable="a490513e-afdc-413f-8c84-9f8bb692a540" start="a490513e-afdc-413f-8c84-9f8bb692a540" loss="a490513e-afdc-413f-8c84-9f8bb692a540"/>
+      </home>
+    </event>
+    <event id="f0ac4d78-faf4-4c60-86b4-a3ad07dd0d17" season_type="REG" status="scheduled" visitor="12079497-e414-450a-8bf2-29f91de646bf" home="a7723160-10b7-4277-a309-d8dd95a8ae65" venue="2d7542f5-7b80-49f7-9b24-c53ffdc75af6" tbd="false">
+      <broadcast network="CSN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T02:15:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="cf179c8b-99d4-4d0b-9cb3-d0ed00e6efc2"/>
+      </visitor>
+      <home>
+        <pitching probable="a9dfa1f9-c5d3-449a-8c40-52f646efb498"/>
+      </home>
+    </event>
+    <event id="f4aa8eae-bbca-421a-8549-b94379d36360" season_type="REG" status="closed" visitor="12079497-e414-450a-8bf2-29f91de646bf" home="a7723160-10b7-4277-a309-d8dd95a8ae65" venue="2d7542f5-7b80-49f7-9b24-c53ffdc75af6" tbd="false">
+      <broadcast network="CSN-BA" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-10T02:15:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="57943e75-0e1c-4b96-8ded-479db4a6351c" start="57943e75-0e1c-4b96-8ded-479db4a6351c" win="57943e75-0e1c-4b96-8ded-479db4a6351c" save="c4a8a308-1517-4c0e-a8af-f8cd824525cc"/>
+      </visitor>
+      <home>
+        <pitching probable="ad484ec7-057c-48ea-8f1b-55aa0abdbb83" start="ad484ec7-057c-48ea-8f1b-55aa0abdbb83" loss="ad484ec7-057c-48ea-8f1b-55aa0abdbb83"/>
+      </home>
+    </event>
+    <event id="fc15b46b-43bb-420c-b672-2d7260af95ef" season_type="REG" status="closed" visitor="27a59d3b-ff7c-48ea-b016-4798f560f5e1" home="80715d0d-0d2a-450f-a970-1b9a3b18c7e7" venue="2b0ccd49-4d87-4996-ac4d-27ffc7ee4c16" tbd="false">
+      <broadcast network="SportsTime Ohio" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-09T16:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="1e4a62ff-7ae0-40b5-8f56-7c4a6d40a705" start="1e4a62ff-7ae0-40b5-8f56-7c4a6d40a705" loss="1e4a62ff-7ae0-40b5-8f56-7c4a6d40a705"/>
+      </visitor>
+      <home>
+        <pitching probable="421311da-1096-454a-b98e-bf47070d1b8f" start="421311da-1096-454a-b98e-bf47070d1b8f" win="421311da-1096-454a-b98e-bf47070d1b8f"/>
+      </home>
+    </event>
+    <event id="fd4208c1-4cff-4be4-9bfb-b88a92d1fcb4" season_type="REG" status="scheduled" visitor="d99f919b-1534-4516-8e8a-9cd106c6d8cd" home="eb21dadd-8f10-4095-8bf3-dfb3b779f107" venue="f0600f04-1386-4c61-a412-804960c46cb1" tbd="false">
+      <broadcast network="CSN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-05-11T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="6e1f5294-7f2a-4c1c-b2e5-0fedbc10c505"/>
+      </visitor>
+      <home>
+        <pitching probable="77bb98d3-51ff-40c4-89cb-219ff98496f5"/>
+      </home>
+    </event>
+  </schedules>
+</outlook>
+<!-- 2013-05-10T18:00:03-05:00 -->
