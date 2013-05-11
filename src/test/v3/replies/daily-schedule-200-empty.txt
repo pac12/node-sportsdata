@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendars season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" xmlns="http://feed.elasticstats.com/schema/mlb/schedule-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+</calendars>
+<!-- 2013-05-11T19:31:09-05:00 -->

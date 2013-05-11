@@ -1,0 +1,65 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<calendars season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" xmlns="http://feed.elasticstats.com/schema/mlb/schedule-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <event id="07d6a56b-659c-4789-821c-862a66987094" season_type="REG" status="inprogress" visitor="d99f919b-1534-4516-8e8a-9cd106c6d8cd" home="eb21dadd-8f10-4095-8bf3-dfb3b779f107" venue="f0600f04-1386-4c61-a412-804960c46cb1" tbd="false">
+    <broadcast network="CSN" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T23:10:00Z</scheduled_start>
+  </event>
+  <event id="0c40306a-276f-4ab4-a9b0-05abb35a0ffa" season_type="REG" status="closed" visitor="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" home="f246a5e5-afdb-479c-9aaa-c68beeda7af6" venue="265c7d6c-427a-4b8a-8def-392c41954bec" tbd="false">
+    <broadcast network="WPIX" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T17:10:00Z</scheduled_start>
+  </event>
+  <event id="306c84ec-5707-438b-b692-82531fb7adb2" season_type="REG" status="inprogress" visitor="a09ec676-f887-43dc-bbb3-cf4bbaee9a18" home="833a51a9-0d84-410f-bd77-da08c3e5e26e" venue="6fca95c9-7f2c-4acb-a9f3-02ef96340d2a" tbd="false">
+    <broadcast network="FSKC" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T23:10:00Z</scheduled_start>
+  </event>
+  <event id="53a79146-d425-4138-bef6-c7c73b51b907" season_type="REG" status="scheduled" visitor="27a59d3b-ff7c-48ea-b016-4798f560f5e1" home="43a39081-52b4-4f93-ad29-da7f329ea960" venue="f1c03dac-3c0f-437c-a325-8d5702cd321a" tbd="false">
+    <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-12T01:10:00Z</scheduled_start>
+  </event>
+  <event id="55b63787-89ce-4515-8338-a9f46e7f7ff5" season_type="REG" status="inprogress" visitor="75729d34-bca7-4a0f-b3df-6f26c6ad3719" home="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" venue="302f8dcd-eed6-4b83-8609-81548d51e955" tbd="false">
+    <broadcast network="FS-N" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T23:10:00Z</scheduled_start>
+  </event>
+  <event id="5f02065c-1d82-4fe0-9da8-c49308c4f164" season_type="REG" status="inprogress" visitor="dcfd5266-00ce-442c-bc09-264cd20cf455" home="c874a065-c115-4e7d-b0f0-235584fb0e6f" venue="f102d8fb-de67-4b86-9053-8b55f578d45c" tbd="false">
+    <broadcast network="FS-O" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T20:10:00Z</scheduled_start>
+  </event>
+  <event id="6247a11b-f5ba-4cf9-aca7-16be80dc2f5d" season_type="REG" status="scheduled" visitor="03556285-bdbb-4576-a06d-42f71f46ddc5" home="ef64da7f-cfaf-4300-87b0-9313386b977c" venue="66a19c3d-24fe-477d-bee7-c6ef1b98352f" tbd="false">
+    <broadcast network="PRIME" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-12T01:10:00Z</scheduled_start>
+  </event>
+  <event id="713d24fa-e94a-421a-aa2c-fbb5051ecc98" season_type="REG" status="inprogress" visitor="d52d5339-cbdd-43f3-9dfa-a42fd588b9a3" home="bdc11650-6f74-49c4-875e-778aeb7632d9" venue="3aaaf4af-0f8c-49c1-8bf1-1780bb5a5f5c" tbd="false">
+    <broadcast network="Sun Sports" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T22:10:00Z</scheduled_start>
+  </event>
+  <event id="7952617a-420b-45cf-a93f-3dcb0e16f32c" season_type="REG" status="closed" visitor="29dd9a87-5bcc-4774-80c3-7f50d985068b" home="44671792-dc02-4fdd-a5ad-f5f17edaa9d7" venue="83cc591a-1096-4383-a6ca-e2bd6f8db629" tbd="false">
+    <broadcast network="FS-M" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T18:15:00Z</scheduled_start>
+  </event>
+  <event id="9491e180-fe5d-4377-9c31-9f3c948d9739" season_type="REG" status="inprogress" visitor="4f735188-37c8-473d-ae32-1f7e34ccf892" home="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8" venue="4a550fc1-c03d-4294-b63a-30ff197bedc4" tbd="false">
+    <broadcast network="WGN" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T23:10:00Z</scheduled_start>
+  </event>
+  <event id="a899ddd4-6481-4347-b1db-7dd33ae40081" season_type="REG" status="scheduled" visitor="2142e1ba-3b40-445c-b8bb-f1f8b1054220" home="25507be1-6a68-4267-bd82-e097d94b359b" venue="bf05de0d-7ced-4a19-8e17-2bbd985f8a92" tbd="false">
+    <broadcast network="FS-A" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-12T00:10:00Z</scheduled_start>
+  </event>
+  <event id="bd5adf5f-a1b3-4816-b47c-9a90ff927641" season_type="REG" status="inprogress" visitor="80715d0d-0d2a-450f-a970-1b9a3b18c7e7" home="575c19b7-4052-41c2-9f0a-1c5813d02f99" venue="ef9a5eef-06c6-4963-ac70-7fd02c8c8d42" tbd="false">
+    <broadcast network="FS-D" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T23:08:00Z</scheduled_start>
+  </event>
+  <event id="c8457f5d-d8ed-4949-8c92-b341e5b37fa4" season_type="REG" status="closed" visitor="12079497-e414-450a-8bf2-29f91de646bf" home="a7723160-10b7-4277-a309-d8dd95a8ae65" venue="2d7542f5-7b80-49f7-9b24-c53ffdc75af6" tbd="false">
+    <broadcast network="CSN-BA" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T20:05:00Z</scheduled_start>
+  </event>
+  <event id="e8e7f3f3-7964-4594-b814-58444a7515fb" season_type="REG" status="closed" visitor="55714da8-fcaf-4574-8443-59bfb511a524" home="d89bed32-3aee-4407-99e3-4103641b999a" venue="bb062fb1-e268-412e-b3d2-2ddb6acc1822" tbd="false">
+    <broadcast network="MASN HD" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T20:05:00Z</scheduled_start>
+  </event>
+  <event id="e9105fa4-e466-475e-8910-474f9d590e4f" season_type="REG" status="closed" visitor="1d678440-b4b1-4954-9b39-70afb3ebbcfa" home="93941372-eb4c-4c40-aced-fe3267174393" venue="b27b0dc5-c2c5-401d-b8b9-a6a2dbc225e5" tbd="false">
+    <broadcast network="" satellite="" internet="" cable=""/>
+    <scheduled_start>2013-05-11T17:35:00Z</scheduled_start>
+  </event>
+</calendars>
+<!-- 2013-05-11T18:20:02-05:00 -->
