@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns="http://feed.elasticstats.com/schema/mlb/daily-game-events-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+</events>
+<!-- 2013-05-11T20:03:44-05:00 -->

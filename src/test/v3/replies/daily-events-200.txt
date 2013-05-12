@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns="http://feed.elasticstats.com/schema/mlb/daily-game-events-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <event id="07d6a56b-659c-4789-821c-862a66987094" season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" season_type="REG" status="inprogress" attendance="" day_night="N" game_number="1">
+    <scheduled_start_time>2013-05-11T23:10:00Z</scheduled_start_time>
+    <venue id="f0600f04-1386-4c61-a412-804960c46cb1"/>
+    <broadcast network="CSN" satellite="" internet="" cable=""/>
+    <visitor id="d99f919b-1534-4516-8e8a-9cd106c6d8cd" abbr="TEX" name="Rangers" market="Texas" probable_pitcher="cc672f14-6c84-4dde-8beb-90664d467843" starting_pitcher="cc672f14-6c84-4dde-8beb-90664d467843"/>
+    <home id="eb21dadd-8f10-4095-8bf3-dfb3b779f107" abbr="HOU" name="Astros" market="Houston" probable_pitcher="e9c7033a-f2af-4efc-b4cc-eba4d931bf1f" starting_pitcher="e9c7033a-f2af-4efc-b4cc-eba4d931bf1f"/>
+    <game>
+      <visitor id="d99f919b-1534-4516-8e8a-9cd106c6d8cd">
+        <roster>
+          <player id="5aa0effe-3eea-4f1d-b4e2-d2d65069cc90" first="Adrian" last="Beltre" status="A"/>
+          <player id="7267e527-1ca0-4a94-b5a6-032e4769df48" first="Robert" last="Ross" status="A"/>
+          <player id="8189ef68-447c-4573-94d5-8d690abbcfbf" first="Ian" last="Kinsler" status="A"/>
+          <player id="6e1f5294-7f2a-4c1c-b2e5-0fedbc10c505" first="Alexi" last="Ogando" status="A"/>
+          <player id="a4f08027-ddc7-4e2d-ac69-9fc4f1c67bfd" first="Mitchell" last="Moreland" status="A"/>
+          <player id="30a79f09-73b8-4af6-bff6-9d7d01578d11" first="Derek" last="Lowe" status="A"/>
+          <player id="85d6d865-97c4-427b-8f4f-eb6dad286e57" first="Elvis" last="Andrus" status="A"/>
+          <player id="c836f1f9-9e80-4615-aab9-d20538014c32" first="Joseph" last="Nathan" status="A"/>
+          <player id="bbf735b4-af04-4ad8-b3e0-ea02dae770c4" first="Derek" last="Holland" status="A"/>
+          <player id="84a4501e-c2a1-4754-bf20-85f593579bf1" first="Nicholas" last="Tepesch" status="A"/>
+          <player id="d1557689-fc42-402f-840b-b6033153fdda" first="Leury" last="Garcia" status="A"/>
+          <player id="3a82a712-bafd-474d-8556-23eb0c5ad649" first="David" last="Murphy" status="A"/>
+          <player id="4058b5fd-a238-435c-832e-1e1c1233061f" first="William" last="Berkman" status="A"/>
+          <player id="01eaff59-9b34-47fd-af64-54b2e6f22628" first="Nelson" last="Cruz" status="A"/>
+          <player id="b5b04988-d88f-4689-a1ed-8642c1391834" first="Justin" last="Grimm" status="A"/>
+          <player id="e0e91188-50be-47f7-9bd1-0dbcf1e6605d" first="Joseph" last="Ortiz" status="A"/>
+          <player id="3ee81377-4e48-4d45-9e32-fb2867c63e7d" first="Craig" last="Gentry" status="A"/>
+          <player id="c1a52191-d693-40be-82a0-a4718b5a349f" first="Geovany" last="Soto" status="A"/>
+          <player id="74893884-a7a8-4abb-9449-2ccac55151f0" first="Tanner" last="Scheppers" status="A"/>
+          <player id="2ec3abd0-bbdd-441d-8400-d539d96e7fbf" first="Robinson" last="Chirinos" status="A"/>
+          <player id="d60c2736-9e57-4c6f-829b-67c1c9e583d3" first="Leonys" last="Martin" status="A"/>
+          <player id="6d9e4f65-7826-4fae-a0f6-fc46a0f7a252" first="Jason" last="Frasor" status="A"/>
+          <player id="cc672f14-6c84-4dde-8beb-90664d467843" first="Yu" last="Darvish" status="A"/>
+          <player id="a00a259f-f47d-4682-82b9-a36d7edba37b" first="Jeffrey" last="Baker" status="A"/>
+          <player id="a84e411d-ef48-41ca-a96a-e5a28b0ebb95" first="Michael" last="Kirkman" status="A"/>
+        </roster>
+        <lineup>
+          <player id="cc672f14-6c84-4dde-8beb-90664d467843" inning="0" bo="0" pos="1"/>
+          <player id="8189ef68-447c-4573-94d5-8d690abbcfbf" inning="0" bo="1" pos="4"/>
+          <player id="85d6d865-97c4-427b-8f4f-eb6dad286e57" inning="0" bo="2" pos="6"/>
+          <player id="4058b5fd-a238-435c-832e-1e1c1233061f" inning="0" bo="3" pos="10"/>
+          <player id="5aa0effe-3eea-4f1d-b4e2-d2d65069cc90" inning="0" bo="4" pos="5"/>
+          <player id="01eaff59-9b34-47fd-af64-54b2e6f22628" inning="0" bo="5" pos="9"/>
+          <player id="a4f08027-ddc7-4e2d-ac69-9fc4f1c67bfd" inning="0" bo="6" pos="3"/>
+          <player id="a00a259f-f47d-4682-82b9-a36d7edba37b" inning="0" bo="7" pos="7"/>
+          <player id="c1a52191-d693-40be-82a0-a4718b5a349f" inning="0" bo="8" pos="2"/>
+          <player id="3ee81377-4e48-4d45-9e32-fb2867c63e7d" inning="0" bo="9" pos="8"/>
+        </lineup>
+      </visitor>
+      <home id="eb21dadd-8f10-4095-8bf3-dfb3b779f107">
+        <roster>
+          <player id="99eabefc-9777-428a-a59f-e8282b8d0066" first="Jimmy" last="Paredes" status="A"/>
+          <player id="761063c5-7bae-48de-963e-11411b60d6f7" first="Jose" last="Cisnero" status="A"/>
+          <player id="01086ae8-4352-40ed-b1df-71aba2626246" first="Philip" last="Humber" status="A"/>
+          <player id="efd79b09-6f17-4a77-bc00-d9ed19af05cf" first="Brandon" last="Barnes" status="A"/>
+          <player id="e2806637-018b-42a3-8d4e-c86ce4f8baff" first="Lucas" last="Harrell" status="A"/>
+          <player id="f1244780-0d11-4a4f-9223-c70f2d5190bd" first="Jose" last="Veras" status="A"/>
+          <player id="14bc0e8d-6024-498a-8952-9fc381f1e128" first="Hector" last="Ambriz" status="A"/>
+          <player id="7a112cef-6f8a-4ccd-b419-c428115c5c9f" first="Paul" last="Clemens" status="A"/>
+          <player id="e9c7033a-f2af-4efc-b4cc-eba4d931bf1f" first="Erik" last="Bedard" status="A"/>
+          <player id="70980bd8-469d-4cfb-8e17-ae0bdb86d618" first="Matthew" last="Dominguez" status="A"/>
+          <player id="77bb98d3-51ff-40c4-89cb-219ff98496f5" first="Dallas" last="Keuchel" status="A"/>
+          <player id="c3518fb7-6ddf-47e2-be89-53d88e4ea194" first="Jason" last="Castro" status="A"/>
+          <player id="1616381c-d6ac-40b1-8c3f-c70d51bda098" first="Jose" last="Altuve" status="A"/>
+          <player id="30d553ec-eb1e-4652-9965-43f0daeb43f1" first="Trevor" last="Crowe" status="A"/>
+          <player id="678fe3c6-9946-40c0-b3e9-b2e81039363b" first="Marwin" last="Gonzalez" status="A"/>
+          <player id="1a45223e-cf9a-40a7-891b-c8d4ce081513" first="David" last="Norris" status="A"/>
+          <player id="f423faea-d0e3-49b6-b347-52ec5cfac66a" first="Julio" last="Martinez" status="A"/>
+          <player id="962bf98a-22a3-4958-b296-f569bfd7407f" first="Robert" last="Grossman" status="A"/>
+          <player id="e9bb5a74-e5e7-4826-b11b-fc2771abd672" first="Ronny" last="Cedeno" status="A"/>
+          <player id="bfd7b881-1ed2-4886-9e23-df61a1e3373b" first="Vernon" last="Carter" status="A"/>
+          <player id="f4c612e4-d47b-4317-b71d-19b318684bca" first="Carlos" last="Corporan" status="A"/>
+          <player id="6986a5d3-6e02-489d-85ba-f2010b4f8dbe" first="Travis" last="Blackley" status="A"/>
+          <player id="9dd06397-4353-44e8-81bb-6e88a75e42b5" first="Jordan" last="Lyles" status="A"/>
+          <player id="76ae0c73-8e4a-441f-8a61-3f7f06b28717" first="Carlos" last="Pena" status="A"/>
+          <player id="068ef79b-08e3-4692-9110-a102d1975275" first="Dequam" last="Wright" status="A"/>
+        </roster>
+        <lineup>
+          <player id="e9c7033a-f2af-4efc-b4cc-eba4d931bf1f" inning="0" bo="0" pos="1"/>
+          <player id="962bf98a-22a3-4958-b296-f569bfd7407f" inning="0" bo="1" pos="8"/>
+          <player id="99eabefc-9777-428a-a59f-e8282b8d0066" inning="0" bo="2" pos="9"/>
+          <player id="1616381c-d6ac-40b1-8c3f-c70d51bda098" inning="0" bo="3" pos="4"/>
+          <player id="c3518fb7-6ddf-47e2-be89-53d88e4ea194" inning="0" bo="4" pos="10"/>
+          <player id="f4c612e4-d47b-4317-b71d-19b318684bca" inning="0" bo="5" pos="2"/>
+          <player id="76ae0c73-8e4a-441f-8a61-3f7f06b28717" inning="0" bo="6" pos="3"/>
+          <player id="30d553ec-eb1e-4652-9965-43f0daeb43f1" inning="0" bo="7" pos="7"/>
+          <player id="70980bd8-469d-4cfb-8e17-ae0bdb86d618" inning="0" bo="8" pos="5"/>
+          <player id="678fe3c6-9946-40c0-b3e9-b2e81039363b" inning="0" bo="9" pos="6"/>
+        </lineup>
+      </home>
+    </game>
+    <notes/>
+  </event>
+  <event id="0c40306a-276f-4ab4-a9b0-05abb35a0ffa" season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" season_type="REG" status="closed" attendance="" day_night="D" game_number="1">
+    <scheduled_start_time>2013-05-11T17:10:00Z</scheduled_start_time>
+    <venue id="265c7d6c-427a-4b8a-8def-392c41954bec"/>
+    <broadcast network="WPIX" satellite="" internet="" cable=""/>
+    <visitor id="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" abbr="PIT" name="Pirates" market="Pittsburgh" probable_pitcher="ef6e13f3-c4c7-4233-b098-356f73e50d39" starting_pitcher="ef6e13f3-c4c7-4233-b098-356f73e50d39"/>
+    <home id="f246a5e5-afdb-479c-9aaa-c68beeda7af6" abbr="NY" name="Mets" market="New York" probable_pitcher="b72391ac-fd01-444d-9536-f103a8c1858a" starting_pitcher="b72391ac-fd01-444d-9536-f103a8c1858a"/>
+    <game>
+      <visitor id="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd">
+        <roster>
+          <player id="2a3ec22b-50be-4458-b2d6-997b41385907" first="Michael" last="McKenry" status="A"/>
+          <player id="8db68afa-8afd-404a-9e53-56ee8ff8e753" first="Anthony" last="Watson" status="A"/>
+          <player id="53a80099-966e-451c-a1e2-dccbb16f8dd8" first="Andrew" last="McCutchen" status="A"/>
+          <player id="85c10b49-865e-4fcf-8392-7cb6d3cc4e45" first="Garrett" last="Jones" status="A"/>
+          <player id="6eb8c4b1-377a-4eff-8916-df7e9c7c2b42" first="Gabriel" last="Sanchez" status="A"/>
+          <player id="ece2f891-e92e-4825-9c40-8650a6b2af09" first="Jason" last="Grilli" status="A"/>
+          <player id="ef6e13f3-c4c7-4233-b098-356f73e50d39" first="Francisco" last="Liriano" status="A"/>
+          <player id="03f73c53-f6f4-4a25-849b-100aed7b6f9e" first="Vincent" last="Mazzaro" status="A"/>
+          <player id="89af595c-1908-41d1-bb96-51be57abb019" first="Jose" last="Contreras" status="A"/>
+          <player id="3da24e28-741c-4978-bdba-52de51975820" first="Russell" last="Martin" status="A"/>
+          <player id="2a83d30e-ce93-4445-8004-e6ffde0a9d8a" first="Justin" last="Wilson" status="A"/>
+          <player id="da2f167c-1f5f-470d-aa7c-eafdc4b7bd94" first="Pedro" last="Alvarez" status="A"/>
+          <player id="6288e672-5746-46ef-be25-c038626f896b" first="Matthew" last="Welker" status="A"/>
+          <player id="6d998e55-9ade-4f4a-8f59-79370e50a40d" first="Jose" last="Tabata" status="A"/>
+          <player id="85690701-2b69-4d00-936d-1eed143d418f" first="Jeffrey" last="Locke" status="A"/>
+          <player id="1c58cf18-0d61-479d-9438-0a4057f552ef" first="Starling" last="Marte" status="A"/>
+          <player id="a468fd82-8723-433d-a302-15aaf2c9c07a" first="Allan" last="Burnett" status="A"/>
+          <player id="681ded38-1058-414a-9859-cfe19e3d407e" first="John" last="McDonald" status="A"/>
+          <player id="01982903-301b-41eb-8a8d-b88a7b3070d0" first="Mark" last="Melancon" status="A"/>
+          <player id="7ed5c01f-5309-4d40-b56b-b1b35f76632a" first="Wandy" last="Rodriguez" status="A"/>
+          <player id="4de07f66-0514-446e-9041-0717b6186cc6" first="Charles" last="Inge" status="A"/>
+          <player id="f7e89c0d-5a15-4085-9a46-18aaaa5955da" first="Jordy" last="Mercer" status="A"/>
+          <player id="afb67744-95ec-4494-b660-15e471cd2c88" first="Jeanmar" last="Gomez" status="A"/>
+          <player id="98ee8cc3-8bbc-4548-8119-e263fdbbc815" first="Travis" last="Snider" status="A"/>
+          <player id="e06ecbcd-57e5-45a8-972e-9152b00d36f4" first="Clint" last="Barmes" status="A"/>
+          <player id="9343c16b-f357-4363-a0bd-f0b2343cdc2b" first="Avery" last="Morris" status="A"/>
+        </roster>
+        <lineup>
+          <player id="1c58cf18-0d61-479d-9438-0a4057f552ef" inning="0" bo="1" pos="7"/>
+          <player id="f7e89c0d-5a15-4085-9a46-18aaaa5955da" inning="0" bo="2" pos="4"/>
+          <player id="53a80099-966e-451c-a1e2-dccbb16f8dd8" inning="0" bo="3" pos="8"/>
+          <player id="6eb8c4b1-377a-4eff-8916-df7e9c7c2b42" inning="0" bo="4" pos="3"/>
+          <player id="6d998e55-9ade-4f4a-8f59-79370e50a40d" inning="0" bo="5" pos="9"/>
+          <player id="4de07f66-0514-446e-9041-0717b6186cc6" inning="0" bo="6" pos="5"/>
+          <player id="2a3ec22b-50be-4458-b2d6-997b41385907" inning="0" bo="7" pos="2"/>
+          <player id="e06ecbcd-57e5-45a8-972e-9152b00d36f4" inning="0" bo="8" pos="6"/>
+          <player id="ef6e13f3-c4c7-4233-b098-356f73e50d39" inning="0" bo="9" pos="1"/>
+          <player id="98ee8cc3-8bbc-4548-8119-e263fdbbc815" inning="6" bo="3" pos="11" inning_half="T"/>
+          <player id="1c58cf18-0d61-479d-9438-0a4057f552ef" inning="6" bo="1" pos="8" inning_half="B"/>
+          <player id="98ee8cc3-8bbc-4548-8119-e263fdbbc815" inning="6" bo="3" pos="9" inning_half="B"/>
+          <player id="6d998e55-9ade-4f4a-8f59-79370e50a40d" inning="6" bo="5" pos="7" inning_half="B"/>
+          <player id="9343c16b-f357-4363-a0bd-f0b2343cdc2b" inning="6" bo="9" pos="1" inning_half="B"/>
+          <player id="2a83d30e-ce93-4445-8004-e6ffde0a9d8a" inning="8" bo="9" pos="1" inning_half="B"/>
+          <player id="681ded38-1058-414a-9859-cfe19e3d407e" inning="9" bo="9" pos="11" inning_half="T"/>
+          <player id="8db68afa-8afd-404a-9e53-56ee8ff8e753" inning="9" bo="9" pos="1" inning_half="B"/>
+        </lineup>
+      </visitor>
+      <home id="f246a5e5-afdb-479c-9aaa-c68beeda7af6">
+        <roster>
+          <player id="a623e3ad-a7ee-4a4d-8edf-73730c3f8d81" first="Jordany" last="Valdespin" status="A"/>
+          <player id="0aaf592f-e6d1-460f-8af4-e0aff911dc62" first="Marlon" last="Byrd" status="A"/>
+          <player id="8115312d-1241-49c9-8d0f-45c812ce9969" first="Brandon" last="Lyon" status="A"/>
+          <player id="61ecee06-b5f1-4131-ba75-b33fc1997735" first="Scott" last="Atchison" status="A"/>
+          <player id="d3f7c05e-24b5-45a2-844a-83908428d32f" first="Robert" last="Carson" status="A"/>
+          <player id="17cb4642-1ba0-49dd-8279-844e4de5acc8" first="Michael" last="Baxter" status="A"/>
+          <player id="e3641588-3ac8-4b44-8067-d7b92d2520cf" first="Isaac" last="Davis" status="A"/>
+          <player id="b72391ac-fd01-444d-9536-f103a8c1858a" first="Jonathon" last="Niese" status="A"/>
+          <player id="792a2e07-49cb-4ad0-a1bc-a901ca6a7cf8" first="Shaun" last="Marcum" status="A"/>
+          <player id="45f1e923-20c1-4cad-bdf4-e82092d14709" first="Robert" last="Parnell" status="A"/>
+          <player id="c5b20b29-9b09-474f-863e-b96eb955f5c9" first="Dillon" last="Gee" status="A"/>
+          <player id="893e5243-1278-476c-8801-280b9b14aea7" first="Justin" last="Turner" status="A"/>
+          <player id="000f4266-baa3-4065-b8c7-acd16e9dbe72" first="Andrew" last="Brown" status="A"/>
+          <player id="0a13c1d4-6efa-4118-9087-5f61e414b937" first="Jeremy" last="Hefner" status="A"/>
+          <player id="9da09923-7de8-4c6b-b1d2-933f26256b74" first="Lucas" last="Duda" status="A"/>
+          <player id="92ce1ad9-32de-4f28-a92c-fb9a0df84a36" first="LaTroy" last="Hawkins" status="A"/>
+          <player id="f80de980-b44a-411f-9a17-3c0b5cecb2cd" first="Anthony" last="Recker" status="A"/>
+          <player id="eba6953d-efe4-46d5-91ca-054fc24e4315" first="Daniel" last="Murphy" status="A"/>
+          <player id="2206c828-bfb2-4704-ab1f-6d79e965bc1a" first="David" last="Wright" status="A"/>
+          <player id="4db3750e-103c-40a2-a88b-46905b755c5a" first="Ruben" last="Tejada" status="A"/>
+          <player id="26ea87af-9802-4b5d-aec1-d2099be5907a" first="Johnathan" last="Buck" status="A"/>
+          <player id="809d6df7-a43b-4520-9c29-01dd8c4d204c" first="Scott" last="Rice" status="A"/>
+          <player id="4f82d295-a42a-4520-9844-35362a25d037" first="Jeurys" last="Familia" status="A"/>
+          <player id="a05b7bca-ea4b-4e56-99de-293371efc979" first="Matthew" last="Harvey" status="A"/>
+          <player id="5e835495-61b6-411b-b454-48380d4cd665" first="Juan" last="Lagares" status="A"/>
+        </roster>
+        <lineup>
+          <player id="4db3750e-103c-40a2-a88b-46905b755c5a" inning="0" bo="1" pos="6"/>
+          <player id="eba6953d-efe4-46d5-91ca-054fc24e4315" inning="0" bo="2" pos="4"/>
+          <player id="2206c828-bfb2-4704-ab1f-6d79e965bc1a" inning="0" bo="3" pos="5"/>
+          <player id="26ea87af-9802-4b5d-aec1-d2099be5907a" inning="0" bo="4" pos="2"/>
+          <player id="893e5243-1278-476c-8801-280b9b14aea7" inning="0" bo="5" pos="3"/>
+          <player id="0aaf592f-e6d1-460f-8af4-e0aff911dc62" inning="0" bo="6" pos="9"/>
+          <player id="000f4266-baa3-4065-b8c7-acd16e9dbe72" inning="0" bo="7" pos="7"/>
+          <player id="5e835495-61b6-411b-b454-48380d4cd665" inning="0" bo="8" pos="8"/>
+          <player id="b72391ac-fd01-444d-9536-f103a8c1858a" inning="0" bo="9" pos="1"/>
+          <player id="61ecee06-b5f1-4131-ba75-b33fc1997735" inning="5" bo="9" pos="1" inning_half="T"/>
+          <player id="9da09923-7de8-4c6b-b1d2-933f26256b74" inning="5" bo="9" pos="11" inning_half="B"/>
+          <player id="92ce1ad9-32de-4f28-a92c-fb9a0df84a36" inning="6" bo="2" pos="1" inning_half="T"/>
+          <player id="893e5243-1278-476c-8801-280b9b14aea7" inning="6" bo="5" pos="4" inning_half="T"/>
+          <player id="e3641588-3ac8-4b44-8067-d7b92d2520cf" inning="6" bo="9" pos="3" inning_half="T"/>
+          <player id="a623e3ad-a7ee-4a4d-8edf-73730c3f8d81" inning="7" bo="2" pos="11" inning_half="B"/>
+          <player id="a623e3ad-a7ee-4a4d-8edf-73730c3f8d81" inning="8" bo="2" pos="4" inning_half="T"/>
+          <player id="d3f7c05e-24b5-45a2-844a-83908428d32f" inning="8" bo="3" pos="1" inning_half="T"/>
+          <player id="893e5243-1278-476c-8801-280b9b14aea7" inning="8" bo="5" pos="5" inning_half="T"/>
+        </lineup>
+      </home>
+      <pitching win="ef6e13f3-c4c7-4233-b098-356f73e50d39" loss="b72391ac-fd01-444d-9536-f103a8c1858a" save=""/>
+    </game>
+    <notes/>
+  </event>
+</events>
+<!-- 2013-05-11T19:51:47-05:00 -->
