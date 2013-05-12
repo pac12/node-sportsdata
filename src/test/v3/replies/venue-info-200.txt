@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<venues xmlns="http://feed.elasticstats.com/schema/mlb/venues-v1.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <venue id="0ab45d79-5475-4308-9f94-74b0c185ee6f" name="PETCO Park" market="San Diego">
+    <distances lf="334" lcf="367" cf="396" rcf="378" rf="322" mlf="351" mlcf="402" mrcf="403" mrf="351"/>
+  </venue>
+  <venue id="0c6fc7f2-a2cc-4821-b125-f087f8bfcaa7" name="Turner Field" market="Atlanta">
+    <distances lf="335" lcf="380" cf="401" rcf="390" rf="330" mlf="360" mlcf="394" mrcf="394" mrf="358"/>
+  </venue>
+  <venue id="193b88af-c413-4ef7-8b9e-616cb0bbd9e8" name="JetBlue Park" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="228bcacb-77e3-43eb-b149-eb9762d41ff8" name="Peoria Stadium" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="265c7d6c-427a-4b8a-8def-392c41954bec" name="Citi Field" market="New York">
+    <distances lf="335" lcf="384" cf="408" rcf="378" rf="330" mlf="371" mlcf="394" mrcf="415" mrf="372"/>
+  </venue>
+  <venue id="2b0ccd49-4d87-4996-ac4d-27ffc7ee4c16" name="Progressive Field" market="Cleveland">
+    <distances lf="325" lcf="368" cf="405" rcf="375" rf="325" mlf="369" mlcf="385" mrcf="388" mrf="364"/>
+  </venue>
+  <venue id="2d7542f5-7b80-49f7-9b24-c53ffdc75af6" name="AT&amp;T Park" market="San Francisco">
+    <distances lf="339" lcf="382" cf="399" rcf="421" rf="309" mlf="346" mlcf="389" mrcf="399" mrf="368"/>
+  </venue>
+  <venue id="302f8dcd-eed6-4b83-8609-81548d51e955" name="Target Field" market="Minnesota">
+    <distances lf="339" lcf="377" cf="404" rcf="367" rf="328" mlf="355" mlcf="390" mrcf="392" mrf="344"/>
+  </venue>
+  <venue id="38ea268e-e2ba-4f40-819b-aeac26afd116" name="Champion Stadium" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="3aaaf4af-0f8c-49c1-8bf1-1780bb5a5f5c" name="Tropicana Field" market="Tampa Bay">
+    <distances lf="315" lcf="370" cf="404" rcf="370" rf="322" mlf="354" mlcf="410" mrcf="404" mrf="342"/>
+  </venue>
+  <venue id="3d13c8a7-283f-482b-ade1-441e25b6465d" name="Miller Park" market="Milwaukee">
+    <distances lf="344" lcf="370" cf="400" rcf="374" rf="345" mlf="359" mlcf="379" mrcf="386" mrf="354"/>
+  </venue>
+  <venue id="3f47c1c6-b059-4fa2-9d85-5d37b7000992" name="Rangers Ballpark in Arlington" market="Texas">
+    <distances lf="354" lcf="390" cf="400" rcf="379" rf="349" mlf="357" mlcf="406" mrcf="407" mrf="356"/>
+  </venue>
+  <venue id="434aa63c-1049-4a54-a6bc-3790c7772ee1" name="Oriole Park at Camden Yards" market="Baltimore">
+    <distances lf="333" lcf="364" cf="410" rcf="373" rf="318" mlf="368" mlcf="378" mrcf="400" mrf="341"/>
+  </venue>
+  <venue id="48cbd35a-d932-4a75-beab-067bfbacfc26" name="O.co Coliseum" market="Oakland">
+    <distances lf="330" lcf="362" cf="400" rcf="362" rf="330" mlf="367" mlcf="388" mrcf="388" mrf="367"/>
+  </venue>
+  <venue id="4a550fc1-c03d-4294-b63a-30ff197bedc4" name="U.S. Cellular Field" market="Chicago">
+    <distances lf="330" lcf="377" cf="400" rcf="372" rf="335" mlf="365" mlcf="385" mrcf="385" mrf="365"/>
+  </venue>
+  <venue id="53f8eb0d-a361-4a7a-930b-2f8735ea0698" name="Wrigley Field" market="Chicago">
+    <distances lf="355" lcf="368" cf="400" rcf="368" rf="353" mlf="356" mlcf="391" mrcf="397" mrf="356"/>
+  </venue>
+  <venue id="60732da9-ad03-4feb-9a36-aee3e98c7a2b" name="Angel Stadium of Anaheim" market="Los Angeles">
+    <distances lf="330" lcf="376" cf="408" rcf="362" rf="330" mlf="348" mlcf="387" mrcf="383" mrf="359"/>
+  </venue>
+  <venue id="61314394-c8b8-411e-b891-ca41285d5362" name="PNC Park" market="Pittsburgh">
+    <distances lf="325" lcf="389" cf="399" rcf="375" rf="320" mlf="370" mlcf="410" mrcf="393" mrf="353"/>
+  </venue>
+  <venue id="639c5a6b-cccf-4b09-82a9-15230b7b6592" name="Tradition Field" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="66a19c3d-24fe-477d-bee7-c6ef1b98352f" name="Dodger Stadium" market="Los Angeles">
+    <distances lf="330" lcf="385" cf="395" rcf="385" rf="330" mlf="380" mlcf="390" mrcf="390" mrf="380"/>
+  </venue>
+  <venue id="6a22ca0a-2d84-4301-86b8-587e2b01afb0" name="Tempe Diablo Stadium" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="6fca95c9-7f2c-4acb-a9f3-02ef96340d2a" name="Kauffman Stadium" market="Kansas City">
+    <distances lf="330" lcf="387" cf="410" rcf="387" rf="330" mlf="351" mlcf="390" mrcf="390" mrf="351"/>
+  </venue>
+  <venue id="704385de-8213-4276-8eb7-e9e5ad096c2b" name="Roger Dean Stadium" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="706e9828-6687-4ac8-a409-3fb972e8bae9" name="Yankee Stadium" market="New York">
+    <distances lf="318" lcf="399" cf="408" rcf="385" rf="314" mlf="357" mlcf="400" mrcf="396" mrf="346"/>
+  </venue>
+  <venue id="7acfa623-e529-4ba6-b774-d164f33a65f1" name="Osceola County Stadium" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="7f5ccc24-6f45-4c0f-8a20-378f8bbd3ba5" name="Bright House Field" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="83cc591a-1096-4383-a6ca-e2bd6f8db629" name="Busch Stadium" market="St. Louis">
+    <distances lf="336" lcf="390" cf="400" rcf="390" rf="335" mlf="354" mlcf="392" mrcf="392" mrf="354"/>
+  </venue>
+  <venue id="84d72338-2173-4a90-9d25-99adc6c86f4b" name="Rogers Centre" market="Toronto">
+    <distances lf="328" lcf="375" cf="400" rcf="375" rf="328" mlf="348" mlcf="391" mrcf="391" mrf="348"/>
+  </venue>
+  <venue id="85dd5cd6-7324-4b52-a1cc-68f816d0cdce" name="Coors Field" market="Colorado">
+    <distances lf="347" lcf="390" cf="415" rcf="375" rf="350" mlf="361" mlcf="397" mrcf="391" mrf="365"/>
+  </venue>
+  <venue id="8f0cd62f-3d82-4a90-9710-f67f7402b190" name="Goodyear Ballpark" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="b23440a8-786c-4914-8161-daaf94e101f3" name="Ed Smith Stadium" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="b27b0dc5-c2c5-401d-b8b9-a6a2dbc225e5" name="Fenway Park" market="Boston">
+    <distances lf="310" lcf="348" cf="390" rcf="383" rf="302" mlf="320" mlcf="379" mrcf="420" mrf="380"/>
+  </venue>
+  <venue id="b4186004-b6d0-42e7-8dc1-82ef0d946ecc" name="Citizens Bank Park" market="Philadelphia">
+    <distances lf="329" lcf="374" cf="401" rcf="369" rf="330" mlf="349" mlcf="386" mrcf="384" mrf="351"/>
+  </venue>
+  <venue id="bb062fb1-e268-412e-b3d2-2ddb6acc1822" name="Nationals Park" market="Washington">
+    <distances lf="336" lcf="377" cf="403" rcf="370" rf="335" mlf="351" mlcf="390" mrcf="390" mrf="351"/>
+  </venue>
+  <venue id="bf05de0d-7ced-4a19-8e17-2bbd985f8a92" name="Chase Field" market="Arizona">
+    <distances lf="330" lcf="374" cf="407" rcf="374" rf="334" mlf="359" mlcf="413" mrcf="413" mrf="359"/>
+  </venue>
+  <venue id="cba6692e-83da-44f0-a114-1c04ba9e592a" name="Surprise Stadium" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="d5a66fb3-ff26-4f36-910c-3df5cedb36b3" name="Marlins Park" market="Miami">
+    <distances lf="344" lcf="386" cf="422" rcf="392" rf="335" mlf="360" mlcf="395" mrcf="405" mrf="360"/>
+  </venue>
+  <venue id="e89eecc5-50ab-4be5-8e25-e9590d3ed8ac" name="Space Coast Stadium" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="ef9a5eef-06c6-4963-ac70-7fd02c8c8d42" name="Comerica Park" market="Detroit">
+    <distances lf="345" lcf="402" cf="420" rcf="365" rf="330" mlf="370" mlcf="406" mrcf="393" mrf="350"/>
+  </venue>
+  <venue id="f0600f04-1386-4c61-a412-804960c46cb1" name="Minute Maid Park" market="Houston">
+    <distances lf="315" lcf="362" cf="435" rcf="373" rf="326" mlf="347" mlcf="410" mrcf="393" mrf="347"/>
+  </venue>
+  <venue id="f102d8fb-de67-4b86-9053-8b55f578d45c" name="Great American Ball Park" market="Cincinnati">
+    <distances lf="328" lcf="379" cf="404" rcf="370" rf="325" mlf="356" mlcf="391" mrcf="391" mrf="356"/>
+  </venue>
+  <venue id="f1c03dac-3c0f-437c-a325-8d5702cd321a" name="Safeco Field" market="Seattle">
+    <distances lf="331" lcf="390" cf="405" rcf="387" rf="327" mlf="358" mlcf="399" mrcf="391" mrf="353"/>
+  </venue>
+  <venue id="fca673a0-c7f8-42c3-868b-5bcb681c089d" name="George M. Steinbrenner Field" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+  <venue id="fe401d80-7e40-4ed0-af72-7f8b5f3de2e5" name="Joker Marchant Stadium" market="">
+    <distances lf="" lcf="" cf="" rcf="" rf="" mlf="" mlcf="" mrcf="" mrf=""/>
+  </venue>
+</venues>
+<!-- 2013-05-11T19:27:47-05:00 -->
