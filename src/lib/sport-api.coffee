@@ -38,6 +38,22 @@ class SportApi
 
     this.getResource '/teams/%(year)s.xml', { year: year }, callback
 
+  getStandings: (year, callback) ->
+    if typeof year is 'function'
+      callback = year
+      year = null
+    if not year
+      year = new Date().getFullYear()
+
+    this.getResource '/standings/%(year)s.xml', { year: year }, callback
+
+
+  ###
+
+  HELPER FUNCTIONS
+
+  ###
+
   getResource: (pattern, params, callback) ->
     if typeof params is 'function'
       callback = params
