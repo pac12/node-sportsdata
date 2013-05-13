@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statistics xmlns="http://feed.elasticstats.com/schema/mlb/team-stats-v4.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" type="team">
+  <team id="d52d5339-cbdd-43f3-9dfa-a42fd588b9a3" name="Padres">
+    <hitting ab="1216" ap="1374" avg=".238" lob="491" pcount="5339" rbi="131" error="15" abhr="39.226" bip="887" babip="0.292" bbk="0.356" bbpa="0.08" gofo="1.05" iso="0.135" obp="0.307" ops="0.68" seca="0.061" slg="0.373" tb="453" xbh="97">
+      <onbase h="290" s="193" d="62" t="4" hr="31" bb="110" ibb="5" hbp="15"/>
+      <runs unearned="0" earned="143" total="143"/>
+      <outcome klook="817" kswing="362" ktotal="1179" ball="1750" iball="8" dirtball="98" foul="0"/>
+      <outs klook="66" kswing="243" ktotal="309" po="50" fo="194" fidp="2" go="295" gidp="20" lo="37" lidp="2" sacfly="11" sachit="17"/>
+      <steal caught="7" stolen="28"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5484" error="3" ip_1="972" ip_2="324.0" bf="1402" gofo="1.102" lob="530" era="4.222" k9="6.309" whip="1.392">
+      <onbase h="316" s="210" d="59" t="6" hr="41" bb="129" ibb="6" hbp="9"/>
+      <runs unearned="13" earned="152" total="165"/>
+      <outcome klook="897" kswing="316" ktotal="1213" ball="1834" iball="19" dirtball="105" foul="0"/>
+      <outs klook="61" kswing="166" ktotal="227" po="68" fo="199" fidp="1" go="336" gidp="26" lo="38" lidp="0" sacfly="10" sachit="15"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="a7723160-10b7-4277-a309-d8dd95a8ae65" name="Giants">
+    <hitting ab="1291" ap="1444" avg=".266" lob="526" pcount="5340" rbi="163" error="19" abhr="40.344" bip="1034" babip="0.302" bbk="0.426" bbpa="0.07" gofo="1.067" iso="0.14" obp="0.321" ops="0.727" seca="0.071" slg="0.406" tb="524" xbh="108">
+      <onbase h="344" s="236" d="68" t="8" hr="32" bb="101" ibb="10" hbp="9"/>
+      <runs unearned="0" earned="174" total="174"/>
+      <outcome klook="800" kswing="318" ktotal="1118" ball="1715" iball="27" dirtball="96" foul="0"/>
+      <outs klook="62" kswing="175" ktotal="237" po="72" fo="200" fidp="0" go="335" gidp="31" lo="42" lidp="1" sacfly="12" sachit="21"/>
+      <steal caught="7" stolen="20"/>
+      <games play="38"/>
+    </hitting>
+    <pitching pcount="5547" error="2" ip_1="1033" ip_2="344.1" bf="1448" gofo="0.928" lob="498" era="3.712" k9="8.361" whip="1.269">
+      <onbase h="315" s="208" d="65" t="5" hr="37" bb="111" ibb="11" hbp="9"/>
+      <runs unearned="13" earned="142" total="155"/>
+      <outcome klook="897" kswing="347" ktotal="1244" ball="1838" iball="28" dirtball="64" foul="0"/>
+      <outs klook="80" kswing="240" ktotal="320" po="72" fo="210" fidp="0" go="298" gidp="27" lo="39" lidp="1" sacfly="11" sachit="15"/>
+      <steal caught="0" stolen="0"/>
+      <games play="38"/>
+    </pitching>
+  </team>
+  <team id="833a51a9-0d84-410f-bd77-da08c3e5e26e" name="Royals">
+    <hitting ab="1163" ap="1272" avg=".261" lob="454" pcount="4784" rbi="141" error="25" abhr="46.52" bip="924" babip="0.302" bbk="0.344" bbpa="0.061" gofo="1.136" iso="0.129" obp="0.311" ops="0.701" seca="0.081" slg="0.39" tb="454" xbh="91">
+      <onbase h="304" s="213" d="57" t="9" hr="25" bb="77" ibb="5" hbp="11"/>
+      <runs unearned="0" earned="144" total="144"/>
+      <outcome klook="815" kswing="292" ktotal="1107" ball="1476" iball="14" dirtball="68" foul="0"/>
+      <outs klook="47" kswing="177" ktotal="224" po="56" fo="190" fidp="0" go="318" gidp="30" lo="34" lidp="1" sacfly="10" sachit="6"/>
+      <steal caught="4" stolen="25"/>
+      <games play="34"/>
+    </hitting>
+    <pitching pcount="4843" error="2" ip_1="911" ip_2="303.2" bf="1258" gofo="0.993" lob="435" era="3.468" k9="7.884" whip="1.228">
+      <onbase h="286" s="190" d="51" t="8" hr="37" bb="86" ibb="1" hbp="8"/>
+      <runs unearned="17" earned="117" total="134"/>
+      <outcome klook="816" kswing="279" ktotal="1095" ball="1505" iball="0" dirtball="141" foul="0"/>
+      <outs klook="57" kswing="209" ktotal="266" po="55" fo="192" fidp="0" go="281" gidp="22" lo="36" lidp="0" sacfly="9" sachit="4"/>
+      <steal caught="0" stolen="0"/>
+      <games play="34"/>
+    </pitching>
+  </team>
+  <team id="55714da8-fcaf-4574-8443-59bfb511a524" name="Cubs">
+    <hitting ab="1257" ap="1377" avg=".245" lob="505" pcount="5357" rbi="134" error="23" abhr="31.425" bip="952" babip="0.282" bbk="0.294" bbpa="0.057" gofo="0.925" iso="0.163" obp="0.297" ops="0.705" seca="0.115" slg="0.408" tb="513" xbh="123">
+      <onbase h="308" s="185" d="81" t="2" hr="40" bb="79" ibb="10" hbp="15"/>
+      <runs unearned="0" earned="141" total="141"/>
+      <outcome klook="899" kswing="302" ktotal="1201" ball="1718" iball="18" dirtball="67" foul="0"/>
+      <outs klook="62" kswing="207" ktotal="269" po="76" fo="217" fidp="1" go="309" gidp="27" lo="41" lidp="1" sacfly="4" sachit="12"/>
+      <steal caught="8" stolen="27"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5253" error="8" ip_1="987" ip_2="329.0" bf="1385" gofo="0.997" lob="502" era="3.693" k9="7.686" whip="1.237">
+      <onbase h="279" s="183" d="60" t="5" hr="31" bb="121" ibb="7" hbp="18"/>
+      <runs unearned="19" earned="135" total="154"/>
+      <outcome klook="825" kswing="328" ktotal="1153" ball="1765" iball="19" dirtball="79" foul="0"/>
+      <outs klook="76" kswing="205" ktotal="281" po="75" fo="188" fidp="0" go="304" gidp="24" lo="42" lidp="2" sacfly="10" sachit="12"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="dcfd5266-00ce-442c-bc09-264cd20cf455" name="Brewers">
+    <hitting ab="1193" ap="1319" avg=".263" lob="494" pcount="5066" rbi="146" error="25" abhr="28.405" bip="886" babip="0.307" bbk="0.321" bbpa="0.066" gofo="1.011" iso="0.17" obp="0.32" ops="0.753" seca="0.11" slg="0.433" tb="517" xbh="110">
+      <onbase h="314" s="204" d="59" t="9" hr="42" bb="87" ibb="8" hbp="16"/>
+      <runs unearned="0" earned="153" total="153"/>
+      <outcome klook="837" kswing="339" ktotal="1176" ball="1530" iball="25" dirtball="105" foul="0"/>
+      <outs klook="62" kswing="209" ktotal="271" po="62" fo="170" fidp="2" go="280" gidp="28" lo="45" lidp="1" sacfly="6" sachit="9"/>
+      <steal caught="14" stolen="29"/>
+      <games play="35"/>
+    </hitting>
+    <pitching pcount="5094" error="1" ip_1="930" ip_2="310.0" bf="1341" gofo="0.906" lob="494" era="4.703" k9="7.146" whip="1.371">
+      <onbase h="332" s="231" d="51" t="2" hr="48" bb="88" ibb="5" hbp="7"/>
+      <runs unearned="15" earned="162" total="177"/>
+      <outcome klook="879" kswing="285" ktotal="1164" ball="1655" iball="8" dirtball="129" foul="0"/>
+      <outs klook="51" kswing="195" ktotal="246" po="58" fo="192" fidp="1" go="281" gidp="21" lo="60" lidp="3" sacfly="10" sachit="15"/>
+      <steal caught="0" stolen="0"/>
+      <games play="35"/>
+    </pitching>
+  </team>
+  <team id="a09ec676-f887-43dc-bbb3-cf4bbaee9a18" name="Yankees">
+    <hitting ab="1243" ap="1382" avg=".252" lob="533" pcount="5215" rbi="141" error="15" abhr="26.447" bip="953" babip="0.279" bbk="0.39" bbpa="0.071" gofo="0.843" iso="0.167" obp="0.312" ops="0.731" seca="0.101" slg="0.419" tb="521" xbh="107">
+      <onbase h="313" s="206" d="53" t="7" hr="47" bb="98" ibb="9" hbp="15"/>
+      <runs unearned="0" earned="157" total="157"/>
+      <outcome klook="854" kswing="277" ktotal="1131" ball="1650" iball="20" dirtball="115" foul="0"/>
+      <outs klook="58" kswing="193" ktotal="251" po="86" fo="211" fidp="0" go="291" gidp="24" lo="48" lidp="1" sacfly="8" sachit="9"/>
+      <steal caught="6" stolen="22"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5350" error="2" ip_1="993" ip_2="331.0" bf="1381" gofo="0.901" lob="521" era="3.589" k9="8.019" whip="1.251">
+      <onbase h="321" s="219" d="58" t="6" hr="38" bb="92" ibb="1" hbp="16"/>
+      <runs unearned="7" earned="132" total="139"/>
+      <outcome klook="948" kswing="326" ktotal="1274" ball="1629" iball="0" dirtball="147" foul="0"/>
+      <outs klook="76" kswing="219" ktotal="295" po="60" fo="219" fidp="1" go="281" gidp="26" lo="33" lidp="2" sacfly="11" sachit="6"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="d99f919b-1534-4516-8e8a-9cd106c6d8cd" name="Rangers">
+    <hitting ab="1265" ap="1402" avg=".269" lob="546" pcount="5414" rbi="157" error="17" abhr="26.354" bip="994" babip="0.294" bbk="0.487" bbpa="0.078" gofo="0.873" iso="0.178" obp="0.331" ops="0.778" seca="0.1" slg="0.447" tb="565" xbh="119">
+      <onbase h="340" s="221" d="61" t="10" hr="48" bb="110" ibb="6" hbp="10"/>
+      <runs unearned="0" earned="170" total="170"/>
+      <outcome klook="939" kswing="305" ktotal="1244" ball="1781" iball="12" dirtball="116" foul="0"/>
+      <outs klook="56" kswing="170" ktotal="226" po="77" fo="221" fidp="3" go="302" gidp="26" lo="48" lidp="1" sacfly="3" sachit="8"/>
+      <steal caught="6" stolen="18"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5248" error="0" ip_1="979" ip_2="326.1" bf="1352" gofo="1.053" lob="508" era="3.392" k9="8.712" whip="1.195">
+      <onbase h="289" s="195" d="55" t="6" hr="33" bb="93" ibb="8" hbp="13"/>
+      <runs unearned="7" earned="123" total="130"/>
+      <outcome klook="887" kswing="366" ktotal="1253" ball="1682" iball="19" dirtball="78" foul="0"/>
+      <outs klook="66" kswing="250" ktotal="316" po="59" fo="180" fidp="0" go="296" gidp="21" lo="42" lidp="1" sacfly="9" sachit="3"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="75729d34-bca7-4a0f-b3df-6f26c6ad3719" name="Orioles">
+    <hitting ab="1316" ap="1459" avg=".264" lob="531" pcount="5517" rbi="181" error="11" abhr="29.244" bip="1036" babip="0.292" bbk="0.417" bbpa="0.071" gofo="1.1" iso="0.165" obp="0.318" ops="0.747" seca="0.103" slg="0.429" tb="565" xbh="126">
+      <onbase h="348" s="222" d="80" t="1" hr="45" bb="103" ibb="13" hbp="7"/>
+      <runs unearned="0" earned="190" total="190"/>
+      <outcome klook="918" kswing="336" ktotal="1254" ball="1773" iball="34" dirtball="95" foul="0"/>
+      <outs klook="63" kswing="184" ktotal="247" po="82" fo="203" fidp="0" go="352" gidp="26" lo="35" lidp="0" sacfly="12" sachit="8"/>
+      <steal caught="6" stolen="27"/>
+      <games play="38"/>
+    </hitting>
+    <pitching pcount="5527" error="0" ip_1="1017" ip_2="339.0" bf="1428" gofo="0.858" lob="512" era="3.956" k9="6.741" whip="1.286">
+      <onbase h="307" s="209" d="51" t="5" hr="42" bb="123" ibb="6" hbp="18"/>
+      <runs unearned="10" earned="149" total="159"/>
+      <outcome klook="927" kswing="292" ktotal="1219" ball="1842" iball="16" dirtball="76" foul="0"/>
+      <outs klook="71" kswing="183" ktotal="254" po="93" fo="229" fidp="0" go="308" gidp="31" lo="37" lidp="1" sacfly="14" sachit="9"/>
+      <steal caught="0" stolen="0"/>
+      <games play="38"/>
+    </pitching>
+  </team>
+  <team id="29dd9a87-5bcc-4774-80c3-7f50d985068b" name="Rockies">
+    <hitting ab="1281" ap="1432" avg=".267" lob="510" pcount="5508" rbi="171" error="21" abhr="27.255" bip="965" babip="0.306" bbk="0.41" bbpa="0.08" gofo="1.093" iso="0.173" obp="0.33" ops="0.77" seca="0.097" slg="0.44" tb="563" xbh="118">
+      <onbase h="342" s="224" d="62" t="9" hr="47" bb="114" ibb="5" hbp="10"/>
+      <runs unearned="0" earned="177" total="177"/>
+      <outcome klook="806" kswing="368" ktotal="1174" ball="1794" iball="15" dirtball="105" foul="0"/>
+      <outs klook="66" kswing="212" ktotal="278" po="52" fo="190" fidp="0" go="318" gidp="23" lo="49" lidp="0" sacfly="9" sachit="13"/>
+      <steal caught="8" stolen="25"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5380" error="0" ip_1="994" ip_2="331.1" bf="1393" gofo="1.089" lob="502" era="3.613" k9="6.705" whip="1.304">
+      <onbase h="323" s="227" d="62" t="5" hr="29" bb="101" ibb="8" hbp="6"/>
+      <runs unearned="18" earned="133" total="151"/>
+      <outcome klook="865" kswing="316" ktotal="1181" ball="1725" iball="18" dirtball="126" foul="0"/>
+      <outs klook="60" kswing="187" ktotal="247" po="66" fo="189" fidp="2" go="331" gidp="25" lo="49" lidp="1" sacfly="13" sachit="13"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="27a59d3b-ff7c-48ea-b016-4798f560f5e1" name="Athletics">
+    <hitting ab="1348" ap="1543" avg=".242" lob="618" pcount="6222" rbi="175" error="24" abhr="35.474" bip="1006" babip="0.286" bbk="0.511" bbpa="0.104" gofo="0.729" iso="0.154" obp="0.327" ops="0.723" seca="0.05" slg="0.396" tb="534" xbh="126">
+      <onbase h="326" s="200" d="82" t="6" hr="38" bb="160" ibb="5" hbp="16"/>
+      <runs unearned="0" earned="187" total="187"/>
+      <outcome klook="1070" kswing="359" ktotal="1429" ball="2090" iball="12" dirtball="129" foul="0"/>
+      <outs klook="85" kswing="228" ktotal="313" po="85" fo="256" fidp="1" go="280" gidp="29" lo="43" lidp="1" sacfly="9" sachit="5"/>
+      <steal caught="6" stolen="26"/>
+      <games play="39"/>
+    </hitting>
+    <pitching pcount="5816" error="0" ip_1="1053" ip_2="351.0" bf="1507" gofo="0.648" lob="568" era="4.385" k9="7.56" whip="1.316">
+      <onbase h="351" s="226" d="70" t="9" hr="46" bb="107" ibb="4" hbp="10"/>
+      <runs unearned="15" earned="171" total="186"/>
+      <outcome klook="976" kswing="370" ktotal="1346" ball="1826" iball="11" dirtball="130" foul="0"/>
+      <outs klook="60" kswing="235" ktotal="295" po="99" fo="260" fidp="1" go="259" gidp="18" lo="41" lidp="0" sacfly="15" sachit="6"/>
+      <steal caught="0" stolen="0"/>
+      <games play="39"/>
+    </pitching>
+  </team>
+  <team id="ef64da7f-cfaf-4300-87b0-9313386b977c" name="Dodgers">
+    <hitting ab="1194" ap="1364" avg=".263" lob="565" pcount="5357" rbi="120" error="22" abhr="45.923" bip="947" babip="0.304" bbk="0.481" bbpa="0.083" gofo="0.858" iso="0.111" obp="0.33" ops="0.704" seca="0.03" slg="0.374" tb="447" xbh="79">
+      <onbase h="314" s="235" d="51" t="2" hr="26" bb="113" ibb="14" hbp="13"/>
+      <runs unearned="0" earned="127" total="127"/>
+      <outcome klook="902" kswing="296" ktotal="1198" ball="1741" iball="32" dirtball="91" foul="0"/>
+      <outs klook="67" kswing="168" ktotal="235" po="72" fo="207" fidp="2" go="279" gidp="28" lo="46" lidp="2" sacfly="14" sachit="16"/>
+      <steal caught="4" stolen="20"/>
+      <games play="36"/>
+    </hitting>
+    <pitching pcount="5286" error="4" ip_1="954" ip_2="318.0" bf="1354" gofo="1.007" lob="494" era="4.104" k9="8.262" whip="1.327">
+      <onbase h="305" s="211" d="55" t="3" hr="36" bb="108" ibb="9" hbp="9"/>
+      <runs unearned="12" earned="145" total="157"/>
+      <outcome klook="821" kswing="373" ktotal="1194" ball="1718" iball="16" dirtball="90" foul="0"/>
+      <outs klook="65" kswing="227" ktotal="292" po="55" fo="189" fidp="2" go="276" gidp="26" lo="30" lidp="0" sacfly="9" sachit="19"/>
+      <steal caught="0" stolen="0"/>
+      <games play="36"/>
+    </pitching>
+  </team>
+  <team id="93941372-eb4c-4c40-aced-fe3267174393" name="Red Sox">
+    <hitting ab="1295" ap="1459" avg=".268" lob="581" pcount="5912" rbi="177" error="19" abhr="31.585" bip="947" babip="0.323" bbk="0.426" bbpa="0.093" gofo="0.861" iso="0.176" obp="0.34" ops="0.784" seca="0.086" slg="0.444" tb="575" xbh="136">
+      <onbase h="347" s="211" d="85" t="10" hr="41" bb="135" ibb="5" hbp="12"/>
+      <runs unearned="0" earned="181" total="181"/>
+      <outcome klook="1048" kswing="368" ktotal="1416" ball="1935" iball="5" dirtball="109" foul="0"/>
+      <outs klook="76" kswing="241" ktotal="317" po="68" fo="202" fidp="0" go="272" gidp="25" lo="46" lidp="3" sacfly="10" sachit="2"/>
+      <steal caught="9" stolen="28"/>
+      <games play="38"/>
+    </hitting>
+    <pitching pcount="5719" error="4" ip_1="1016" ip_2="338.2" bf="1436" gofo="1.047" lob="546" era="3.96" k9="9.648" whip="1.305">
+      <onbase h="303" s="192" d="65" t="4" hr="42" bb="137" ibb="2" hbp="8"/>
+      <runs unearned="12" earned="149" total="161"/>
+      <outcome klook="985" kswing="369" ktotal="1354" ball="1858" iball="1" dirtball="108" foul="0"/>
+      <outs klook="116" kswing="247" ktotal="363" po="57" fo="189" fidp="0" go="292" gidp="26" lo="33" lidp="0" sacfly="13" sachit="3"/>
+      <steal caught="0" stolen="0"/>
+      <games play="38"/>
+    </pitching>
+  </team>
+  <team id="25507be1-6a68-4267-bd82-e097d94b359b" name="Diamondbacks">
+    <hitting ab="1311" ap="1473" avg=".249" lob="535" pcount="5699" rbi="148" error="8" abhr="32.775" bip="1006" babip="0.284" bbk="0.427" bbpa="0.081" gofo="1.159" iso="0.156" obp="0.312" ops="0.717" seca="0.069" slg="0.405" tb="531" xbh="119">
+      <onbase h="326" s="207" d="73" t="6" hr="40" bb="119" ibb="6" hbp="7"/>
+      <runs unearned="0" earned="161" total="161"/>
+      <outcome klook="966" kswing="345" ktotal="1311" ball="1833" iball="14" dirtball="117" foul="0"/>
+      <outs klook="72" kswing="207" ktotal="279" po="63" fo="203" fidp="2" go="350" gidp="31" lo="36" lidp="1" sacfly="14" sachit="16"/>
+      <steal caught="11" stolen="15"/>
+      <games play="38"/>
+    </hitting>
+    <pitching pcount="5503" error="0" ip_1="1057" ip_2="352.1" bf="1473" gofo="0.979" lob="557" era="3.448" k9="7.533" whip="1.269">
+      <onbase h="334" s="215" d="81" t="6" hr="32" bb="104" ibb="9" hbp="14"/>
+      <runs unearned="3" earned="135" total="138"/>
+      <outcome klook="887" kswing="334" ktotal="1221" ball="1721" iball="17" dirtball="118" foul="0"/>
+      <outs klook="72" kswing="223" ktotal="295" po="66" fo="206" fidp="0" go="322" gidp="28" lo="57" lidp="1" sacfly="10" sachit="18"/>
+      <steal caught="0" stolen="0"/>
+      <games play="38"/>
+    </pitching>
+  </team>
+  <team id="d89bed32-3aee-4407-99e3-4103641b999a" name="Nationals">
+    <hitting ab="1198" ap="1326" avg=".231" lob="446" pcount="5069" rbi="127" error="30" abhr="36.303" bip="876" babip="0.279" bbk="0.32" bbpa="0.072" gofo="1.038" iso="0.147" obp="0.29" ops="0.668" seca="0.076" slg="0.378" tb="453" xbh="101">
+      <onbase h="277" s="176" d="59" t="9" hr="33" bb="95" ibb="6" hbp="7"/>
+      <runs unearned="0" earned="131" total="131"/>
+      <outcome klook="842" kswing="315" ktotal="1157" ball="1616" iball="15" dirtball="89" foul="0"/>
+      <outs klook="88" kswing="209" ktotal="297" po="70" fo="177" fidp="0" go="303" gidp="20" lo="45" lidp="1" sacfly="8" sachit="12"/>
+      <steal caught="7" stolen="17"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5227" error="0" ip_1="984" ip_2="328.0" bf="1371" gofo="0.91" lob="510" era="3.402" k9="7.461" whip="1.22">
+      <onbase h="306" s="209" d="62" t="3" hr="32" bb="90" ibb="4" hbp="10"/>
+      <runs unearned="19" earned="124" total="143"/>
+      <outcome klook="789" kswing="307" ktotal="1096" ball="1691" iball="8" dirtball="113" foul="0"/>
+      <outs klook="56" kswing="216" ktotal="272" po="83" fo="199" fidp="1" go="294" gidp="29" lo="41" lidp="2" sacfly="6" sachit="12"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="4f735188-37c8-473d-ae32-1f7e34ccf892" name="Angels">
+    <hitting ab="1302" ap="1453" avg=".253" lob="527" pcount="5442" rbi="143" error="24" abhr="32.55" bip="982" babip="0.294" bbk="0.334" bbpa="0.069" gofo="1.142" iso="0.149" obp="0.309" ops="0.711" seca="0.074" slg="0.402" tb="523" xbh="107">
+      <onbase h="329" s="222" d="60" t="7" hr="40" bb="100" ibb="8" hbp="14"/>
+      <runs unearned="0" earned="152" total="152"/>
+      <outcome klook="868" kswing="412" ktotal="1280" ball="1692" iball="23" dirtball="88" foul="0"/>
+      <outs klook="68" kswing="231" ktotal="299" po="43" fo="204" fidp="1" go="330" gidp="36" lo="42" lidp="0" sacfly="19" sachit="10"/>
+      <steal caught="11" stolen="13"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5742" error="3" ip_1="1023" ip_2="341.0" bf="1503" gofo="0.884" lob="627" era="4.566" k9="7.101" whip="1.455">
+      <onbase h="351" s="234" d="69" t="5" hr="43" bb="136" ibb="9" hbp="10"/>
+      <runs unearned="13" earned="173" total="186"/>
+      <outcome klook="949" kswing="361" ktotal="1310" ball="1864" iball="25" dirtball="125" foul="0"/>
+      <outs klook="55" kswing="214" ktotal="269" po="69" fo="239" fidp="1" go="311" gidp="24" lo="44" lidp="3" sacfly="6" sachit="15"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="bdc11650-6f74-49c4-875e-778aeb7632d9" name="Rays">
+    <hitting ab="1236" ap="1392" avg=".256" lob="504" pcount="5402" rbi="163" error="18" abhr="28.744" bip="948" babip="0.288" bbk="0.492" bbpa="0.09" gofo="0.84" iso="0.161" obp="0.328" ops="0.745" seca="0.068" slg="0.417" tb="516" xbh="108">
+      <onbase h="316" s="208" d="59" t="6" hr="43" bb="125" ibb="1" hbp="13"/>
+      <runs unearned="0" earned="175" total="175"/>
+      <outcome klook="951" kswing="287" ktotal="1238" ball="1826" iball="3" dirtball="104" foul="0"/>
+      <outs klook="79" kswing="175" ktotal="254" po="80" fo="227" fidp="0" go="289" gidp="24" lo="37" lidp="2" sacfly="9" sachit="8"/>
+      <steal caught="10" stolen="19"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5401" error="0" ip_1="977" ip_2="325.2" bf="1384" gofo="1.04" lob="522" era="4.145" k9="8.82" whip="1.296">
+      <onbase h="306" s="202" d="53" t="3" hr="48" bb="110" ibb="6" hbp="13"/>
+      <runs unearned="14" earned="150" total="164"/>
+      <outcome klook="954" kswing="351" ktotal="1305" ball="1726" iball="16" dirtball="101" foul="0"/>
+      <outs klook="81" kswing="238" ktotal="319" po="62" fo="180" fidp="2" go="288" gidp="21" lo="35" lidp="2" sacfly="8" sachit="6"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="12079497-e414-450a-8bf2-29f91de646bf" name="Braves">
+    <hitting ab="1229" ap="1393" avg=".240" lob="470" pcount="5277" rbi="152" error="18" abhr="25.082" bip="842" babip="0.292" bbk="0.377" bbpa="0.093" gofo="0.912" iso="0.173" obp="0.317" ops="0.73" seca="0.072" slg="0.413" tb="508" xbh="110">
+      <onbase h="295" s="185" d="56" t="5" hr="49" bb="130" ibb="1" hbp="11"/>
+      <runs unearned="0" earned="157" total="157"/>
+      <outcome klook="814" kswing="374" ktotal="1188" ball="1735" iball="3" dirtball="96" foul="0"/>
+      <outs klook="80" kswing="265" ktotal="345" po="67" fo="179" fidp="0" go="260" gidp="22" lo="39" lidp="1" sacfly="7" sachit="15"/>
+      <steal caught="10" stolen="15"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5189" error="1" ip_1="984" ip_2="328.0" bf="1372" gofo="1.071" lob="498" era="3.622" k9="6.993" whip="1.226">
+      <onbase h="304" s="200" d="60" t="8" hr="36" bb="89" ibb="9" hbp="12"/>
+      <runs unearned="4" earned="132" total="136"/>
+      <outcome klook="850" kswing="328" ktotal="1178" ball="1638" iball="25" dirtball="70" foul="0"/>
+      <outs klook="59" kswing="196" ktotal="255" po="52" fo="210" fidp="1" go="331" gidp="22" lo="47" lidp="1" sacfly="5" sachit="12"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="44671792-dc02-4fdd-a5ad-f5f17edaa9d7" name="Cardinals">
+    <hitting ab="1215" ap="1357" avg=".261" lob="489" pcount="5129" rbi="154" error="14" abhr="41.897" bip="941" babip="0.306" bbk="0.389" bbpa="0.072" gofo="0.974" iso="0.125" obp="0.322" ops="0.708" seca="0.05" slg="0.386" tb="469" xbh="91">
+      <onbase h="317" s="226" d="59" t="3" hr="29" bb="98" ibb="5" hbp="14"/>
+      <runs unearned="0" earned="164" total="164"/>
+      <outcome klook="826" kswing="276" ktotal="1102" ball="1638" iball="12" dirtball="118" foul="0"/>
+      <outs klook="62" kswing="190" ktotal="252" po="61" fo="196" fidp="0" go="301" gidp="32" lo="52" lidp="0" sacfly="7" sachit="18"/>
+      <steal caught="4" stolen="11"/>
+      <games play="36"/>
+    </hitting>
+    <pitching pcount="5114" error="0" ip_1="970" ip_2="323.1" bf="1339" gofo="1.352" lob="487" era="3.062" k9="8.046" whip="1.206">
+      <onbase h="299" s="211" d="59" t="6" hr="23" bb="87" ibb="4" hbp="14"/>
+      <runs unearned="12" earned="110" total="122"/>
+      <outcome klook="832" kswing="348" ktotal="1180" ball="1534" iball="7" dirtball="108" foul="0"/>
+      <outs klook="66" kswing="223" ktotal="289" po="52" fo="157" fidp="1" go="334" gidp="35" lo="38" lidp="2" sacfly="9" sachit="15"/>
+      <steal caught="0" stolen="0"/>
+      <games play="36"/>
+    </pitching>
+  </team>
+  <team id="1d678440-b4b1-4954-9b39-70afb3ebbcfa" name="Blue Jays">
+    <hitting ab="1301" ap="1446" avg=".237" lob="484" pcount="5679" rbi="147" error="20" abhr="25.51" bip="959" babip="0.268" bbk="0.374" bbpa="0.079" gofo="0.949" iso="0.17" obp="0.301" ops="0.708" seca="0.1" slg="0.407" tb="529" xbh="113">
+      <onbase h="308" s="195" d="56" t="6" hr="51" bb="114" ibb="1" hbp="11"/>
+      <runs unearned="0" earned="154" total="154"/>
+      <outcome klook="982" kswing="337" ktotal="1319" ball="1841" iball="2" dirtball="111" foul="0"/>
+      <outs klook="84" kswing="221" ktotal="305" po="77" fo="207" fidp="1" go="315" gidp="29" lo="48" lidp="3" sacfly="14" sachit="5"/>
+      <steal caught="6" stolen="29"/>
+      <games play="39"/>
+    </hitting>
+    <pitching pcount="5913" error="3" ip_1="1043" ip_2="347.2" bf="1542" gofo="0.732" lob="608" era="4.737" k9="6.939" whip="1.464">
+      <onbase h="357" s="220" d="78" t="10" hr="49" bb="142" ibb="10" hbp="16"/>
+      <runs unearned="18" earned="183" total="201"/>
+      <outcome klook="1016" kswing="335" ktotal="1351" ball="1951" iball="22" dirtball="140" foul="0"/>
+      <outs klook="57" kswing="211" ktotal="268" po="84" fo="255" fidp="0" go="287" gidp="25" lo="53" lidp="1" sacfly="16" sachit="9"/>
+      <steal caught="0" stolen="0"/>
+      <games play="39"/>
+    </pitching>
+  </team>
+  <team id="c874a065-c115-4e7d-b0f0-235584fb0e6f" name="Reds">
+    <hitting ab="1294" ap="1497" avg=".248" lob="580" pcount="5747" rbi="170" error="16" abhr="34.973" bip="971" babip="0.292" bbk="0.462" bbpa="0.093" gofo="0.978" iso="0.142" obp="0.326" ops="0.716" seca="0.038" slg="0.39" tb="505" xbh="105">
+      <onbase h="321" s="216" d="63" t="5" hr="37" bb="139" ibb="14" hbp="17"/>
+      <runs unearned="0" earned="180" total="180"/>
+      <outcome klook="881" kswing="397" ktotal="1278" ball="1859" iball="32" dirtball="125" foul="0"/>
+      <outs klook="60" kswing="241" ktotal="301" po="70" fo="179" fidp="1" go="306" gidp="26" lo="64" lidp="3" sacfly="15" sachit="18"/>
+      <steal caught="9" stolen="13"/>
+      <games play="38"/>
+    </hitting>
+    <pitching pcount="5478" error="1" ip_1="1041" ip_2="347.0" bf="1438" gofo="0.963" lob="524" era="3.579" k9="8.172" whip="1.205">
+      <onbase h="316" s="200" d="67" t="5" hr="44" bb="100" ibb="2" hbp="11"/>
+      <runs unearned="10" earned="138" total="148"/>
+      <outcome klook="913" kswing="353" ktotal="1266" ball="1721" iball="6" dirtball="98" foul="0"/>
+      <outs klook="76" kswing="239" ktotal="315" po="71" fo="199" fidp="1" go="311" gidp="28" lo="53" lidp="2" sacfly="3" sachit="16"/>
+      <steal caught="0" stolen="0"/>
+      <games play="38"/>
+    </pitching>
+  </team>
+  <team id="f246a5e5-afdb-479c-9aaa-c68beeda7af6" name="Mets">
+    <hitting ab="1161" ap="1307" avg=".231" lob="449" pcount="5259" rbi="146" error="19" abhr="30.553" bip="840" babip="0.274" bbk="0.392" bbpa="0.088" gofo="0.836" iso="0.156" obp="0.304" ops="0.691" seca="0.068" slg="0.387" tb="449" xbh="98">
+      <onbase h="268" s="170" d="53" t="7" hr="38" bb="115" ibb="1" hbp="11"/>
+      <runs unearned="0" earned="151" total="151"/>
+      <outcome klook="861" kswing="329" ktotal="1190" ball="1764" iball="5" dirtball="90" foul="0"/>
+      <outs klook="93" kswing="200" ktotal="293" po="69" fo="201" fidp="0" go="254" gidp="13" lo="34" lidp="0" sacfly="10" sachit="9"/>
+      <steal caught="4" stolen="17"/>
+      <games play="34"/>
+    </hitting>
+    <pitching pcount="5094" error="1" ip_1="928" ip_2="309.1" bf="1323" gofo="1.151" lob="451" era="4.452" k9="6.867" whip="1.361">
+      <onbase h="308" s="210" d="60" t="4" hr="34" bb="108" ibb="5" hbp="14"/>
+      <runs unearned="14" earned="153" total="167"/>
+      <outcome klook="794" kswing="325" ktotal="1119" ball="1674" iball="14" dirtball="103" foul="0"/>
+      <outs klook="51" kswing="185" ktotal="236" po="61" fo="177" fidp="1" go="312" gidp="31" lo="33" lidp="0" sacfly="12" sachit="16"/>
+      <steal caught="0" stolen="0"/>
+      <games play="34"/>
+    </pitching>
+  </team>
+  <team id="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8" name="White Sox">
+    <hitting ab="1165" ap="1265" avg=".227" lob="418" pcount="4862" rbi="113" error="23" abhr="29.872" bip="842" babip="0.268" bbk="0.269" bbpa="0.062" gofo="0.749" iso="0.143" obp="0.279" ops="0.649" seca="0.086" slg="0.37" tb="431" xbh="86">
+      <onbase h="265" s="179" d="45" t="2" hr="39" bb="79" ibb="2" hbp="8"/>
+      <runs unearned="0" earned="120" total="120"/>
+      <outcome klook="774" kswing="291" ktotal="1065" ball="1538" iball="3" dirtball="114" foul="0"/>
+      <outs klook="67" kswing="227" ktotal="294" po="65" fo="233" fidp="0" go="251" gidp="15" lo="37" lidp="0" sacfly="10" sachit="1"/>
+      <steal caught="6" stolen="19"/>
+      <games play="35"/>
+    </hitting>
+    <pitching pcount="5183" error="5" ip_1="938" ip_2="312.2" bf="1301" gofo="0.822" lob="444" era="3.397" k9="8.028" whip="1.215">
+      <onbase h="273" s="184" d="50" t="7" hr="32" bb="103" ibb="4" hbp="13"/>
+      <runs unearned="14" earned="118" total="132"/>
+      <outcome klook="923" kswing="321" ktotal="1244" ball="1692" iball="8" dirtball="75" foul="0"/>
+      <outs klook="73" kswing="206" ktotal="279" po="68" fo="206" fidp="0" go="259" gidp="21" lo="41" lidp="1" sacfly="7" sachit="7"/>
+      <steal caught="0" stolen="0"/>
+      <games play="35"/>
+    </pitching>
+  </team>
+  <team id="03556285-bdbb-4576-a06d-42f71f46ddc5" name="Marlins">
+    <hitting ab="1261" ap="1399" avg=".223" lob="513" pcount="5276" rbi="99" error="23" abhr="57.318" bip="989" babip="0.262" bbk="0.369" bbpa="0.067" gofo="1.182" iso="0.099" obp="0.284" ops="0.606" seca="0.037" slg="0.322" tb="406" xbh="78">
+      <onbase h="281" s="203" d="53" t="3" hr="22" bb="94" ibb="5" hbp="15"/>
+      <runs unearned="0" earned="108" total="108"/>
+      <outcome klook="875" kswing="326" ktotal="1201" ball="1639" iball="14" dirtball="104" foul="0"/>
+      <outs klook="50" kswing="205" ktotal="255" po="71" fo="201" fidp="2" go="370" gidp="35" lo="41" lidp="1" sacfly="5" sachit="19"/>
+      <steal caught="4" stolen="20"/>
+      <games play="38"/>
+    </hitting>
+    <pitching pcount="5480" error="5" ip_1="1014" ip_2="338.0" bf="1442" gofo="0.828" lob="520" era="4.047" k9="7.245" whip="1.34">
+      <onbase h="329" s="220" d="66" t="7" hr="36" bb="114" ibb="10" hbp="12"/>
+      <runs unearned="12" earned="152" total="164"/>
+      <outcome klook="897" kswing="330" ktotal="1227" ball="1749" iball="31" dirtball="92" foul="0"/>
+      <outs klook="73" kswing="199" ktotal="272" po="74" fo="221" fidp="1" go="289" gidp="26" lo="54" lidp="0" sacfly="15" sachit="18"/>
+      <steal caught="0" stolen="0"/>
+      <games play="38"/>
+    </pitching>
+  </team>
+  <team id="80715d0d-0d2a-450f-a970-1b9a3b18c7e7" name="Indians">
+    <hitting ab="1239" ap="1387" avg=".267" lob="518" pcount="5482" rbi="173" error="17" abhr="24.78" bip="905" babip="0.31" bbk="0.397" bbpa="0.085" gofo="0.906" iso="0.195" obp="0.333" ops="0.795" seca="0.11" slg="0.462" tb="573" xbh="134">
+      <onbase h="331" s="197" d="76" t="8" hr="50" bb="118" ibb="3" hbp="11"/>
+      <runs unearned="0" earned="179" total="179"/>
+      <outcome klook="981" kswing="313" ktotal="1294" ball="1833" iball="4" dirtball="118" foul="0"/>
+      <outs klook="76" kswing="221" ktotal="297" po="71" fo="200" fidp="0" go="271" gidp="23" lo="28" lidp="1" sacfly="13" sachit="3"/>
+      <steal caught="8" stolen="20"/>
+      <games play="36"/>
+    </hitting>
+    <pitching pcount="5328" error="2" ip_1="960" ip_2="320.0" bf="1357" gofo="0.913" lob="529" era="3.853" k9="8.55" whip="1.275">
+      <onbase h="275" s="172" d="56" t="4" hr="43" bb="131" ibb="2" hbp="16"/>
+      <runs unearned="12" earned="137" total="149"/>
+      <outcome klook="933" kswing="288" ktotal="1221" ball="1772" iball="4" dirtball="66" foul="0"/>
+      <outs klook="84" kswing="220" ktotal="304" po="66" fo="192" fidp="1" go="274" gidp="24" lo="42" lidp="2" sacfly="9" sachit="5"/>
+      <steal caught="0" stolen="0"/>
+      <games play="36"/>
+    </pitching>
+  </team>
+  <team id="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" name="Pirates">
+    <hitting ab="1220" ap="1365" avg=".248" lob="515" pcount="5277" rbi="148" error="18" abhr="29.756" bip="897" babip="0.292" bbk="0.331" bbpa="0.07" gofo="0.925" iso="0.155" obp="0.313" ops="0.716" seca="0.087" slg="0.403" tb="492" xbh="104">
+      <onbase h="303" s="199" d="60" t="3" hr="41" bb="96" ibb="4" hbp="22"/>
+      <runs unearned="0" earned="153" total="153"/>
+      <outcome klook="900" kswing="345" ktotal="1245" ball="1652" iball="9" dirtball="112" foul="0"/>
+      <outs klook="67" kswing="223" ktotal="290" po="78" fo="181" fidp="0" go="284" gidp="27" lo="48" lidp="1" sacfly="8" sachit="15"/>
+      <steal caught="7" stolen="20"/>
+      <games play="37"/>
+    </hitting>
+    <pitching pcount="5450" error="3" ip_1="973" ip_2="324.1" bf="1365" gofo="1.158" lob="530" era="3.607" k9="8.433" whip="1.252">
+      <onbase h="269" s="173" d="54" t="5" hr="37" bb="133" ibb="4" hbp="22"/>
+      <runs unearned="9" earned="130" total="139"/>
+      <outcome klook="882" kswing="348" ktotal="1230" ball="1757" iball="13" dirtball="132" foul="0"/>
+      <outs klook="79" kswing="225" ktotal="304" po="50" fo="164" fidp="0" go="307" gidp="24" lo="51" lidp="3" sacfly="9" sachit="11"/>
+      <steal caught="0" stolen="0"/>
+      <games play="37"/>
+    </pitching>
+  </team>
+  <team id="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" name="Twins">
+    <hitting ab="1160" ap="1315" avg=".248" lob="532" pcount="5207" rbi="149" error="16" abhr="44.615" bip="869" babip="0.301" bbk="0.425" bbpa="0.09" gofo="0.846" iso="0.133" obp="0.322" ops="0.703" seca="0.035" slg="0.381" tb="442" xbh="96">
+      <onbase h="288" s="192" d="64" t="6" hr="26" bb="119" ibb="3" hbp="14"/>
+      <runs unearned="0" earned="156" total="156"/>
+      <outcome klook="932" kswing="306" ktotal="1238" ball="1655" iball="9" dirtball="94" foul="0"/>
+      <outs klook="78" kswing="202" ktotal="280" po="54" fo="210" fidp="0" go="253" gidp="19" lo="35" lidp="2" sacfly="15" sachit="4"/>
+      <steal caught="7" stolen="13"/>
+      <games play="34"/>
+    </hitting>
+    <pitching pcount="5016" error="2" ip_1="909" ip_2="303.0" bf="1295" gofo="0.968" lob="515" era="4.248" k9="5.67" whip="1.396">
+      <onbase h="342" s="229" d="77" t="6" hr="30" bb="74" ibb="7" hbp="6"/>
+      <runs unearned="12" earned="143" total="155"/>
+      <outcome klook="822" kswing="268" ktotal="1090" ball="1649" iball="19" dirtball="62" foul="0"/>
+      <outs klook="47" kswing="144" ktotal="191" po="73" fo="217" fidp="0" go="305" gidp="26" lo="25" lidp="0" sacfly="8" sachit="5"/>
+      <steal caught="0" stolen="0"/>
+      <games play="34"/>
+    </pitching>
+  </team>
+  <team id="2142e1ba-3b40-445c-b8bb-f1f8b1054220" name="Phillies">
+    <hitting ab="1282" ap="1418" avg=".244" lob="508" pcount="5404" rbi="128" error="16" abhr="40.063" bip="971" babip="0.289" bbk="0.326" bbpa="0.067" gofo="1.096" iso="0.133" obp="0.297" ops="0.674" seca="0.066" slg="0.377" tb="483" xbh="100">
+      <onbase h="313" s="213" d="62" t="6" hr="32" bb="95" ibb="8" hbp="7"/>
+      <runs unearned="0" earned="138" total="138"/>
+      <outcome klook="894" kswing="346" ktotal="1240" ball="1730" iball="21" dirtball="97" foul="0"/>
+      <outs klook="68" kswing="223" ktotal="291" po="52" fo="203" fidp="1" go="331" gidp="33" lo="47" lidp="1" sacfly="12" sachit="14"/>
+      <steal caught="9" stolen="18"/>
+      <games play="39"/>
+    </hitting>
+    <pitching pcount="5536" error="1" ip_1="1026" ip_2="342.0" bf="1438" gofo="0.94" lob="516" era="4.105" k9="7.47" whip="1.257">
+      <onbase h="315" s="198" d="65" t="8" hr="44" bb="110" ibb="5" hbp="13"/>
+      <runs unearned="7" earned="156" total="163"/>
+      <outcome klook="899" kswing="344" ktotal="1243" ball="1783" iball="12" dirtball="87" foul="0"/>
+      <outs klook="78" kswing="206" ktotal="284" po="86" fo="204" fidp="1" go="311" gidp="29" lo="41" lidp="0" sacfly="8" sachit="13"/>
+      <steal caught="0" stolen="0"/>
+      <games play="39"/>
+    </pitching>
+  </team>
+  <team id="575c19b7-4052-41c2-9f0a-1c5813d02f99" name="Tigers">
+    <hitting ab="1294" ap="1447" avg=".284" lob="600" pcount="5605" rbi="185" error="10" abhr="34.973" bip="1021" babip="0.323" bbk="0.49" bbpa="0.084" gofo="0.848" iso="0.146" obp="0.346" ops="0.776" seca="0.063" slg="0.43" tb="557" xbh="108">
+      <onbase h="367" s="259" d="63" t="8" hr="37" bb="121" ibb="9" hbp="8"/>
+      <runs unearned="0" earned="188" total="188"/>
+      <outcome klook="893" kswing="308" ktotal="1201" ball="1834" iball="26" dirtball="102" foul="0"/>
+      <outs klook="61" kswing="186" ktotal="247" po="64" fo="229" fidp="0" go="289" gidp="20" lo="48" lidp="2" sacfly="11" sachit="4"/>
+      <steal caught="2" stolen="15"/>
+      <games play="35"/>
+    </hitting>
+    <pitching pcount="5447" error="2" ip_1="977" ip_2="325.2" bf="1354" gofo="0.959" lob="483" era="3.454" k9="9.918" whip="1.213">
+      <onbase h="286" s="196" d="67" t="6" hr="17" bb="103" ibb="6" hbp="14"/>
+      <runs unearned="10" earned="125" total="135"/>
+      <outcome klook="916" kswing="385" ktotal="1301" ball="1706" iball="16" dirtball="89" foul="0"/>
+      <outs klook="97" kswing="262" ktotal="359" po="55" fo="183" fidp="0" go="260" gidp="21" lo="33" lidp="1" sacfly="11" sachit="5"/>
+      <steal caught="0" stolen="0"/>
+      <games play="35"/>
+    </pitching>
+  </team>
+  <team id="eb21dadd-8f10-4095-8bf3-dfb3b779f107" name="Astros">
+    <hitting ab="1298" ap="1424" avg=".248" lob="531" pcount="5443" rbi="144" error="21" abhr="33.282" bip="885" babip="0.32" bbk="0.252" bbpa="0.067" gofo="1.063" iso="0.153" obp="0.304" ops="0.705" seca="0.087" slg="0.401" tb="520" xbh="115">
+      <onbase h="322" s="207" d="71" t="5" hr="39" bb="96" ibb="4" hbp="11"/>
+      <runs unearned="0" earned="154" total="154"/>
+      <outcome klook="901" kswing="424" ktotal="1325" ball="1711" iball="9" dirtball="79" foul="0"/>
+      <outs klook="91" kswing="290" ktotal="381" po="63" fo="176" fidp="1" go="287" gidp="16" lo="31" lidp="3" sacfly="7" sachit="8"/>
+      <steal caught="8" stolen="19"/>
+      <games play="38"/>
+    </hitting>
+    <pitching pcount="5941" error="1" ip_1="1007" ip_2="335.2" bf="1534" gofo="1.003" lob="603" era="5.791" k9="6.408" whip="1.662">
+      <onbase h="405" s="241" d="89" t="14" hr="61" bb="146" ibb="7" hbp="13"/>
+      <runs unearned="19" earned="216" total="235"/>
+      <outcome klook="1029" kswing="335" ktotal="1364" ball="1961" iball="17" dirtball="115" foul="0"/>
+      <outs klook="66" kswing="173" ktotal="239" po="79" fo="204" fidp="1" go="332" gidp="36" lo="48" lidp="2" sacfly="12" sachit="5"/>
+      <steal caught="0" stolen="0"/>
+      <games play="38"/>
+    </pitching>
+  </team>
+  <team id="43a39081-52b4-4f93-ad29-da7f329ea960" name="Mariners">
+    <hitting ab="1259" ap="1409" avg=".235" lob="534" pcount="5497" rbi="131" error="11" abhr="31.475" bip="918" babip="0.279" bbk="0.385" bbpa="0.084" gofo="0.916" iso="0.144" obp="0.305" ops="0.684" seca="0.054" slg="0.379" tb="477" xbh="97">
+      <onbase h="296" s="199" d="53" t="4" hr="40" bb="119" ibb="2" hbp="12"/>
+      <runs unearned="0" earned="135" total="135"/>
+      <outcome klook="1027" kswing="315" ktotal="1342" ball="1774" iball="7" dirtball="131" foul="0"/>
+      <outs klook="61" kswing="248" ktotal="309" po="75" fo="205" fidp="0" go="293" gidp="30" lo="40" lidp="0" sacfly="8" sachit="9"/>
+      <steal caught="5" stolen="11"/>
+      <games play="38"/>
+    </hitting>
+    <pitching pcount="5262" error="1" ip_1="1015" ip_2="338.1" bf="1390" gofo="0.887" lob="476" era="3.964" k9="7.821" whip="1.185">
+      <onbase h="311" s="188" d="71" t="5" hr="47" bb="83" ibb="7" hbp="8"/>
+      <runs unearned="6" earned="149" total="155"/>
+      <outcome klook="866" kswing="340" ktotal="1206" ball="1657" iball="18" dirtball="116" foul="0"/>
+      <outs klook="66" kswing="228" ktotal="294" po="63" fo="223" fidp="0" go="298" gidp="25" lo="50" lidp="2" sacfly="12" sachit="6"/>
+      <steal caught="0" stolen="0"/>
+      <games play="38"/>
+    </pitching>
+  </team>
+</statistics>
+<!-- 2013-05-13T14:36:45-05:00 -->
