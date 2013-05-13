@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rosters xmlns="http://feed.elasticstats.com/schema/mlb/rosters-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" season_id="c5eb69d3-5053-4479-a956-6fe5ff7a8b51" season_year="2010">
+</rosters>
+<!-- 2013-05-13T12:48:33-05:00 -->

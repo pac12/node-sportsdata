@@ -1,0 +1,813 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rosters xmlns="http://feed.elasticstats.com/schema/mlb/rosters-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" season_id="4b591410-f8c0-4805-9f9a-ea06ecf3bc16" season_year="2011">
+  <team id="ef64da7f-cfaf-4300-87b0-9313386b977c" abbr="LA" name="Dodgers" market="Los Angeles" league="NL" division="W" venue="66a19c3d-24fe-477d-bee7-c6ef1b98352f">
+    <players>
+      <profile status="A" jersey="23" position="1B" id="10154eef-8834-48e0-97e7-d7436367534c" mlbam_id="408236">
+        <first>Adrian</first>
+        <preferred_first>Adrian</preferred_first>
+        <last>Gonzalez</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>225</weight>
+        <height>602</height>
+        <birthdate>1982-05-08</birthdate>
+        <birthcity>San Diego</birthcity>
+        <birthstate>CA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Eastlake, Chula Vista, CA</highschool>
+        <college/>
+        <pro_debut>2004-04-18</pro_debut>
+      </profile>
+      <profile status="A" jersey="7" position="2B" id="b7b7bab0-da3a-4126-be67-0b41494e7df8" mlbam_id="346857">
+        <first>Nicholas</first>
+        <preferred_first>Nick</preferred_first>
+        <last>Punto</last>
+        <bat_hand>B</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>195</weight>
+        <height>509</height>
+        <birthdate>1977-11-08</birthdate>
+        <birthcity>San Diego</birthcity>
+        <birthstate>CA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Trabuco Hills, Mission Viejo, CA</highschool>
+        <college>Saddleback CC, CA</college>
+        <pro_debut>2001-09-09</pro_debut>
+      </profile>
+      <profile status="A" jersey="5" position="3B" id="081677e0-4134-4f69-a4a4-05acf060ead0" mlbam_id="346874">
+        <first>Juan</first>
+        <preferred_first>Juan</preferred_first>
+        <last>Uribe</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>235</weight>
+        <height>600</height>
+        <birthdate>1979-03-22</birthdate>
+        <birthcity>Palenque</birthcity>
+        <birthstate/>
+        <birthcountry>Dominican Republic</birthcountry>
+        <highschool>Abel Uribe, DR</highschool>
+        <college/>
+        <pro_debut>2001-04-08</pro_debut>
+      </profile>
+      <profile status="A" jersey="17" position="C" id="1b59c902-b26d-464d-895c-a08b971347c2" mlbam_id="454560">
+        <first>Andrew</first>
+        <preferred_first>A.J.</preferred_first>
+        <last>Ellis</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>220</weight>
+        <height>603</height>
+        <birthdate>1981-04-09</birthdate>
+        <birthcity>Cape Girardeau</birthcity>
+        <birthstate>MO</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Paul Lawrence Dunbar, Lexington, KY</highschool>
+        <college>Austin Peay State</college>
+        <pro_debut>2008-09-15</pro_debut>
+      </profile>
+      <profile status="A" jersey="18" position="C" id="7d914b38-a9a8-432a-9ad4-879b4d716c37" mlbam_id="543148">
+        <first>Timothy</first>
+        <preferred_first>Tim</preferred_first>
+        <last>Federowicz</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>215</weight>
+        <height>510</height>
+        <birthdate>1987-08-05</birthdate>
+        <birthcity>Erie</birthcity>
+        <birthstate>PA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Apex, NC</highschool>
+        <college>North Carolina</college>
+        <pro_debut>2011-09-11</pro_debut>
+      </profile>
+      <profile status="A" jersey="55" position="C" id="e43cd455-319c-45e6-b9d5-4f48389f4eaa" mlbam_id="150421">
+        <first>Ramon</first>
+        <preferred_first>Ramon</preferred_first>
+        <last>Hernandez</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>220</weight>
+        <height>600</height>
+        <birthdate>1976-05-20</birthdate>
+        <birthcity>Caracas</birthcity>
+        <birthstate/>
+        <birthcountry>Venezuela</birthcountry>
+        <highschool/>
+        <college/>
+        <pro_debut>1999-06-29</pro_debut>
+      </profile>
+      <profile status="A" jersey="27" position="CF" id="f4c666e5-2a05-4258-8ddc-da6e0cffdb57" mlbam_id="461314">
+        <first>Matthew</first>
+        <preferred_first>Matt</preferred_first>
+        <last>Kemp</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>215</weight>
+        <height>604</height>
+        <birthdate>1984-09-23</birthdate>
+        <birthcity>Midwest City</birthcity>
+        <birthstate>OK</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Midwest City, OK</highschool>
+        <college/>
+        <pro_debut>2006-05-28</pro_debut>
+      </profile>
+      <profile status="A" jersey="47" position="IF" id="834f57e8-1708-42db-b228-77dfffc3c48d" mlbam_id="458501">
+        <first>Luis</first>
+        <preferred_first>Luis</preferred_first>
+        <last>Cruz</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>210</weight>
+        <height>601</height>
+        <birthdate>1984-02-10</birthdate>
+        <birthcity>Navojoa</birthcity>
+        <birthstate>Sonora</birthstate>
+        <birthcountry>Mexico</birthcountry>
+        <highschool/>
+        <college/>
+        <pro_debut>2008-09-02</pro_debut>
+      </profile>
+      <profile status="A" jersey="25" position="LF" id="d424e4cd-3a15-4a00-a1fe-15c7823a654d" mlbam_id="408307">
+        <first>Carl</first>
+        <preferred_first>Carl</preferred_first>
+        <last>Crawford</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>215</weight>
+        <height>602</height>
+        <birthdate>1981-08-05</birthdate>
+        <birthcity>Houston</birthcity>
+        <birthstate>TX</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Jefferson Davis, Houston, TX</highschool>
+        <college/>
+        <pro_debut>2002-07-20</pro_debut>
+      </profile>
+      <profile status="A" jersey="3" position="OF" id="624ebcd4-afa3-4a2c-a606-0b083ff26567" mlbam_id="435401">
+        <first>Jared</first>
+        <preferred_first>Skip</preferred_first>
+        <last>Schumaker</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>195</weight>
+        <height>510</height>
+        <birthdate>1980-02-03</birthdate>
+        <birthcity>Torrance</birthcity>
+        <birthstate>CA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Aliso Niguel, Aliso Viejo, CA</highschool>
+        <college>UC Santa Barbara</college>
+        <pro_debut>2005-06-08</pro_debut>
+      </profile>
+      <profile status="A" jersey="94" position="OF" id="9dec71ae-6e68-4e10-814d-a246366cff47" mlbam_id="475100">
+        <first>Scott</first>
+        <preferred_first>Scott</preferred_first>
+        <last>Van Slyke</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>250</weight>
+        <height>605</height>
+        <birthdate>1986-07-24</birthdate>
+        <birthcity>Chesterfield</birthcity>
+        <birthstate>MO</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>John Burroughs School, Ladue, MO</highschool>
+        <college/>
+        <pro_debut>2012-05-09</pro_debut>
+      </profile>
+      <profile status="A" jersey="16" position="RF" id="e1a0286d-3b82-4f1e-b98d-74c056c755ca" mlbam_id="444843">
+        <first>Andre</first>
+        <preferred_first>Andre</preferred_first>
+        <last>Ethier</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>205</weight>
+        <height>602</height>
+        <birthdate>1982-04-10</birthdate>
+        <birthcity>Phoenix</birthcity>
+        <birthstate>AZ</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>St. Mary's, Phoenix, AZ</highschool>
+        <college>Arizona State</college>
+        <pro_debut>2006-05-02</pro_debut>
+      </profile>
+      <profile status="A" jersey="51" position="RP" id="efd12a8b-f56c-4270-aebb-678cb85ededd" mlbam_id="430613">
+        <first>Ronald</first>
+        <preferred_first>Ronald</preferred_first>
+        <last>Belisario</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>240</weight>
+        <height>603</height>
+        <birthdate>1982-12-31</birthdate>
+        <birthcity>Maracay</birthcity>
+        <birthstate/>
+        <birthcountry>Venezuela</birthcountry>
+        <highschool>Augusto Mijares, Maracay, VZ</highschool>
+        <college/>
+        <pro_debut>2009-04-07</pro_debut>
+      </profile>
+      <profile status="A" jersey="35" position="RP" id="d9ea99d4-3c15-4b23-8d40-9b92ecb78b8d" mlbam_id="425626">
+        <first>Christopher</first>
+        <preferred_first>Chris</preferred_first>
+        <last>Capuano</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>215</weight>
+        <height>603</height>
+        <birthdate>1978-08-19</birthdate>
+        <birthcity>Springfield</birthcity>
+        <birthstate>MA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Cathedral, Springfield, MA</highschool>
+        <college>Duke</college>
+        <pro_debut>2003-05-04</pro_debut>
+      </profile>
+      <profile status="A" jersey="54" position="RP" id="2534beeb-733b-4f2b-b316-dd6851c7fc32" mlbam_id="457915">
+        <first>Luis</first>
+        <preferred_first>Javy</preferred_first>
+        <last>Guerra</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>190</weight>
+        <height>601</height>
+        <birthdate>1985-10-31</birthdate>
+        <birthcity>Denton</birthcity>
+        <birthstate>TX</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Billy Ryan, Denton, TX</highschool>
+        <college/>
+        <pro_debut>2011-05-15</pro_debut>
+      </profile>
+      <profile status="A" jersey="54" position="RP" id="7a1f70c9-805c-4e34-a991-20fe6be20526" mlbam_id="407825">
+        <first>Matthew</first>
+        <preferred_first>Matt</preferred_first>
+        <last>Guerrier</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>195</weight>
+        <height>603</height>
+        <birthdate>1978-08-02</birthdate>
+        <birthcity>Cleveland</birthcity>
+        <birthstate>OH</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Shaker Heights, OH</highschool>
+        <college>Kent State</college>
+        <pro_debut>2004-06-17</pro_debut>
+      </profile>
+      <profile status="A" jersey="56" position="RP" id="48302609-7062-4c63-8c70-8b8142b94e0a" mlbam_id="434442">
+        <first>James</first>
+        <preferred_first>J.P.</preferred_first>
+        <last>Howell</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>185</weight>
+        <height>600</height>
+        <birthdate>1983-04-25</birthdate>
+        <birthcity>Modesto</birthcity>
+        <birthstate>CA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Jesuit, Carmichael, CA</highschool>
+        <college>Texas</college>
+        <pro_debut>2005-06-11</pro_debut>
+      </profile>
+      <profile status="A" jersey="74" position="RP" id="9e798b78-22d9-44df-a4c3-fc9db6c0133d" mlbam_id="445276">
+        <first>Kenley</first>
+        <preferred_first>Kenley</preferred_first>
+        <last>Jansen</last>
+        <bat_hand>B</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>260</weight>
+        <height>605</height>
+        <birthdate>1987-09-30</birthdate>
+        <birthcity>Willemstad</birthcity>
+        <birthstate/>
+        <birthcountry>Curacao</birthcountry>
+        <highschool>Netherlands Antilles</highschool>
+        <college/>
+        <pro_debut>2010-07-24</pro_debut>
+      </profile>
+      <profile status="A" jersey="31" position="RP" id="aa60eced-9905-4618-98d6-533e653eba0f" mlbam_id="434181">
+        <first>Brandon</first>
+        <preferred_first>Brandon</preferred_first>
+        <last>League</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>215</weight>
+        <height>602</height>
+        <birthdate>1983-03-16</birthdate>
+        <birthcity>Sacramento</birthcity>
+        <birthstate>CA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Saint Louis School, Honolulu, HI</highschool>
+        <college/>
+        <pro_debut>2004-09-21</pro_debut>
+      </profile>
+      <profile status="A" jersey="75" position="RP" id="674630c8-b552-4ce8-ab30-29be4aa6aa79" mlbam_id="572089">
+        <first>Steven</first>
+        <preferred_first>Paco</preferred_first>
+        <last>Rodriguez</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>220</weight>
+        <height>603</height>
+        <birthdate>1991-04-16</birthdate>
+        <birthcity>Miami Beach</birthcity>
+        <birthstate>FL</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Gulliver Prep, Miami, FL</highschool>
+        <college>Florida</college>
+        <pro_debut>2012-09-09</pro_debut>
+      </profile>
+      <profile status="A" jersey="61" position="SP" id="242f53ea-76b8-4a28-a161-f1b035ff5407" mlbam_id="277417">
+        <first>Joshua</first>
+        <preferred_first>Josh</preferred_first>
+        <last>Beckett</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>225</weight>
+        <height>605</height>
+        <birthdate>1980-05-15</birthdate>
+        <birthcity>Spring</birthcity>
+        <birthstate>TX</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Spring, TX</highschool>
+        <college/>
+        <pro_debut>2001-09-04</pro_debut>
+      </profile>
+      <profile status="A" jersey="22" position="SP" id="d3351c6e-12cf-4ab5-b651-ad23d49c4245" mlbam_id="477132">
+        <first>Clayton</first>
+        <preferred_first>Clayton</preferred_first>
+        <last>Kershaw</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>220</weight>
+        <height>603</height>
+        <birthdate>1988-03-19</birthdate>
+        <birthcity>Dallas</birthcity>
+        <birthstate>TX</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Highland Park, Dallas, TX</highschool>
+        <college/>
+        <pro_debut>2008-05-25</pro_debut>
+      </profile>
+      <profile status="A" jersey="80" position="SP" id="1d6e5679-5969-40de-a3af-80dde8332140" mlbam_id="543483">
+        <first>Matthew</first>
+        <preferred_first>Matt</preferred_first>
+        <last>Magill</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>210</weight>
+        <height>603</height>
+        <birthdate>1989-11-10</birthdate>
+        <birthcity>Simi Valley</birthcity>
+        <birthstate>CA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Royal, Simi Valley, CA</highschool>
+        <college/>
+        <pro_debut>2013-04-27</pro_debut>
+      </profile>
+      <profile status="A" jersey="99" position="SP" id="01d71849-6f8e-4394-ae98-155bd61c68e8" mlbam_id="547943">
+        <first>Hyun-Jin</first>
+        <preferred_first>Hyun-Jin</preferred_first>
+        <last>Ryu</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>255</weight>
+        <height>602</height>
+        <birthdate>1987-03-25</birthdate>
+        <birthcity>Incheon</birthcity>
+        <birthstate/>
+        <birthcountry>Korea</birthcountry>
+        <highschool/>
+        <college/>
+        <pro_debut>2013-04-02</pro_debut>
+      </profile>
+      <profile status="A" jersey="9" position="SS" id="65de4cd1-ca86-468c-9346-1e68d6279a8e" mlbam_id="543829">
+        <first>Devaris</first>
+        <preferred_first>Dee</preferred_first>
+        <last>Gordon</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>160</weight>
+        <height>511</height>
+        <birthdate>1988-04-22</birthdate>
+        <birthcity>Windermere</birthcity>
+        <birthstate>FL</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Avon Park, FL</highschool>
+        <college>Southeastern</college>
+        <pro_debut>2011-06-06</pro_debut>
+      </profile>
+    </players>
+  </team>
+  <team id="c874a065-c115-4e7d-b0f0-235584fb0e6f" abbr="CIN" name="Reds" market="Cincinnati" league="NL" division="C" venue="f102d8fb-de67-4b86-9053-8b55f578d45c">
+    <players>
+      <profile status="A" jersey="19" position="1B" id="f6a52aa9-6607-445b-a6cb-34a73b1859f9" mlbam_id="458015">
+        <first>Joseph</first>
+        <preferred_first>Joey</preferred_first>
+        <last>Votto</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>220</weight>
+        <height>602</height>
+        <birthdate>1983-09-10</birthdate>
+        <birthcity>Toronto</birthcity>
+        <birthstate>ON</birthstate>
+        <birthcountry>Canada</birthcountry>
+        <highschool>Richview Collegiate Institute, Etobicoke, ON</highschool>
+        <college/>
+        <pro_debut>2007-09-04</pro_debut>
+      </profile>
+      <profile status="A" jersey="4" position="2B" id="cafd9371-c7fc-4c7d-9364-0a795e0d617e" mlbam_id="408252">
+        <first>Brandon</first>
+        <preferred_first>Brandon</preferred_first>
+        <last>Phillips</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>200</weight>
+        <height>600</height>
+        <birthdate>1981-06-28</birthdate>
+        <birthcity>Raleigh</birthcity>
+        <birthstate>NC</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Redan, Stone Mountain, GA</highschool>
+        <college/>
+        <pro_debut>2002-09-13</pro_debut>
+      </profile>
+      <profile status="A" jersey="21" position="3B" id="c401dbb6-2208-45f4-9947-db11881daf4f" mlbam_id="453943">
+        <first>Todd</first>
+        <preferred_first>Todd</preferred_first>
+        <last>Frazier</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>220</weight>
+        <height>603</height>
+        <birthdate>1986-02-12</birthdate>
+        <birthcity>Point Pleasant</birthcity>
+        <birthstate>NJ</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Toms River South, Toms River, NJ</highschool>
+        <college>Rutgers</college>
+        <pro_debut>2011-05-23</pro_debut>
+      </profile>
+      <profile status="A" jersey="29" position="C" id="4fe0a67f-873b-49eb-999a-2f1a27633241" mlbam_id="452672">
+        <first>Ryan</first>
+        <preferred_first>Ryan</preferred_first>
+        <last>Hanigan</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>210</weight>
+        <height>600</height>
+        <birthdate>1980-08-16</birthdate>
+        <birthcity>Washington</birthcity>
+        <birthstate>DC</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Andover, MA</highschool>
+        <college>Rollins, FL</college>
+        <pro_debut>2007-09-09</pro_debut>
+      </profile>
+      <profile status="A" jersey="39" position="C" id="f96be926-0ffa-41ba-91d9-6a7697f466b6" mlbam_id="519023">
+        <first>Devin</first>
+        <preferred_first>Devin</preferred_first>
+        <last>Mesoraco</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>230</weight>
+        <height>601</height>
+        <birthdate>1988-06-19</birthdate>
+        <birthcity>Punxsutawney</birthcity>
+        <birthstate>PA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Punxsutawney Area, Punxsutawney, PA</highschool>
+        <college/>
+        <pro_debut>2011-09-03</pro_debut>
+      </profile>
+      <profile status="A" jersey="17" position="CF" id="15a51291-6254-4207-9139-ee1ddee1856a" mlbam_id="425783">
+        <first>Shin-Soo</first>
+        <preferred_first>Shin-Soo</preferred_first>
+        <last>Choo</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>205</weight>
+        <height>511</height>
+        <birthdate>1982-07-13</birthdate>
+        <birthcity>Pusan</birthcity>
+        <birthstate/>
+        <birthcountry>South Korea</birthcountry>
+        <highschool>Pusan, Korea</highschool>
+        <college/>
+        <pro_debut>2005-04-21</pro_debut>
+      </profile>
+      <profile status="A" jersey="9" position="IF" id="dabc2f8f-ab8a-4590-9b58-42e0d306bccb" mlbam_id="435219">
+        <first>John</first>
+        <preferred_first>Jack</preferred_first>
+        <last>Hannahan</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>210</weight>
+        <height>602</height>
+        <birthdate>1980-03-04</birthdate>
+        <birthcity>St. Paul</birthcity>
+        <birthstate>MN</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Cretin-Derham Hall, St. Paul, MN</highschool>
+        <college>Minnesota</college>
+        <pro_debut>2006-05-25</pro_debut>
+      </profile>
+      <profile status="A" jersey="3" position="IF" id="ae9cd3c3-3340-4e26-af53-5e3b6743cd32" mlbam_id="285131">
+        <first>Cesar</first>
+        <preferred_first>Cesar</preferred_first>
+        <last>Izturis</last>
+        <bat_hand>B</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>180</weight>
+        <height>509</height>
+        <birthdate>1980-02-10</birthdate>
+        <birthcity>Barquisimeto</birthcity>
+        <birthstate/>
+        <birthcountry>Venezuela</birthcountry>
+        <highschool/>
+        <college/>
+        <pro_debut>2001-06-23</pro_debut>
+      </profile>
+      <profile status="A" jersey="26" position="LF" id="7f17d5e6-311f-4ade-89cf-298628c4e3f9" mlbam_id="449082">
+        <first>Xavier</first>
+        <preferred_first>Xavier</preferred_first>
+        <last>Paul</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>205</weight>
+        <height>509</height>
+        <birthdate>1985-02-25</birthdate>
+        <birthcity>Slidell</birthcity>
+        <birthstate>LA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Slidell, LA</highschool>
+        <college/>
+        <pro_debut>2009-05-07</pro_debut>
+      </profile>
+      <profile status="A" jersey="15" position="LF" id="d5890f77-4eed-4d7a-9b88-b791f05f86d2" mlbam_id="501961">
+        <first>Derrick</first>
+        <preferred_first>Derrick</preferred_first>
+        <last>Robinson</last>
+        <bat_hand>B</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>190</weight>
+        <height>511</height>
+        <birthdate>1987-09-28</birthdate>
+        <birthcity>Gainesville</birthcity>
+        <birthstate>FL</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>P.K. Yonge Developmental Research School, Gainesville, FL</highschool>
+        <college/>
+        <pro_debut>2013-04-05</pro_debut>
+      </profile>
+      <profile status="A" jersey="23" position="OF" id="670f9236-76ff-49cd-b294-a32db818f66a" mlbam_id="544371">
+        <first>Donald</first>
+        <preferred_first>Donald</preferred_first>
+        <last>Lutz</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>250</weight>
+        <height>603</height>
+        <birthdate>1989-02-06</birthdate>
+        <birthcity>Watertown</birthcity>
+        <birthstate>NY</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool/>
+        <college/>
+        <pro_debut>2013-04-29</pro_debut>
+      </profile>
+      <profile status="A" jersey="32" position="RF" id="58c17caa-c048-4336-b296-fa4eaf039eac" mlbam_id="457803">
+        <first>Jay</first>
+        <preferred_first>Jay</preferred_first>
+        <last>Bruce</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>215</weight>
+        <height>603</height>
+        <birthdate>1987-04-03</birthdate>
+        <birthcity>Beaumont</birthcity>
+        <birthstate>TX</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>West Brook, Beaumont, TX</highschool>
+        <college/>
+        <pro_debut>2008-05-27</pro_debut>
+      </profile>
+      <profile status="A" jersey="51" position="RP" id="82ec0df3-3d6d-439e-9990-1fd5db783df3" mlbam_id="455009">
+        <first>Jonathan</first>
+        <preferred_first>Jonathan</preferred_first>
+        <last>Broxton</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>310</weight>
+        <height>604</height>
+        <birthdate>1984-06-16</birthdate>
+        <birthcity>Augusta</birthcity>
+        <birthstate>GA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Burke County, Waynesboro, GA</highschool>
+        <college/>
+        <pro_debut>2005-07-29</pro_debut>
+      </profile>
+      <profile status="A" jersey="54" position="RP" id="17a14a6a-42f8-4f2e-86f3-42051584563e" mlbam_id="547973">
+        <first>Albertin</first>
+        <preferred_first>Aroldis</preferred_first>
+        <last>Chapman</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>205</weight>
+        <height>604</height>
+        <birthdate>1988-02-28</birthdate>
+        <birthcity>Holguin</birthcity>
+        <birthstate/>
+        <birthcountry>Cuba</birthcountry>
+        <highschool/>
+        <college/>
+        <pro_debut>2010-08-31</pro_debut>
+      </profile>
+      <profile status="A" jersey="60" position="RP" id="c662f87d-f27a-448e-936c-fbdfe8218520" mlbam_id="543331">
+        <first>James</first>
+        <preferred_first>J.J.</preferred_first>
+        <last>Hoover</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>225</weight>
+        <height>603</height>
+        <birthdate>1987-08-13</birthdate>
+        <birthcity>Pittsburgh</birthcity>
+        <birthstate>PA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Elizabeth Forward, Elizabeth, PA</highschool>
+        <college>Calhoun CC, AL</college>
+        <pro_debut>2012-04-25</pro_debut>
+      </profile>
+      <profile status="A" jersey="63" position="RP" id="d3092204-06fe-4aef-98a6-784fb74d5949" mlbam_id="459967">
+        <first>Samuel</first>
+        <preferred_first>Sam</preferred_first>
+        <last>LeCure</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>205</weight>
+        <height>600</height>
+        <birthdate>1984-05-04</birthdate>
+        <birthcity>Jefferson City</birthcity>
+        <birthstate>MO</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Helias, Jefferson City, MO</highschool>
+        <college>Texas</college>
+        <pro_debut>2010-05-28</pro_debut>
+      </profile>
+      <profile status="A" jersey="45" position="RP" id="122f4bf8-1500-4808-91b1-78a808c9dfc4" mlbam_id="445156">
+        <first>Sean</first>
+        <preferred_first>Sean</preferred_first>
+        <last>Marshall</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>225</weight>
+        <height>607</height>
+        <birthdate>1982-08-30</birthdate>
+        <birthcity>Richmond</birthcity>
+        <birthstate>VA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Manchester, Midlothian, VA</highschool>
+        <college>Virginia Commonwealth</college>
+        <pro_debut>2006-04-09</pro_debut>
+      </profile>
+      <profile status="A" jersey="66" position="RP" id="a00bc1a8-5d57-4826-9ece-80041c160afe" mlbam_id="446185">
+        <first>Logan</first>
+        <preferred_first>Logan</preferred_first>
+        <last>Ondrusek</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>230</weight>
+        <height>608</height>
+        <birthdate>1985-02-13</birthdate>
+        <birthcity>Hallettsville</birthcity>
+        <birthstate>TX</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>St. Paul, Shiner, TX</highschool>
+        <college>McLennan CC, TX</college>
+        <pro_debut>2010-04-05</pro_debut>
+      </profile>
+      <profile status="A" jersey="31" position="RP" id="6cbe36b0-b8ce-41f4-9f71-c462b9ca4f43" mlbam_id="430580">
+        <first>Alfredo</first>
+        <preferred_first>Alfredo</preferred_first>
+        <last>Simon</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>265</weight>
+        <height>606</height>
+        <birthdate>1981-05-08</birthdate>
+        <birthcity>Santiago</birthcity>
+        <birthstate/>
+        <birthcountry>Dominican Republic</birthcountry>
+        <highschool>Liceo Gregorio, DR</highschool>
+        <college/>
+        <pro_debut>2008-09-06</pro_debut>
+      </profile>
+      <profile status="A" jersey="61" position="SP" id="53083fd6-8f9f-40d5-a622-49a628f94a51" mlbam_id="276520">
+        <first>Bronson</first>
+        <preferred_first>Bronson</preferred_first>
+        <last>Arroyo</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>195</weight>
+        <height>604</height>
+        <birthdate>1977-02-24</birthdate>
+        <birthcity>Key West</birthcity>
+        <birthstate>FL</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Hernando, Brooksville, FL</highschool>
+        <college/>
+        <pro_debut>2000-06-12</pro_debut>
+      </profile>
+      <profile status="A" jersey="34" position="SP" id="7908ee05-a767-4085-88b1-3cb029c9e5eb" mlbam_id="456701">
+        <first>David</first>
+        <preferred_first>Homer</preferred_first>
+        <last>Bailey</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>230</weight>
+        <height>604</height>
+        <birthdate>1986-05-03</birthdate>
+        <birthcity>La Grange</birthcity>
+        <birthstate>TX</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>La Grange, TX</highschool>
+        <college/>
+        <pro_debut>2007-06-08</pro_debut>
+      </profile>
+      <profile status="A" jersey="52" position="SP" id="9a6712d0-0b34-4313-9e27-645d5f703538" mlbam_id="571561">
+        <first>Anthony</first>
+        <preferred_first>Tony</preferred_first>
+        <last>Cingrani</last>
+        <bat_hand>L</bat_hand>
+        <throw_hand>L</throw_hand>
+        <weight>215</weight>
+        <height>604</height>
+        <birthdate>1989-07-05</birthdate>
+        <birthcity>Evergreen</birthcity>
+        <birthstate>IL</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Lincoln-Way Central, New Lenox, IL</highschool>
+        <college>Rice</college>
+        <pro_debut>2012-09-09</pro_debut>
+      </profile>
+      <profile status="A" jersey="55" position="SP" id="0117d05d-0fbb-4df8-9f16-d068c1cc8b32" mlbam_id="502009">
+        <first>Mathew</first>
+        <preferred_first>Mat</preferred_first>
+        <last>Latos</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>245</weight>
+        <height>606</height>
+        <birthdate>1987-12-09</birthdate>
+        <birthcity>Alexandria</birthcity>
+        <birthstate>VA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Coconut Creek, FL</highschool>
+        <college>Broward CC, FL</college>
+        <pro_debut>2009-07-19</pro_debut>
+      </profile>
+      <profile status="A" jersey="44" position="SP" id="7b54341a-7d39-4ea6-8b94-19ef145c8fba" mlbam_id="502190">
+        <first>Michael</first>
+        <preferred_first>Mike</preferred_first>
+        <last>Leake</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>185</weight>
+        <height>510</height>
+        <birthdate>1987-11-12</birthdate>
+        <birthcity>San Diego</birthcity>
+        <birthstate>CA</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Fallbrook, CA</highschool>
+        <college>Arizona State</college>
+        <pro_debut>2010-04-11</pro_debut>
+      </profile>
+      <profile status="A" jersey="2" position="SS" id="9a12e609-e9fc-4e7d-b602-2a719206fc55" mlbam_id="446359">
+        <first>Zachary</first>
+        <preferred_first>Zack</preferred_first>
+        <last>Cozart</last>
+        <bat_hand>R</bat_hand>
+        <throw_hand>R</throw_hand>
+        <weight>195</weight>
+        <height>600</height>
+        <birthdate>1985-08-12</birthdate>
+        <birthcity>Memphis</birthcity>
+        <birthstate>TN</birthstate>
+        <birthcountry>USA</birthcountry>
+        <highschool>Collierville, TN</highschool>
+        <college>Mississippi</college>
+        <pro_debut>2011-07-07</pro_debut>
+      </profile>
+    </players>
+  </team>
+</rosters>
+<!-- 2013-05-13T12:48:23-05:00 -->
