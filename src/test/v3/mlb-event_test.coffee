@@ -18,8 +18,6 @@ describe 'V3 MLB', ->
         .replyWithFile(412, __dirname + '/replies/event-412.txt')
         .get('/mlb-t3/event/c8457f5d-d8ed-4949-8c92-b341e5b37fa4.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/event-200.txt')
-        # .get('/mlb-t3/teams/2010.xml?api_key=api-key')
-        # .replyWithFile(200, __dirname + '/replies/teams-200-empty.txt')
 
     it 'should be a function', ->
       mlb.getEvent.should.be.a('function')
@@ -45,7 +43,6 @@ describe 'V3 MLB', ->
       mlb.getEvent 'c8457f5d-d8ed-4949-8c92-b341e5b37fa4', (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
-        result.event.should.be.a 'object'
         result.event.should.be.a 'object'
         result.event.season_type.should.match /REG/
         result.event.game.should.be.a 'object'
