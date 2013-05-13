@@ -42,30 +42,34 @@ class SportApi
     params = {year: year}
     return [params, callback]
 
-  getEvent: (eventId, callback) ->
-    if not eventId or not callback
-      throw new Error 'eventId and callback are required parameters'
+  ###
 
-    this.getResource '/event/%(eventId)s.xml', { eventId: eventId }, callback
+  EventID based functions
+
+  ###
+
+  getEvent: (eventId, callback) ->
+    [params, callback] = this.getEventParams eventId, callback
+    this.getResource '/event/%(eventId)s.xml', params, callback
 
   getEventStatistics: (eventId, callback) ->
-    if not eventId or not callback
-      throw new Error 'eventId and callback are required parameters'
-
-    this.getResource '/statistics/%(eventId)s.xml', { eventId: eventId }, callback
+    [params, callback] = this.getEventParams eventId, callback
+    this.getResource '/statistics/%(eventId)s.xml', params, callback
 
   getEventPlayByPlay: (eventId, callback) ->
-    if not eventId or not callback
-      throw new Error 'eventId and callback are required parameters'
-
-    this.getResource '/pbp/%(eventId)s.xml', { eventId: eventId }, callback
+    [params, callback] = this.getEventParams eventId, callback
+    this.getResource '/pbp/%(eventId)s.xml', params, callback
 
   getEventBoxscore: (eventId, callback) ->
+    [params, callback] = this.getEventParams eventId, callback
+    this.getResource '/boxscore/%(eventId)s.xml', params, callback
+
+  getEventParams: (eventId, callback) ->
     if not eventId or not callback
       throw new Error 'eventId and callback are required parameters'
 
-    this.getResource '/boxscore/%(eventId)s.xml', { eventId: eventId }, callback
-
+    params = {eventId: eventId}
+    return [params, callback]
 
   ###
 
