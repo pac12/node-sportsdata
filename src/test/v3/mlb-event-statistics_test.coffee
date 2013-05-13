@@ -15,7 +15,7 @@ describe 'V3 MLB', ->
         .get('/mlb-t3/statistics/c8457f5d-d8ed-4949-8c92-b341e5b37fa4.xml?api_key=bad-key')
         .replyWithFile(403, __dirname + '/replies/api-key-error.txt')
         .get('/mlb-t3/statistics/bad-event-id.xml?api_key=api-key')
-        .replyWithFile(412, __dirname + '/replies/event-statistics-412.txt')
+        .replyWithFile(412, __dirname + '/replies/event-id-error.txt')
         .get('/mlb-t3/statistics/c8457f5d-d8ed-4949-8c92-b341e5b37fa4.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/event-statistics-200.txt')
 
