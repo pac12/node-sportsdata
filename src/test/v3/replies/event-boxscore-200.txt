@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore id="c8457f5d-d8ed-4949-8c92-b341e5b37fa4" season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" season_type="REG" status="closed" xmlns="http://feed.elasticstats.com/schema/mlb/boxscore-v3.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <final inning="9" inning_half="T"/>
+  <visitor id="12079497-e414-450a-8bf2-29f91de646bf" name="Braves" abbr="ATL" probable_pitcher="42ab85a9-d914-426e-b5d0-af6d8a1734d7" runs="1" hits="7" errors="0" starting_pitcher="42ab85a9-d914-426e-b5d0-af6d8a1734d7">
+    <runs>
+      <event id="2099c97f-8d81-4724-9f6a-ff6613d994fa" hitter_id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pitcher_id="f05364d7-024b-4699-b947-c8bb42c968bc" inning="5" inning_half="T" type="pitch" hitter_outcome="aS">
+        <run runner_id="ab823ce4-655b-4d1d-ba3e-23316d8053dc" starting_base="3"/>
+      </event>
+    </runs>
+  </visitor>
+  <home id="a7723160-10b7-4277-a309-d8dd95a8ae65" name="Giants" abbr="SF" probable_pitcher="f05364d7-024b-4699-b947-c8bb42c968bc" runs="10" hits="14" errors="0" starting_pitcher="f05364d7-024b-4699-b947-c8bb42c968bc">
+    <runs>
+      <event id="ca59e4ef-4fd2-49a1-9955-355e2128b2ab" hitter_id="9929f49d-ba79-4fa5-aa11-962025e97b9f" pitcher_id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" inning="1" inning_half="B" type="pitch" hitter_outcome="aHR">
+        <run runner_id="9929f49d-ba79-4fa5-aa11-962025e97b9f" starting_base="0"/>
+      </event>
+      <event id="f85617e1-1437-4e54-a098-315f6082dc25" hitter_id="d456e10f-20e9-44c2-a15a-6c66951e5afe" pitcher_id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" inning="4" inning_half="B" type="pitch" hitter_outcome="aD">
+        <run runner_id="898c62b6-95bf-4973-a435-c6cb42a52158" starting_base="3"/>
+      </event>
+      <event id="ff223f32-3188-44f8-a894-42811f3fe9c0" hitter_id="898c62b6-95bf-4973-a435-c6cb42a52158" pitcher_id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" inning="5" inning_half="B" type="pitch" hitter_outcome="aD">
+        <run runner_id="88e7f18a-30bf-4bda-b091-691ef81a3b08" starting_base="3"/>
+      </event>
+      <event id="9a099572-96d0-4431-9c54-f688b3d2ff71" hitter_id="cbb197fc-6321-4a20-b931-b7260496a8b7" pitcher_id="4f4d8ff5-90c2-4c6e-9e7d-cf3d9ffa8822" inning="5" inning_half="B" type="pitch" hitter_outcome="aD">
+        <run runner_id="2ff4584d-de32-4be0-be6b-b0afa6607d4c" starting_base="1"/>
+        <run runner_id="898c62b6-95bf-4973-a435-c6cb42a52158" starting_base="2"/>
+        <run runner_id="9929f49d-ba79-4fa5-aa11-962025e97b9f" starting_base="3"/>
+      </event>
+      <event id="888bf71d-d539-4310-a0ad-66ac0370ac25" hitter_id="cbb197fc-6321-4a20-b931-b7260496a8b7" pitcher_id="63ef1581-59d0-4102-82d5-e7ef4ee4f765" inning="8" inning_half="B" type="pitch" hitter_outcome="aT">
+        <run runner_id="2ff4584d-de32-4be0-be6b-b0afa6607d4c" starting_base="2"/>
+      </event>
+      <event id="9af88e8c-bcfe-4460-a8c4-0ea6af6e8052" hitter_id="b76af645-b6aa-40c4-87d9-d5f8ea0adde5" pitcher_id="63ef1581-59d0-4102-82d5-e7ef4ee4f765" inning="8" inning_half="B" type="pitch" hitter_outcome="aD">
+        <run runner_id="cbb197fc-6321-4a20-b931-b7260496a8b7" starting_base="3"/>
+      </event>
+      <event id="60e85463-02aa-4c6e-9fce-a1bd805db6eb" hitter_id="36ee970b-0cff-4d50-b8ac-9bd16fae2dd1" pitcher_id="f53ff66f-73f7-4322-80ee-f6bbde5012fe" inning="8" inning_half="B" type="pitch" hitter_outcome="aS">
+        <run runner_id="0eb11e20-e14e-4adf-820a-25283c8b29f8" starting_base="2"/>
+        <run runner_id="b76af645-b6aa-40c4-87d9-d5f8ea0adde5" starting_base="3"/>
+      </event>
+    </runs>
+  </home>
+  <pitching win="f05364d7-024b-4699-b947-c8bb42c968bc" loss="42ab85a9-d914-426e-b5d0-af6d8a1734d7" save=""/>
+</boxscore>
+<!-- 2013-05-13T11:53:31-05:00 -->
