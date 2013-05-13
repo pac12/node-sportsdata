@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscores xmlns="http://feed.elasticstats.com/schema/mlb/daily-boxscore-v3.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+</boxscores>
+<!-- 2013-05-13T12:07:50-05:00 -->
