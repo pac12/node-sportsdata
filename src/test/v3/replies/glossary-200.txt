@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary xmlns="http://feed.elasticstats.com/schema/mlb/glossary-v1.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <pitch_types>
+        <pitch legacy_id="1.1" legacy_group="Fastball" type="Fastball" id="FA"/>
+        <pitch legacy_id="1.2" legacy_group="Fastball" type="Sinker" id="SI"/>
+        <pitch legacy_id="1.3" legacy_group="Fastball" type="Cutter" id="CT"/>
+        <pitch legacy_id="2.1" legacy_group="Curveball" type="Curveball" id="CU"/>
+        <pitch legacy_id="3.1" legacy_group="Slider" type="Slider" id="SL"/>
+        <pitch legacy_id="4.1" legacy_group="Changeup" type="Changeup" id="CH"/>
+        <pitch legacy_id="5.1" legacy_group="Other" type="Knuckleball" id="KN"/>
+        <pitch legacy_id="5.2" legacy_group="Other" type="Splitter" id="SP"/>
+        <pitch legacy_id="5.3" legacy_group="Other" type="Screwball" id="SC"/>
+        <pitch legacy_id="5.4" legacy_group="Other" type="Forkball" id="FO"/>
+        <pitch legacy_id="5.5" legacy_group="Other" type="Other"/>
+        <pitch legacy_id="5.6" legacy_group="Other" type="Intentional Ball" id="IB"/>
+        <pitch legacy_id="5.7" legacy_group="Other" type="Pitchout" id="PI"/>
+    </pitch_types>
+
+    <player_statuses>
+        <status id="A" type="Active"/>
+        <status id="BRV" type="Bereavement List"/>
+        <status id="D7" type="7 Day Disabled List"/>
+        <status id="D15" type="15 Day Disabled List"/>
+        <status id="D30" type="30 Day Disabled List"/>
+        <status id="DES" type="Designated for Assignment"/>
+        <status id="NRI" type="Non-roster Invitation"/>
+        <status id="RA" type="Rehab Assignment"/>
+        <status id="RES" type="Reserve List"/>
+        <status id="RL" type="Released"/>
+        <status id="RM" type="Reassigned to Minors"/>
+        <status id="RST" type="Restricted List"/>
+        <status id="SU" type="Suspended List"/>
+        <status id="OFS" type="Out For Season"/>
+        <status id="PL" type="Paternity Leave"/>
+    </player_statuses>
+
+    <pitch_outcome>
+        <outcome id="aD" desc="Double"/>
+        <outcome id="aDAD3" desc="Double - Adv 3rd"/>
+        <outcome id="aDAD4" desc="Double - Adv Home"/>
+        <outcome id="aHBP" desc="Hit By Pitch"/>
+        <outcome id="aHR" desc="Homerun"/>
+        <outcome id="aROE" desc="Reached On Error"/>
+        <outcome id="aS" desc="Single"/>
+        <outcome id="aSAD2" desc="Single - Adv 2nd"/>
+        <outcome id="aSAD3" desc="Single - Adv 3rd"/>
+        <outcome id="aSAD4" desc="Single - Adv Home"/>
+        <outcome id="aT" desc="Triple"/>
+        <outcome id="aTAD4" desc="Triple - Adv Home"/>
+        <outcome id="bB" desc="Ball"/>
+        <outcome id="bDB" desc="Dirt Ball"/>
+        <outcome id="bIB" desc="Intentional Ball"/>
+        <outcome id="bPO" desc="Pitchout"/>
+        <outcome id="kF" desc="Foul Ball"/>
+        <outcome id="kFT" desc="Foul Tip"/>
+        <outcome id="kKL" desc="Strike Looking"/>
+        <outcome id="kKS" desc="Strike Swinging"/>
+        <outcome id="oFC" desc="Fielders Choice"/>
+        <outcome id="oFO" desc="Fly Out"/>
+        <outcome id="oGO" desc="Ground Out"/>
+        <outcome id="oLO" desc="Line Out"/>
+        <outcome id="oPO" desc="Pop Out"/>
+        <outcome id="oSB" desc="Sacrifice Bunt"/>
+        <outcome id="oSF" desc="Sacrifice Fly"/>
+        <outcome id="oST2" desc="Single - Out at 2nd"/>
+        <outcome id="oST3" desc="Single - Out at 3rd"/>
+        <outcome id="oST4" desc="Single - Out at Home"/>
+        <outcome id="oDT3" desc="Double - Out at 3rd"/>
+        <outcome id="oDT4" desc="Double - Out at Home"/>
+        <outcome id="oTT4" desc="Triple - Out at Home"/>
+        <outcome id="oOBB" desc="Out of Batters Box"/>
+        <outcome id="oBI" desc="Hitter Interference"/>
+        <outcome id="oOP" desc="Out on Appeal"/>
+        <outcome id="aCI" desc="Catcher Interference"/>
+        <outcome id="aBK" desc="Balk"/>
+    </pitch_outcome>
+
+    <game_status>
+        <status id="scheduled" desc="The game is on the schedules and ready to play"/>
+        <status id="inprogress" desc="The first pitch for the game has been received"/>
+        <status id="complete" desc="The last pitch for the game has been received and statistics are being reviewed"/>
+        <status id="closed" desc="The game has passed review and MLB has officially closed the game"/>
+        <status id="wdelay" desc="The game has been delayed because of weather"/>
+        <status id="fdelay" desc="The game has been delayed because of facility issues"/>
+        <status id="odelay" desc="The game has been delayed"/>
+        <status id="postponed" desc="The game has been postponed and will be rescheduled in the future, restarting at the top of the 1st"/>
+        <status id="suspended" desc="The game has been suspended and will be rescheduled in the future, continuing where they left off"/>
+        <status id="maintenance" desc="The game failed review and is in the process of being repaired"/>
+    </game_status>
+
+    <runner_outcomes>
+        <outcome id="CK" desc="Checked"/>
+        <outcome id="ERN" desc="Earned Run/RBI"/>
+        <outcome id="eRN" desc="Earned Run/No RBI"/>
+        <outcome id="URN" desc="Unearned Run/RBI"/>
+        <outcome id="uRN" desc="Unearned Run/No RBI"/>
+        <outcome id="PO" desc="Pickoff"/>
+        <outcome id="AD2" desc="Advance 2nd"/>
+        <outcome id="AD3" desc="Advance 3rd"/>
+        <outcome id="SB2" desc="Stole 2nd"/>
+        <outcome id="SB3" desc="Stole 3rd"/>
+        <outcome id="SB4" desc="Stole Home"/>
+        <outcome id="TO2" desc="Tag out 2nd"/>
+        <outcome id="TO3" desc="Tag out 3rd"/>
+        <outcome id="TO4" desc="Tag out Home"/>
+        <outcome id="FO1" desc="Force out 1st"/>
+        <outcome id="FO2" desc="Force out 2nd"/>
+        <outcome id="FO3" desc="Force out 3rd"/>
+        <outcome id="FO4" desc="Force out Home"/>
+        <outcome id="CS2" desc="Caught Stealing 2nd"/>
+        <outcome id="CS3" desc="Caught Stealing 3rd"/>
+        <outcome id="CS4" desc="Caught Stealing Home"/>
+        <outcome id="SB2E3" desc="Stole 2nd, error to 3rd"/>
+        <outcome id="SB2E4" desc="Stole 2nd, error to Home"/>
+        <outcome id="SB3E4" desc="Stole 3nd, error to Home"/>
+        <outcome id="DI2" desc="Indeference to 2nd"/>
+        <outcome id="DI3" desc="Indeference to 3rd"/>
+        <outcome id="DO1" desc="Doubled off 1st"/>
+        <outcome id="DO2" desc="Doubled off 2nd"/>
+        <outcome id="DO3" desc="Doubled off 3rd"/>
+        <outcome id="RI" desc="Runner Interference"/>
+        <outcome id="OOA" desc="Out on Appeal"/>
+        <outcome id="OBP" desc="Out of Base Path"/>
+        <outcome id="HBB" desc="Hit by Batted Ball"/>
+    </runner_outcomes>
+
+    <post_season>
+        <game id="ALTB-1">AL Tiebreaker</game>
+        <game id="ALWC-1">AL Wild Card</game>
+        <game id="ALDS-1">AL Division Series - Game 1</game>
+        <game id="ALDS-2">AL Division Series - Game 2</game>
+        <game id="ALDS-3">AL Division Series - Game 3</game>
+        <game id="ALDS-4">AL Division Series - Game 4</game>
+        <game id="ALDS-5">AL Division Series - Game 5</game>
+        <game id="ALCS-1">AL Championship Series - Game 1</game>
+        <game id="ALCS-2">AL Championship Series - Game 2</game>
+        <game id="ALCS-3">AL Championship Series - Game 3</game>
+        <game id="ALCS-4">AL Championship Series - Game 4</game>
+        <game id="ALCS-5">AL Championship Series - Game 5</game>
+        <game id="ALCS-6">AL Championship Series - Game 6</game>
+        <game id="ALCS-7">AL Championship Series - Game 7</game>
+        <game id="NLTB-1">NL Tiebreaker</game>
+        <game id="NLWC-1">NL Wild Card</game>
+        <game id="NLDS-1">NL Division Series - Game 1</game>
+        <game id="NLDS-2">NL Division Series - Game 2</game>
+        <game id="NLDS-3">NL Division Series - Game 3</game>
+        <game id="NLDS-4">NL Division Series - Game 4</game>
+        <game id="NLDS-5">NL Division Series - Game 5</game>
+        <game id="NLCS-1">NL Championship Series - Game 1</game>
+        <game id="NLCS-2">NL Championship Series - Game 2</game>
+        <game id="NLCS-3">NL Championship Series - Game 3</game>
+        <game id="NLCS-4">NL Championship Series - Game 4</game>
+        <game id="NLCS-5">NL Championship Series - Game 5</game>
+        <game id="NLCS-6">NL Championship Series - Game 6</game>
+        <game id="NLCS-7">NL Championship Series - Game 7</game>
+        <game id="WS-1">World Series - Game 1</game>
+        <game id="WS-2">World Series - Game 2</game>
+        <game id="WS-3">World Series - Game 3</game>
+        <game id="WS-4">World Series - Game 4</game>
+        <game id="WS-5">World Series - Game 5</game>
+        <game id="WS-6">World Series - Game 6</game>
+        <game id="WS-7">World Series - Game 7</game>
+    </post_season>
+</glossary>

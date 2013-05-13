@@ -20,6 +20,9 @@ class SportApi
   getRollingThreeDaySchedule: (callback) ->
     this.getResource '/schedule-3day', callback
 
+  getGlossary: (callback) ->
+    this.getResource '/glossary/glossary.xml', callback
+
   ###
 
   Year based functions
