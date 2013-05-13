@@ -29,6 +29,11 @@ class MLB extends SportApi
 
     this.getResource '/event/%(eventId)s.xml', { eventId: eventId }, callback
 
+  getEventStatistics: (eventId, callback) ->
+    if not eventId or not callback
+      throw new Error 'eventId and callback are required parameters'
+
+    this.getResource '/statistics/%(eventId)s.xml', { eventId: eventId }, callback
 
   getDailyEvents: (date, callback) ->
     if typeof date is 'function'
