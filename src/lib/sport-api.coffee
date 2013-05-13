@@ -53,8 +53,7 @@ class SportApi
     if not year
       year = new Date().getFullYear()
 
-    params = {year: year}
-    return [params, callback]
+    [{year: year}, callback]
 
   ###
 
@@ -82,8 +81,7 @@ class SportApi
     if not eventId or not callback
       throw new Error 'eventId and callback are required parameters'
 
-    params = {eventId: eventId}
-    return [params, callback]
+    [{eventId: eventId}, callback]
 
   ###
 
