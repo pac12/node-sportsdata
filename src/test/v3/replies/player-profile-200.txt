@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<participant xmlns="http://feed.elasticstats.com/schema/mlb/player-profile-v1.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <profile id="898c62b6-95bf-4973-a435-c6cb42a52158" mlbam_id="457763">
+    <first>Gerald</first>
+    <preferred_first>Buster</preferred_first>
+    <last>Posey</last>
+    <bat_hand>R</bat_hand>
+    <throw_hand>R</throw_hand>
+    <weight>220</weight>
+    <height>601</height>
+    <birthdate>1987-03-27</birthdate>
+    <birthcity>Leesburg</birthcity>
+    <birthstate>GA</birthstate>
+    <birthcountry>USA</birthcountry>
+    <highschool>Lee County, Sanford, NC</highschool>
+    <college>Florida State</college>
+    <pro_debut>2009-09-11</pro_debut>
+  </profile>
+</participant>
+<!-- 2013-05-13T15:11:03-05:00 -->

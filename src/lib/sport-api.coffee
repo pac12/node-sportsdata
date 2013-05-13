@@ -87,6 +87,19 @@ class SportApi
 
   ###
 
+  PlayerID based functions
+
+  ###
+
+  getPlayerProfile: (playerId, callback) ->
+    if not playerId or not callback
+      throw new Error 'playerId and callback are required parameters'
+
+    params = {playerId: playerId}
+    this.getResource '/player/profile/%(playerId)s.xml', params, callback
+
+  ###
+
   HELPER FUNCTIONS
 
   ###
