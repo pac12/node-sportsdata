@@ -3,12 +3,7 @@
 A wrapper for the SportsData API
 
 ## Getting Started
-Install the module with: `npm install node-sportsdata`
-
-```javascript
-var node_sportsdata = require('node-sportsdata');
-node_sportsdata.awesome(); // "awesome"
-```
+_(Coming soon)_
 
 ## Documentation
 _(Coming soon)_
@@ -23,5 +18,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2013 PAC-12  
+Copyright (c) 2013 PAC-12
 Licensed under the MIT license.
