@@ -17,26 +17,30 @@ class SportApi
     if not accessLevel
       throw new Error 'You must provide an Access Level'
 
-  getLeagueSchedule: (year, callback) ->
-    if typeof year is 'function'
-      callback = year
-      year = null
-    if not year
-      year = new Date().getFullYear()
-
-    this.getResource '/schedule/%(year)s.xml', { year: year }, callback
-
   getRollingThreeDaySchedule: (callback) ->
     this.getResource '/schedule-3day', callback
 
+  getLeagueSchedule: (year, callback) ->
+    [params, callback] = this.getYearParams year, callback
+    this.getResource '/schedule/%(year)s.xml', params, callback
+
   getTeamsHierarchy: (year, callback) ->
+    [params, callback] = this.getYearParams year, callback
+    this.getResource '/teams/%(year)s.xml', params, callback
+
+  getStandings: (year, callback) ->
+    [params, callback] = this.getYearParams year, callback
+    this.getResource '/standings/%(year)s.xml', params, callback
+
+  getYearParams: (year, callback) ->
     if typeof year is 'function'
       callback = year
       year = null
     if not year
       year = new Date().getFullYear()
 
-    this.getResource '/teams/%(year)s.xml', { year: year }, callback
+    params = {year: year}
+    return [params, callback]
 
   getEvent: (eventId, callback) ->
     if not eventId or not callback
@@ -61,15 +65,6 @@ class SportApi
       throw new Error 'eventId and callback are required parameters'
 
     this.getResource '/boxscore/%(eventId)s.xml', { eventId: eventId }, callback
-
-  getStandings: (year, callback) ->
-    if typeof year is 'function'
-      callback = year
-      year = null
-    if not year
-      year = new Date().getFullYear()
-
-    this.getResource '/standings/%(year)s.xml', { year: year }, callback
 
 
   ###
