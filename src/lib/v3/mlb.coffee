@@ -8,6 +8,12 @@ class MLB extends SportApi
   getVenueInfo: (callback) ->
     this.getResource '/venues/venues.xml', callback
 
+  ###
+
+  Date based functions
+
+  ###
+
   getDailySchedule: (date, callback) ->
     [params, callback] = this.getDailyParams date, callback
     this.getResource '/daily/schedule/%(year)s/%(month)s/%(day)s.xml', params, callback
