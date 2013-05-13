@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<play_by_play xmlns="http://feed.elasticstats.com/schema/mlb/game-pbp-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="c8457f5d-d8ed-4949-8c92-b341e5b37fa4" visitor="12079497-e414-450a-8bf2-29f91de646bf" home="a7723160-10b7-4277-a309-d8dd95a8ae65" status="closed">
+  <inning id="0">
+    <inning_half id="top">
+      <lineup id="00b3ac06-f837-43f8-a44e-9495d0d64fb0" player_id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" order="9" position="1" team="12079497-e414-450a-8bf2-29f91de646bf"/>
+      <lineup id="1b9bc888-d9ed-4f2a-a4ca-793aef978c17" player_id="881f8704-7ba4-4f1f-b6bf-db739caf9f60" order="1" position="6" team="12079497-e414-450a-8bf2-29f91de646bf"/>
+      <lineup id="468bcdb1-b6e5-48c3-800a-01bb784bb2eb" player_id="13423559-9a61-4a05-8e37-7f2a3212c8fe" order="6" position="5" team="12079497-e414-450a-8bf2-29f91de646bf"/>
+      <lineup id="7a90e1fc-67d7-43aa-9100-283be7410301" player_id="ab823ce4-655b-4d1d-ba3e-23316d8053dc" order="5" position="7" team="12079497-e414-450a-8bf2-29f91de646bf"/>
+      <lineup id="8eb8222f-35f8-498c-ab14-fbab779f04cc" player_id="75ec0307-7e32-4dc9-a129-e8e68abacad1" order="8" position="2" team="12079497-e414-450a-8bf2-29f91de646bf"/>
+      <lineup id="906e5596-edc1-4cd7-b5e0-411a4f08890c" player_id="2847c4e0-01be-46bd-992e-701ee447e3f5" order="3" position="9" team="12079497-e414-450a-8bf2-29f91de646bf"/>
+      <lineup id="9ab105cb-279b-40e0-bf3b-1f1e2e477cc2" player_id="577a95ca-9043-4deb-963d-3b9aa6752d71" order="7" position="8" team="12079497-e414-450a-8bf2-29f91de646bf"/>
+      <lineup id="a8562ce7-8b76-4f29-afb3-fbd54e8a799a" player_id="58943439-148f-4c43-9d88-9dab2c29a6ca" order="2" position="4" team="12079497-e414-450a-8bf2-29f91de646bf"/>
+      <lineup id="b755fdd3-2cf5-4049-a325-13c49c3e0aee" player_id="ea1a2111-44cc-4996-babb-9439465e6760" order="4" position="3" team="12079497-e414-450a-8bf2-29f91de646bf"/>
+    </inning_half>
+    <inning_half id="bottom">
+      <lineup id="00296932-ee14-411e-8eef-d98630b19321" player_id="898c62b6-95bf-4973-a435-c6cb42a52158" order="4" position="3" team="a7723160-10b7-4277-a309-d8dd95a8ae65"/>
+      <lineup id="45174cb3-b4a3-4831-bfec-277a9ca25bac" player_id="90c62eff-c378-4459-8c32-c35ec8d89167" order="1" position="8" team="a7723160-10b7-4277-a309-d8dd95a8ae65"/>
+      <lineup id="6211c5b3-9739-4b91-9117-36dec063d9be" player_id="b76af645-b6aa-40c4-87d9-d5f8ea0adde5" order="7" position="2" team="a7723160-10b7-4277-a309-d8dd95a8ae65"/>
+      <lineup id="683f10d6-dc93-45f9-863c-244c634fb754" player_id="0e09681f-58e5-43ac-9443-954e0ed0fbef" order="6" position="7" team="a7723160-10b7-4277-a309-d8dd95a8ae65"/>
+      <lineup id="78988649-0762-4ee5-8c32-90bc5985bcc8" player_id="2ff4584d-de32-4be0-be6b-b0afa6607d4c" order="5" position="9" team="a7723160-10b7-4277-a309-d8dd95a8ae65"/>
+      <lineup id="8969f1c9-4374-419f-be66-40b51a4e5770" player_id="d456e10f-20e9-44c2-a15a-6c66951e5afe" order="8" position="6" team="a7723160-10b7-4277-a309-d8dd95a8ae65"/>
+      <lineup id="b3e02580-c9b9-4d02-80e5-b9f23a8eeb89" player_id="f05364d7-024b-4699-b947-c8bb42c968bc" order="9" position="1" team="a7723160-10b7-4277-a309-d8dd95a8ae65"/>
+      <lineup id="bb6e44d7-45a2-420f-bf6a-8d3ba20aef3c" player_id="9929f49d-ba79-4fa5-aa11-962025e97b9f" order="3" position="5" team="a7723160-10b7-4277-a309-d8dd95a8ae65"/>
+      <lineup id="f4cfca94-1a13-4865-8972-a1dd46ee2dc0" player_id="88e7f18a-30bf-4bda-b091-691ef81a3b08" order="2" position="4" team="a7723160-10b7-4277-a309-d8dd95a8ae65"/>
+    </inning_half>
+  </inning>
+  <inning id="1">
+    <inning_half id="top">
+      <at_bat id="881f8704-7ba4-4f1f-b6bf-db739caf9f60">
+        <description>Andrelton Simmons pops out.</description>
+        <pitches>
+          <pitch id="5ed844c6-e20b-4bf5-a25d-14f3f237ecf2" outcome="kKL" created_at="2013-05-11T20:06:53Z" updated_at="2013-05-11T20:06:53Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="1" outs="0" pcount="1"/>
+            <pitcher type="FA" speed="91.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="1"/>
+          </pitch>
+          <pitch id="fd6bee1f-74d3-4ee5-aa37-3bcd46f5eb80" outcome="oPO" created_at="2013-05-11T20:07:01Z" updated_at="2013-05-11T20:07:01Z">
+            <flags is_ab="true" is_ab_over="true" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="1" outs="1" pcount="2"/>
+            <pitcher type="FA" speed="88.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="2"/>
+          </pitch>
+        </pitches>
+      </at_bat>
+      <at_bat id="58943439-148f-4c43-9d88-9dab2c29a6ca">
+        <pitches>
+          <pitch id="fcff9562-b8b1-41f8-82b2-7d5e50871d40" outcome="kKL" created_at="2013-05-11T20:07:26Z" updated_at="2013-05-11T20:07:26Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="1" outs="1" pcount="1"/>
+            <pitcher type="FA" speed="91.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="3"/>
+          </pitch>
+          <pitch id="7d45bb46-022c-4c7d-99ca-ba4453093eb7" outcome="kKL" created_at="2013-05-11T20:07:42Z" updated_at="2013-05-11T20:07:42Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="2" outs="1" pcount="2"/>
+            <pitcher type="FA" speed="88.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="4"/>
+          </pitch>
+          <pitch id="43077dc9-e322-422b-aab2-d97b334596bb" outcome="bB" created_at="2013-05-11T20:08:06Z" updated_at="2013-05-11T20:08:06Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="1" strikes="2" outs="1" pcount="3"/>
+            <pitcher type="FA" speed="92.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="5"/>
+          </pitch>
+          <pitch id="cf99d0fa-a9fa-4deb-80f4-d95cb620b6cf" outcome="kKL" created_at="2013-05-11T20:08:24Z" updated_at="2013-05-11T20:08:24Z">
+            <flags is_ab="true" is_ab_over="true" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="1" strikes="3" outs="2" pcount="4"/>
+            <pitcher type="SL" speed="88.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="6"/>
+          </pitch>
+        </pitches>
+      </at_bat>
+      <at_bat id="2847c4e0-01be-46bd-992e-701ee447e3f5">
+        <description>Justin Upton grounds out.</description>
+        <pitches>
+          <pitch id="a2c7a846-dc3c-4f82-88c6-e9b375e2c9ee" outcome="kKL" created_at="2013-05-11T20:09:13Z" updated_at="2013-05-11T20:09:13Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="1" outs="2" pcount="1"/>
+            <pitcher type="SL" speed="89.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="7"/>
+          </pitch>
+          <pitch id="699ecb12-be74-45f3-9734-b42e93a92744" outcome="kF" created_at="2013-05-11T20:09:33Z" updated_at="2013-05-11T20:09:33Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="2" outs="2" pcount="2"/>
+            <pitcher type="SL" speed="89.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="8"/>
+          </pitch>
+          <pitch id="9c665af0-4e8d-4435-aa61-764006baa47c" outcome="kF" created_at="2013-05-11T20:10:15Z" updated_at="2013-05-11T20:10:15Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="2" outs="2" pcount="3"/>
+            <pitcher type="FA" speed="92.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="9"/>
+          </pitch>
+          <pitch id="a3afcfb2-0121-4a76-a010-957565baea14" outcome="bB" created_at="2013-05-11T20:10:51Z" updated_at="2013-05-11T20:10:51Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="1" strikes="2" outs="2" pcount="4"/>
+            <pitcher type="SL" speed="89.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="10"/>
+          </pitch>
+          <pitch id="4c16605f-130d-4a40-b377-ae907bdcee89" outcome="bB" created_at="2013-05-11T20:11:18Z" updated_at="2013-05-11T20:11:18Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="2" strikes="2" outs="2" pcount="5"/>
+            <pitcher type="SL" speed="90.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="11"/>
+          </pitch>
+          <pitch id="a7465db3-526e-4671-9a35-c6305d9128c9" outcome="oGO" created_at="2013-05-11T20:11:50Z" updated_at="2013-05-11T20:11:50Z">
+            <flags is_ab="true" is_ab_over="true" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="2" strikes="2" outs="3" pcount="6"/>
+            <pitcher type="FA" speed="92.0" x="-1.0" y="-1.0" id="f05364d7-024b-4699-b947-c8bb42c968bc" pcount="12"/>
+          </pitch>
+        </pitches>
+      </at_bat>
+    </inning_half>
+    <inning_half id="bottom">
+      <at_bat id="90c62eff-c378-4459-8c32-c35ec8d89167">
+        <pitches>
+          <pitch id="d5c9089d-1065-4f28-8200-dab981c69a7e" outcome="kKL" created_at="2013-05-11T20:14:28Z" updated_at="2013-05-11T20:14:28Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="1" outs="0" pcount="1"/>
+            <pitcher type="SL" speed="86.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="1"/>
+          </pitch>
+          <pitch id="43ed237b-51a1-42b4-9c3d-2569d9bac1c7" outcome="bB" created_at="2013-05-11T20:14:41Z" updated_at="2013-05-11T20:14:41Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="1" strikes="1" outs="0" pcount="2"/>
+            <pitcher type="SL" speed="86.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="2"/>
+          </pitch>
+          <pitch id="ef419cbe-f17d-4918-a188-39f32f2c942d" outcome="kF" created_at="2013-05-11T20:14:58Z" updated_at="2013-05-11T20:14:58Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="1" strikes="2" outs="0" pcount="3"/>
+            <pitcher type="SL" speed="82.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="3"/>
+          </pitch>
+          <pitch id="d3b6faac-5b0f-49c8-aeda-102244c19e94" outcome="kF" created_at="2013-05-11T20:15:23Z" updated_at="2013-05-11T20:15:23Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="1" strikes="2" outs="0" pcount="4"/>
+            <pitcher type="CU" speed="71.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="4"/>
+          </pitch>
+          <pitch id="10cb99bb-9a8c-4eae-8c31-79027ecfee57" outcome="bB" created_at="2013-05-11T20:15:51Z" updated_at="2013-05-11T20:15:51Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="2" strikes="2" outs="0" pcount="5"/>
+            <pitcher type="FA" speed="86.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="5"/>
+          </pitch>
+          <pitch id="27bbacd2-0e1f-4d73-a443-02153ddd6b7a" outcome="kF" created_at="2013-05-11T20:16:05Z" updated_at="2013-05-11T20:16:05Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="2" strikes="2" outs="0" pcount="6"/>
+            <pitcher type="FA" speed="87.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="6"/>
+          </pitch>
+          <pitch id="21c045a8-61fc-4ff4-b166-546f6c53f946" outcome="kKS" created_at="2013-05-11T20:16:34Z" updated_at="2013-05-11T20:16:34Z">
+            <flags is_ab="true" is_ab_over="true" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="2" strikes="3" outs="1" pcount="7"/>
+            <pitcher type="SL" speed="77.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="7"/>
+          </pitch>
+        </pitches>
+      </at_bat>
+      <at_bat id="88e7f18a-30bf-4bda-b091-691ef81a3b08">
+        <description>Marcos Scutaro flies out.</description>
+        <pitches>
+          <pitch id="c5f749c4-7ec6-4697-b93c-3b5c3b070aa4" outcome="kKL" created_at="2013-05-11T20:17:00Z" updated_at="2013-05-11T20:17:00Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="1" outs="1" pcount="1"/>
+            <pitcher type="FA" speed="87.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="8"/>
+          </pitch>
+          <pitch id="fdd9b6d1-ffd4-439d-b7f7-6a67e6b5b9c6" outcome="oFO" created_at="2013-05-11T20:17:16Z" updated_at="2013-05-11T20:17:16Z">
+            <flags is_ab="true" is_ab_over="true" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="1" outs="2" pcount="2"/>
+            <pitcher type="FA" speed="87.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="9"/>
+          </pitch>
+        </pitches>
+      </at_bat>
+      <at_bat id="9929f49d-ba79-4fa5-aa11-962025e97b9f">
+        <description>Pablo Sandoval homers.</description>
+        <pitches>
+          <pitch id="421159a1-4e07-42a6-9743-9210860c7f7c" outcome="bB" created_at="2013-05-11T20:17:53Z" updated_at="2013-05-11T20:17:53Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="1" strikes="0" outs="2" pcount="1"/>
+            <pitcher type="FA" speed="87.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="10"/>
+          </pitch>
+          <pitch id="6c2bd960-95b3-4974-993a-0bc724bc3101" outcome="bB" created_at="2013-05-11T20:18:21Z" updated_at="2013-05-11T20:18:21Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="2" strikes="0" outs="2" pcount="2"/>
+            <pitcher type="CU" speed="63.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="11"/>
+          </pitch>
+          <pitch id="27a2d5f8-e29a-4cdc-9455-ac3bea9b94fd" outcome="bB" created_at="2013-05-11T20:18:32Z" updated_at="2013-05-11T20:18:32Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="3" strikes="0" outs="2" pcount="3"/>
+            <pitcher type="FA" speed="87.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="12"/>
+          </pitch>
+          <pitch id="f302374a-cf67-410c-b4ed-ce4a72146b06" outcome="kKL" created_at="2013-05-11T20:18:48Z" updated_at="2013-05-11T20:18:48Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="3" strikes="1" outs="2" pcount="4"/>
+            <pitcher type="FA" speed="88.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="13"/>
+          </pitch>
+          <pitch id="cf77d054-8ced-4cc7-a9e7-59413dd9861e" outcome="kF" created_at="2013-05-11T20:19:08Z" updated_at="2013-05-11T20:19:08Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="3" strikes="2" outs="2" pcount="5"/>
+            <pitcher type="FA" speed="85.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="14"/>
+          </pitch>
+          <pitch id="ca59e4ef-4fd2-49a1-9955-355e2128b2ab" outcome="aHR" created_at="2013-05-11T20:19:38Z" updated_at="2013-05-11T20:19:38Z">
+            <flags is_ab="true" is_ab_over="true" is_bunt_shown="false" is_hit="true" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="3" strikes="2" outs="2" pcount="6"/>
+            <pitcher type="CU" speed="73.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="15"/>
+            <runners>
+              <runner starting_base="0" ending_base="4" id="9929f49d-ba79-4fa5-aa11-962025e97b9f"/>
+            </runners>
+          </pitch>
+        </pitches>
+      </at_bat>
+      <at_bat id="898c62b6-95bf-4973-a435-c6cb42a52158">
+        <description>Gerald Posey flies out.</description>
+        <pitches>
+          <pitch id="01a6d15b-2db3-4ba3-83a5-00ba3deb5903" outcome="kKL" created_at="2013-05-11T20:20:21Z" updated_at="2013-05-11T20:20:21Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="1" outs="2" pcount="1"/>
+            <pitcher type="FA" speed="88.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="16"/>
+          </pitch>
+          <pitch id="1cb76321-b61e-4f24-ae6f-88c6d96eb694" outcome="kF" created_at="2013-05-11T20:20:31Z" updated_at="2013-05-11T20:20:31Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="0" strikes="2" outs="2" pcount="2"/>
+            <pitcher type="FA" speed="87.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="17"/>
+          </pitch>
+          <pitch id="c8fd1a7d-65c8-4439-a4f4-efb280ba11f1" outcome="bB" created_at="2013-05-11T20:20:53Z" updated_at="2013-05-11T20:20:53Z">
+            <flags is_ab="false" is_ab_over="false" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="1" strikes="2" outs="2" pcount="3"/>
+            <pitcher type="FA" speed="89.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="18"/>
+          </pitch>
+          <pitch id="f7ac79f8-e509-42cb-a0e8-fd3a799ce3d4" outcome="oFO" created_at="2013-05-11T20:21:16Z" updated_at="2013-05-11T20:21:16Z">
+            <flags is_ab="true" is_ab_over="true" is_bunt_shown="false" is_hit="false" is_wild_pitch="false" is_passed_ball="false" is_on_base="false" is_double_play="false"/>
+            <count balls="1" strikes="2" outs="3" pcount="4"/>
+            <pitcher type="SL" speed="80.0" x="-1.0" y="-1.0" id="42ab85a9-d914-426e-b5d0-af6d8a1734d7" pcount="19"/>
+          </pitch>
+        </pitches>
+      </at_bat>
+    </inning_half>
+  </inning>
+</play_by_play>
+<!-- 2013-05-13T11:19:26-05:00 -->
