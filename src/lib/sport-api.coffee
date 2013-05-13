@@ -38,6 +38,18 @@ class SportApi
 
     this.getResource '/teams/%(year)s.xml', { year: year }, callback
 
+  getEvent: (eventId, callback) ->
+    if not eventId or not callback
+      throw new Error 'eventId and callback are required parameters'
+
+    this.getResource '/event/%(eventId)s.xml', { eventId: eventId }, callback
+
+  getEventStatistics: (eventId, callback) ->
+    if not eventId or not callback
+      throw new Error 'eventId and callback are required parameters'
+
+    this.getResource '/statistics/%(eventId)s.xml', { eventId: eventId }, callback
+
   getStandings: (year, callback) ->
     if typeof year is 'function'
       callback = year
