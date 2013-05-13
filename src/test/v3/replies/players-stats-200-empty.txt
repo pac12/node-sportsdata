@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statistics xmlns="http://feed.elasticstats.com/schema/mlb/player-stats-v4.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" season_id="8796aa41-149e-4e75-8e6c-b1d78f00ca4a" season_year="1992" type="player">
+</statistics>
+<!-- 2013-05-13T15:45:41-05:00 -->

@@ -50,6 +50,10 @@ class SportApi
     [params, callback] = this.getYearParams year, callback
     this.getResource '/seasontd/teams/%(year)s.xml', params, callback
 
+  getPlayersSeasonalStatistics: (year, callback) ->
+    [params, callback] = this.getYearParams year, callback
+    this.getResource '/seasontd/players/%(year)s.xml', params, callback
+
   getYearParams: (year, callback) ->
     if typeof year is 'function'
       callback = year

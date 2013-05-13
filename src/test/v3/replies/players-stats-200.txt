@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statistics xmlns="http://feed.elasticstats.com/schema/mlb/player-stats-v4.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" type="player">
+  <player id="40b8f221-0229-4682-a77f-7b8a7a8fd855">
+    <team id="bdc11650-6f74-49c4-875e-778aeb7632d9">
+      <pitching pcount="294" error="0" ip_1="42" ip_2="14.0" bf="70" gofo="0.833" lob="29" era="9.643" k9="12.861" whip="1.929">
+        <onbase h="19" s="13" d="2" t="0" hr="4" bb="7" ibb="1" hbp="0"/>
+        <runs unearned="0" earned="15" total="15"/>
+        <outcome klook="45" kswing="23" ktotal="68" ball="87" iball="3" dirtball="2" foul="0"/>
+        <outs klook="3" kswing="17" ktotal="20" po="4" fo="8" fidp="0" go="10" gidp="0" lo="0" lidp="0" sacfly="0" sachit="0"/>
+        <steal caught="0" stolen="0"/>
+        <games start="0" play="17" finish="0" complete="0" win="1" loss="2" save="0" qstart="0" shutout="0"/>
+      </pitching>
+    </team>
+  </player>
+  <player id="2b4644c8-d940-4679-9256-29b3ab0fcd4e">
+    <team id="575c19b7-4052-41c2-9f0a-1c5813d02f99">
+      <pitching pcount="41" error="0" ip_1="8" ip_2="2.2" bf="10" gofo="2.0" lob="3" era="0.0" k9="13.5" whip="0.75">
+        <onbase h="0" s="0" d="0" t="0" hr="0" bb="2" ibb="0" hbp="0"/>
+        <runs unearned="0" earned="0" total="0"/>
+        <outcome klook="11" kswing="2" ktotal="13" ball="13" iball="0" dirtball="1" foul="0"/>
+        <outs klook="1" kswing="3" ktotal="4" po="0" fo="1" fidp="0" go="2" gidp="0" lo="0" lidp="0" sacfly="0" sachit="1"/>
+        <steal caught="0" stolen="0"/>
+        <games start="0" play="2" finish="1" complete="0" win="1" loss="0" save="0" qstart="0" shutout="0"/>
+      </pitching>
+    </team>
+  </player>
+  <player id="7267e527-1ca0-4a94-b5a6-032e4769df48">
+    <team id="d99f919b-1534-4516-8e8a-9cd106c6d8cd">
+      <pitching pcount="239" error="0" ip_1="48" ip_2="16.0" bf="64" gofo="1.143" lob="44" era="0.563" k9="6.192" whip="1.0">
+        <onbase h="13" s="12" d="1" t="0" hr="0" bb="3" ibb="0" hbp="2"/>
+        <runs unearned="0" earned="1" total="1"/>
+        <outcome klook="35" kswing="15" ktotal="50" ball="68" iball="0" dirtball="1" foul="0"/>
+        <outs klook="1" kswing="10" ktotal="11" po="4" fo="7" fidp="0" go="16" gidp="3" lo="3" lidp="0" sacfly="0" sachit="0"/>
+        <steal caught="0" stolen="0"/>
+        <games start="0" play="15" finish="4" complete="0" win="1" loss="0" save="0" qstart="0" shutout="0"/>
+      </pitching>
+    </team>
+  </player>
+  <player id="eb2edeb2-ccc2-4bb5-8147-2d1421d3bbfe">
+    <team id="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8">
+      <pitching pcount="180" error="1" ip_1="34" ip_2="11.1" bf="48" gofo="1.0" lob="27" era="2.382" k9="3.969" whip="1.324">
+        <onbase h="13" s="11" d="0" t="0" hr="2" bb="2" ibb="0" hbp="1"/>
+        <runs unearned="2" earned="3" total="5"/>
+        <outcome klook="28" kswing="5" ktotal="33" ball="51" iball="0" dirtball="10" foul="0"/>
+        <outs klook="0" kswing="5" ktotal="5" po="3" fo="8" fidp="0" go="12" gidp="1" lo="1" lidp="0" sacfly="0" sachit="0"/>
+        <steal caught="0" stolen="0"/>
+        <games start="0" play="18" finish="2" complete="0" win="0" loss="1" save="0" qstart="0" shutout="0"/>
+      </pitching>
+    </team>
+  </player>
+  <player id="97dbfb33-fe1b-44a8-b420-d2f6e7eff495">
+    <team id="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8">
+      <pitching pcount="213" error="0" ip_1="45" ip_2="15.0" bf="59" gofo="1.273" lob="29" era="4.2" k9="7.803" whip="1.2">
+        <onbase h="10" s="10" d="0" t="0" hr="0" bb="8" ibb="0" hbp="0"/>
+        <runs unearned="0" earned="7" total="7"/>
+        <outcome klook="32" kswing="12" ktotal="44" ball="73" iball="0" dirtball="2" foul="0"/>
+        <outs klook="0" kswing="13" ktotal="13" po="2" fo="8" fidp="0" go="14" gidp="3" lo="1" lidp="0" sacfly="0" sachit="1"/>
+        <steal caught="0" stolen="0"/>
+        <games start="0" play="17" finish="1" complete="0" win="1" loss="2" save="0" qstart="0" shutout="0"/>
+      </pitching>
+    </team>
+  </player>
+</statistics>
