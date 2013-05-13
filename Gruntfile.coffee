@@ -38,6 +38,7 @@ module.exports = (grunt)->
           level: 'error'
         max_line_length:
           level: 'warn'
+          value: 120
     coffee:
       #compile:
       #  files:
