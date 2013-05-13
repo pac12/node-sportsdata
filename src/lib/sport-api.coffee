@@ -42,6 +42,10 @@ class SportApi
     [params, callback] = this.getYearParams year, callback
     this.getResource '/rosters/%(year)s.xml', params, callback
 
+  getTeamRostersFull: (year, callback) ->
+    [params, callback] = this.getYearParams year, callback
+    this.getResource '/rosters-full/%(year)s.xml', params, callback
+
   getYearParams: (year, callback) ->
     if typeof year is 'function'
       callback = year
