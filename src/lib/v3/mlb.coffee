@@ -35,7 +35,10 @@ class MLB extends SportApi
     if not date.date
       date = {date: date}
     if date.date not instanceof Date
-      date.date = new Date()
+      try
+        date.date = new Date(date.date)
+      catch e
+        date.date = new Date()
 
     date = moment(date.date)
     params =

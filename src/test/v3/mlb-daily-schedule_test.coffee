@@ -27,6 +27,8 @@ describe 'V3 MLB', ->
         .replyWithFile(200, __dirname + '/replies/daily-schedule-200.txt')
         .get('/mlb-t3/daily/schedule/2013/05/10.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/daily-schedule-200.txt')
+        .get('/mlb-t3/daily/schedule/2013/05/10.xml?api_key=api-key')
+        .replyWithFile(200, __dirname + '/replies/daily-schedule-200.txt')
         .get('/mlb-t3/daily/schedule/2013/07/15.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/daily-schedule-200-empty.txt')
 
@@ -58,6 +60,16 @@ describe 'V3 MLB', ->
     it 'should support date object literal param', (done) ->
       params = { date: new Date('2013-05-10 00:00:00') }
       mlb.getDailySchedule params, (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        result.calendars.should.be.a 'object'
+        result.calendars.event.should.be.an.instanceOf Array
+        result.calendars.event[0].should.be.a 'object'
+        result.calendars.event[0].season_type.should.match /REG/
+        done()
+
+    it 'should support string param', (done) ->
+      mlb.getDailySchedule '2013-05-10 00:00:00', (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
         result.calendars.should.be.a 'object'
