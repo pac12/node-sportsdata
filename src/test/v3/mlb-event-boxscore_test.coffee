@@ -18,6 +18,8 @@ describe 'V3 MLB', ->
         .replyWithFile(412, __dirname + '/replies/event-id-error.txt')
         .get('/mlb-t3/boxscore/c8457f5d-d8ed-4949-8c92-b341e5b37fa4.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/event-boxscore-200.txt')
+        .get('/mlb-t3/boxscore/c8457f5d-d8ed-4949-8c92-b341e5b37fa4.xml?api_key=api-key')
+        .replyWithFile(200, __dirname + '/replies/event-boxscore-200.txt')
 
     it 'should be a function', ->
       mlb.getEventBoxscore.should.be.a('function')
@@ -41,6 +43,18 @@ describe 'V3 MLB', ->
 
     it 'should pass no error and teams as result on 200', (done) ->
       mlb.getEventBoxscore 'c8457f5d-d8ed-4949-8c92-b341e5b37fa4', (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        result.boxscore.should.be.a 'object'
+        result.boxscore.final.should.be.a 'object'
+        result.boxscore.visitor.should.be.a 'object'
+        result.boxscore.home.should.be.a 'object'
+        result.boxscore.pitching.should.be.a 'object'
+        done()
+
+    it 'should support object literal as param', (done) ->
+      params = { eventId: 'c8457f5d-d8ed-4949-8c92-b341e5b37fa4' }
+      mlb.getEventBoxscore params, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
         result.boxscore.should.be.a 'object'

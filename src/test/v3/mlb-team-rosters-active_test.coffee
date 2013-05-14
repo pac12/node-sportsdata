@@ -18,6 +18,8 @@ describe 'V3 MLB', ->
         .replyWithFile(403, __dirname + '/replies/api-key-error.txt')
         .get('/mlb-t3/rosters/2013.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/team-rosters-200.txt')
+        .get('/mlb-t3/rosters/2013.xml?api_key=api-key')
+        .replyWithFile(200, __dirname + '/replies/team-rosters-200.txt')
         .get('/mlb-t3/rosters/2010.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/team-rosters-200-empty.txt')
 
@@ -38,6 +40,18 @@ describe 'V3 MLB', ->
 
     it 'should pass no error and rosters as result on 200', (done) ->
       mlb.getTeamRostersActive 2013, (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        result.rosters.should.be.a 'object'
+        result.rosters.team.should.be.an.instanceOf Array
+        result.rosters.team[0].should.be.a 'object'
+        result.rosters.team[0].players.should.be.a 'object'
+        result.rosters.team[0].players.profile.should.be.an.instanceOf(Array).with.lengthOf(25)
+        done()
+
+    it 'should support object literal as param', (done) ->
+      params = { year: 2013 }
+      mlb.getTeamRostersActive params, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
         result.rosters.should.be.a 'object'

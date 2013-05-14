@@ -30,10 +30,14 @@ class MLB extends SportApi
     if typeof date is 'function'
       callback = date
       date = null
-    if not date or date not instanceof Date
+    if not date
       date = new Date()
+    if not date.date
+      date = {date: date}
+    if date.date not instanceof Date
+      date.date = new Date()
 
-    date = moment(date)
+    date = moment(date.date)
     params =
       year: date.format('YYYY')
       month: date.format('MM')

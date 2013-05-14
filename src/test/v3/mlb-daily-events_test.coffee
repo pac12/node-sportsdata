@@ -25,6 +25,8 @@ describe 'V3 MLB', ->
         .replyWithFile(403, __dirname + '/replies/api-key-error.txt')
         .get('/mlb-t3/daily/event/2013/05/10.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/daily-events-200.txt')
+        .get('/mlb-t3/daily/event/2013/05/10.xml?api_key=api-key')
+        .replyWithFile(200, __dirname + '/replies/daily-events-200.txt')
         .get('/mlb-t3/daily/event/2013/07/15.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/daily-events-200-empty.txt')
 
@@ -45,6 +47,20 @@ describe 'V3 MLB', ->
 
     it 'should pass no error and events as result on 200', (done) ->
       mlb.getDailyEvents new Date('2013-05-10 00:00:00'), (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        result.events.should.be.a 'object'
+        result.events.event.should.be.an.instanceOf Array
+        result.events.event[0].should.be.a 'object'
+        result.events.event[0].season_type.should.match /REG/
+        result.events.event[0].game.should.be.a 'object'
+        result.events.event[0].game.visitor.should.be.a 'object'
+        result.events.event[0].game.home.should.be.a 'object'
+        done()
+
+    it 'should support date object literal param', (done) ->
+      params = { date: new Date('2013-05-10 00:00:00') }
+      mlb.getDailyEvents params, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
         result.events.should.be.a 'object'

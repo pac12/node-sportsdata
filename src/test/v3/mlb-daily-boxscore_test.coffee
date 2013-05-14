@@ -25,6 +25,8 @@ describe 'V3 MLB', ->
         .replyWithFile(403, __dirname + '/replies/api-key-error.txt')
         .get('/mlb-t3/daily/boxscore/2013/05/10.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/daily-boxscore-200.txt')
+        .get('/mlb-t3/daily/boxscore/2013/05/10.xml?api_key=api-key')
+        .replyWithFile(200, __dirname + '/replies/daily-boxscore-200.txt')
         .get('/mlb-t3/daily/boxscore/2013/07/15.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/daily-boxscore-200-empty.txt')
 
@@ -45,6 +47,19 @@ describe 'V3 MLB', ->
 
     it 'should pass no error and boxscores as result on 200', (done) ->
       mlb.getDailyBoxscore new Date('2013-05-10 00:00:00'), (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        result.boxscores.should.be.a 'object'
+        result.boxscores.boxscore.should.be.an.instanceOf Array
+        result.boxscores.boxscore[0].should.be.a 'object'
+        result.boxscores.boxscore[0].season_type.should.match /REG/
+        result.boxscores.boxscore[0].visitor.should.be.a 'object'
+        result.boxscores.boxscore[0].home.should.be.a 'object'
+        done()
+
+    it 'should support date object literal param', (done) ->
+      params = { date: new Date('2013-05-10 00:00:00') }
+      mlb.getDailyBoxscore params, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
         result.boxscores.should.be.a 'object'

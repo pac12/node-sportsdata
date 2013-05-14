@@ -18,6 +18,8 @@ describe 'V3 MLB', ->
         .replyWithFile(412, __dirname + '/replies/player-profile-id-error.txt')
         .get('/mlb-t3/player/profile/898c62b6-95bf-4973-a435-c6cb42a52158.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/player-profile-200.txt')
+        .get('/mlb-t3/player/profile/898c62b6-95bf-4973-a435-c6cb42a52158.xml?api_key=api-key')
+        .replyWithFile(200, __dirname + '/replies/player-profile-200.txt')
 
     it 'should be a function', ->
       mlb.getPlayerProfile.should.be.a('function')
@@ -41,6 +43,18 @@ describe 'V3 MLB', ->
 
     it 'should pass no error and teams as result on 200', (done) ->
       mlb.getPlayerProfile '898c62b6-95bf-4973-a435-c6cb42a52158', (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        result.participant.should.be.a 'object'
+        result.participant.profile.should.be.a 'object'
+        result.participant.profile.first.should.match /Gerald/
+        result.participant.profile.preferred_first.should.match /Buster/
+        result.participant.profile.last.should.match /Posey/
+        done()
+
+    it 'should support object literal as param', (done) ->
+      params = { playerId: '898c62b6-95bf-4973-a435-c6cb42a52158' }
+      mlb.getPlayerProfile params, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
         result.participant.should.be.a 'object'

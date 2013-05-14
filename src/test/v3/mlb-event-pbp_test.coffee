@@ -18,6 +18,8 @@ describe 'V3 MLB', ->
         .replyWithFile(412, __dirname + '/replies/event-id-error.txt')
         .get('/mlb-t3/pbp/c8457f5d-d8ed-4949-8c92-b341e5b37fa4.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/event-pbp-200.txt')
+        .get('/mlb-t3/pbp/c8457f5d-d8ed-4949-8c92-b341e5b37fa4.xml?api_key=api-key')
+        .replyWithFile(200, __dirname + '/replies/event-pbp-200.txt')
 
     it 'should be a function', ->
       mlb.getEventPlayByPlay.should.be.a('function')
@@ -41,6 +43,18 @@ describe 'V3 MLB', ->
 
     it 'should pass no error and teams as result on 200', (done) ->
       mlb.getEventPlayByPlay 'c8457f5d-d8ed-4949-8c92-b341e5b37fa4', (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        result.play_by_play.should.be.a 'object'
+        result.play_by_play.inning.should.be.an.instanceOf Array
+        result.play_by_play.inning[0].should.be.a 'object'
+        result.play_by_play.inning[0].inning_half.should.be.an.instanceOf Array
+        result.play_by_play.inning[0].inning_half[0].id.should.match /top/
+        done()
+
+    it 'should support object literal as param', (done) ->
+      params = { eventId: 'c8457f5d-d8ed-4949-8c92-b341e5b37fa4' }
+      mlb.getEventPlayByPlay params, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
         result.play_by_play.should.be.a 'object'

@@ -18,6 +18,8 @@ describe 'V3 MLB', ->
         .replyWithFile(403, __dirname + '/replies/api-key-error.txt')
         .get('/mlb-t3/standings/2013.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/standings-200.txt')
+        .get('/mlb-t3/standings/2013.xml?api_key=api-key')
+        .replyWithFile(200, __dirname + '/replies/standings-200.txt')
         .get('/mlb-t3/standings/2011.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/standings-200-empty.txt')
 
@@ -38,6 +40,17 @@ describe 'V3 MLB', ->
 
     it 'should pass no error and standings as result on 200', (done) ->
       mlb.getStandings 2013, (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        result.standings.should.be.a 'object'
+        result.standings.league.should.be.an.instanceOf Array
+        result.standings.league[0].should.be.a 'object'
+        result.standings.league[0].id.should.match /AL/
+        done()
+
+    it 'should support object literal as param', (done) ->
+      params = { year: 2013 }
+      mlb.getStandings params, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
         result.standings.should.be.a 'object'

@@ -18,6 +18,8 @@ describe 'V3 MLB', ->
         .replyWithFile(403, __dirname + '/replies/api-key-error.txt')
         .get('/mlb-t3/schedule/2013.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/league-schedule-200.txt')
+        .get('/mlb-t3/schedule/2013.xml?api_key=api-key')
+        .replyWithFile(200, __dirname + '/replies/league-schedule-200.txt')
         .get('/mlb-t3/schedule/2011.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/league-schedule-200-empty.txt')
 
@@ -38,6 +40,17 @@ describe 'V3 MLB', ->
 
     it 'should pass no error and schedule as result on 200', (done) ->
       mlb.getLeagueSchedule 2013, (err, result) ->
+        should.not.exist err
+        result.should.be.a 'object'
+        result.calendars.should.be.a 'object'
+        result.calendars.event.should.be.an.instanceOf Array
+        result.calendars.event[0].should.be.a 'object'
+        result.calendars.event[0].season_type.should.match /REG/
+        done()
+
+    it 'should support object literal as param', (done) ->
+      params = { year: 2013 }
+      mlb.getLeagueSchedule params, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
         result.calendars.should.be.a 'object'

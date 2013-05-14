@@ -63,8 +63,10 @@ class SportApi
       year = null
     if not year
       year = new Date().getFullYear()
+    if not year.year
+      year = {year: year}
 
-    [{year: year}, callback]
+    [year, callback]
 
   ###
 
@@ -91,8 +93,10 @@ class SportApi
   getEventParams: (eventId, callback) ->
     if not eventId or not callback
       throw new Error 'eventId and callback are required parameters'
+    if not eventId.eventId
+      eventId = {eventId: eventId}
 
-    [{eventId: eventId}, callback]
+    [eventId, callback]
 
   ###
 
@@ -103,9 +107,10 @@ class SportApi
   getPlayerProfile: (playerId, callback) ->
     if not playerId or not callback
       throw new Error 'playerId and callback are required parameters'
+    if not playerId.playerId
+      playerId = {playerId: playerId}
 
-    params = {playerId: playerId}
-    this.getResource '/player/profile/%(playerId)s.xml', params, callback
+    this.getResource '/player/profile/%(playerId)s.xml', playerId, callback
 
   ###
 
