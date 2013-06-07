@@ -43,6 +43,7 @@
   "dependencies": {
     "xml2js": "~0.2.7",
     "sprintf-js": "0.0.7",
-    "moment": "~2.0.0"
+    "moment": "~2.0.0",
+    "timezone": "0.0.21"
   }
 }
