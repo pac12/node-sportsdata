@@ -5,9 +5,11 @@ nock = require 'nock'
 NFL = require '../../lib/v1/nfl.js'
 
 describe 'V1 NFL', ->
+  nfl = new NFL 'api-key', 't'
+  badNfl = new NFL 'bad-key', 't'
+
   describe '#getTeamsHierarchy()', ->
     scope = undefined
-    nfl = new NFL 'api-key', 't'
 
     before ->
       scope = nock('http://api.sportsdatallc.org')
@@ -22,8 +24,7 @@ describe 'V1 NFL', ->
       nfl.getTeamsHierarchy.should.be.a('function')
 
     it 'should pass error and no result with bad api key', (done) ->
-      badMlb = new NFL 'bad-key', 't'
-      badMlb.getTeamsHierarchy (err, result) ->
+      badNfl.getTeamsHierarchy (err, result) ->
         err.should.match /HTTP 403/
         should.not.exist result
         done()
