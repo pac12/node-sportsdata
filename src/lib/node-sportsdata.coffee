@@ -12,7 +12,7 @@ Licensed under the MIT license.
 
 MLB    = require './v3/mlb'
 NBA    = require './v2/nba'
-NCAAF  = require './v1/ncaaf'
+NCAAFB  = require './v1/ncaafb'
 NCAAMB = require './v2/ncaamb'
 NFL    = require './v1/nfl'
 
@@ -32,8 +32,8 @@ exports.v2 = {
 }
 
 exports.v1 = {
-  ncaaf: (apiKey) ->
-    new NCAAF apiKey
+  ncaafb: (apiKey, accessLevel) ->
+    new NCAAFB apiKey, accessLevel
   nfl: (apiKey, accessLevel) ->
     new NFL apiKey, accessLevel
 }

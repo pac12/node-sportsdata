@@ -119,17 +119,22 @@ describe 'Node SportsData API', ->
       node_sportsdata.v1.should.be.a('object')
 
     it 'should have an NCAAF function', ->
-      node_sportsdata.v1.ncaaf.should.be.a('function')
+      node_sportsdata.v1.ncaafb.should.be.a('function')
 
-    describe '#ncaaf()', ->
+    describe '#ncaafb()', ->
 
-      it 'should return an NCAAF object', ->
-        node_sportsdata.v1.ncaaf('api-key').should.be.a('object')
+      it 'should return an NCAAFB object', ->
+        node_sportsdata.v1.ncaafb('api-key', 't').should.be.a('object')
 
       it 'should throw an error without api key', ->
         (->
-          node_sportsdata.v1.ncaaf()
+          node_sportsdata.v1.ncaafb()
         ).should.throwError(/You must provide an API Key/)
+
+      it 'should throw an error without access level', ->
+        (->
+          node_sportsdata.v1.ncaafb('api-key')
+        ).should.throwError(/You must provide an Access Level/)
 
     it 'should have an NFL function', ->
       node_sportsdata.v1.nfl.should.be.a('function')
@@ -146,6 +151,6 @@ describe 'Node SportsData API', ->
 
       it 'should throw an error without access level', ->
         (->
-          node_sportsdata.v3.mlb('api-key')
+          node_sportsdata.v1.nfl('api-key')
         ).should.throwError(/You must provide an Access Level/)
 
