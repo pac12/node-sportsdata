@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<division xmlns="http://feed.elasticstats.com/schema/ncaafb/hierarchy-v1.0.xsd" id="FBS" name="I-A">
+  <conference id="ACC" name="ACC">
+    <subdivision id="ACC-ATLANTIC" name="ATLANTIC">
+      <team id="BC" name="Eagles" market="Boston College" coverage="full"/>
+      <team id="CLE" name="Tigers" market="Clemson" coverage="full"/>
+      <team id="FSU" name="Seminoles" market="Florida State" coverage="full"/>
+      <team id="MAR" name="Terrapins" market="Maryland" coverage="full"/>
+      <team id="NCST" name="Wolfpack" market="North Carolina State" coverage="full"/>
+      <team id="WF" name="Deacons" market="Wake Forest" coverage="full"/>
+    </subdivision>
+    <subdivision id="ACC-COASTAL" name="COASTAL">
+      <team id="DUK" name="Devils" market="Duke" coverage="full"/>
+      <team id="GT" name="Jackets" market="Georgia Tech" coverage="full"/>
+      <team id="MFL" name="Hurricanes" market="Miami (FL)" coverage="full"/>
+      <team id="NC" name="Tar Heels" market="North Carolina" coverage="full"/>
+      <team id="UVA" name="Cavaliers" market="Virginia" coverage="full"/>
+      <team id="VT" name="Hokies" market="Virginia Tech" coverage="full"/>
+    </subdivision>
+  </conference>
+  <conference id="BIG-12" name="Big 12">
+    <team id="BAY" name="Bears" market="Baylor" coverage="full"/>
+    <team id="ISU" name="Cyclones" market="Iowa State" coverage="full"/>
+    <team id="KAN" name="Jayhawks" market="Kansas" coverage="full"/>
+    <team id="KST" name="Wildcats" market="Kansas State" coverage="full"/>
+    <team id="OKL" name="Sooners" market="Oklahoma" coverage="full"/>
+    <team id="OKS" name="Cowboys" market="Oklahoma State" coverage="full"/>
+    <team id="TCU" name="Frogs" market="TCU" coverage="full"/>
+    <team id="TEX" name="Longhorns" market="Texas" coverage="full"/>
+    <team id="TT" name="Raiders" market="Texas Tech" coverage="full"/>
+    <team id="WVU" name="Mountaineers" market="West Virginia" coverage="full"/>
+  </conference>
+  <conference id="BIG-EAST" name="Big East">
+    <team id="CIN" name="Bearcats" market="Cincinnati" coverage="full"/>
+    <team id="UCONN" name="Huskies" market="Connecticut" coverage="full"/>
+    <team id="LOU" name="Cardinals" market="Louisville" coverage="full"/>
+    <team id="PIT" name="Panthers" market="Pittsburgh" coverage="full"/>
+    <team id="RUT" name="Knights" market="Rutgers" coverage="full"/>
+    <team id="USF" name="Bulls" market="South Florida" coverage="full"/>
+    <team id="SYR" name="Orange" market="Syracuse" coverage="full"/>
+    <team id="TEM" name="Owls" market="Temple" coverage="full"/>
+  </conference>
+  <conference id="BIG-TEN" name="Big Ten">
+    <subdivision id="BIG-TEN-LEADERS" name="Leaders">
+      <team id="ILL" name="Illini" market="Illinois" coverage="full"/>
+      <team id="IU" name="Hoosiers" market="Indiana" coverage="full"/>
+      <team id="OSU" name="Buckeyes" market="Ohio State" coverage="full"/>
+      <team id="PSU" name="Lions" market="Penn State" coverage="full"/>
+      <team id="PUR" name="Boilermakers" market="Purdue" coverage="full"/>
+      <team id="WIS" name="Badgers" market="Wisconsin" coverage="full"/>
+    </subdivision>
+    <subdivision id="BIG-TEN-LEGENDS" name="Legends">
+      <team id="IOW" name="Hawkeyes" market="Iowa" coverage="full"/>
+      <team id="MICH" name="Wolverines" market="Michigan" coverage="full"/>
+      <team id="MSU" name="Spartans" market="Michigan State" coverage="full"/>
+      <team id="MIN" name="Gophers" market="Minnesota" coverage="full"/>
+      <team id="NEB" name="Cornhuskers" market="Nebraska" coverage="full"/>
+      <team id="NW" name="Wildcats" market="Northwestern" coverage="full"/>
+    </subdivision>
+  </conference>
+  <conference id="CONFERENCE-USA" name="Conference USA">
+    <subdivision id="CONFERENCE-USA-EAST" name="EAST">
+      <team id="ECU" name="Pirates" market="East Carolina" coverage="full"/>
+      <team id="MSH" name="Herd" market="Marshall" coverage="full"/>
+      <team id="MEM" name="Tigers" market="Memphis" coverage="full"/>
+      <team id="USM" name="Eagles" market="Southern Miss" coverage="full"/>
+      <team id="UAB" name="Blazers" market="UAB" coverage="full"/>
+      <team id="UCF" name="Knights" market="UCF" coverage="full"/>
+    </subdivision>
+    <subdivision id="CONFERENCE-USA-WEST" name="WEST">
+      <team id="HOU" name="Cougars" market="Houston" coverage="full"/>
+      <team id="RICE" name="Owls" market="Rice" coverage="full"/>
+      <team id="SMU" name="Mustangs" market="Southern Methodist" coverage="full"/>
+      <team id="TUL" name="Wave" market="Tulane" coverage="full"/>
+      <team id="TSA" name="Hurricane" market="Tulsa" coverage="full"/>
+      <team id="TEP" name="Miners" market="UTEP" coverage="full"/>
+    </subdivision>
+  </conference>
+  <conference id="IA-INDEPENDENTS" name="IA Independents">
+    <team id="ARM" name="Knights" market="Army" coverage="full"/>
+    <team id="BYU" name="Cougars" market="Brigham Young" coverage="full"/>
+    <team id="NAV" name="Midshipmen" market="Navy" coverage="full"/>
+    <team id="ND" name="Irish" market="Notre Dame" coverage="full"/>
+  </conference>
+  <conference id="MID-AMERICAN" name="Mid-American">
+    <subdivision id="MID-AMERICAN-EAST" name="EAST">
+      <team id="AKR" name="Zips" market="Akron" coverage="full"/>
+      <team id="BGN" name="Falcons" market="Bowling Green" coverage="full"/>
+      <team id="BUF" name="Bulls" market="Buffalo" coverage="full"/>
+      <team id="KNT" name="Flashes" market="Kent State" coverage="full"/>
+      <team id="UMASS" name="Minutemen" market="Massachusetts" coverage="full"/>
+      <team id="MOH" name="Redhawks" market="Miami (OH)" coverage="full"/>
+      <team id="OHI" name="Bobcats" market="Ohio" coverage="full"/>
+    </subdivision>
+    <subdivision id="MID-AMERICAN-WEST" name="WEST">
+      <team id="BALL" name="Cardinals" market="Ball State" coverage="full"/>
+      <team id="CMC" name="Chippewas" market="Central Michigan" coverage="full"/>
+      <team id="EMC" name="Eagles" market="Eastern Michigan" coverage="full"/>
+      <team id="NIL" name="Huskies" market="Northern Illinois" coverage="full"/>
+      <team id="TOL" name="Rockets" market="Toledo" coverage="full"/>
+      <team id="WMC" name="Broncos" market="Western Michigan" coverage="full"/>
+    </subdivision>
+  </conference>
+  <conference id="MOUNTAIN-WEST" name="Mountain West">
+    <team id="AF" name="Falcons" market="Air Force" coverage="full"/>
+    <team id="BOISE" name="Broncos" market="Boise State" coverage="full"/>
+    <team id="CSU" name="Rams" market="Colorado State" coverage="full"/>
+    <team id="FRE" name="Bulldogs" market="Fresno State" coverage="full"/>
+    <team id="HAW" name="Warriors" market="Hawaii" coverage="full"/>
+    <team id="NEV" name="Pack" market="Nevada" coverage="full"/>
+    <team id="NM" name="Lobos" market="New Mexico" coverage="full"/>
+    <team id="SDSU" name="Aztecs" market="San Diego State" coverage="full"/>
+    <team id="UNLV" name="Rebels" market="UNLV" coverage="full"/>
+    <team id="WYO" name="Cowboys" market="Wyoming" coverage="full"/>
+  </conference>
+  <conference id="PAC-12" name="Pac-12">
+    <subdivision id="PAC-12-SOUTH" name="SOUTH">
+      <team id="ARI" name="Wildcats" market="Arizona" coverage="full"/>
+      <team id="ASU" name="Devils" market="Arizona State" coverage="full"/>
+      <team id="COL" name="Buffaloes" market="Colorado" coverage="full"/>
+      <team id="UCLA" name="Bruins" market="UCLA" coverage="full"/>
+      <team id="USC" name="Trojans" market="USC" coverage="full"/>
+      <team id="UTH" name="Utes" market="Utah" coverage="full"/>
+    </subdivision>
+    <subdivision id="PAC-12-NORTH" name="NORTH">
+      <team id="CAL" name="Bears" market="California" coverage="full"/>
+      <team id="ORE" name="Ducks" market="Oregon" coverage="full"/>
+      <team id="ORS" name="Beavers" market="Oregon State" coverage="full"/>
+      <team id="STA" name="Cardinal" market="Stanford" coverage="full"/>
+      <team id="WAS" name="Huskies" market="Washington" coverage="full"/>
+      <team id="WST" name="Cougars" market="Washington State" coverage="full"/>
+    </subdivision>
+  </conference>
+  <conference id="SEC" name="SEC">
+    <subdivision id="SEC-WEST" name="WEST">
+      <team id="BAMA" name="Tide" market="Alabama" coverage="full"/>
+      <team id="ARK" name="Razorbacks" market="Arkansas" coverage="full"/>
+      <team id="AUB" name="Tigers" market="Auburn" coverage="full"/>
+      <team id="LSU" name="Tigers" market="LSU" coverage="full"/>
+      <team id="MSST" name="Bulldogs" market="Mississippi State" coverage="full"/>
+      <team id="MIS" name="Rebels" market="Ole Miss" coverage="full"/>
+      <team id="TXAM" name="Aggies" market="Texas A&amp;M" coverage="full"/>
+    </subdivision>
+    <subdivision id="SEC-EAST" name="EAST">
+      <team id="FLA" name="Gators" market="Florida" coverage="full"/>
+      <team id="UGA" name="Bulldogs" market="Georgia" coverage="full"/>
+      <team id="KEN" name="Wildcats" market="Kentucky" coverage="full"/>
+      <team id="MIZ" name="Tigers" market="Missouri" coverage="full"/>
+      <team id="SC" name="Gamecocks" market="South Carolina" coverage="full"/>
+      <team id="TEN" name="Volunteers" market="Tennessee" coverage="full"/>
+      <team id="VAN" name="Commodores" market="Vanderbilt" coverage="full"/>
+    </subdivision>
+  </conference>
+  <conference id="SUN-BELT" name="Sun Belt">
+    <team id="ARKS" name="Wolves" market="Arkansas State" coverage="full"/>
+    <team id="FAU" name="Owls" market="Florida Atlantic" coverage="full"/>
+    <team id="FIU" name="Panthers" market="Florida International" coverage="full"/>
+    <team id="ULL" name="Cajuns" market="Louisiana-Lafayette" coverage="full"/>
+    <team id="ULM" name="Warhawks" market="Louisiana-Monroe" coverage="full"/>
+    <team id="MTS" name="Raiders" market="Middle Tennessee" coverage="full"/>
+    <team id="NTX" name="Green" market="North Texas" coverage="full"/>
+    <team id="SAB" name="Jaguars" market="South Alabama" coverage="full"/>
+    <team id="TRY" name="Trojans" market="Troy" coverage="full"/>
+    <team id="WKY" name="Hilltoppers" market="Western Kentucky" coverage="full"/>
+  </conference>
+  <conference id="WAC" name="WAC">
+    <team id="IDA" name="Vandals" market="Idaho" coverage="full"/>
+    <team id="LT" name="Bulldogs" market="Louisiana Tech" coverage="full"/>
+    <team id="NMS" name="Aggies" market="New Mexico State" coverage="full"/>
+    <team id="SJS" name="Spartans" market="San Jose State" coverage="full"/>
+    <team id="TXST" name="Bobcats" market="Texas State" coverage="full"/>
+    <team id="UTSA" name="Roadrunners" market="UTSA" coverage="full"/>
+    <team id="UTS" name="Aggies" market="Utah State" coverage="full"/>
+  </conference>
+</division>
