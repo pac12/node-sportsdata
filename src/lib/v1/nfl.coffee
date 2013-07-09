@@ -1,8 +1,7 @@
-SportApi = require '../sport-api'
+V1 = require './v1'
 
-class NFL extends SportApi
+class NFL extends V1
   league: 'nfl'
-  version: 1
 
   getTeamsHierarchy: (callback) ->
     this.getResource '/teams/hierarchy.xml', callback
