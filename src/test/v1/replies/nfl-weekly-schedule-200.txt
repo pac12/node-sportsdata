@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games xmlns="http://feed.elasticstats.com/schema/nfl/schedule-v1.0.xsd" season="2013" type="REG" week="1">
+  <game id="880d99e7-8c18-4a1a-882c-e0d96e8ecf15" scheduled="2013-09-05T00:30:00+00:00" home_rotation="" away_rotation="" home="DEN" away="BAL" status="scheduled">
+    <venue id="6589e61d-ef1e-4e30-91b5-9acd2072b8a0" country="US" name="Sports Authority Field at Mile High" city="Denver " state="CO" capacity="76125" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="NBC" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/BAL/DEN/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/BAL/DEN/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/BAL/DEN/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/BAL/DEN/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/BAL/DEN/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/BAL/DEN/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/BAL/DEN/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="e036a429-1be6-4547-a99d-26602db584f9" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="NO" away="ATL" status="scheduled">
+    <venue id="3c85d89a-ec66-4983-acd5-1381d6c8673a" country="US" name="The Mercedes-Benz Superdome" city="New Orleans" state="LA" capacity="72968" surface="artificial" type="dome" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/ATL/NO/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/ATL/NO/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/ATL/NO/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/ATL/NO/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/ATL/NO/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/ATL/NO/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/ATL/NO/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="77c4d7dc-6196-4d58-864d-5e70e06e9070" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="PIT" away="TEN" status="scheduled">
+    <venue id="7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34" country="US" name="Heinz Field" city="Pittsburgh" state="PA" capacity="65050" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/TEN/PIT/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/TEN/PIT/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/TEN/PIT/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/TEN/PIT/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/TEN/PIT/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/TEN/PIT/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/TEN/PIT/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="b9d81c1f-fa7b-46b3-ada4-4354bc2a9909" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="NYJ" away="TB" status="scheduled">
+    <venue id="5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c" country="US" name="MetLife Stadium" city="East Rutherford" state="NJ" capacity="82500" surface="artificial" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/TB/NYJ/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/TB/NYJ/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/TB/NYJ/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/TB/NYJ/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/TB/NYJ/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/TB/NYJ/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/TB/NYJ/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="268a558b-ca2a-418e-8f46-8e3ce202363d" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="BUF" away="NE" status="scheduled">
+    <venue id="e9e0828e-37fc-4238-a317-49037577dd55" country="US" name="Ralph Wilson Stadium" city="Orchard Park" state="NY" capacity="73967" surface="artificial" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/NE/BUF/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/NE/BUF/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/NE/BUF/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/NE/BUF/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/NE/BUF/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/NE/BUF/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/NE/BUF/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="4869a6d0-4ef7-4712-a620-d10ffd8722d6" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="IND" away="OAK" status="scheduled">
+    <venue id="6ed18563-53e0-46c2-a91d-12d73a16456d" country="US" name="Lucas Oil Stadium" city="Indianapolis" state="IN" capacity="67000" surface="artificial" type="retractable_dome" zip="46225" address="500 S. Capitol Avenue"/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/OAK/IND/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/OAK/IND/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/OAK/IND/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/OAK/IND/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/OAK/IND/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/OAK/IND/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/OAK/IND/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="be8f3ead-127f-4ccf-8882-006d18f93b7b" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="DET" away="MIN" status="scheduled">
+    <venue id="6e3bcf22-277d-4c06-b019-62aded51654f" country="US" name="Ford Field" city="Detroit" state="MI" capacity="65000" surface="artificial" type="dome" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/MIN/DET/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/MIN/DET/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/MIN/DET/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/MIN/DET/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/MIN/DET/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/MIN/DET/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/MIN/DET/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="5a28bf90-8f71-479d-9016-9dcd2ebea4c4" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="CAR" away="SEA" status="scheduled">
+    <venue id="39be9ed4-3292-49ac-8699-a381de3a4969" country="US" name="Bank of America Stadium" city="Charlotte" state="NC" capacity="73778" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/SEA/CAR/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/SEA/CAR/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/SEA/CAR/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/SEA/CAR/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/SEA/CAR/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/SEA/CAR/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/SEA/CAR/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="327f19da-5407-49bd-bcc8-298f69d99751" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="JAC" away="KC" status="scheduled">
+    <venue id="4c5c036d-dd3d-4183-b595-71a43a97560f" country="US" name="EverBank Field" city="Jacksonville" state="FL" capacity="76877" surface="artificial" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/KC/JAC/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/KC/JAC/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/KC/JAC/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/KC/JAC/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/KC/JAC/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/KC/JAC/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/KC/JAC/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="c91ae72a-289b-41c1-ae02-ce7d733bf9a1" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="CHI" away="CIN" status="scheduled">
+    <venue id="d7866605-5ac6-4b3a-90e8-760cc5a26b75" country="US" name="Soldier Field" city="Chicago" state="IL" capacity="61500" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/CIN/CHI/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/CIN/CHI/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/CIN/CHI/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/CIN/CHI/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/CIN/CHI/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/CIN/CHI/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/CIN/CHI/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="56e13273-73f7-4b57-8e79-e1b88268f32a" scheduled="2013-09-08T17:00:00+00:00" home_rotation="" away_rotation="" home="CLE" away="MIA" status="scheduled">
+    <venue id="90c38d91-3774-4f5d-82ca-1c806828219f" country="US" name="Cleveland Browns Stadium" city="Cleveland " state="OH" capacity="73200" surface="artificial" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/MIA/CLE/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/MIA/CLE/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/MIA/CLE/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/MIA/CLE/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/MIA/CLE/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/MIA/CLE/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/MIA/CLE/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="6726b995-cb4c-4582-b729-fd9c21d063d2" scheduled="2013-09-08T20:25:00+00:00" home_rotation="" away_rotation="" home="STL" away="ARI" status="scheduled">
+    <venue id="e86a743f-ee77-490f-acfb-3187b7a9633e" country="US" name="Edward Jones Dome" city="St. Louis" state="MO" capacity="65321" surface="artificial" type="dome" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/ARI/STL/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/ARI/STL/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/ARI/STL/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/ARI/STL/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/ARI/STL/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/ARI/STL/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/ARI/STL/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="2b972664-949e-4025-9f3d-48b3484674cd" scheduled="2013-09-08T20:25:00+00:00" home_rotation="" away_rotation="" home="SF" away="GB" status="scheduled">
+    <venue id="6701808c-c329-482b-9834-2d29cb3185ff" country="US" name="Candlestick Park" city="San Francisco" state="CA" capacity="70207" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/GB/SF/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/GB/SF/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/GB/SF/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/GB/SF/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/GB/SF/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/GB/SF/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/GB/SF/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="05e9531d-e7e7-45c8-ae5a-91a2eb8acfa8" scheduled="2013-09-09T00:30:00+00:00" home_rotation="" away_rotation="" home="DAL" away="NYG" status="scheduled">
+    <venue id="1e84213a-ff1f-4c9d-a003-8ee782b25a40" country="US" name="Cowboys Stadium" city="Arlington" state="TX" capacity="80000" surface="artificial" type="retractable_dome" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="NBC" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/NYG/DAL/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/NYG/DAL/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/NYG/DAL/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/NYG/DAL/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/NYG/DAL/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/NYG/DAL/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/NYG/DAL/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="e6aad620-bbaf-4510-96f0-d2e8086c256d" scheduled="2013-09-09T23:10:00+00:00" home_rotation="" away_rotation="" home="WAS" away="PHI" status="scheduled">
+    <venue id="7c11bb2d-4a53-4842-b842-0f1c63ed78e9" country="US" name="FedEx Field" city="Hyattsville" state="MD" capacity="91704" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="ESPN" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/PHI/WAS/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/PHI/WAS/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/PHI/WAS/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/PHI/WAS/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/PHI/WAS/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/PHI/WAS/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/PHI/WAS/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="7dd862f9-21d6-4768-89f8-f82929ae575c" scheduled="2013-09-10T02:20:00+00:00" home_rotation="" away_rotation="" home="SD" away="HOU" status="scheduled">
+    <venue id="7ca47702-8951-45be-a4f5-3e7d78f8f399" country="US" name="Qualcomm Stadium" city="San Diego" state="CA" capacity="71294" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="ESPN" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2013/REG/1/HOU/SD/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2013/REG/1/HOU/SD/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2013/REG/1/HOU/SD/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2013/REG/1/HOU/SD/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2013/REG/1/HOU/SD/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2013/REG/1/HOU/SD/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2013/REG/1/HOU/SD/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+</games>

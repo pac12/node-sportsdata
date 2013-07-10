@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games xmlns="http://feed.elasticstats.com/schema/nfl/schedule-v1.0.xsd" season="2013" type="REG" week="1">
+</games>
