@@ -11,6 +11,8 @@ class V1 extends SportApi
     if typeof params is 'function'
       callback = params
       params = {}
+    if not params
+      params = {}
     if not params.year
       params.year = new Date().getFullYear()
     if not params.season
