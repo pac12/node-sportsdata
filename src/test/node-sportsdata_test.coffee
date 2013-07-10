@@ -82,6 +82,14 @@ describe 'Node SportsData API', ->
           node_sportsdata.v3.mlb('api-key')
         ).should.throwError(/You must provide an Access Level/)
 
+      it 'should default to not test league mode', ->
+        httpOptions =  node_sportsdata.v3.mlb('api-key', 't').getHttpOptions()
+        httpOptions.path.should.match /mlb-t3/
+
+      it 'should support test league mode', ->
+        httpOptions =  node_sportsdata.v3.mlb('api-key', 't', true).getHttpOptions()
+        httpOptions.path.should.match /mlb-test-t3/
+
   describe 'v2', ->
 
     it 'should be an object', ->
@@ -136,6 +144,14 @@ describe 'Node SportsData API', ->
           node_sportsdata.v1.ncaafb('api-key')
         ).should.throwError(/You must provide an Access Level/)
 
+      it 'should default to not test league mode', ->
+        httpOptions =  node_sportsdata.v1.ncaafb('api-key', 't').getHttpOptions()
+        httpOptions.path.should.match /ncaafb-t1/
+
+      it 'should support test league mode', ->
+        httpOptions =  node_sportsdata.v1.ncaafb('api-key', 't', true).getHttpOptions()
+        httpOptions.path.should.match /ncaafb-test-t1/
+
     it 'should have an NFL function', ->
       node_sportsdata.v1.nfl.should.be.a('function')
 
@@ -153,4 +169,12 @@ describe 'Node SportsData API', ->
         (->
           node_sportsdata.v1.nfl('api-key')
         ).should.throwError(/You must provide an Access Level/)
+
+      it 'should default to not test league mode', ->
+        httpOptions =  node_sportsdata.v1.nfl('api-key', 't').getHttpOptions()
+        httpOptions.path.should.match /nfl-t1/
+
+      it 'should support test league mode', ->
+        httpOptions =  node_sportsdata.v1.nfl('api-key', 't', true).getHttpOptions()
+        httpOptions.path.should.match /nfl-test-t1/
 

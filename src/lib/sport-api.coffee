@@ -11,7 +11,7 @@ class SportApi
     explicitArray: false
   }
 
-  constructor: (@apiKey, @accessLevel) ->
+  constructor: (@apiKey, @accessLevel, @testLeague = false) ->
     if not apiKey
       throw new Error 'You must provide an API Key'
     if not accessLevel
@@ -130,9 +130,14 @@ class SportApi
     if typeof params is 'undefined'
       params = {}
 
+    path = "/#{@league}-"
+    if (@testLeague)
+      path += "test-"
+    path += "#{@accessLevel + @version + sprintf(pattern, params) + sprintf('?api_key=%s', @apiKey)}"
+
     options =
       hostname: @domain
-      path: "/#{@league}-#{@accessLevel + @version + sprintf(pattern, params) + sprintf('?api_key=%s', @apiKey)}"
+      path: path
 
   performHttpGet: (options, callback) ->
     @parser.reset()

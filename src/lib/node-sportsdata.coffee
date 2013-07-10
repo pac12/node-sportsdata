@@ -20,8 +20,8 @@ exports.awesome = ()->
   'awesome'
 
 exports.v3 = {
-  mlb: (apiKey, accessLevel) ->
-    new MLB apiKey, accessLevel
+  mlb: (apiKey, accessLevel, testLeague) ->
+    new MLB apiKey, accessLevel, testLeague
 }
 
 exports.v2 = {
@@ -32,8 +32,8 @@ exports.v2 = {
 }
 
 exports.v1 = {
-  ncaafb: (apiKey, accessLevel) ->
-    new NCAAFB apiKey, accessLevel
-  nfl: (apiKey, accessLevel) ->
-    new NFL apiKey, accessLevel
+  ncaafb: (apiKey, accessLevel, testLeague) ->
+    new NCAAFB apiKey, accessLevel, testLeague
+  nfl: (apiKey, accessLevel, testLeague) ->
+    new NFL apiKey, accessLevel, testLeague
 }
