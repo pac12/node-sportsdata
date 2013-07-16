@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started at Mon Aug 06 02:59:53 +0000 2012 -->
+<game xmlns="http://feed.elasticstats.com/schema/ncaafb/extended-boxscore-v1.0.xsd" id="46f0f154-b56b-4056-8306-a61f127b6b97" scheduled="2011-10-15T16:00:00+00:00" home="MSU" away="MICH" status="complete" quarter="4" clock=":00" completed="2012-07-17T03:42:15+00:00">
+  <team id="MSU" name="Spartans" market="Michigan State" remaining_challenges="1" remaining_timeouts="2">
+    <scoring points="28">
+      <quarter number="1" points="7"/>
+      <quarter number="2" points="0"/>
+      <quarter number="3" points="14"/>
+      <quarter number="4" points="7"/>
+    </scoring>
+    <leaders>
+      <passing>
+        <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" att="24" cmp="13" yds="120" lg="16" sk="0" sk_yds="0.0" td="2" int="0" int_td="0" fd="8" sfty="0" rz_att="3" rating="123.67" avg="5.0" cmp_pct="54.2" cmp_avg="9.231" td_pct="8.3" int_pct="0.0" yds_10_pls="6" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+      </passing>
+      <rushing>
+        <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" att="25" yds="146" avg="5.84" lg="25" td="1" fd="8" fd_pct="32.0" sfty="0" rz_att="2" fum="1" yds_10_pls="3" yds_20_pls="3" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" att="7" yds="20" avg="2.857" lg="8" td="0" fd="1" fd_pct="14.3" sfty="0" rz_att="2" fum="0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+      </rushing>
+      <receiving>
+        <player id="502c8582-ec52-4c7e-8be1-cd576b6269b7" name="B.J. Cunningham" jersey="3" position="WR" tar="7" rec="4" yds="39" yac="39" fd="3" avg="9.75" td="0" lg="16" rz_tar="1" fum="0" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" tar="7" rec="3" yds="31" yac="31" fd="3" avg="10.333" td="2" lg="13" rz_tar="2" fum="0" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+      </receiving>
+    </leaders>
+    <possession time="30:23"/>
+  </team>
+  <team id="MICH" name="Wolverines" market="Michigan" remaining_challenges="2" remaining_timeouts="2">
+    <scoring points="14">
+      <quarter number="1" points="7"/>
+      <quarter number="2" points="0"/>
+      <quarter number="3" points="0"/>
+      <quarter number="4" points="7"/>
+    </scoring>
+    <leaders>
+      <passing>
+        <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" att="24" cmp="9" yds="125" lg="34" sk="4" sk_yds="34.0" td="1" int="1" int_td="1" fd="4" sfty="0" rz_att="3" rating="86.67" avg="5.208" cmp_pct="37.5" cmp_avg="13.889" td_pct="4.2" int_pct="4.2" yds_10_pls="3" yds_20_pls="1" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0"/>
+        <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" att="7" cmp="3" yds="45" lg="32" sk="3" sk_yds="28.0" td="0" int="0" int_td="0" fd="2" sfty="0" rz_att="0" rating="96.86" avg="6.429" cmp_pct="42.9" cmp_avg="15.0" td_pct="0.0" int_pct="0.0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0"/>
+      </passing>
+      <rushing>
+        <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" att="18" yds="40" avg="2.222" lg="15" td="1" fd="5" fd_pct="27.8" sfty="0" rz_att="3" fum="1" yds_10_pls="3" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" att="8" yds="37" avg="4.625" lg="26" td="0" fd="1" fd_pct="12.5" sfty="0" rz_att="0" fum="0" yds_10_pls="0" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+      </rushing>
+      <receiving>
+        <player id="197b7ef9-fd1b-4587-b4b5-71c331d0a721" name="Roy Roundtree" jersey="12" position="WR" tar="6" rec="4" yds="68" yac="68" fd="4" avg="17.0" td="1" lg="34" rz_tar="0" fum="0" yds_10_pls="1" yds_20_pls="0" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0"/>
+        <player id="164621ee-ea20-41cb-8ab5-408b28f3b108" name="Junior Hemingway" jersey="21" position="WR" tar="6" rec="3" yds="43" yac="43" fd="1" avg="14.333" td="0" lg="29" rz_tar="0" fum="0" yds_10_pls="0" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+      </receiving>
+    </leaders>
+    <possession time="29:37"/>
+  </team>
+  <possession team="MSU" side="MICH" yard_line="27" down="4" yfd="16"/>
+  <last_event>
+    <event clock=":00" type="gameover" sequence="185" updated="2012-07-17T03:42:15+00:00">
+      <summary>End of Game</summary>
+    </event>
+  </last_event>
+  <scoring_drives>
+    <drive sequence="1" clock="15:00" quarter="1" team="MICH">
+      <score type="touchdown" clock="08:50" quarter="1" points="6">
+        <summary>
+          <![CDATA[16-D.Robinson runs 15 yards for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/cee99a8b-f24a-4f58-9870-89d5a0f7184c.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock="08:45" quarter="1" points="1">
+        <summary>
+          <![CDATA[34-B.Gibbons extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/2f9db255-f44e-4441-8c14-3216ff1d96cf.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="2" clock="08:45" quarter="1" team="MSU">
+      <score type="touchdown" clock="05:30" quarter="1" points="6">
+        <summary>
+          <![CDATA[4-E.Baker runs 1 yard for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/7c13b898-c558-4e32-af5c-31420a0cc53c.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock="05:08" quarter="1" points="1">
+        <summary>
+          <![CDATA[4-D.Conroy extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/f6fea418-144c-4a6f-9d5a-a4cdad2f2ee3.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="3" clock="02:23" quarter="2" team="MSU">
+      <score type="touchdown" clock="11:30" quarter="3" points="6">
+        <summary>
+          <![CDATA[8-K.Cousins complete to 82-K.Martin. 82-K.Martin runs 10 yards for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/421a44f9-7ecc-49c8-b9a0-6dc109a660a8.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock="11:07" quarter="3" points="1">
+        <summary>
+          <![CDATA[4-D.Conroy extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/02158eb7-8de4-4a10-b638-f552cee89601.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="4" clock="04:33" quarter="3" team="MSU">
+      <score type="touchdown" clock=":30" quarter="3" points="6">
+        <summary>
+          <![CDATA[8-K.Cousins complete to 82-K.Martin. 82-K.Martin runs 13 yards for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/f8b52aea-c954-4de1-9814-58e9d2053ed7.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock=":30" quarter="3" points="1">
+        <summary>
+          <![CDATA[4-D.Conroy extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/c58d8772-3fd9-49cd-b02d-de656e6767f4.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="5" clock="09:56" quarter="4" team="MICH">
+      <score type="touchdown" clock="09:56" quarter="4" points="6">
+        <summary>
+          <![CDATA[16-D.Robinson complete to 12-R.Roundtree. 12-R.Roundtree runs 34 yards for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/38cb2522-1781-4e66-8cfb-2ce029aa7b1c.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock="09:49" quarter="4" points="1">
+        <summary>
+          <![CDATA[34-B.Gibbons extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/86ebcc9c-e59b-4abc-8700-698bb7ea2a1b.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="6" clock="04:40" quarter="4" team="MICH">
+      <score type="touchdown" clock="04:40" quarter="4" points="6">
+        <summary>
+          <![CDATA[16-D.Robinson incomplete. INTERCEPTED by 9-I.Lewis at MICH 39. 9-I.Lewis runs 39 yards for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/daf26e82-df20-4da8-a352-6afbf7d74d97.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="7" clock="04:40" quarter="4" team="MSU">
+      <score type="extrapoint" clock="04:40" quarter="4" points="1">
+        <summary>
+          <![CDATA[4-D.Conroy extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/28310ab6-1f78-43ed-83a5-1b2e7c6ae07e.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+  </scoring_drives>
+</game>
+<!-- Generation finished at Mon Aug 06 02:59:54 +0000 2012 -->

@@ -7,6 +7,10 @@ class V1 extends SportApi
     [params, callback] = this.getYearSeasonWeekParams(params, callback)
     this.getResource '/%(year)s/%(season)s/%(week)s/schedule.xml', params, callback
 
+  getExtendedBoxscore: (params, callback) ->
+    [params, callback] = this.getYearSeasonWeekParams(params, callback)
+    this.getResource '/%(year)s/%(season)s/%(week)s/%(away)s/%(home)s/extended-boxscore.xml', params, callback
+
   getYearSeasonWeekParams: (params, callback) ->
     if typeof params is 'function'
       callback = params

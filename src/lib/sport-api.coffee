@@ -123,7 +123,11 @@ class SportApi
       callback = params
       params = {}
 
-    options = this.getHttpOptions pattern, params
+    try
+      options = this.getHttpOptions pattern, params
+    catch e
+      return callback e
+
     this.performHttpGet options, callback
 
   getHttpOptions: (pattern, params) ->
