@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game xmlns="http://feed.elasticstats.com/schema/ncaafb/pbp-v1.0.xsd" id="46f0f154-b56b-4056-8306-a61f127b6b97" scheduled="2011-10-15T16:00:00+00:00" status="complete" home="MSU" away="MICH" completed="2012-07-17T03:42:15+00:00">
+  <!-- Generation  started at Mon Aug 06 02:59:51 +0000 2012 -->
+  <summary>
+    <home points="28" remaining_challenges="1" remaining_timeouts="2"/>
+    <away points="14" remaining_challenges="2" remaining_timeouts="2"/>
+  </summary>
+  <quarter number="1">
+    <event clock="15:00" type="cointoss" sequence="1" updated="2012-07-16T16:24:53+00:00">
+      <winner id="MSU" outcome="kick"/>
+      <summary>MSU wins coin toss, elects to kick.</summary>
+    </event>
+    <drive clock="15:00" team="MICH">
+      <play id="0ad7ca04-b466-4910-ba1a-0386f1f624de" clock="15:00" type="kick" sequence="2" updated="2012-07-17T00:31:02+00:00" side="MSU" yard_line="30" down="1" yfd="10">
+        <participants>
+          <player id="af00e187-15a3-4b55-a7b7-f0fa5aa2917d" name="Kevin Muma" jersey="17" position="K" team="MSU"/>
+        </participants>
+        <summary>17-K.Muma kicks 70 yards from MSU 30 to MICH End Zone. touchback.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/0ad7ca04-b466-4910-ba1a-0386f1f624de.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="dc29d0e8-a3e5-460b-b9e8-766b005c9324" clock="15:00" type="pass" sequence="3" updated="2012-07-17T00:31:46+00:00" side="MICH" yard_line="20" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="164621ee-ea20-41cb-8ab5-408b28f3b108" name="Junior Hemingway" jersey="21" position="WR" team="MICH"/>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="b9b9b2df-f24f-4953-8f01-5dfade40feac" name="Trenton Robinson" jersey="39" position="S" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 21-J.Hemingway. 21-J.Hemingway to MICH 25 for 5 yards (24-L.Bell,39-T.Robinson). Team penalty, Offside, 5 yards, enforced at MICH 20. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/dc29d0e8-a3e5-460b-b9e8-766b005c9324.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="50edba9a-ceac-41cc-a984-39f1c7691364" clock="14:50" type="pass" sequence="4" updated="2012-07-17T00:32:30+00:00" side="MICH" yard_line="25" down="1" yfd="5">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+          <player id="a0e62b13-6a42-4542-b4ca-11721ad6915e" name="Isaiah Lewis" jersey="9" position="S" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 10-J.Gallon. 10-J.Gallon to MICH 26 for 1 yard (9-I.Lewis).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/50edba9a-ceac-41cc-a984-39f1c7691364.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="35791efa-6bc3-453c-9681-6c1b43a63143" clock="14:20" type="rush" sequence="5" updated="2012-07-17T00:33:05+00:00" side="MICH" yard_line="26" down="2" yfd="4">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+          <player id="b32919ff-80fb-4801-8224-5d050e919e63" name="Kevin Pickelman" jersey="96" position="DT" team="MSU"/>
+        </participants>
+        <summary>7-D.Gardner to MICH 31 for 5 yards (10-C.Norman,96-K.Pickelman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/35791efa-6bc3-453c-9681-6c1b43a63143.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="e8b135e5-6237-40b8-91de-c53045d9f3f7" clock="13:59" type="rush" sequence="6" updated="2012-07-17T00:33:24+00:00" side="MICH" yard_line="31" down="1" yfd="10">
+        <participants>
+          <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" team="MICH"/>
+          <player id="a0e62b13-6a42-4542-b4ca-11721ad6915e" name="Isaiah Lewis" jersey="9" position="S" team="MSU"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+        </participants>
+        <summary>2-V.Smith to MICH 40 for 9 yards (9-I.Lewis,10-C.Norman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/e8b135e5-6237-40b8-91de-c53045d9f3f7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="5032af49-268d-4c7a-98d3-e607413258ef" clock="13:40" type="rush" sequence="7" updated="2012-07-17T00:33:41+00:00" side="MICH" yard_line="40" down="2" yfd="1">
+        <participants>
+          <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" team="MICH"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+        </participants>
+        <summary>2-V.Smith to MSU 34 for 26 yards (10-C.Norman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/5032af49-268d-4c7a-98d3-e607413258ef.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="7b678fcb-111e-44d8-bb62-1b1b872f8f49" clock="13:15" type="pass" sequence="8" updated="2012-07-17T00:34:33+00:00" side="MSU" yard_line="34" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="3b98f370-30d9-4d99-a6ef-0b6194381e90" name="Kevin Koger" jersey="86" position="TE" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 86-K.Koger. Team penalty, Pass interference, 5 yards, enforced at MSU 34. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/7b678fcb-111e-44d8-bb62-1b1b872f8f49.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="526e33fa-80a6-4c88-9dd8-13b2c82e7ea7" clock="13:05" type="rush" sequence="9" updated="2012-07-17T00:34:47+00:00" side="MSU" yard_line="29" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="24f4f18d-afd6-48bb-8438-89c906534732" name="Marcus Rush" jersey="44" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 29 for no gain (44-M.Rush).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/526e33fa-80a6-4c88-9dd8-13b2c82e7ea7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="3f968994-7a75-48dc-976b-635f7f0d9c4a" clock="12:40" type="pass" sequence="10" updated="2012-07-17T00:35:09+00:00" side="MSU" yard_line="29" down="2" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="164621ee-ea20-41cb-8ab5-408b28f3b108" name="Junior Hemingway" jersey="21" position="WR" team="MICH"/>
+          <player id="b9b9b2df-f24f-4953-8f01-5dfade40feac" name="Trenton Robinson" jersey="39" position="S" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 21-J.Hemingway. 21-J.Hemingway to MSU 20 for 9 yards (39-T.Robinson).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/3f968994-7a75-48dc-976b-635f7f0d9c4a.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="01ec7784-f5b5-4969-a2b8-7f32039732de" clock="12:00" type="penalty" sequence="11" updated="2012-07-17T00:35:39+00:00" side="MSU" yard_line="20" down="3" yfd="1">
+        <summary>Team penalty, Delay of game, 5 yards, enforced at MSU 20. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/01ec7784-f5b5-4969-a2b8-7f32039732de.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock="10:41" type="teamtimeout" sequence="12" updated="2012-07-17T00:35:48+00:00">
+        <timeout number="1"/>
+        <summary>Timeout #1 by MICH at 10:41.</summary>
+      </event>
+      <play id="36336037-fb81-4157-880b-25459f2e0de6" clock="10:41" type="rush" sequence="13" updated="2012-07-17T00:36:04+00:00" side="MSU" yard_line="25" down="3" yfd="6">
+        <participants>
+          <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" team="MICH"/>
+          <player id="eafa4bbc-b372-4762-b4d2-4bd951040ec8" name="Denicos Allen" jersey="28" position="LB" team="MSU"/>
+        </participants>
+        <summary>2-V.Smith to MSU 22 for 3 yards (28-D.Allen).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/36336037-fb81-4157-880b-25459f2e0de6.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="e409f201-09d7-46f3-80a5-45f0e70528d2" clock="10:20" type="rush" sequence="14" updated="2012-07-17T00:36:24+00:00" side="MSU" yard_line="22" down="4" yfd="3">
+        <participants>
+          <player id="1167973a-33b3-4949-8259-78e2579685ed" name="Drew Dileo" jersey="26" position="WR" team="MICH"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+          <player id="a0e62b13-6a42-4542-b4ca-11721ad6915e" name="Isaiah Lewis" jersey="9" position="S" team="MSU"/>
+        </participants>
+        <summary>26-D.Dileo to MSU 19 for 3 yards (10-C.Norman,9-I.Lewis).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/e409f201-09d7-46f3-80a5-45f0e70528d2.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock="09:50" type="challenge" sequence="15" updated="2012-07-17T00:36:42+00:00">
+        <summary>MSU challenged at 09:50. The rulling on the field upheld.</summary>
+      </event>
+      <play id="9a7bf808-e9dc-4d05-b293-40b0071033a1" clock="09:45" type="rush" sequence="16" updated="2012-07-17T00:40:44+00:00" side="MSU" yard_line="19" down="1" yfd="10">
+        <participants>
+          <player id="c2591805-7f23-44c9-bda3-44547b027121" name="Fitzgerald Toussaint" jersey="28" position="RB" team="MICH"/>
+          <player id="578e1d54-f037-4ade-8648-303dfaee7540" name="Max Bullough" jersey="40" position="LB" team="MSU"/>
+          <player id="eafa4bbc-b372-4762-b4d2-4bd951040ec8" name="Denicos Allen" jersey="28" position="LB" team="MSU"/>
+        </participants>
+        <summary>28-F.Toussaint to MSU 15 for 4 yards (40-M.Bullough,28-D.Allen).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/9a7bf808-e9dc-4d05-b293-40b0071033a1.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="cee99a8b-f24a-4f58-9870-89d5a0f7184c" clock="08:50" type="rush" sequence="17" updated="2012-07-17T00:41:15+00:00" side="MSU" yard_line="15" down="2" yfd="6">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson runs 15 yards for a touchdown.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/cee99a8b-f24a-4f58-9870-89d5a0f7184c.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="2f9db255-f44e-4441-8c14-3216ff1d96cf" clock="08:45" type="extrapoint" sequence="18" updated="2012-07-17T00:41:27+00:00" side="MSU" yard_line="7">
+        <participants>
+          <player id="ed5ddab4-e697-4f4c-865a-c51d88fdf9e9" name="Brendan Gibbons" jersey="34" position="K" team="MICH"/>
+        </participants>
+        <summary>34-B.Gibbons extra point is good.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/2f9db255-f44e-4441-8c14-3216ff1d96cf.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="08:45" team="MSU">
+      <play id="2f3bcee5-be5c-4191-ad69-2a8366a1a43c" clock="08:45" type="kick" sequence="19" updated="2012-07-17T00:45:59+00:00" side="MICH" yard_line="30">
+        <participants>
+          <player id="77b27857-bd01-4f77-895b-dcdbd6a5ce55" name="Matt Wile" jersey="45" position="K" team="MICH"/>
+          <player id="6252ec54-a06e-4f05-a2bb-233ba578ea20" name="Nick Hill" jersey="20" position="RB" team="MSU"/>
+          <player id="0411b2ff-fd4e-406d-ba5d-19bbe4337e72" name="Cameron Gordon" jersey="4" position="LB" team="MICH"/>
+        </participants>
+        <summary>45-M.Wile kicks 57 yards from MICH 30. 20-N.Hill to MSU 32 for 19 yards (4-C.Gordon).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/2f3bcee5-be5c-4191-ad69-2a8366a1a43c.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="d2a9d959-52dc-47a3-9a22-6f102ca9b38d" clock="08:45" type="penalty" sequence="20" updated="2012-07-17T00:46:08+00:00" side="MSU" yard_line="32" down="1" yfd="10">
+        <summary>Team penalty, Illegal formation, 5 yards, enforced at MSU 32. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/d2a9d959-52dc-47a3-9a22-6f102ca9b38d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="341ba3b1-e6ed-430f-8159-972d7ef5f2aa" clock="08:45" type="pass" sequence="21" updated="2012-07-17T00:46:30+00:00" side="MSU" yard_line="37" down="1" yfd="5">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 82-K.Martin.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/341ba3b1-e6ed-430f-8159-972d7ef5f2aa.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="d6782212-5a6e-4cc0-8c1f-61713cb4a6d6" clock="08:38" type="rush" sequence="22" updated="2012-07-17T00:47:58+00:00" side="MSU" yard_line="37" down="2" yfd="5">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="d81a9054-bbf9-422a-9f25-2d7c9795c096" name="Troy Woolfolk" jersey="29" position="CB" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 42 for 21 yards (29-T.Woolfolk).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/d6782212-5a6e-4cc0-8c1f-61713cb4a6d6.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="b928d909-a8b9-4412-bdd1-63022e40beda" clock="08:05" type="pass" sequence="23" updated="2012-07-17T00:48:26+00:00" side="MICH" yard_line="42" down="1" yfd="10">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 82-K.Martin.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/b928d909-a8b9-4412-bdd1-63022e40beda.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="e7f2ccec-ff6b-40ac-8613-37c735f0d361" clock="07:50" type="rush" sequence="24" updated="2012-07-17T00:48:41+00:00" side="MICH" yard_line="42" down="2" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="47396a70-f9f4-4a0f-9745-4b2af401caf1" name="Ryan Van Bergen" jersey="53" position="DE" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 39 for 3 yards (53-R.Van Bergen).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/e7f2ccec-ff6b-40ac-8613-37c735f0d361.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="78a04fd5-adfa-4f76-a23b-7334ec987da2" clock="07:20" type="pass" sequence="25" updated="2012-07-17T00:49:11+00:00" side="MICH" yard_line="39" down="3" yfd="7">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+          <player id="56a54d4b-efba-4ff3-88f5-f1cf30bbe159" name="Courtney Avery" jersey="5" position="CB" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 82-K.Martin. 82-K.Martin to MICH 31 for 8 yards (5-C.Avery).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/78a04fd5-adfa-4f76-a23b-7334ec987da2.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="bf64a96d-6317-4117-8110-c5a9824dece1" clock="06:50" type="rush" sequence="26" updated="2012-07-17T00:49:27+00:00" side="MICH" yard_line="31" down="1" yfd="10">
+        <participants>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+          <player id="f1089fb0-fee3-486d-8d69-d9b4dcbc8e91" name="Kenny Demens" jersey="25" position="LB" team="MICH"/>
+        </participants>
+        <summary>82-K.Martin to MICH 25 for 6 yards (25-K.Demens).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/bf64a96d-6317-4117-8110-c5a9824dece1.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="a765320b-d31d-4e70-8c2d-8ad9766d8b6d" clock="06:30" type="rush" sequence="27" updated="2012-07-17T00:49:52+00:00" side="MICH" yard_line="25" down="2" yfd="4">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="d81a9054-bbf9-422a-9f25-2d7c9795c096" name="Troy Woolfolk" jersey="29" position="CB" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 13 for 12 yards (29-T.Woolfolk).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/a765320b-d31d-4e70-8c2d-8ad9766d8b6d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="02a63d39-0d97-4e93-8f45-38316c2af0ce" clock="06:10" type="rush" sequence="28" updated="2012-07-17T00:50:14+00:00" side="MICH" yard_line="13" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="a081eedf-ce79-4b8a-be69-144541b3af00" name="Blake Countess" jersey="18" position="DB" team="MICH"/>
+          <player id="36c85321-24e8-48ba-90bd-3a453c4f491a" name="Thomas Gordon" jersey="30" position="S" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 1 for 12 yards (18-B.Countess,30-T.Gordon).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/02a63d39-0d97-4e93-8f45-38316c2af0ce.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="7c13b898-c558-4e32-af5c-31420a0cc53c" clock="05:30" type="rush" sequence="29" updated="2012-07-17T00:50:27+00:00" side="MICH" yard_line="1" down="1" yfd="1">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+        </participants>
+        <summary>4-E.Baker runs 1 yard for a touchdown.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/7c13b898-c558-4e32-af5c-31420a0cc53c.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="f6fea418-144c-4a6f-9d5a-a4cdad2f2ee3" clock="05:08" type="extrapoint" sequence="30" updated="2012-07-17T00:50:38+00:00" side="MICH" yard_line="7">
+        <participants>
+          <player id="104f7ead-38c4-43ba-9a8a-4d7e7608b11e" name="Dan Conroy" jersey="4" position="K" team="MSU"/>
+        </participants>
+        <summary>4-D.Conroy extra point is good.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/f6fea418-144c-4a6f-9d5a-a4cdad2f2ee3.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="05:08" team="MICH">
+      <play id="84cec2a7-ad81-45bb-bb39-91cd36d64488" clock="05:08" type="kick" sequence="31" updated="2012-07-17T00:51:08+00:00" side="MSU" yard_line="30">
+        <participants>
+          <player id="af00e187-15a3-4b55-a7b7-f0fa5aa2917d" name="Kevin Muma" jersey="17" position="K" team="MSU"/>
+          <player id="40d2a1b1-11b4-410d-8ca9-2b2142b1de2d" name="Martavious Odoms" jersey="9" position="WR" team="MICH"/>
+          <player id="bb5b445a-ecab-4c41-a251-d1939cfc1440" name="Jeremy Gainer" jersey="47" position="LB" team="MSU"/>
+        </participants>
+        <summary>17-K.Muma kicks 65 yards from MSU 30. 9-M.Odoms to MICH 22 for 17 yards (47-J.Gainer).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/84cec2a7-ad81-45bb-bb39-91cd36d64488.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="c20564af-7ee7-4fe6-a9a8-b6e9d34e9ff6" clock="05:08" type="penalty" sequence="32" updated="2012-07-17T00:51:18+00:00" side="MICH" yard_line="22" down="1" yfd="10">
+        <summary>Team penalty, Personal Foul, 15 yards, enforced at MICH 22. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/c20564af-7ee7-4fe6-a9a8-b6e9d34e9ff6.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="62cb535c-8c86-42d4-add3-f39f91c4338d" clock="05:02" type="rush" sequence="33" updated="2012-07-17T01:01:03+00:00" side="MICH" yard_line="37" down="1" yfd="10">
+        <participants>
+          <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" team="MICH"/>
+          <player id="eafa4bbc-b372-4762-b4d2-4bd951040ec8" name="Denicos Allen" jersey="28" position="LB" team="MSU"/>
+          <player id="578e1d54-f037-4ade-8648-303dfaee7540" name="Max Bullough" jersey="40" position="LB" team="MSU"/>
+        </participants>
+        <summary>2-V.Smith to MICH 35 for -2 yards (28-D.Allen,40-M.Bullough).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/62cb535c-8c86-42d4-add3-f39f91c4338d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="56d55dcc-74c7-4627-82d8-42de5f3ed78a" clock="04:48" type="pass" sequence="34" updated="2012-07-17T01:01:23+00:00" side="MICH" yard_line="35" down="2" yfd="12">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="40d2a1b1-11b4-410d-8ca9-2b2142b1de2d" name="Martavious Odoms" jersey="9" position="WR" team="MICH"/>
+        </participants>
+        <summary>7-D.Gardner incomplete. Intended for 9-M.Odoms.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/56d55dcc-74c7-4627-82d8-42de5f3ed78a.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="9969eeae-057e-4cfb-ba78-be64a3e11f53" clock="04:20" type="pass" sequence="35" updated="2012-07-17T01:01:38+00:00" side="MICH" yard_line="35" down="3" yfd="12">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/9969eeae-057e-4cfb-ba78-be64a3e11f53.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="bcd48723-8387-4f14-98bf-4be29d00ca03" clock="04:00" type="punt" sequence="36" updated="2012-07-17T01:02:06+00:00" side="MICH" yard_line="35" down="4" yfd="12">
+        <participants>
+          <player id="56d8f70f-4ab5-4dfc-980d-a9592ec3a126" name="Will Hagerup" jersey="43" position="P" team="MICH"/>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+        </participants>
+        <summary>43-W.Hagerup punts 33 yards from MICH 35 to MSU 32, fair catch by 82-K.Martin.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/bcd48723-8387-4f14-98bf-4be29d00ca03.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="03:58" team="MSU">
+      <play id="4c4db12e-12d5-4061-98fc-609269d1f271" clock="03:58" type="pass" sequence="37" updated="2012-07-17T01:02:27+00:00" side="MSU" yard_line="32" down="1" yfd="10">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="f1089fb0-fee3-486d-8d69-d9b4dcbc8e91" name="Kenny Demens" jersey="25" position="LB" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 24-L.Bell. 24-L.Bell to MSU 37 for 5 yards (25-K.Demens).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/4c4db12e-12d5-4061-98fc-609269d1f271.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="931a34b3-62b6-41ac-a547-d9e15f69a545" clock="03:40" type="rush" sequence="38" updated="2012-07-17T01:02:44+00:00" side="MSU" yard_line="37" down="2" yfd="5">
+        <participants>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="a081eedf-ce79-4b8a-be69-144541b3af00" name="Blake Countess" jersey="18" position="DB" team="MICH"/>
+        </participants>
+        <summary>24-L.Bell to MSU 45 for 8 yards (18-B.Countess).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/931a34b3-62b6-41ac-a547-d9e15f69a545.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="8b88d57a-77d4-4a77-8a37-264c0c23f6ea" clock="03:20" type="pass" sequence="39" updated="2012-07-17T01:03:03+00:00" side="MSU" yard_line="45" down="1" yfd="10">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="502c8582-ec52-4c7e-8be1-cd576b6269b7" name="B.J. Cunningham" jersey="3" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 3-B.Cunningham.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/8b88d57a-77d4-4a77-8a37-264c0c23f6ea.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="45d84e6a-4f8c-4e15-9f4c-4b23de868947" clock="03:15" type="rush" sequence="40" updated="2012-07-17T01:03:28+00:00" side="MSU" yard_line="45" down="2" yfd="10">
+        <participants>
+          <player id="bdbf5d83-3067-4ad0-ba02-ed992aad27c7" name="Bennie Fowler" jersey="13" position="WR" team="MSU"/>
+          <player id="99428808-4361-431c-aaa9-32b5cc94d0da" name="Desmond Morgan" jersey="44" position="LB" team="MICH"/>
+        </participants>
+        <summary>13-B.Fowler to MICH 49 for 6 yards (44-D.Morgan).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/45d84e6a-4f8c-4e15-9f4c-4b23de868947.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="3cc4ea3e-9a1f-425c-8380-3e22fb47a7d4" clock="03:10" type="pass" sequence="41" updated="2012-07-17T01:03:56+00:00" side="MICH" yard_line="49" down="3" yfd="4">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="502c8582-ec52-4c7e-8be1-cd576b6269b7" name="B.J. Cunningham" jersey="3" position="WR" team="MSU"/>
+          <player id="21b0717d-53b4-4725-8498-fbf16444c71c" name="J.T. Floyd" jersey="8" position="CB" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 3-B.Cunningham. 3-B.Cunningham to MICH 46 for 3 yards (8-J.Floyd).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/3cc4ea3e-9a1f-425c-8380-3e22fb47a7d4.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="d136761f-9363-487d-bf99-37d49cae5611" clock="01:10" type="punt" sequence="42" updated="2012-07-17T01:04:18+00:00" side="MICH" yard_line="46" down="4" yfd="1">
+        <participants>
+          <player id="4410c55e-8ca5-49d2-97b1-56dcba377781" name="Mike Sadler" jersey="3" position="P" team="MSU"/>
+        </participants>
+        <summary>3-M.Sadler punts 40 yards from MICH 46 Downed at the MICH 6.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/d136761f-9363-487d-bf99-37d49cae5611.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="01:03" team="MICH">
+      <play id="daa6a16a-1958-45ba-8748-a7f1cc99254a" clock="01:03" type="pass" sequence="43" updated="2012-07-17T01:04:41+00:00" side="MICH" yard_line="6" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="164621ee-ea20-41cb-8ab5-408b28f3b108" name="Junior Hemingway" jersey="21" position="WR" team="MICH"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 21-J.Hemingway. 21-J.Hemingway to MICH 35 for 29 yards (10-C.Norman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/daa6a16a-1958-45ba-8748-a7f1cc99254a.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="d8fa6199-bf56-4eda-993d-b0a483845643" clock=":30" type="rush" sequence="44" updated="2012-07-17T01:05:00+00:00" side="MICH" yard_line="35" down="1" yfd="10">
+        <participants>
+          <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" team="MICH"/>
+          <player id="eafa4bbc-b372-4762-b4d2-4bd951040ec8" name="Denicos Allen" jersey="28" position="LB" team="MSU"/>
+          <player id="578e1d54-f037-4ade-8648-303dfaee7540" name="Max Bullough" jersey="40" position="LB" team="MSU"/>
+        </participants>
+        <summary>2-V.Smith to MICH 35 for no gain (28-D.Allen,40-M.Bullough).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/d8fa6199-bf56-4eda-993d-b0a483845643.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock=":00" type="quarterend" sequence="45" updated="2012-07-17T01:05:02+00:00">
+        <summary>End of Quarter</summary>
+      </event>
+    </drive>
+  </quarter>
+  <quarter number="2">
+    <drive clock="01:03" team="MICH">
+      <play id="15a40752-a666-41f6-98af-bef2fa04d6e3" clock="15:00" type="rush" sequence="46" updated="2012-07-17T01:27:42+00:00" side="MICH" yard_line="35" down="2" yfd="10">
+        <participants>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+        </participants>
+        <summary>10-J.Gallon to MICH 43 for 8 yards.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/15a40752-a666-41f6-98af-bef2fa04d6e3.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="be630ee8-2b0a-4f2d-a7b8-6d3fb1a52649" clock="15:00" type="penalty" sequence="47" updated="2012-07-17T01:28:10+00:00" side="MICH" yard_line="43" down="3" yfd="2">
+        <summary>Team penalty, Personal Foul, 15 yards, enforced at MICH 43. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/be630ee8-2b0a-4f2d-a7b8-6d3fb1a52649.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="733bd58b-0213-4208-a79c-6d7975a5a9a2" clock="14:40" type="pass" sequence="48" updated="2012-07-17T01:28:43+00:00" side="MSU" yard_line="42" down="1" yfd="10">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="3b98f370-30d9-4d99-a6ef-0b6194381e90" name="Kevin Koger" jersey="86" position="TE" team="MICH"/>
+          <player id="f6048f69-1fd5-42c2-b46b-dc53e667b9d8" name="Johnny Adams" jersey="5" position="CB" team="MSU"/>
+        </participants>
+        <summary>7-D.Gardner complete to 86-K.Koger. 86-K.Koger to MSU 38 for 4 yards (5-J.Adams).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/733bd58b-0213-4208-a79c-6d7975a5a9a2.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="af88103f-e28b-4c16-b962-bc7d0b0826b5" clock="14:20" type="penalty" sequence="49" updated="2012-07-17T01:29:08+00:00" side="MSU" yard_line="38" down="2" yfd="6">
+        <summary>Team penalty, Offside, 5 yards, enforced at MSU 38. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/af88103f-e28b-4c16-b962-bc7d0b0826b5.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="d89335a9-3c63-4179-b468-a6718cf31392" clock="14:20" type="rush" sequence="50" updated="2012-07-17T01:29:19+00:00" side="MSU" yard_line="33" down="2" yfd="1">
+        <participants>
+          <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" team="MICH"/>
+          <player id="b32919ff-80fb-4801-8224-5d050e919e63" name="Kevin Pickelman" jersey="96" position="DT" team="MSU"/>
+        </participants>
+        <summary>2-V.Smith to MSU 36 for -3 yards (96-K.Pickelman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/d89335a9-3c63-4179-b468-a6718cf31392.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="36960bad-548b-475a-83d3-96e72fbc3f5b" clock="13:40" type="pass" sequence="51" updated="2012-07-17T01:29:37+00:00" side="MSU" yard_line="36" down="3" yfd="4">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 10-J.Gallon.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/36960bad-548b-475a-83d3-96e72fbc3f5b.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="6e7c85e1-b49b-48a0-85ab-e6364bcb6d53" clock="13:00" type="punt" sequence="52" updated="2012-07-17T01:30:02+00:00" side="MSU" yard_line="36" down="4" yfd="4">
+        <participants>
+          <player id="56d8f70f-4ab5-4dfc-980d-a9592ec3a126" name="Will Hagerup" jersey="43" position="P" team="MICH"/>
+        </participants>
+        <summary>43-W.Hagerup punts 26 yards from MSU 36, out of bounds at the MSU 10.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/6e7c85e1-b49b-48a0-85ab-e6364bcb6d53.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="12:36" team="MSU">
+      <play id="b35fd461-ea02-45f2-be44-2817824337e9" clock="12:36" type="rush" sequence="53" updated="2012-07-17T01:30:15+00:00" side="MSU" yard_line="10" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="4d24a887-0a7d-4239-9aeb-140ff6189d88" name="Mike Martin" jersey="68" position="DT" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 14 for 4 yards (68-M.Martin).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/b35fd461-ea02-45f2-be44-2817824337e9.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="f55cc23d-dbfb-4600-bafe-bac3aafb7231" clock="12:15" type="rush" sequence="54" updated="2012-07-17T01:30:32+00:00" side="MSU" yard_line="14" down="2" yfd="6">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="10639968-aeb1-4582-85be-1a17e0153b63" name="Craig Roh" jersey="88" position="DE" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 13 for -1 yard (88-C.Roh).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/f55cc23d-dbfb-4600-bafe-bac3aafb7231.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="ce7f18d4-3535-4f01-b6c0-dbcbe723665c" clock="11:50" type="pass" sequence="55" updated="2012-07-17T01:31:02+00:00" side="MSU" yard_line="13" down="3" yfd="7">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="502c8582-ec52-4c7e-8be1-cd576b6269b7" name="B.J. Cunningham" jersey="3" position="WR" team="MSU"/>
+          <player id="34f787bd-95a2-46a2-9462-efb23dd2db26" name="Jordan Kovacs" jersey="32" position="S" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 3-B.Cunningham. 3-B.Cunningham to MSU 29 for 16 yards (32-J.Kovacs).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ce7f18d4-3535-4f01-b6c0-dbcbe723665c.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="786e0c05-28a0-44fd-949e-2ae5b2357bdf" clock="11:20" type="rush" sequence="56" updated="2012-07-17T01:31:17+00:00" side="MSU" yard_line="29" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="4d24a887-0a7d-4239-9aeb-140ff6189d88" name="Mike Martin" jersey="68" position="DT" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 33 for 4 yards (68-M.Martin).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/786e0c05-28a0-44fd-949e-2ae5b2357bdf.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="ba8f593f-896b-49df-9a06-11a080e9dccb" clock="10:50" type="rush" sequence="57" updated="2012-07-17T01:31:36+00:00" side="MSU" yard_line="33" down="2" yfd="6">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="4eb55510-818f-492e-958f-83cd50743485" name="Brandin Hawthorne" jersey="7" position="LB" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 36 for 3 yards (7-B.Hawthorne).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ba8f593f-896b-49df-9a06-11a080e9dccb.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="e8d46249-bc34-4b3b-9d70-fb3006f2db04" clock="10:20" type="pass" sequence="58" updated="2012-07-17T01:31:55+00:00" side="MSU" yard_line="36" down="3" yfd="3">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="bd917399-03c2-46de-ac70-ec52ff9abc40" name="Larry Caper" jersey="22" position="RB" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 22-L.Caper.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/e8d46249-bc34-4b3b-9d70-fb3006f2db04.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="ee96c21f-5fee-4f74-857c-8505576af39e" clock="09:20" type="punt" sequence="59" updated="2012-07-17T01:32:21+00:00" side="MSU" yard_line="36" down="4" yfd="3">
+        <participants>
+          <player id="4410c55e-8ca5-49d2-97b1-56dcba377781" name="Mike Sadler" jersey="3" position="P" team="MSU"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+          <player id="b9b9b2df-f24f-4953-8f01-5dfade40feac" name="Trenton Robinson" jersey="39" position="S" team="MSU"/>
+        </participants>
+        <summary>3-M.Sadler punts 36 yards from MSU 36. 10-J.Gallon to MICH 32 for 4 yards (39-T.Robinson).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ee96c21f-5fee-4f74-857c-8505576af39e.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="09:09" team="MICH">
+      <play id="ca5cb907-510a-4bdd-b97d-cee26adea660" clock="09:09" type="pass" sequence="60" updated="2012-07-17T01:32:33+00:00" side="MICH" yard_line="32" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="544062c6-736f-4fe6-9d6b-5f6f70fc1592" name="Stephen Hopkins" jersey="33" position="RB" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 33-S.Hopkins.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ca5cb907-510a-4bdd-b97d-cee26adea660.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="0099a851-ebea-4398-a444-4de5a2a6ba39" clock="08:55" type="pass" sequence="61" updated="2012-07-17T01:33:00+00:00" side="MICH" yard_line="32" down="2" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 2-V.Smith. Team penalty, Roughing the passer, 15 yards, enforced at MICH 32. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/0099a851-ebea-4398-a444-4de5a2a6ba39.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="ee765163-abfc-4038-af0a-3b2e4241ae46" clock="08:35" type="rush" sequence="62" updated="2012-07-17T01:33:18+00:00" side="MICH" yard_line="47" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="a0e62b13-6a42-4542-b4ca-11721ad6915e" name="Isaiah Lewis" jersey="9" position="S" team="MSU"/>
+          <player id="b9b9b2df-f24f-4953-8f01-5dfade40feac" name="Trenton Robinson" jersey="39" position="S" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 47 for 6 yards (9-I.Lewis,39-T.Robinson).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ee765163-abfc-4038-af0a-3b2e4241ae46.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="f0d9b6de-100d-4825-9355-33f3f62331cf" clock="08:10" type="rush" sequence="63" updated="2012-07-17T01:36:57+00:00" side="MSU" yard_line="47" down="2" yfd="4">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="eafa4bbc-b372-4762-b4d2-4bd951040ec8" name="Denicos Allen" jersey="28" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 45 for 2 yards (28-D.Allen).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/f0d9b6de-100d-4825-9355-33f3f62331cf.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="be1ed534-b649-426c-b774-2fcc277a68a8" clock="07:50" type="rush" sequence="64" updated="2012-07-17T01:37:23+00:00" side="MSU" yard_line="45" down="3" yfd="2">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="b32919ff-80fb-4801-8224-5d050e919e63" name="Kevin Pickelman" jersey="96" position="DT" team="MSU"/>
+          <player id="24f4f18d-afd6-48bb-8438-89c906534732" name="Marcus Rush" jersey="44" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 43 for 2 yards (96-K.Pickelman,44-M.Rush).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/be1ed534-b649-426c-b774-2fcc277a68a8.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="abf3cb76-cf87-4c34-9f78-d5516a819afc" clock="07:20" type="pass" sequence="65" updated="2012-07-17T01:37:38+00:00" side="MSU" yard_line="43" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="164621ee-ea20-41cb-8ab5-408b28f3b108" name="Junior Hemingway" jersey="21" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 21-J.Hemingway.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/abf3cb76-cf87-4c34-9f78-d5516a819afc.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock="07:03" type="teamtimeout" sequence="66" updated="2012-07-17T01:37:44+00:00">
+        <timeout number="2"/>
+        <summary>Timeout #2 by MICH at 07:03.</summary>
+      </event>
+      <play id="40dd100a-9b69-4aa5-a11a-d0c1d4779d96" clock="07:03" type="pass" sequence="67" updated="2012-07-17T01:37:58+00:00" side="MSU" yard_line="43" down="2" yfd="10">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="164621ee-ea20-41cb-8ab5-408b28f3b108" name="Junior Hemingway" jersey="21" position="WR" team="MICH"/>
+        </participants>
+        <summary>7-D.Gardner incomplete. Intended for 21-J.Hemingway.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/40dd100a-9b69-4aa5-a11a-d0c1d4779d96.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="fdac9e86-2b34-4e3c-88b3-f0e8843e5bfc" clock="06:55" type="pass" sequence="68" updated="2012-07-17T01:38:12+00:00" side="MSU" yard_line="43" down="3" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 10-J.Gallon.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/fdac9e86-2b34-4e3c-88b3-f0e8843e5bfc.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="b3f9cedf-9d63-40ff-834f-b38e87eb90bf" clock="06:45" type="punt" sequence="69" updated="2012-07-17T01:38:37+00:00" side="MSU" yard_line="43" down="4" yfd="10">
+        <participants>
+          <player id="56d8f70f-4ab5-4dfc-980d-a9592ec3a126" name="Will Hagerup" jersey="43" position="P" team="MICH"/>
+        </participants>
+        <summary>43-W.Hagerup punts 38 yards from MSU 43, out of bounds at the MSU 5.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/b3f9cedf-9d63-40ff-834f-b38e87eb90bf.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="06:39" team="MSU">
+      <play id="66734847-4b28-45aa-b995-b7b866eb71ee" clock="06:39" type="penalty" sequence="70" updated="2012-07-17T01:40:47+00:00" side="MSU" yard_line="5" down="1" yfd="10">
+        <summary>Team penalty, False start, 2 yards, enforced at MSU 5. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/66734847-4b28-45aa-b995-b7b866eb71ee.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="b5438b1a-4c3f-42f4-af08-91b71b006b0e" clock="06:39" type="rush" sequence="71" updated="2012-07-17T01:40:59+00:00" side="MSU" yard_line="3" down="1" yfd="12">
+        <participants>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="99428808-4361-431c-aaa9-32b5cc94d0da" name="Desmond Morgan" jersey="44" position="LB" team="MICH"/>
+          <player id="3e2a59a1-55fb-4765-b40f-fb160006f05d" name="William Campbell" jersey="73" position="DT" team="MICH"/>
+        </participants>
+        <summary>24-L.Bell to MSU 7 for 4 yards (44-D.Morgan,73-W.Campbell).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/b5438b1a-4c3f-42f4-af08-91b71b006b0e.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="8be5cd46-b447-437d-81fa-10fb7dc56e1d" clock="06:10" type="rush" sequence="72" updated="2012-07-17T01:41:43+00:00" side="MSU" yard_line="7" down="2" yfd="8">
+        <participants>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="34f787bd-95a2-46a2-9462-efb23dd2db26" name="Jordan Kovacs" jersey="32" position="S" team="MICH"/>
+        </participants>
+        <summary>24-L.Bell to MSU 12 for 5 yards (32-J.Kovacs).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/8be5cd46-b447-437d-81fa-10fb7dc56e1d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="fbe0ae00-7627-4c6d-955f-7a433ecd95b4" clock="05:30" type="penalty" sequence="73" updated="2012-07-17T01:42:00+00:00" side="MSU" yard_line="12" down="3" yfd="3">
+        <summary>Team penalty, Delay of game, 5 yards, enforced at MSU 12. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/fbe0ae00-7627-4c6d-955f-7a433ecd95b4.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="30220ffa-f817-41d0-8adf-78f56651e974" clock="05:30" type="pass" sequence="74" updated="2012-07-17T01:42:28+00:00" side="MSU" yard_line="7" down="3" yfd="8">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="bd917399-03c2-46de-ac70-ec52ff9abc40" name="Larry Caper" jersey="22" position="RB" team="MSU"/>
+          <player id="56a54d4b-efba-4ff3-88f5-f1cf30bbe159" name="Courtney Avery" jersey="5" position="CB" team="MICH"/>
+          <player id="a081eedf-ce79-4b8a-be69-144541b3af00" name="Blake Countess" jersey="18" position="DB" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 22-L.Caper. 22-L.Caper to MSU 10 for 3 yards (5-C.Avery,18-B.Countess).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/30220ffa-f817-41d0-8adf-78f56651e974.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="d3ffd84a-e626-45f0-89fe-62672e10ddf7" clock="04:20" type="punt" sequence="75" updated="2012-07-17T01:53:52+00:00" side="MSU" yard_line="10" down="4" yfd="5">
+        <participants>
+          <player id="4410c55e-8ca5-49d2-97b1-56dcba377781" name="Mike Sadler" jersey="3" position="P" team="MSU"/>
+        </participants>
+        <summary>3-M.Sadler punts 44 yards from MSU 10 Downed at the MICH 46.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/d3ffd84a-e626-45f0-89fe-62672e10ddf7.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="04:00" team="MICH">
+      <play id="46af4c5f-e0dd-45fa-a87f-338fddea9bc3" clock="04:00" type="pass" sequence="76" updated="2012-07-17T01:54:06+00:00" side="MICH" yard_line="46" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="214ec483-0111-4729-944a-2b0c810b0c1a" name="Kelvin Grady" jersey="19" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 19-K.Grady.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/46af4c5f-e0dd-45fa-a87f-338fddea9bc3.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="88f2b21f-49a5-4a06-9dcf-e2177b7aabec" clock="03:45" type="rush" sequence="77" updated="2012-07-17T01:54:22+00:00" side="MICH" yard_line="46" down="2" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="b9b9b2df-f24f-4953-8f01-5dfade40feac" name="Trenton Robinson" jersey="39" position="S" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 39 for 15 yards (39-T.Robinson).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/88f2b21f-49a5-4a06-9dcf-e2177b7aabec.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="4f69a1ab-84e8-48a8-b74c-470f51d16eb7" clock="03:30" type="pass" sequence="78" updated="2012-07-17T01:54:38+00:00" side="MSU" yard_line="39" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="197b7ef9-fd1b-4587-b4b5-71c331d0a721" name="Roy Roundtree" jersey="12" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 12-R.Roundtree.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/4f69a1ab-84e8-48a8-b74c-470f51d16eb7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="1d2c0bbe-6b83-41e0-be93-16b7c3855a29" clock="03:00" type="rush" sequence="79" updated="2012-07-17T02:06:32+00:00" side="MSU" yard_line="39" down="2" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="481bde0e-df7d-44a8-9242-bd2b2fa22fd9" name="William Gholston" jersey="2" position="LB" team="MSU"/>
+          <player id="2f77a066-9d98-4537-adad-795b7cd55d23" name="Anthony Rashad White" jersey="98" position="DT" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 37 for 2 yards (2-W.Gholston,98-A.Rashad).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/1d2c0bbe-6b83-41e0-be93-16b7c3855a29.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock="02:34" type="teamtimeout" sequence="80" updated="2012-07-17T02:06:40+00:00">
+        <timeout number="3"/>
+        <summary>Timeout #3 by MICH at 02:34.</summary>
+      </event>
+      <play id="3b5928d7-7b2d-4ff6-800a-bf2edbc681d9" clock="02:34" type="pass" sequence="81" updated="2012-07-17T02:06:49+00:00" side="MSU" yard_line="37" down="3" yfd="8">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 10-J.Gallon.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/3b5928d7-7b2d-4ff6-800a-bf2edbc681d9.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="1236e38f-8227-4f46-98a7-506ab4c11281" clock="02:30" type="punt" sequence="82" updated="2012-07-17T02:07:09+00:00" side="MSU" yard_line="37" down="4" yfd="8">
+        <participants>
+          <player id="56d8f70f-4ab5-4dfc-980d-a9592ec3a126" name="Will Hagerup" jersey="43" position="P" team="MICH"/>
+        </participants>
+        <summary>43-W.Hagerup punts 32 yards from MSU 37, out of bounds at the MSU 5.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/1236e38f-8227-4f46-98a7-506ab4c11281.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="02:23" team="MSU">
+      <play id="3b56cf72-c4af-41d0-b99a-9f8fdb6e5161" clock="02:23" type="rush" sequence="83" updated="2012-07-17T02:07:59+00:00" side="MSU" yard_line="5" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="36c85321-24e8-48ba-90bd-3a453c4f491a" name="Thomas Gordon" jersey="30" position="S" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 8 for 3 yards (30-T.Gordon).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/3b56cf72-c4af-41d0-b99a-9f8fdb6e5161.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="de981c6a-1d3d-4080-a855-22a1163abace" clock="02:00" type="rush" sequence="84" updated="2012-07-17T02:10:07+00:00" side="MSU" yard_line="8" down="2" yfd="7">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="34f787bd-95a2-46a2-9462-efb23dd2db26" name="Jordan Kovacs" jersey="32" position="S" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 17 for 9 yards (32-J.Kovacs).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/de981c6a-1d3d-4080-a855-22a1163abace.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="f6af2516-1eeb-49df-924f-b4bf1dfbcac0" clock="01:40" type="pass" sequence="85" updated="2012-07-17T02:10:32+00:00" side="MSU" yard_line="17" down="1" yfd="10">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="f1b9d2be-8d26-4641-a304-a27650b26cdf" name="Brian Linthicum" jersey="88" position="TE" team="MSU"/>
+          <player id="f1089fb0-fee3-486d-8d69-d9b4dcbc8e91" name="Kenny Demens" jersey="25" position="LB" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 88-B.Linthicum. 88-B.Linthicum to MSU 24 for 7 yards (25-K.Demens).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/f6af2516-1eeb-49df-924f-b4bf1dfbcac0.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="d47b9590-dddd-4638-ac0c-917d7fad2b81" clock="01:30" type="pass" sequence="86" updated="2012-07-17T02:11:05+00:00" side="MSU" yard_line="24" down="2" yfd="3">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="ffd6c43d-18d6-47a4-924f-5dbe0c3fb100" name="Keith Nichol" jersey="7" position="WR" team="MSU"/>
+          <player id="a081eedf-ce79-4b8a-be69-144541b3af00" name="Blake Countess" jersey="18" position="DB" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 7-K.Nichol. 7-K.Nichol to MSU 35 for 11 yards (18-B.Countess).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/d47b9590-dddd-4638-ac0c-917d7fad2b81.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="8433666c-9ab5-4547-a982-ada219d1b0fc" clock="01:10" type="pass" sequence="87" updated="2012-07-17T02:11:25+00:00" side="MSU" yard_line="35" down="1" yfd="10">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="ffd6c43d-18d6-47a4-924f-5dbe0c3fb100" name="Keith Nichol" jersey="7" position="WR" team="MSU"/>
+          <player id="a081eedf-ce79-4b8a-be69-144541b3af00" name="Blake Countess" jersey="18" position="DB" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 7-K.Nichol. 7-K.Nichol to MSU 44 for 9 yards (18-B.Countess).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/8433666c-9ab5-4547-a982-ada219d1b0fc.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="be07a7e9-2e07-4993-a7e2-e3639daa62db" clock=":20" type="pass" sequence="88" updated="2012-07-17T02:11:38+00:00" side="MSU" yard_line="44" down="2" yfd="1">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="ffd6c43d-18d6-47a4-924f-5dbe0c3fb100" name="Keith Nichol" jersey="7" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 7-K.Nichol.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/be07a7e9-2e07-4993-a7e2-e3639daa62db.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="f2671ee3-f62b-4508-87e0-d4d9b15a8e99" clock=":05" type="rush" sequence="89" updated="2012-07-17T02:11:53+00:00" side="MSU" yard_line="44" down="3" yfd="1">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="10639968-aeb1-4582-85be-1a17e0153b63" name="Craig Roh" jersey="88" position="DE" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins to MSU 44 for no gain (88-C.Roh).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/f2671ee3-f62b-4508-87e0-d4d9b15a8e99.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock=":00" type="quarterend" sequence="90" updated="2012-07-17T02:11:55+00:00">
+        <summary>End of 1st Half</summary>
+      </event>
+    </drive>
+  </quarter>
+  <quarter number="3">
+    <drive clock="02:23" team="MSU">
+      <play id="1361c0c1-08bb-469b-8ac1-e9956afdbd4b" clock="15:00" type="kick" sequence="91" updated="2012-07-17T02:27:29+00:00" side="MICH" yard_line="30" down="4" yfd="1">
+        <participants>
+          <player id="77b27857-bd01-4f77-895b-dcdbd6a5ce55" name="Matt Wile" jersey="45" position="K" team="MICH"/>
+          <player id="be43971e-d877-4224-a6c9-be0d057d3671" name="Garrett Celek" jersey="85" position="TE" team="MSU"/>
+          <player id="5c058693-f521-45c9-8325-4e4ae533d381" name="Matthew Cavanaugh" jersey="28" position="S" team="MICH"/>
+          <player id="a081eedf-ce79-4b8a-be69-144541b3af00" name="Blake Countess" jersey="18" position="DB" team="MICH"/>
+        </participants>
+        <summary>45-M.Wile kicks 31 yards from MICH 30. 85-G.Celek to MSU 46 for 7 yards (28-M.Cavanaugh,18-B.Countess).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/1361c0c1-08bb-469b-8ac1-e9956afdbd4b.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="4f3da1ec-fe7a-43f3-bc17-d9cb38fdda72" clock="14:56" type="rush" sequence="92" updated="2012-07-17T02:27:48+00:00" side="MSU" yard_line="46" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="36c85321-24e8-48ba-90bd-3a453c4f491a" name="Thomas Gordon" jersey="30" position="S" team="MICH"/>
+          <player id="4d24a887-0a7d-4239-9aeb-140ff6189d88" name="Mike Martin" jersey="68" position="DT" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 43 for 11 yards (30-T.Gordon,68-M.Martin).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/4f3da1ec-fe7a-43f3-bc17-d9cb38fdda72.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="d571ca3c-3f2c-407a-9842-6883e4d1f62c" clock="14:40" type="rush" sequence="93" updated="2012-07-17T02:28:11+00:00" side="MICH" yard_line="43" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="10639968-aeb1-4582-85be-1a17e0153b63" name="Craig Roh" jersey="88" position="DE" team="MICH"/>
+          <player id="4eb55510-818f-492e-958f-83cd50743485" name="Brandin Hawthorne" jersey="7" position="LB" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 39 for 4 yards (88-C.Roh,7-B.Hawthorne).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/d571ca3c-3f2c-407a-9842-6883e4d1f62c.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="269a57a7-8c0f-4afb-8481-0ee91c04f0f7" clock="14:10" type="rush" sequence="94" updated="2012-07-17T02:28:50+00:00" side="MICH" yard_line="39" down="2" yfd="6">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="4eb55510-818f-492e-958f-83cd50743485" name="Brandin Hawthorne" jersey="7" position="LB" team="MICH"/>
+          <player id="47396a70-f9f4-4a0f-9745-4b2af401caf1" name="Ryan Van Bergen" jersey="53" position="DE" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 35 for 4 yards (7-B.Hawthorne,53-R.Van Bergen).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/269a57a7-8c0f-4afb-8481-0ee91c04f0f7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="54ccf716-94b1-41d4-89b6-d4af61732fe9" clock="13:50" type="rush" sequence="95" updated="2012-07-17T02:31:41+00:00" side="MICH" yard_line="35" down="3" yfd="2">
+        <participants>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+          <player id="36c85321-24e8-48ba-90bd-3a453c4f491a" name="Thomas Gordon" jersey="30" position="S" team="MICH"/>
+        </participants>
+        <summary>82-K.Martin to MICH 32 for 3 yards (30-T.Gordon).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/54ccf716-94b1-41d4-89b6-d4af61732fe9.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="ae688c17-46fd-4c78-9c74-db5844f34c7c" clock="13:30" type="pass" sequence="96" updated="2012-07-17T02:31:57+00:00" side="MICH" yard_line="32" down="1" yfd="10">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 82-K.Martin.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ae688c17-46fd-4c78-9c74-db5844f34c7c.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="55a93810-a063-4c46-b77a-34468be8dc69" clock="13:20" type="rush" sequence="97" updated="2012-07-17T02:32:15+00:00" side="MICH" yard_line="32" down="2" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="34f787bd-95a2-46a2-9462-efb23dd2db26" name="Jordan Kovacs" jersey="32" position="S" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 7 for 25 yards (32-J.Kovacs).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/55a93810-a063-4c46-b77a-34468be8dc69.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="522a24eb-aeb9-4eea-a50c-75a3be495653" clock="12:40" type="rush" sequence="98" updated="2012-07-17T02:32:28+00:00" side="MICH" yard_line="7" down="1" yfd="7">
+        <participants>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="10639968-aeb1-4582-85be-1a17e0153b63" name="Craig Roh" jersey="88" position="DE" team="MICH"/>
+        </participants>
+        <summary>24-L.Bell to MICH 10 for -3 yards (88-C.Roh).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/522a24eb-aeb9-4eea-a50c-75a3be495653.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="47992835-436c-489a-9df6-175b156110ec" clock="12:10" type="pass" sequence="99" updated="2012-07-17T02:32:49+00:00" side="MICH" yard_line="10" down="2" yfd="10">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="502c8582-ec52-4c7e-8be1-cd576b6269b7" name="B.J. Cunningham" jersey="3" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 3-B.Cunningham.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/47992835-436c-489a-9df6-175b156110ec.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="421a44f9-7ecc-49c8-b9a0-6dc109a660a8" clock="11:30" type="pass" sequence="100" updated="2012-07-17T02:33:07+00:00" side="MICH" yard_line="10" down="3" yfd="10">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins complete to 82-K.Martin. 82-K.Martin runs 10 yards for a touchdown.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/421a44f9-7ecc-49c8-b9a0-6dc109a660a8.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="02158eb7-8de4-4a10-b638-f552cee89601" clock="11:07" type="extrapoint" sequence="101" updated="2012-07-17T02:33:24+00:00" side="MICH" yard_line="7">
+        <participants>
+          <player id="104f7ead-38c4-43ba-9a8a-4d7e7608b11e" name="Dan Conroy" jersey="4" position="K" team="MSU"/>
+        </participants>
+        <summary>4-D.Conroy extra point is good.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/02158eb7-8de4-4a10-b638-f552cee89601.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="11:07" team="MICH">
+      <play id="25298655-f375-419d-b113-3f8944f7dc2d" clock="11:07" type="kick" sequence="102" updated="2012-07-17T02:33:46+00:00" side="MSU" yard_line="30">
+        <participants>
+          <player id="af00e187-15a3-4b55-a7b7-f0fa5aa2917d" name="Kevin Muma" jersey="17" position="K" team="MSU"/>
+          <player id="40d2a1b1-11b4-410d-8ca9-2b2142b1de2d" name="Martavious Odoms" jersey="9" position="WR" team="MICH"/>
+          <player id="f01c2683-247e-4eb3-99df-146321a1ebb1" name="Kyler Elsworth" jersey="41" position="LB" team="MSU"/>
+        </participants>
+        <summary>17-K.Muma kicks 58 yards from MSU 30. 9-M.Odoms to MICH 27 for 15 yards (41-K.Elsworth).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/25298655-f375-419d-b113-3f8944f7dc2d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="9eab8d8c-687b-493a-a030-f17e668ac523" clock="11:01" type="rush" sequence="103" updated="2012-07-17T02:33:58+00:00" side="MICH" yard_line="27" down="1" yfd="10">
+        <participants>
+          <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" team="MICH"/>
+          <player id="754d68d2-095b-4ed7-b7ae-e90d24762d6e" name="Jerel Worthy" jersey="99" position="DT" team="MSU"/>
+        </participants>
+        <summary>2-V.Smith to MICH 29 for 2 yards (99-J.Worthy).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/9eab8d8c-687b-493a-a030-f17e668ac523.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="74771eaf-7a8b-4925-823f-447283b7a46b" clock="10:30" type="pass" sequence="104" updated="2012-07-17T02:34:15+00:00" side="MICH" yard_line="29" down="2" yfd="8">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="197b7ef9-fd1b-4587-b4b5-71c331d0a721" name="Roy Roundtree" jersey="12" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 12-R.Roundtree.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/74771eaf-7a8b-4925-823f-447283b7a46b.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="10dbbb54-22fd-4f13-988a-58fb0775ec67" clock="10:20" type="rush" sequence="105" updated="2012-07-17T02:34:33+00:00" side="MICH" yard_line="29" down="3" yfd="8">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="a0e62b13-6a42-4542-b4ca-11721ad6915e" name="Isaiah Lewis" jersey="9" position="S" team="MSU"/>
+          <player id="506106e5-d330-4282-bbcf-eac53d46eb05" name="Steve Gardiner" jersey="50" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MICH 34 for 5 yards (9-I.Lewis,50-S.Gardiner).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/10dbbb54-22fd-4f13-988a-58fb0775ec67.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="94f600e4-d4d3-4880-a676-5995f812e81e" clock="10:10" type="penalty" sequence="106" updated="2012-07-17T02:34:55+00:00" side="MICH" yard_line="34" down="4" yfd="3">
+        <summary>Team penalty, Personal Foul, 15 yards, enforced at MICH 34. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/94f600e4-d4d3-4880-a676-5995f812e81e.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="7c3d4da8-18f9-47f4-bd97-8a42c451a1c8" clock="10:00" type="pass" sequence="107" updated="2012-07-17T02:35:32+00:00" side="MICH" yard_line="49" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="b32919ff-80fb-4801-8224-5d050e919e63" name="Kevin Pickelman" jersey="96" position="DT" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson sacked at MICH 40 for -9 yards (96-K.Pickelman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/7c3d4da8-18f9-47f4-bd97-8a42c451a1c8.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="beb03017-da83-4baf-a943-07e7a4fb6035" clock="09:30" type="rush" sequence="108" updated="2012-07-17T02:35:52+00:00" side="MICH" yard_line="40" down="2" yfd="19">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="43b47823-3767-41a2-88eb-e3cc547fb3ba" name="Darqueze Dennard" jersey="31" position="CB" team="MSU"/>
+          <player id="578e1d54-f037-4ade-8648-303dfaee7540" name="Max Bullough" jersey="40" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MICH 49 for 9 yards (31-D.Dennard,40-M.Bullough).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/beb03017-da83-4baf-a943-07e7a4fb6035.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="230144e0-8e96-47ab-810e-e96e01f8d187" clock="09:05" type="pass" sequence="109" updated="2012-07-17T02:36:18+00:00" side="MICH" yard_line="49" down="3" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="197b7ef9-fd1b-4587-b4b5-71c331d0a721" name="Roy Roundtree" jersey="12" position="WR" team="MICH"/>
+          <player id="03b0b021-3fbf-420f-a66a-b3e2f95ace88" name="Kurtis Drummond" jersey="27" position="S" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 12-R.Roundtree. 12-R.Roundtree to MSU 34 for 17 yards (27-K.Drummond).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/230144e0-8e96-47ab-810e-e96e01f8d187.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="77529114-964a-4c4e-8134-efedcf7bc1e0" clock="08:40" type="rush" sequence="110" updated="2012-07-17T02:37:04+00:00" side="MSU" yard_line="34" down="1" yfd="10">
+        <participants>
+          <player id="14463d4f-a4ff-4a64-bcef-67b4a8771bad" name="Vincent Smith" jersey="2" position="RB" team="MICH"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+        </participants>
+        <summary>2-V.Smith to MSU 32 for 2 yards (10-C.Norman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/77529114-964a-4c4e-8134-efedcf7bc1e0.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="b4e005ab-cd6a-4376-bd06-8ba226e7e092" clock="08:10" type="pass" sequence="111" updated="2012-07-17T02:37:17+00:00" side="MSU" yard_line="32" down="2" yfd="8">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 10-J.Gallon.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/b4e005ab-cd6a-4376-bd06-8ba226e7e092.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="eeb0ca4e-1013-4870-8c2a-6487ee471211" clock="07:55" type="pass" sequence="112" updated="2012-07-17T02:39:36+00:00" side="MSU" yard_line="32" down="3" yfd="8">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="214ec483-0111-4729-944a-2b0c810b0c1a" name="Kelvin Grady" jersey="19" position="WR" team="MICH"/>
+          <player id="a0e62b13-6a42-4542-b4ca-11721ad6915e" name="Isaiah Lewis" jersey="9" position="S" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 19-K.Grady. 19-K.Grady to MSU 25 for 7 yards (9-I.Lewis). Team penalty, Holding, declined. Team penalty, Holding, 10 yards, enforced at MSU 32. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/eeb0ca4e-1013-4870-8c2a-6487ee471211.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="d578b895-d3a6-4b0b-aa89-56daad125f5d" clock="07:20" type="pass" sequence="113" updated="2012-07-17T02:40:01+00:00" side="MSU" yard_line="42" down="3" yfd="18">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="214ec483-0111-4729-944a-2b0c810b0c1a" name="Kelvin Grady" jersey="19" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 19-K.Grady.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/d578b895-d3a6-4b0b-aa89-56daad125f5d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="6e3b69b5-bbfb-49c3-8ff3-a42d5513b345" clock="06:30" type="punt" sequence="114" updated="2012-07-17T02:40:20+00:00" side="MSU" yard_line="42" down="4" yfd="18">
+        <participants>
+          <player id="56d8f70f-4ab5-4dfc-980d-a9592ec3a126" name="Will Hagerup" jersey="43" position="P" team="MICH"/>
+        </participants>
+        <summary>43-W.Hagerup punts 42 yards from MSU 42 to MSU End Zone. touchback.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/6e3b69b5-bbfb-49c3-8ff3-a42d5513b345.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="06:17" team="MSU">
+      <play id="8ff486cb-a77e-45d7-bba3-4615b21edf30" clock="06:17" type="rush" sequence="115" updated="2012-07-17T02:40:56+00:00" side="MSU" yard_line="20" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="36c85321-24e8-48ba-90bd-3a453c4f491a" name="Thomas Gordon" jersey="30" position="S" team="MICH"/>
+          <player id="99428808-4361-431c-aaa9-32b5cc94d0da" name="Desmond Morgan" jersey="44" position="LB" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 21, FUMBLES (30-T.Gordon). 44-D.Morgan to MSU 41 for no gain.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/8ff486cb-a77e-45d7-bba3-4615b21edf30.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="06:08" team="MICH">
+      <play id="20ed1472-acb7-411d-9ae9-0674b650a635" clock="06:08" type="pass" sequence="116" updated="2012-07-17T02:41:16+00:00" side="MSU" yard_line="41" down="1" yfd="10">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="544062c6-736f-4fe6-9d6b-5f6f70fc1592" name="Stephen Hopkins" jersey="33" position="RB" team="MICH"/>
+        </participants>
+        <summary>7-D.Gardner incomplete. Intended for 33-S.Hopkins.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/20ed1472-acb7-411d-9ae9-0674b650a635.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="4090f4e1-afff-4f1a-a054-0537190a3da7" clock="05:55" type="rush" sequence="117" updated="2012-07-17T02:49:39+00:00" side="MSU" yard_line="41" down="2" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+          <player id="578e1d54-f037-4ade-8648-303dfaee7540" name="Max Bullough" jersey="40" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 39 for 2 yards (10-C.Norman,40-M.Bullough).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/4090f4e1-afff-4f1a-a054-0537190a3da7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="7a9352dc-49b0-42dc-9ee3-6dcb6c74b5da" clock="05:30" type="pass" sequence="118" updated="2012-07-17T02:50:26+00:00" side="MSU" yard_line="39" down="3" yfd="8">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="eafa4bbc-b372-4762-b4d2-4bd951040ec8" name="Denicos Allen" jersey="28" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson sacked at MSU 46 for -7 yards (28-D.Allen).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/7a9352dc-49b0-42dc-9ee3-6dcb6c74b5da.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="35a8ebfc-c13a-42f3-88df-db982c54683d" clock="04:40" type="punt" sequence="119" updated="2012-07-17T02:51:49+00:00" side="MSU" yard_line="46" down="4" yfd="15">
+        <participants>
+          <player id="56d8f70f-4ab5-4dfc-980d-a9592ec3a126" name="Will Hagerup" jersey="43" position="P" team="MICH"/>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+          <player id="2350b702-e1aa-4fd1-89da-47427d8203e0" name="John McColgan" jersey="49" position="FB" team="MICH"/>
+        </participants>
+        <summary>43-W.Hagerup punts 35 yards from MSU 46. 82-K.Martin to MSU 24 for 13 yards (49-J.McColgan). Team penalty, Personal Foul, 15 yards, enforced at MSU 24.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/35a8ebfc-c13a-42f3-88df-db982c54683d.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="04:33" team="MSU">
+      <play id="df317e07-68f3-46b7-b9bb-153f0998239f" clock="04:33" type="rush" sequence="120" updated="2012-07-17T02:52:12+00:00" side="MSU" yard_line="39" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="34f787bd-95a2-46a2-9462-efb23dd2db26" name="Jordan Kovacs" jersey="32" position="S" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 40 for 1 yard (32-J.Kovacs).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/df317e07-68f3-46b7-b9bb-153f0998239f.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="69fc08e8-f38e-41c1-9222-dabe43183ce8" clock="04:20" type="pass" sequence="121" updated="2012-07-17T02:52:28+00:00" side="MSU" yard_line="40" down="2" yfd="9">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 82-K.Martin.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/69fc08e8-f38e-41c1-9222-dabe43183ce8.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="cf9bbcfe-7f19-42c2-9a7c-beb569d7205b" clock="04:10" type="pass" sequence="122" updated="2012-07-17T02:52:50+00:00" side="MSU" yard_line="40" down="3" yfd="9">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="502c8582-ec52-4c7e-8be1-cd576b6269b7" name="B.J. Cunningham" jersey="3" position="WR" team="MSU"/>
+          <player id="36c85321-24e8-48ba-90bd-3a453c4f491a" name="Thomas Gordon" jersey="30" position="S" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 3-B.Cunningham. 3-B.Cunningham to MICH 46 for 14 yards (30-T.Gordon).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/cf9bbcfe-7f19-42c2-9a7c-beb569d7205b.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="c8545b4e-218e-46df-82ca-152431754dd7" clock="03:40" type="pass" sequence="123" updated="2012-07-17T02:53:02+00:00" side="MICH" yard_line="46" down="1" yfd="10">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="502c8582-ec52-4c7e-8be1-cd576b6269b7" name="B.J. Cunningham" jersey="3" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 3-B.Cunningham.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/c8545b4e-218e-46df-82ca-152431754dd7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="9ac56418-3593-45a7-96b8-b3134c1b524d" clock="03:25" type="rush" sequence="124" updated="2012-07-17T02:53:22+00:00" side="MICH" yard_line="46" down="2" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="47396a70-f9f4-4a0f-9745-4b2af401caf1" name="Ryan Van Bergen" jersey="53" position="DE" team="MICH"/>
+          <player id="21b0717d-53b4-4725-8498-fbf16444c71c" name="J.T. Floyd" jersey="8" position="CB" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 41 for 5 yards (53-R.Van Bergen,8-J.Floyd).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/9ac56418-3593-45a7-96b8-b3134c1b524d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="071c88c7-9b44-462f-bae7-5180248a0e8b" clock="03:00" type="pass" sequence="125" updated="2012-07-17T02:53:53+00:00" side="MICH" yard_line="41" down="3" yfd="5">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="502c8582-ec52-4c7e-8be1-cd576b6269b7" name="B.J. Cunningham" jersey="3" position="WR" team="MSU"/>
+          <player id="21b0717d-53b4-4725-8498-fbf16444c71c" name="J.T. Floyd" jersey="8" position="CB" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 3-B.Cunningham. 3-B.Cunningham to MICH 35 for 6 yards (8-J.Floyd).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/071c88c7-9b44-462f-bae7-5180248a0e8b.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="efd72bfd-21e2-4a02-9c98-0d8502f2baab" clock="02:30" type="rush" sequence="126" updated="2012-07-17T02:54:23+00:00" side="MICH" yard_line="35" down="1" yfd="10">
+        <participants>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="99428808-4361-431c-aaa9-32b5cc94d0da" name="Desmond Morgan" jersey="44" position="LB" team="MICH"/>
+          <player id="f1089fb0-fee3-486d-8d69-d9b4dcbc8e91" name="Kenny Demens" jersey="25" position="LB" team="MICH"/>
+        </participants>
+        <summary>24-L.Bell to MICH 30 for 5 yards (44-D.Morgan,25-K.Demens).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/efd72bfd-21e2-4a02-9c98-0d8502f2baab.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="be74b116-f151-487d-9366-e9bcc56a3cbc" clock="02:00" type="pass" sequence="127" updated="2012-07-17T02:54:52+00:00" side="MICH" yard_line="30" down="2" yfd="5">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="f1b9d2be-8d26-4641-a304-a27650b26cdf" name="Brian Linthicum" jersey="88" position="TE" team="MSU"/>
+          <player id="35f9f3fd-00f0-4f83-9816-560eb0649038" name="Will Heininger" jersey="39" position="DE" team="MICH"/>
+        </participants>
+        <summary>8-K.Cousins complete to 88-B.Linthicum. 88-B.Linthicum to MICH 15 for 15 yards (39-W.Heininger).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/be74b116-f151-487d-9366-e9bcc56a3cbc.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="c383f35e-72a3-4006-a6b7-4b565fb671ef" clock="01:30" type="rush" sequence="128" updated="2012-07-17T02:55:08+00:00" side="MICH" yard_line="15" down="1" yfd="10">
+        <participants>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="4d24a887-0a7d-4239-9aeb-140ff6189d88" name="Mike Martin" jersey="68" position="DT" team="MICH"/>
+          <player id="1f078a37-e12f-4a91-b0bc-1f0ca31e5584" name="Jibreel Black" jersey="55" position="DE" team="MICH"/>
+        </participants>
+        <summary>24-L.Bell to MICH 13 for 2 yards (68-M.Martin,55-J.Black).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/c383f35e-72a3-4006-a6b7-4b565fb671ef.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="f8b52aea-c954-4de1-9814-58e9d2053ed7" clock=":30" type="pass" sequence="129" updated="2012-07-17T02:55:30+00:00" side="MICH" yard_line="13" down="2" yfd="8">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins complete to 82-K.Martin. 82-K.Martin runs 13 yards for a touchdown.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/f8b52aea-c954-4de1-9814-58e9d2053ed7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="c58d8772-3fd9-49cd-b02d-de656e6767f4" clock=":30" type="extrapoint" sequence="130" updated="2012-07-17T02:55:39+00:00" side="MICH" yard_line="7">
+        <participants>
+          <player id="104f7ead-38c4-43ba-9a8a-4d7e7608b11e" name="Dan Conroy" jersey="4" position="K" team="MSU"/>
+        </participants>
+        <summary>4-D.Conroy extra point is good.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/c58d8772-3fd9-49cd-b02d-de656e6767f4.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock=":30" team="MICH">
+      <play id="7a69dde7-e3c5-49ff-a551-0e40d32c7365" clock=":30" type="kick" sequence="131" updated="2012-07-17T02:55:51+00:00" side="MSU" yard_line="30">
+        <participants>
+          <player id="af00e187-15a3-4b55-a7b7-f0fa5aa2917d" name="Kevin Muma" jersey="17" position="K" team="MSU"/>
+        </participants>
+        <summary>17-K.Muma kicks 70 yards from MSU 30 to MICH End Zone. touchback.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/7a69dde7-e3c5-49ff-a551-0e40d32c7365.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="0c83a2c5-c3ab-42c9-baac-1d3f8a04c97d" clock=":25" type="pass" sequence="132" updated="2012-07-17T02:56:04+00:00" side="MICH" yard_line="20" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="164621ee-ea20-41cb-8ab5-408b28f3b108" name="Junior Hemingway" jersey="21" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 21-J.Hemingway.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/0c83a2c5-c3ab-42c9-baac-1d3f8a04c97d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="33005bab-8ec6-47cf-813f-e69be457c789" clock=":20" type="rush" sequence="133" updated="2012-07-17T02:56:17+00:00" side="MICH" yard_line="20" down="2" yfd="10">
+        <participants>
+          <player id="c2591805-7f23-44c9-bda3-44547b027121" name="Fitzgerald Toussaint" jersey="28" position="RB" team="MICH"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+        </participants>
+        <summary>28-F.Toussaint to MICH 23 for 3 yards (10-C.Norman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/33005bab-8ec6-47cf-813f-e69be457c789.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock=":10" type="teamtimeout" sequence="134" updated="2012-07-17T02:56:22+00:00">
+        <timeout number="1"/>
+        <summary>Timeout #1 by MSU at :10.</summary>
+      </event>
+      <play id="ec795f9b-ff50-4bee-9fec-b4911397ada6" clock=":10" type="pass" sequence="135" updated="2012-07-17T02:56:38+00:00" side="MICH" yard_line="23" down="3" yfd="7">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="197b7ef9-fd1b-4587-b4b5-71c331d0a721" name="Roy Roundtree" jersey="12" position="WR" team="MICH"/>
+          <player id="578e1d54-f037-4ade-8648-303dfaee7540" name="Max Bullough" jersey="40" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 12-R.Roundtree. 12-R.Roundtree to MICH 31 for 8 yards (40-M.Bullough).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ec795f9b-ff50-4bee-9fec-b4911397ada6.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="9f854ce6-2d15-42bc-9154-20002c086fb5" clock=":00" type="penalty" sequence="136" updated="2012-07-17T02:56:58+00:00" side="MICH" yard_line="31" down="1" yfd="10">
+        <summary>Team penalty, Personal Foul, 15 yards, enforced at MICH 31. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/9f854ce6-2d15-42bc-9154-20002c086fb5.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock=":00" type="quarterend" sequence="137" updated="2012-07-17T02:57:04+00:00">
+        <summary>End of Quarter</summary>
+      </event>
+    </drive>
+  </quarter>
+  <quarter number="4">
+    <drive clock=":30" team="MICH">
+      <play id="47ca7beb-6dc0-4e9b-8809-6c331c3f4500" clock="15:00" type="penalty" sequence="138" updated="2012-07-17T03:08:56+00:00" side="MICH" yard_line="46" down="1" yfd="10">
+        <summary>Team penalty, Offside, 5 yards, enforced at MICH 46. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/47ca7beb-6dc0-4e9b-8809-6c331c3f4500.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="1bf0a95a-b6e8-4025-b741-57dcf6568ac7" clock="15:00" type="rush" sequence="139" updated="2012-07-17T03:09:12+00:00" side="MSU" yard_line="49" down="1" yfd="5">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="578e1d54-f037-4ade-8648-303dfaee7540" name="Max Bullough" jersey="40" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 36 for 13 yards (40-M.Bullough).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/1bf0a95a-b6e8-4025-b741-57dcf6568ac7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="1c5cb153-0d32-430f-b6a1-ce58b74dfbc7" clock="14:40" type="rush" sequence="140" updated="2012-07-17T03:09:27+00:00" side="MSU" yard_line="36" down="1" yfd="10">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="a0e62b13-6a42-4542-b4ca-11721ad6915e" name="Isaiah Lewis" jersey="9" position="S" team="MSU"/>
+          <player id="43b47823-3767-41a2-88eb-e3cc547fb3ba" name="Darqueze Dennard" jersey="31" position="CB" team="MSU"/>
+        </participants>
+        <summary>7-D.Gardner to MSU 32 for 4 yards (9-I.Lewis,31-D.Dennard).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/1c5cb153-0d32-430f-b6a1-ce58b74dfbc7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="ff77397c-0c7c-439b-a549-725a77c2d01d" clock="14:20" type="pass" sequence="141" updated="2012-07-17T03:09:59+00:00" side="MSU" yard_line="32" down="2" yfd="6">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="197b7ef9-fd1b-4587-b4b5-71c331d0a721" name="Roy Roundtree" jersey="12" position="WR" team="MICH"/>
+          <player id="f6048f69-1fd5-42c2-b46b-dc53e667b9d8" name="Johnny Adams" jersey="5" position="CB" team="MSU"/>
+        </participants>
+        <summary>7-D.Gardner complete to 12-R.Roundtree. 12-R.Roundtree to MSU 23 for 9 yards (5-J.Adams).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ff77397c-0c7c-439b-a549-725a77c2d01d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="21362589-c96c-4c40-8e2a-1b2bd0aacf6f" clock="14:00" type="rush" sequence="142" updated="2012-07-17T03:10:12+00:00" side="MSU" yard_line="23" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="481bde0e-df7d-44a8-9242-bd2b2fa22fd9" name="William Gholston" jersey="2" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 24 for -1 yard (2-W.Gholston).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/21362589-c96c-4c40-8e2a-1b2bd0aacf6f.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="dcc34573-eb95-4d51-b7dc-4ae00f21b0d7" clock="13:30" type="pass" sequence="143" updated="2012-07-17T03:10:26+00:00" side="MSU" yard_line="24" down="2" yfd="11">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="544062c6-736f-4fe6-9d6b-5f6f70fc1592" name="Stephen Hopkins" jersey="33" position="RB" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 33-S.Hopkins.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/dcc34573-eb95-4d51-b7dc-4ae00f21b0d7.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="ec7610da-06d2-4dc7-8e1e-c26e5d95c698" clock="13:00" type="pass" sequence="144" updated="2012-07-17T03:11:26+00:00" side="MSU" yard_line="24" down="3" yfd="11">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="578e1d54-f037-4ade-8648-303dfaee7540" name="Max Bullough" jersey="40" position="LB" team="MSU"/>
+          <player id="481bde0e-df7d-44a8-9242-bd2b2fa22fd9" name="William Gholston" jersey="2" position="LB" team="MSU"/>
+        </participants>
+        <summary>7-D.Gardner sacked at MSU 32 for -8 yards, FUMBLES (2-W.Gholston). 7-D.Gardner to MSU 32 for no gain.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ec7610da-06d2-4dc7-8e1e-c26e5d95c698.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="77709ac7-f077-437d-8731-30fe1e1c66a7" clock="12:20" type="punt" sequence="145" updated="2012-07-17T03:11:45+00:00" side="MSU" yard_line="32" down="4" yfd="19">
+        <participants>
+          <player id="56d8f70f-4ab5-4dfc-980d-a9592ec3a126" name="Will Hagerup" jersey="43" position="P" team="MICH"/>
+        </participants>
+        <summary>43-W.Hagerup punts 17 yards from MSU 32, out of bounds at the MSU 15.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/77709ac7-f077-437d-8731-30fe1e1c66a7.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="12:06" team="MSU">
+      <play id="fddee9b4-c4f8-4c7c-b536-3d1925aa247e" clock="12:06" type="rush" sequence="146" updated="2012-07-17T03:12:11+00:00" side="MSU" yard_line="15" down="1" yfd="10">
+        <participants>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="34f787bd-95a2-46a2-9462-efb23dd2db26" name="Jordan Kovacs" jersey="32" position="S" team="MICH"/>
+        </participants>
+        <summary>24-L.Bell to MSU 21 for 6 yards (32-J.Kovacs). Team penalty, Holding, 7 yards, enforced at MSU 15. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/fddee9b4-c4f8-4c7c-b536-3d1925aa247e.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="63f21724-1931-4037-bdf1-e09079822812" clock="11:45" type="rush" sequence="147" updated="2012-07-17T03:12:27+00:00" side="MSU" yard_line="8" down="1" yfd="17">
+        <participants>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+          <player id="35f9f3fd-00f0-4f83-9816-560eb0649038" name="Will Heininger" jersey="39" position="DE" team="MICH"/>
+          <player id="36c85321-24e8-48ba-90bd-3a453c4f491a" name="Thomas Gordon" jersey="30" position="S" team="MICH"/>
+        </participants>
+        <summary>24-L.Bell to MSU 7 for -1 yard (39-W.Heininger,30-T.Gordon).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/63f21724-1931-4037-bdf1-e09079822812.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="371f39dc-2fcb-4189-ba7a-0eeaf42f0caf" clock="11:20" type="pass" sequence="148" updated="2012-07-17T03:12:44+00:00" side="MSU" yard_line="7" down="2" yfd="18">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="4f9f6020-0a5f-4141-82c0-6957490a44cd" name="Le'Veon Bell" jersey="24" position="RB" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 24-L.Bell.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/371f39dc-2fcb-4189-ba7a-0eeaf42f0caf.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="ee10f893-4dd0-40e4-9bc0-2b2440acf837" clock="10:40" type="rush" sequence="149" updated="2012-07-17T03:12:54+00:00" side="MSU" yard_line="7" down="3" yfd="18">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins to MSU 7 for no gain.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ee10f893-4dd0-40e4-9bc0-2b2440acf837.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="b36fbcb9-bd3b-4a2a-aefb-e4874db0ca38" clock="10:00" type="punt" sequence="150" updated="2012-07-17T03:13:24+00:00" side="MSU" yard_line="7" down="4" yfd="18">
+        <participants>
+          <player id="4410c55e-8ca5-49d2-97b1-56dcba377781" name="Mike Sadler" jersey="3" position="P" team="MSU"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+          <player id="b9b9b2df-f24f-4953-8f01-5dfade40feac" name="Trenton Robinson" jersey="39" position="S" team="MSU"/>
+        </participants>
+        <summary>3-M.Sadler punts 45 yards from MSU 7. 10-J.Gallon to MSU 34 for 18 yards (39-T.Robinson).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/b36fbcb9-bd3b-4a2a-aefb-e4874db0ca38.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="09:56" team="MICH">
+      <play id="38cb2522-1781-4e66-8cfb-2ce029aa7b1c" clock="09:56" type="pass" sequence="151" updated="2012-07-17T03:14:03+00:00" side="MSU" yard_line="34" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="197b7ef9-fd1b-4587-b4b5-71c331d0a721" name="Roy Roundtree" jersey="12" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson complete to 12-R.Roundtree. 12-R.Roundtree runs 34 yards for a touchdown.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/38cb2522-1781-4e66-8cfb-2ce029aa7b1c.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="86ebcc9c-e59b-4abc-8700-698bb7ea2a1b" clock="09:49" type="extrapoint" sequence="152" updated="2012-07-17T03:18:42+00:00" side="MSU" yard_line="7">
+        <participants>
+          <player id="ed5ddab4-e697-4f4c-865a-c51d88fdf9e9" name="Brendan Gibbons" jersey="34" position="K" team="MICH"/>
+        </participants>
+        <summary>34-B.Gibbons extra point is good.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/86ebcc9c-e59b-4abc-8700-698bb7ea2a1b.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="09:49" team="MSU">
+      <play id="26ac90f1-f20c-46a2-be87-b7fbf72feba1" clock="09:49" type="kick" sequence="153" updated="2012-07-17T03:19:01+00:00" side="MICH" yard_line="30">
+        <participants>
+          <player id="77b27857-bd01-4f77-895b-dcdbd6a5ce55" name="Matt Wile" jersey="45" position="K" team="MICH"/>
+          <player id="6252ec54-a06e-4f05-a2bb-233ba578ea20" name="Nick Hill" jersey="20" position="RB" team="MSU"/>
+          <player id="193012d9-c392-47ba-ac9b-c63284b0dc0e" name="Floyd Simmons" jersey="23" position="S" team="MICH"/>
+        </participants>
+        <summary>45-M.Wile kicks 70 yards from MICH 30. 20-N.Hill to MSU 21 for 21 yards (23-F.Simmons).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/26ac90f1-f20c-46a2-be87-b7fbf72feba1.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="12b0d0e3-d257-45a7-bf84-e95c57bb1992" clock="09:44" type="rush" sequence="154" updated="2012-07-17T03:20:00+00:00" side="MSU" yard_line="21" down="1" yfd="10">
+        <participants>
+          <player id="26815656-f798-4fac-876f-2b4c2e429ef7" name="Keshawn Martin" jersey="82" position="WR" team="MSU"/>
+          <player id="21b0717d-53b4-4725-8498-fbf16444c71c" name="J.T. Floyd" jersey="8" position="CB" team="MICH"/>
+          <player id="34f787bd-95a2-46a2-9462-efb23dd2db26" name="Jordan Kovacs" jersey="32" position="S" team="MICH"/>
+        </participants>
+        <summary>82-K.Martin to MSU 32, FUMBLES (8-J.Floyd). 32-J.Kovacs to MSU 32 for no gain.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/12b0d0e3-d257-45a7-bf84-e95c57bb1992.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="09:36" team="MICH">
+      <play id="68d81fa7-8ce1-432d-9c8f-9a1dad4d8cc1" clock="09:36" type="pass" sequence="155" updated="2012-07-17T03:20:34+00:00" side="MSU" yard_line="32" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="754d68d2-095b-4ed7-b7ae-e90d24762d6e" name="Jerel Worthy" jersey="99" position="DT" team="MSU"/>
+          <player id="eafa4bbc-b372-4762-b4d2-4bd951040ec8" name="Denicos Allen" jersey="28" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson sacked at MSU 40 for -8 yards (99-J.Worthy,28-D.Allen).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/68d81fa7-8ce1-432d-9c8f-9a1dad4d8cc1.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="a7f33fc1-83f9-49f5-b100-ba884715928b" clock="09:20" type="pass" sequence="156" updated="2012-07-17T03:20:58+00:00" side="MSU" yard_line="40" down="2" yfd="18">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="164621ee-ea20-41cb-8ab5-408b28f3b108" name="Junior Hemingway" jersey="21" position="WR" team="MICH"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 21-J.Hemingway. 21-J.Hemingway to MSU 35 for 5 yards (10-C.Norman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/a7f33fc1-83f9-49f5-b100-ba884715928b.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="a967d047-d4a8-4fa3-8996-4f3e2bd57cf3" clock="08:55" type="pass" sequence="157" updated="2012-07-17T03:23:42+00:00" side="MSU" yard_line="35" down="3" yfd="13">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="3b98f370-30d9-4d99-a6ef-0b6194381e90" name="Kevin Koger" jersey="86" position="TE" team="MICH"/>
+          <player id="03b0b021-3fbf-420f-a66a-b3e2f95ace88" name="Kurtis Drummond" jersey="27" position="S" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 86-K.Koger. 86-K.Koger to MSU 23 for 12 yards (27-K.Drummond).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/a967d047-d4a8-4fa3-8996-4f3e2bd57cf3.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="bbc9d7bf-185b-4d87-91bf-7d07fdf265ae" clock="08:30" type="rush" sequence="158" updated="2012-07-17T03:24:06+00:00" side="MSU" yard_line="23" down="4" yfd="1">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="2f9656a0-d78f-4d9e-81a9-6d114db13cde" name="Chris Norman" jersey="10" position="LB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 18 for 5 yards (10-C.Norman).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/bbc9d7bf-185b-4d87-91bf-7d07fdf265ae.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="bd6b56d0-0c31-4759-b853-8a6e8d2710b0" clock="08:10" type="rush" sequence="159" updated="2012-07-17T03:24:36+00:00" side="MSU" yard_line="18" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson to MSU 19, FUMBLES. 16-D.Robinson to MSU 19 for no gain.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/bd6b56d0-0c31-4759-b853-8a6e8d2710b0.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="9d871855-51ca-4664-b931-07a9b69b3e58" clock="07:50" type="pass" sequence="160" updated="2012-07-17T03:24:50+00:00" side="MSU" yard_line="19" down="2" yfd="11">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="3b98f370-30d9-4d99-a6ef-0b6194381e90" name="Kevin Koger" jersey="86" position="TE" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 86-K.Koger.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/9d871855-51ca-4664-b931-07a9b69b3e58.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="92ab19b2-e95b-4080-89b1-363746cad937" clock="07:10" type="pass" sequence="161" updated="2012-07-17T03:25:15+00:00" side="MSU" yard_line="19" down="3" yfd="11">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+          <player id="f6048f69-1fd5-42c2-b46b-dc53e667b9d8" name="Johnny Adams" jersey="5" position="CB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson complete to 10-J.Gallon. 10-J.Gallon to MSU 9 for 10 yards (5-J.Adams).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/92ab19b2-e95b-4080-89b1-363746cad937.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="f19c29ac-e217-46e6-a61a-f6ba7b716847" clock="06:30" type="pass" sequence="162" updated="2012-07-17T03:25:31+00:00" side="MSU" yard_line="9" down="4" yfd="1">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="f6048f69-1fd5-42c2-b46b-dc53e667b9d8" name="Johnny Adams" jersey="5" position="CB" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson sacked at MSU 19 for -10 yards (5-J.Adams).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/f19c29ac-e217-46e6-a61a-f6ba7b716847.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="06:16" team="MSU">
+      <play id="ddf2d414-8c33-4bcb-a219-80fc2d1b9148" clock="06:16" type="rush" sequence="163" updated="2012-07-17T03:25:43+00:00" side="MSU" yard_line="19" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="f1089fb0-fee3-486d-8d69-d9b4dcbc8e91" name="Kenny Demens" jersey="25" position="LB" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 22 for 3 yards (25-K.Demens).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ddf2d414-8c33-4bcb-a219-80fc2d1b9148.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="fcefcdc8-fa5a-4f39-b8ae-0dd95938523b" clock="05:55" type="rush" sequence="164" updated="2012-07-17T03:25:59+00:00" side="MSU" yard_line="22" down="2" yfd="7">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="10639968-aeb1-4582-85be-1a17e0153b63" name="Craig Roh" jersey="88" position="DE" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MSU 25 for 3 yards (88-C.Roh).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/fcefcdc8-fa5a-4f39-b8ae-0dd95938523b.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="cd2a65e2-ee6c-4c77-ace9-b764ff6143bb" clock="05:30" type="pass" sequence="165" updated="2012-07-17T03:26:21+00:00" side="MSU" yard_line="25" down="3" yfd="4">
+        <participants>
+          <player id="2f374fef-af0a-4c1e-995b-021fa1ee5153" name="Kirk Cousins" jersey="8" position="QB" team="MSU"/>
+          <player id="e516fa38-65bc-4699-b513-76712dab995a" name="Dion Sims" jersey="80" position="TE" team="MSU"/>
+        </participants>
+        <summary>8-K.Cousins incomplete. Intended for 80-D.Sims.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/cd2a65e2-ee6c-4c77-ace9-b764ff6143bb.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="c9145192-09f5-485d-bda5-0b98999b341f" clock="05:00" type="punt" sequence="166" updated="2012-07-17T03:26:43+00:00" side="MSU" yard_line="25" down="4" yfd="4">
+        <participants>
+          <player id="4410c55e-8ca5-49d2-97b1-56dcba377781" name="Mike Sadler" jersey="3" position="P" team="MSU"/>
+        </participants>
+        <summary>3-M.Sadler punts 40 yards from MSU 25 Downed at the MICH 35.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/c9145192-09f5-485d-bda5-0b98999b341f.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="04:40" team="MICH">
+      <play id="daf26e82-df20-4da8-a352-6afbf7d74d97" clock="04:40" type="pass" sequence="167" updated="2012-07-17T03:27:03+00:00" side="MICH" yard_line="35" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="a0e62b13-6a42-4542-b4ca-11721ad6915e" name="Isaiah Lewis" jersey="9" position="S" team="MSU"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. INTERCEPTED by 9-I.Lewis at MICH 39. 9-I.Lewis runs 39 yards for a touchdown.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/daf26e82-df20-4da8-a352-6afbf7d74d97.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="04:40" team="MSU">
+      <play id="28310ab6-1f78-43ed-83a5-1b2e7c6ae07e" clock="04:40" type="extrapoint" sequence="168" updated="2012-07-17T03:27:16+00:00" side="MICH" yard_line="7">
+        <participants>
+          <player id="104f7ead-38c4-43ba-9a8a-4d7e7608b11e" name="Dan Conroy" jersey="4" position="K" team="MSU"/>
+        </participants>
+        <summary>4-D.Conroy extra point is good.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/28310ab6-1f78-43ed-83a5-1b2e7c6ae07e.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="04:40" team="MICH">
+      <play id="ff61d048-eb2b-4be7-bd9e-eea01e3a6cec" clock="04:40" type="kick" sequence="169" updated="2012-07-17T03:27:30+00:00" side="MSU" yard_line="30">
+        <participants>
+          <player id="af00e187-15a3-4b55-a7b7-f0fa5aa2917d" name="Kevin Muma" jersey="17" position="K" team="MSU"/>
+        </participants>
+        <summary>17-K.Muma kicks 70 yards from MSU 30 to MICH End Zone. touchback.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ff61d048-eb2b-4be7-bd9e-eea01e3a6cec.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="cd51ac24-7600-4569-8b03-66db1d3e662b" clock="04:31" type="pass" sequence="170" updated="2012-07-17T03:28:01+00:00" side="MICH" yard_line="20" down="1" yfd="10">
+        <participants>
+          <player id="d00b0a30-c398-4dc7-b536-bc76ff942da8" name="Denard Robinson" jersey="16" position="QB" team="MICH"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+        </participants>
+        <summary>16-D.Robinson incomplete. Intended for 10-J.Gallon. Team penalty, Roughing the passer, 15 yards, enforced at MICH 20. No Play.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/cd51ac24-7600-4569-8b03-66db1d3e662b.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="6d63e484-cc9f-4702-b29c-19865df95d0d" clock="04:20" type="pass" sequence="171" updated="2012-07-17T03:28:25+00:00" side="MICH" yard_line="35" down="1" yfd="10">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+          <player id="b9b9b2df-f24f-4953-8f01-5dfade40feac" name="Trenton Robinson" jersey="39" position="S" team="MSU"/>
+        </participants>
+        <summary>7-D.Gardner complete to 10-J.Gallon. 10-J.Gallon to MSU 33 for 32 yards (39-T.Robinson).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/6d63e484-cc9f-4702-b29c-19865df95d0d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="8a3f7f63-7420-41c7-aef6-be64ebcf82aa" clock="03:50" type="pass" sequence="172" updated="2012-07-17T03:28:39+00:00" side="MSU" yard_line="33" down="1" yfd="10">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="5c37bd78-54df-4538-8d52-6ac497bdccf3" name="Jeremy Gallon" jersey="10" position="WR" team="MICH"/>
+        </participants>
+        <summary>7-D.Gardner incomplete. Intended for 10-J.Gallon.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/8a3f7f63-7420-41c7-aef6-be64ebcf82aa.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="b1e9ba27-6e84-485e-a00c-06919fb67475" clock="03:40" type="rush" sequence="173" updated="2012-08-06T02:59:33+00:00" side="MSU" yard_line="33" down="2" yfd="10">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+        </participants>
+        <summary>7-D.Gardner to MSU 29 for 4 yards. Team penalty, Illegal Forward Pass, 5 yards, enforced at MSU 29.</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/b1e9ba27-6e84-485e-a00c-06919fb67475.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="11b986e6-8c46-4dcc-9c43-55ba5c49ad92" clock="03:39" type="pass" sequence="174" updated="2012-08-06T02:59:34+00:00" side="MSU" yard_line="34" down="2" yfd="11">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="24f4f18d-afd6-48bb-8438-89c906534732" name="Marcus Rush" jersey="44" position="LB" team="MSU"/>
+        </participants>
+        <summary>7-D.Gardner sacked at MSU 44 for -10 yards (44-M.Rush).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/11b986e6-8c46-4dcc-9c43-55ba5c49ad92.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock="03:38" type="teamtimeout" sequence="175" updated="2012-07-17T03:29:52+00:00">
+        <timeout number="1"/>
+        <summary>Timeout #1 by MICH at 03:38.</summary>
+      </event>
+      <play id="4ab2bfa3-4f6b-42e6-85f6-2d27706fa3b9" clock="03:38" type="pass" sequence="176" updated="2012-08-06T02:59:35+00:00" side="MSU" yard_line="44" down="3" yfd="21">
+        <participants>
+          <player id="00fa8a04-374c-4510-aa31-a19299fa32d7" name="Devin Gardner" jersey="7" position="QB" team="MICH"/>
+          <player id="03b0b021-3fbf-420f-a66a-b3e2f95ace88" name="Kurtis Drummond" jersey="27" position="S" team="MSU"/>
+        </participants>
+        <summary>7-D.Gardner sacked at MICH 46 for -10 yards (27-K.Drummond).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/4ab2bfa3-4f6b-42e6-85f6-2d27706fa3b9.xml" type="application/xml"/>
+        </links>
+      </play>
+    </drive>
+    <drive clock="03:18" team="MSU">
+      <play id="ca08058f-d4dc-4106-a9b4-f6adee162a9d" clock="03:18" type="rush" sequence="177" updated="2012-08-06T02:59:35+00:00" side="MICH" yard_line="46" down="4" yfd="31">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="34f787bd-95a2-46a2-9462-efb23dd2db26" name="Jordan Kovacs" jersey="32" position="S" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 45 for -1 yard (32-J.Kovacs).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/ca08058f-d4dc-4106-a9b4-f6adee162a9d.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="04266ed9-56a2-42c5-a585-88b45d6ce969" clock="02:50" type="rush" sequence="178" updated="2012-07-17T03:38:12+00:00" side="MICH" yard_line="45" down="2" yfd="9">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="4d24a887-0a7d-4239-9aeb-140ff6189d88" name="Mike Martin" jersey="68" position="DT" team="MICH"/>
+          <player id="10639968-aeb1-4582-85be-1a17e0153b63" name="Craig Roh" jersey="88" position="DE" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 43 for 2 yards (68-M.Martin,88-C.Roh).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/04266ed9-56a2-42c5-a585-88b45d6ce969.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock="02:23" type="teamtimeout" sequence="179" updated="2012-07-17T03:38:21+00:00">
+        <timeout number="2"/>
+        <summary>Timeout #2 by MICH at 02:23.</summary>
+      </event>
+      <play id="50386c76-6f01-4fcd-9cde-e923863bf32e" clock="02:23" type="rush" sequence="180" updated="2012-07-17T03:38:39+00:00" side="MICH" yard_line="43" down="3" yfd="7">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="36c85321-24e8-48ba-90bd-3a453c4f491a" name="Thomas Gordon" jersey="30" position="S" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 21 for 22 yards (30-T.Gordon).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/50386c76-6f01-4fcd-9cde-e923863bf32e.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="fc737416-bb80-4e8a-b4af-2f3b81139070" clock="01:40" type="rush" sequence="181" updated="2012-07-17T03:38:53+00:00" side="MICH" yard_line="21" down="1" yfd="10">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="99428808-4361-431c-aaa9-32b5cc94d0da" name="Desmond Morgan" jersey="44" position="LB" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 22 for -1 yard (44-D.Morgan).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/fc737416-bb80-4e8a-b4af-2f3b81139070.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="722fefa9-f908-45c9-ac0b-2c28a3f86fd0" clock="01:00" type="rush" sequence="182" updated="2012-07-17T03:42:00+00:00" side="MICH" yard_line="22" down="2" yfd="11">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="3e2a59a1-55fb-4765-b40f-fb160006f05d" name="William Campbell" jersey="73" position="DT" team="MICH"/>
+          <player id="35f9f3fd-00f0-4f83-9816-560eb0649038" name="Will Heininger" jersey="39" position="DE" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 24 for -2 yards (73-W.Campbell,39-W.Heininger).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/722fefa9-f908-45c9-ac0b-2c28a3f86fd0.xml" type="application/xml"/>
+        </links>
+      </play>
+      <play id="8023ab2e-0637-4a00-885b-7dc1c4b289ad" clock=":20" type="rush" sequence="183" updated="2012-08-06T02:59:15+00:00" side="MICH" yard_line="24" down="3" yfd="13">
+        <participants>
+          <player id="7cc4c8c7-d94d-4705-ac6a-9b6afef2f2f0" name="Edwin Baker" jersey="4" position="RB" team="MSU"/>
+          <player id="35f9f3fd-00f0-4f83-9816-560eb0649038" name="Will Heininger" jersey="39" position="DE" team="MICH"/>
+        </participants>
+        <summary>4-E.Baker to MICH 27 for -3 yards (39-W.Heininger).</summary>
+        <links>
+          <link rel="summary" href="/2011/REG/7/MICH/MSU/plays/8023ab2e-0637-4a00-885b-7dc1c4b289ad.xml" type="application/xml"/>
+        </links>
+      </play>
+      <event clock=":00" type="quarterend" sequence="184" updated="2012-07-17T03:42:13+00:00">
+        <summary>End of 4th Quarter</summary>
+      </event>
+      <event clock=":00" type="gameover" sequence="185" updated="2012-07-17T03:42:15+00:00">
+        <summary>End of Game</summary>
+      </event>
+    </drive>
+  </quarter>
+  <!-- Generation  ended at Mon Aug 06 02:59:55 +0000 2012 -->
+</game>
