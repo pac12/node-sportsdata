@@ -145,6 +145,10 @@ class SportApi
 
   performHttpGet: (options, callback) ->
     @parser.reset()
+
+    # TODO: This should be only done in INFO mode
+    console.log options
+
     req = http.get options, (res) =>
       res.setEncoding('utf8')
       data = ''
