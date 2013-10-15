@@ -95,32 +95,6 @@ describe 'Node SportsData API', ->
     it 'should be an object', ->
       node_sportsdata.v2.should.be.a('object')
 
-    it 'should have an NBA function', ->
-      node_sportsdata.v2.nba.should.be.a('function')
-
-    describe '#nba()', ->
-
-      it 'should return an NBA object', ->
-        node_sportsdata.v2.nba('api-key').should.be.a('object')
-
-      it 'should throw an error without api key', ->
-        (->
-          node_sportsdata.v2.nba()
-        ).should.throwError(/You must provide an API Key/)
-
-    it 'should have an NCAAMB function', ->
-      node_sportsdata.v2.ncaamb.should.be.a('function')
-
-    describe '#ncaamb', ->
-
-      it 'should return an NCAAMB object', ->
-        node_sportsdata.v2.ncaamb('api-key').should.be.a('object')
-
-      it 'should return an error without api key', ->
-        (->
-          node_sportsdata.v2.ncaamb()
-        ).should.throwError(/You must provide an API Key/)
-
   describe 'v1', ->
 
     it 'should be an object', ->
