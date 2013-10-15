@@ -101,6 +101,24 @@ class SportApi
 
   ###
 
+  GameID based functions
+
+  ###
+
+  getGameBoxscore: (gameId, callback) ->
+    [params, callback] = this.getGameParams gameId, callback
+    this.getResource '/games/%(gameId)s/boxscore.xml', params, callback
+
+  getGameParams: (gameId, callback) ->
+    if not gameId or not callback
+      throw new Error 'gameId and callback are required parameters'
+    if not gameId.gameId
+      gameId = {gameId: gameId}
+
+    [gameId, callback]
+
+  ###
+
   PlayerID based functions
 
   ###
