@@ -53,7 +53,6 @@ describe 'V1 NFL', ->
       nfl.getPlayByPlay {year: 2013, away: 'DAL', home: 'NYG'}, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
-        console.log result.game
         result.game.should.be.a 'object'
         result.game.home.should.match /NYG/
         result.game.away.should.match /DAL/
