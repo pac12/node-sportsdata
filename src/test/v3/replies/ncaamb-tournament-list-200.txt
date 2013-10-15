@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-10-09 22:17:17 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/schedule-v2.0.xsd" id="cd4268ee-07aa-4c4d-a435-ec44ad2c76cb" name="NCAA MEN" alias="NCAAM">
+  <season-schedule id="51b2e714-31c8-419b-99fb-6e4602ba2391" year="2013" type="REG">
+    <tournament id="0f484c3d-2efc-4879-a336-7606d6377c4b" name="CBE Hall of Fame Classic" location="Kansas City, MO, USA" status="scheduled" start_date="2013-11-25" end_date="2013-11-26"/>
+    <tournament id="16428f68-fb52-43dd-83e3-e0dc0397c7bd" name="Puerto Rico Tip-Off" location="San Juan,, PRI" status="scheduled" start_date="2013-11-21" end_date="2013-11-24"/>
+    <tournament id="1bc0c9ec-4b99-4172-9c4f-0c98d697ac82" name="Old Spice Classic" location="Lake Buena Vista, FL, USA" status="scheduled" start_date="2013-11-28" end_date="2013-12-01"/>
+    <tournament id="3315299e-563d-4fbb-979e-81e58d5172fc" name="Cancun Challenge" location="Cancun,, MEX" status="scheduled" start_date="2013-11-26" end_date="2013-11-27"/>
+    <tournament id="3abf61ad-ab02-4a37-89c3-c9764f67dc09" name="Diamond Head Classic" location="Honolulu, HI, USA" status="scheduled" start_date="2013-12-22" end_date="2013-12-25"/>
+    <tournament id="401b5fba-7b1c-4a2c-b2e6-a42c799f8818" name="NIT Season Tip-Off" location="New York City, NY, USA" status="scheduled" start_date="2013-11-18" end_date="2013-11-29"/>
+    <tournament id="60d29eec-6331-4a75-ad44-4540298baae6" name="Hall of Fame Tip-Off" location="Uncasville, CT, USA" status="scheduled" start_date="2013-11-23" end_date="2013-11-24"/>
+    <tournament id="737f2c68-466a-4b70-afc5-e7bfa234ba65" name="Barclays Center Classic" location="Brooklyn, NY, USA" status="scheduled" start_date="2013-11-29" end_date="2013-11-30"/>
+    <tournament id="78bbe75b-ae26-4c4c-bafe-01db5b55f98d" name="Legends Classic" location="Brooklyn, NY, USA" status="scheduled" start_date="2013-11-25" end_date="2013-10-26"/>
+    <tournament id="78d01245-44b6-43b0-9f9b-9150b805089c" name="The Wooden Legacy" location="Anaheim, CA, USA" status="scheduled" start_date="2013-11-28" end_date="2013-12-01"/>
+    <tournament id="79fcdffd-558a-4ace-ae24-864ba5512aa5" name="Paradise Jam" location="St. Thomas,, VIR" status="scheduled" start_date="2013-11-22" end_date="2013-11-25"/>
+    <tournament id="8c0de3d4-187a-45b4-899a-6a43a8013838" name="Gulf Coast Showcase" location="Estero, FL, USA" status="scheduled" start_date="2013-11-25" end_date="2013-11-27"/>
+    <tournament id="92b84f92-342e-4286-944f-e030211be2c3" name="Maui Invitational" location="Maui, HI, USA" status="scheduled" start_date="2013-11-23" end_date="2013-11-27"/>
+    <tournament id="9fd719bc-90ae-4fb5-ba5d-3b614a9392c5" name="2K Sports Classic Benefitting The Wounded Warrior Project" location="New York City, NY, USA" status="scheduled" start_date="2013-11-21" end_date="2013-11-22"/>
+    <tournament id="aa450bc1-f4da-4127-af08-ec43ca492e20" name="Battle 4 Atlantis" location="Paradise Island,, BHS" status="scheduled" start_date="2013-11-28" end_date="2013-11-30"/>
+    <tournament id="ab0754a7-2a19-4e22-987a-c45ce217ea60" name="Las Vegas Invitational" location="Las Vegas, NV, USA" status="scheduled" start_date="2013-11-29" end_date="2013-11-30"/>
+    <tournament id="ae78e6f4-ced1-4354-ae09-61d99ac8e445" name="Corpus Christi Challenge" location="Corpus Christi, TX, USA" status="scheduled" start_date="2013-11-29" end_date="2013-11-30"/>
+    <tournament id="b2d68467-0901-4923-936e-ae65a05671f3" name="Great Alaska Shootout" location="Anchorage, AK, USA" status="scheduled" start_date="2013-11-27" end_date="2013-11-30"/>
+    <tournament id="c02b70ff-7c0a-442f-bc0f-b988254c2499" name="Charleston Classic" location="Charleston, SC, USA" status="scheduled" start_date="2013-11-21" end_date="2013-11-24"/>
+    <tournament id="c0302370-47fc-480e-8fe8-71de8343d357" name="Coaches vs. Cancer Classic" location="Brooklyn, NY, USA" status="scheduled" start_date="2013-11-22" end_date="2013-11-23"/>
+    <tournament id="e3335698-dadb-4051-a2ff-fef4dfa665a6" name="Las Vegas Classic" location="Las Vegas, NV, USA" status="scheduled" start_date="2013-12-22" end_date="2013-12-23"/>
+  </season-schedule>
+</league>
+<!-- Generation ended @ 2013-10-09 22:17:17 +0000 -->
