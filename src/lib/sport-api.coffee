@@ -109,6 +109,10 @@ class SportApi
     [params, callback] = this.getGameParams gameId, callback
     this.getResource '/games/%(gameId)s/boxscore.xml', params, callback
 
+  getGameSummary: (gameId, callback) ->
+    [params, callback] = this.getGameParams gameId, callback
+    this.getResource '/games/%(gameId)s/summary.xml', params, callback
+
   getGameParams: (gameId, callback) ->
     if not gameId or not callback
       throw new Error 'gameId and callback are required parameters'
