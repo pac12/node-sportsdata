@@ -52,7 +52,6 @@ describe 'V3 NCAAMB', ->
       ncaamb.getTournamentList {year: 2012}, (err, result) ->
         should.not.exist err
         result.should.be.a 'object'
-        console.log result.league['season-schedule']
         should.not.exist result.league['season-schedule'].tournament
         done()
 

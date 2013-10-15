@@ -20,8 +20,6 @@ describe 'V3 NCAAMB', ->
         .replyWithFile(200, __dirname + '/replies/ncaamb-tournament-schedule-200.txt')
         .get('/ncaamb-t3/tournaments/ab0754a7-2a19-4e22-987a-c45ce217ea60/schedule.xml?api_key=api-key')
         .replyWithFile(200, __dirname + '/replies/ncaamb-tournament-schedule-200.txt')
-        # .get('/ncaamb-t3/tournaments/ab0754a7-2a19-4e22-987a-c45ce217ea60/schedule.xml?api_key=api-key')
-        # .replyWithFile(200, __dirname + '/replies/tournament-200.txt')
 
     it 'should be a function', ->
       ncaamb.getTournamentSchedule.should.be.a('function')
