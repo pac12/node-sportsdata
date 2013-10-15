@@ -1,6 +1,7 @@
 http = require 'http'
 sprintf = require('sprintf-js').sprintf
 xml2js = require 'xml2js'
+moment = require 'moment'
 
 class SportApi
   domain: 'api.sportsdatallc.org'
@@ -117,6 +118,28 @@ class SportApi
   HELPER FUNCTIONS
 
   ###
+
+  getDailyParams: (date, callback) ->
+    if typeof date is 'function'
+      callback = date
+      date = null
+    if not date
+      date = new Date()
+    if not date.date
+      date = {date: date}
+    if date.date not instanceof Date
+      try
+        date.date = new Date(date.date)
+      catch e
+        date.date = new Date()
+
+    date = moment(date.date)
+    params =
+      year: date.format('YYYY')
+      month: date.format('MM')
+      day: date.format('DD')
+
+    return [params, callback]
 
   getResource: (pattern, params, callback) ->
     if typeof params is 'function'

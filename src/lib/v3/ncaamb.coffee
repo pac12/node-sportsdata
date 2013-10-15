@@ -1,5 +1,4 @@
 SportApi = require '../sport-api'
-moment = require 'moment'
 
 class NCAAMB extends SportApi
   league: 'ncaamb'
