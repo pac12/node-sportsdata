@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-10-14 22:18:36 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/schedule-v2.0.xsd" id="cd4268ee-07aa-4c4d-a435-ec44ad2c76cb" name="NCAA MEN" alias="NCAAM">
+  <season-schedule id="51b2e714-31c8-419b-99fb-6e4602ba2391" year="2013" type="REG">
+    <games>
+      <game id="10b219c4-7638-4678-9ea5-6fe3a5b552e8" status="scheduled" coverage="boxscore" home_team="c9570e17-c4fd-41e6-908a-1a083941319d" away_team="ff696a32-55b6-4508-997f-0838fb421d4b" scheduled="2013-11-04T00:00:00+00:00">
+        <venue id="ee6551cc-e4b5-4e08-906e-6184b5f6ab71" name="Alex G. Spanos Center" capacity="6150" address="1178 Larry Heller Dr" city="Stockton" state="CA" zip="95211" country="USA"/>
+        <home name="Pacific Tigers" alias="PAC" id="c9570e17-c4fd-41e6-908a-1a083941319d">
+        </home>
+        <away name="Montana Tech Orediggers" alias="MTU" id="ff696a32-55b6-4508-997f-0838fb421d4b">
+        </away>
+      </game>
+      <game id="2a1a7368-3c15-4cde-a469-ca620a6316d5" status="scheduled" coverage="boxscore" home_team="e30c0417-b220-424e-886e-dd1249e2ca5a" away_team="230ed8fe-d629-4ce5-a7d2-7057ec68d06e" scheduled="2013-11-06T00:00:00+00:00">
+        <venue id="7dd31aed-216c-4a1b-9358-1f19c2b4065b" name="Wolstein Center" capacity="13600" address="2000 Prospect Ave" city="Cleveland" state="OH" zip="44115" country="USA"/>
+        <home name="Cleveland State Vikings" alias="CLEV" id="e30c0417-b220-424e-886e-dd1249e2ca5a">
+        </home>
+        <away name="Lake Erie Storm" alias="LEC" id="230ed8fe-d629-4ce5-a7d2-7057ec68d06e">
+        </away>
+      </game>
+      <game id="63be011b-11c3-4606-9588-a23aa9e7a361" status="scheduled" coverage="boxscore" home_team="c444e03b-d16b-48b2-9b18-823c2647d41d" away_team="2d627295-cce2-4c48-928d-d7a202d9a502" scheduled="2013-11-06T00:00:00+00:00">
+        <venue id="e28afaa2-23e8-4139-bebd-51f01828b4cb" name="Williams Assembly Center" capacity="8000" address="1400 J.R. Lynch Street" city="Jackson" state="MS" zip="39217" country="USA"/>
+        <home name="Jackson State Tigers" alias="JKST" id="c444e03b-d16b-48b2-9b18-823c2647d41d">
+        </home>
+        <away name="Tougaloo Bulldogs" alias="TC" id="2d627295-cce2-4c48-928d-d7a202d9a502">
+        </away>
+      </game>
+      <game id="7ad7f54b-1d7d-42e6-8ece-9c1875c96299" status="scheduled" coverage="boxscore" home_team="aacdc78d-b7fa-48f6-9686-2fdb8a95030e" away_team="5f9a90a2-3926-404e-8c8a-d9f22ad6907d" scheduled="2013-11-06T06:00:00+00:00">
+        <venue id="bf0a9070-8049-41c9-9a4e-dfa0dcf6ad07" name="Haas Pavilion" capacity="11877" address="14 Frank Schlessinger Way" city="Berkeley" state="CA" zip="94720" country="USA"/>
+        <home name="California Golden Bears" alias="CAL" id="aacdc78d-b7fa-48f6-9686-2fdb8a95030e">
+        </home>
+        <away name="Coppin State Eagles" alias="COPP" id="5f9a90a2-3926-404e-8c8a-d9f22ad6907d">
+        </away>
+      </game>
+      <game id="763e708a-0bfe-4c41-b4a4-d64f80d67bae" status="time-tbd" coverage="boxscore" home_team="a3b13d27-ec14-4a7d-88a2-0bc9f7b58984" away_team="8ff733a9-9f93-46de-ba7e-cf6f7e429670" scheduled="2013-11-07T06:00:00+00:00">
+        <venue id="60129c5d-721b-4ab3-9d6e-8a0123ad46b3" name="F. G. Clark Center" capacity="7500" address="798 Harding Blvd" city="Baton Rouge" state="LA" zip="70813" country="USA"/>
+        <home name="Southern University Jaguars" alias="SOU" id="a3b13d27-ec14-4a7d-88a2-0bc9f7b58984">
+        </home>
+        <away name="Louisiana Tech Bulldogs" alias="LT" id="8ff733a9-9f93-46de-ba7e-cf6f7e429670">
+        </away>
+      </game>
+      <game id="2f24e26e-e8e6-4d2c-a19f-df8855663160" status="scheduled" coverage="boxscore" home_team="aacdc78d-b7fa-48f6-9686-2fdb8a95030e" away_team="5f9a90a2-3926-404e-8c8a-d9f22ad6907d" scheduled="2013-11-08T05:00:00+00:00">
+        <venue id="bf0a9070-8049-41c9-9a4e-dfa0dcf6ad07" name="Haas Pavilion" capacity="11877" address="14 Frank Schlessinger Way" city="Berkeley" state="CA" zip="94720" country="USA"/>
+        <home name="California Golden Bears" alias="CAL" id="aacdc78d-b7fa-48f6-9686-2fdb8a95030e">
+        </home>
+        <away name="Coppin State Eagles" alias="COPP" id="5f9a90a2-3926-404e-8c8a-d9f22ad6907d">
+        </away>
+        <broadcast network="Pac-12 Networks"/>
+      </game>
+      <game id="558a0a9c-e0e5-4c1f-b4fc-39b45882a2b4" status="scheduled" coverage="full" home_team="ec0d6b67-4b16-4b50-92b2-1a651dae6b0f" away_team="f2d01b77-0f5d-4574-9e49-2a3eaf822e44" scheduled="2013-11-08T05:00:00+00:00">
+        <venue id="e7547c99-c087-4245-b039-19dc1f8df1b0" name="Pauley Pavilion" capacity="14000" address="555 Westwood Plaza" city="Los Angeles" state="CA" zip="90095" country="USA"/>
+        <home name="UCLA Bruins" alias="UCLA" id="ec0d6b67-4b16-4b50-92b2-1a651dae6b0f">
+        </home>
+        <away name="Drexel Dragons" alias="DREX" id="f2d01b77-0f5d-4574-9e49-2a3eaf822e44">
+        </away>
+        <broadcast network="Pac-12 Networks"/>
+      </game>
+      <game id="039431d7-37f7-46ab-ae1c-6b07d9ddc11f" status="time-tbd" coverage="boxscore" home_team="56fe0ab2-e4f0-47b9-8726-9ce23ebcde20" away_team="4af63ebd-d3c8-4772-bbde-938a078bd057" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="ca06b2d0-adb4-4ce4-9905-558d2ea5787b" name="James A. Rhodes Arena" capacity="5500" address="373 Carroll St" city="Akron" state="OH" zip="44325" country="USA"/>
+        <home name="Akron Zips" alias="AKR" id="56fe0ab2-e4f0-47b9-8726-9ce23ebcde20">
+        </home>
+        <away name="Coastal Carolina Chanticleers" alias="CCAR" id="4af63ebd-d3c8-4772-bbde-938a078bd057">
+        </away>
+      </game>
+      <game id="0d094a21-2bcd-4d45-b56c-6133cb1ee23f" status="time-tbd" coverage="full" home_team="fa416692-7e09-4f0a-9bcf-0cf7d5149a14" away_team="508f503f-dc57-4f4c-a01e-4f195e5c05c8" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="f72da915-1ddd-41a0-9e19-0b0c7f6f30c5" name="Williams Arena" capacity="14625" address="1925 SE University Avenue" city="Minneapolis" state="MN" zip="55455" country="USA"/>
+        <home name="Minnesota Golden Gophers" alias="MINN" id="fa416692-7e09-4f0a-9bcf-0cf7d5149a14">
+        </home>
+        <away name="Lehigh Mountain Hawks" alias="LEH" id="508f503f-dc57-4f4c-a01e-4f195e5c05c8">
+        </away>
+        <broadcast network="ESPN3"/>
+      </game>
+      <game id="2d28ae74-32d1-41a3-afe9-567860bf462e" status="time-tbd" coverage="boxscore" home_team="e76479d0-a768-46d2-89bf-7b9dae12bec8" away_team="2f513e67-f019-4eec-9096-fbc5911858b6" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="74004fda-5a29-4769-99e7-b1c147ba37db" name="Patriot Center" capacity="10000" address="4500 Patriot Cir" city="Fairfax" state="VA" zip="22030" country="USA"/>
+        <home name="George Mason Patriots" alias="GMU" id="e76479d0-a768-46d2-89bf-7b9dae12bec8">
+        </home>
+        <away name="American University Eagles" alias="AMER" id="2f513e67-f019-4eec-9096-fbc5911858b6">
+        </away>
+      </game>
+      <game id="3224b157-68a1-4f02-bdc7-ddafbdd9ded8" status="time-tbd" coverage="boxscore" home_team="472c22e0-843d-472c-a871-f1593fb0725d" away_team="9c712f87-bcf4-41a5-b19c-0b8ae0a7f016" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="6ad08551-2048-4083-8d25-a1fd2a7e6c30" name="McGuirk Arena" capacity="5300" address="Central Michigan University" city="Mount Pleasant" state="MI" zip="48859" country="USA"/>
+        <home name="Central Michigan Chippewas" alias="CMU" id="472c22e0-843d-472c-a871-f1593fb0725d">
+        </home>
+        <away name="Manchester Spartans" alias="MU" id="9c712f87-bcf4-41a5-b19c-0b8ae0a7f016">
+        </away>
+      </game>
+      <game id="5e88a950-ea9e-4523-a1ff-588b5825c571" status="time-tbd" coverage="boxscore" home_team="a7127c0a-a466-47ae-91ad-9a71ee2c9427" away_team="9febd5fa-982f-4f40-ad1d-8e49be96cf4f" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="32e70ac7-27f7-4a28-92a4-8584180cf3ca" name="Arena-Auditorium" capacity="15028" address="1000 E University Ave" city="Lramie" state="WY" zip="82071" country="USA"/>
+        <home name="Wyoming Cowboys" alias="WYO" id="a7127c0a-a466-47ae-91ad-9a71ee2c9427">
+        </home>
+        <away name="Tennessee-Martin Skyhawks" alias="UTM" id="9febd5fa-982f-4f40-ad1d-8e49be96cf4f">
+        </away>
+      </game>
+      <game id="6f9503d7-f701-47c9-8280-83a1ffe88546" status="time-tbd" coverage="boxscore" home_team="68a3227f-677f-43b0-9a3a-cad79d0df9e2" away_team="79965018-7f6f-4273-9eef-65c99b592b01" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="1c5db5ab-5da3-4707-b198-4588508686f2" name="Thomas &amp; Mack Center" capacity="18776" address="4505 S Maryland Parkway" city="Las Vegas" state="NV" zip="89119" country="USA"/>
+        <home name="UNLV Rebels" alias="UNLV" id="68a3227f-677f-43b0-9a3a-cad79d0df9e2">
+        </home>
+        <away name="Portland State Vikings" alias="PRST" id="79965018-7f6f-4273-9eef-65c99b592b01">
+        </away>
+      </game>
+      <game id="7a47717f-371a-4167-8370-7a2def3ed5f9" status="time-tbd" coverage="boxscore" home_team="8ddbfca9-a931-4908-aa31-9fcd17624b5f" away_team="d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="70570fc0-9b6f-41e8-9ad1-2c6cb70af493" name="Dale F. Halton Arena" capacity="9105" address="9201 University City Boulevard" city="Charlotte" state="NC" zip="28223" country="USA"/>
+        <home name="Charlotte 49ers" alias="CHAR" id="8ddbfca9-a931-4908-aa31-9fcd17624b5f">
+        </home>
+        <away name="East Tennessee State Buccaneers" alias="ETSU" id="d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e">
+        </away>
+      </game>
+      <game id="841e34f7-868e-4991-b5e4-b99babd00755" status="time-tbd" coverage="boxscore" home_team="01b0a316-317f-4120-8447-9831231aef0b" away_team="10f450ce-143b-4e46-8bfe-52c644b68b07" scheduled="2013-11-08T06:00:00+00:00">
+        <home name="Northwood (MI) Timberwolves" alias="NU" id="01b0a316-317f-4120-8447-9831231aef0b">
+        </home>
+        <away name="North Texas Mean Green" alias="UNT" id="10f450ce-143b-4e46-8bfe-52c644b68b07">
+        </away>
+      </game>
+      <game id="8c27b07d-59d2-41f0-9238-2b45e1842b01" status="time-tbd" coverage="boxscore" home_team="62a73b4a-e281-4483-a1f8-f1160a18e456" away_team="c9570e17-c4fd-41e6-908a-1a083941319d" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="d06f9894-d231-44f1-8788-33b28e1dfd3e" name="Lawlor Events Center" capacity="89557" address="1500 N Virginia St" city="Reno" state="NV" zip="89557" country="USA"/>
+        <home name="Nevada Wolf Pack" alias="NEV" id="62a73b4a-e281-4483-a1f8-f1160a18e456">
+        </home>
+        <away name="Pacific Tigers" alias="PAC" id="c9570e17-c4fd-41e6-908a-1a083941319d">
+        </away>
+      </game>
+      <game id="95c1c7f3-2397-4f4a-b078-e0969d08872a" status="time-tbd" coverage="full" home_team="a17dfc54-415f-49c3-a2e6-d6fa9db18b0a" away_team="e4c315a0-e83f-4d14-856e-34a0463059e3" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="a8644cd5-3962-481b-8df9-e529e6361d6a" name="Fifth Third Arena" capacity="13176" address="2700 O'Varsity Way" city="Cincinnati" state="OH" zip="45221" country="USA"/>
+        <home name="Cincinnati Bearcats" alias="CIN" id="a17dfc54-415f-49c3-a2e6-d6fa9db18b0a">
+        </home>
+        <away name="North Carolina Central Eagles" alias="NCCU" id="e4c315a0-e83f-4d14-856e-34a0463059e3">
+        </away>
+        <broadcast network="ESPN3"/>
+      </game>
+      <game id="9c7072d3-a7af-4359-b9a8-a30bf63ccebb" status="time-tbd" coverage="full" home_team="c2104cdc-c83d-40d2-a3cd-df986e29f5d3" away_team="b2fda957-e15c-4fb2-8a13-6e58496f561e" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="a48ecb87-3324-4b79-846e-a51d1c16d423" name="Coleman Coliseum" capacity="15383" address="323 Paul W Bryant Dr " city="Tuscaloosa" state="AL" zip="35487" country="USA"/>
+        <home name="Alabama Crimson Tide" alias="ALA" id="c2104cdc-c83d-40d2-a3cd-df986e29f5d3">
+        </home>
+        <away name="Oklahoma Sooners" alias="OKLA" id="b2fda957-e15c-4fb2-8a13-6e58496f561e">
+        </away>
+      </game>
+      <game id="9ffba27d-6653-47a9-bf61-f81c16e024f0" status="time-tbd" coverage="boxscore" home_team="23426c0b-1705-4dfb-a0e2-efdbdd8fd6f6" away_team="15d31915-fbd6-4ae3-8e4b-f3b563c56a18" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="309a22d5-6d59-4c5b-9330-7f1270deed09" name="Stony Brook University Arena" capacity="4000" address="Center Drive" city="Stony Brook" state="NY" zip="11790" country="USA"/>
+        <home name="Stony Brook Seawolves" alias="STON" id="23426c0b-1705-4dfb-a0e2-efdbdd8fd6f6">
+        </home>
+        <away name="Marist Red Foxes" alias="MRST" id="15d31915-fbd6-4ae3-8e4b-f3b563c56a18">
+        </away>
+      </game>
+      <game id="ac0ae534-e489-4cf6-821f-f1404c1dc724" status="time-tbd" coverage="full" home_team="c7569eae-5b93-4197-b204-6f3a62146b25" away_team="c1f4aae1-aa16-4095-aeab-10e5c2a1236a" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="43889e3e-601b-4180-811a-33005480d2de" name="Kohl Center" capacity="17230" address="601 W Dayton St" city="Madison" state="WI" zip="53715" country="USA"/>
+        <home name="Wisconsin Badgers" alias="WIS" id="c7569eae-5b93-4197-b204-6f3a62146b25">
+        </home>
+        <away name="St. John's Red Storm" alias="SJU" id="c1f4aae1-aa16-4095-aeab-10e5c2a1236a">
+        </away>
+      </game>
+      <game id="b25a48f4-a3fd-45fb-94e3-3bbaf2d73a1f" status="time-tbd" coverage="full" home_team="f7fcbb6e-4a55-41ea-ba21-f763ed914467" away_team="3f4515ea-4472-46b9-ac9e-16d7d8f22a38" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="401ba62f-19b5-5bfc-84d6-021772943311" name="American Airlines Center" capacity="19200" address="2500 Victory Ave." city="Dallas" state="TX" zip="75219" country="USA"/>
+        <home name="TCU Horned Frogs" alias="TCU" id="f7fcbb6e-4a55-41ea-ba21-f763ed914467">
+        </home>
+        <away name="Southern Methodist Mustangs" alias="SMU" id="3f4515ea-4472-46b9-ac9e-16d7d8f22a38">
+        </away>
+      </game>
+      <game id="b9bebca2-6564-41d1-b32b-0b54a8312c14" status="time-tbd" coverage="boxscore" home_team="e6914f16-ca37-4d2e-ba26-a425910283e2" away_team="6b170a32-8445-4cb1-8638-724996c3094b" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="79da0063-8ef0-4c77-ac98-26e724b0c2f9" name="Viejas Arena" capacity="12414" address="5500 Canyon Crest Drive" city="San Diego" state="CA" zip="92115" country="USA"/>
+        <home name="San Diego State Aztecs" alias="SDSU" id="e6914f16-ca37-4d2e-ba26-a425910283e2">
+        </home>
+        <away name="UC Riverside Highlanders" alias="UCRV" id="6b170a32-8445-4cb1-8638-724996c3094b">
+        </away>
+      </game>
+      <game id="bd4e30af-55ce-4589-b742-39cd1730c844" status="time-tbd" coverage="boxscore" home_team="36ca2008-cd2e-4549-8b3b-c745167e07f3" away_team="3db7336c-c18a-441b-912e-e2a4408f12ea" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="0d149b57-2a9a-41a6-a334-a44b32f3e94b" name="Mack Sports Complex - Hofstra Arena" capacity="5124" address="245 N Hofstra Ave" city="Hempstead" state="NY" zip="11549" country="USA"/>
+        <home name="Hofstra Pride" alias="HOF" id="36ca2008-cd2e-4549-8b3b-c745167e07f3">
+        </home>
+        <away name="Monmouth Hawks" alias="MONM" id="3db7336c-c18a-441b-912e-e2a4408f12ea">
+        </away>
+      </game>
+      <game id="d7946b61-6a18-4ea4-bbcc-f76619c7a40e" status="time-tbd" coverage="full" home_team="f8b1bf00-5b73-4ac4-98c0-ec554027ae32" away_team="5326c079-3dc3-468f-a601-b776dd9c1e62" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="d391cce1-28e8-4502-9450-fda7b25e478b" name="Bob Devaney Sports Center" capacity="13595" address="1600 Court Street" city="Lincoln" state="NE" zip="68508" country="USA"/>
+        <home name="Nebraska Cornhuskers" alias="NEB" id="f8b1bf00-5b73-4ac4-98c0-ec554027ae32">
+        </home>
+        <away name="Florida Gulf Coast Eagles" alias="FGCU" id="5326c079-3dc3-468f-a601-b776dd9c1e62">
+        </away>
+        <broadcast network="Big Ten Network"/>
+      </game>
+      <game id="e0577519-fa1e-47eb-839b-4dfa7d830c85" status="time-tbd" coverage="boxscore" home_team="d52c3640-069c-4554-982e-e6537c8044f1" away_team="f2cf9ba2-ac8c-4d92-8e7a-48dd88e8f40b" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="f5b4c291-b7da-455f-8512-5c9d44248534" name="Charles E. Smith Athletic Center" capacity="4338" address="600 22nd Street NW" city="Washington" state="DC" zip="20052" country="USA"/>
+        <home name="George Washington Colonials" alias="GW" id="d52c3640-069c-4554-982e-e6537c8044f1">
+        </home>
+        <away name="Radford Highlanders" alias="RAD" id="f2cf9ba2-ac8c-4d92-8e7a-48dd88e8f40b">
+        </away>
+      </game>
+      <game id="ee16a88a-99c1-4ed5-afb4-d16e8e361cc1" status="time-tbd" coverage="boxscore" home_team="7888d144-563d-4f84-b99b-d120aecf1fef" away_team="6637ac5f-59c2-4888-af34-a86d138ccfb3" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="55b2714f-a468-4f6e-94b3-c3461597d69d" name="Rose Hill Gymnasium" capacity="3470" address="Fordham University" city="Bronx" state="NY" zip="10458" country="USA"/>
+        <home name="Fordham Rams" alias="FOR" id="7888d144-563d-4f84-b99b-d120aecf1fef">
+        </home>
+        <away name="St. Francis (PA) Red Flash" alias="SFPA" id="6637ac5f-59c2-4888-af34-a86d138ccfb3">
+        </away>
+      </game>
+      <game id="f0516d8d-f56f-40e7-84f1-4ee31278a09a" status="time-tbd" coverage="boxscore" home_team="10c614fa-9646-46cf-a1fb-5af96772bbb8" away_team="1b78e7f6-f25c-4921-98e2-9bc565f8dfb4" scheduled="2013-11-08T06:00:00+00:00">
+        <venue id="d6e5d172-c88f-411d-b421-4b59b9507e44" name="Mitchell Center" capacity="10041" address="2195 Mitchell Center Drive" city="Mobile" state="AL" zip="36608" country="USA"/>
+        <home name="South Alabama Jaguars" alias="USA" id="10c614fa-9646-46cf-a1fb-5af96772bbb8">
+        </home>
+        <away name="Detroit Titans" alias="DET" id="1b78e7f6-f25c-4921-98e2-9bc565f8dfb4">
+        </away>
+      </game>
+      <game id="30422b53-12ca-4f31-881f-c077b6ae3122" status="scheduled" coverage="boxscore" home_team="5016fe1a-9571-4d10-bf5b-b9c1b496bd57" away_team="f2164f01-2cbc-4967-bb1c-93656d790921" scheduled="2013-11-08T06:30:00+00:00">
+        <venue id="737ae60d-b84c-4f0b-a310-1f2538258d55" name="Pan American Center" capacity="12482" address="S Triviz Dr &amp; Payne St" city="Las Cruces" state="NM" zip="88003" country="USA"/>
+        <home name="New Mexico State Aggies" alias="NMSU" id="5016fe1a-9571-4d10-bf5b-b9c1b496bd57">
+        </home>
+        <away name="Western Michigan Broncos" alias="WMU" id="f2164f01-2cbc-4967-bb1c-93656d790921">
+        </away>
+      </game>
+      <game id="c58408d2-2e3d-428a-91d6-7579705e1502" status="scheduled" coverage="boxscore" home_team="2ed86226-3fff-4083-90fa-6b02307e6f73" away_team="61be018b-2981-4140-b33e-7149797e42cb" scheduled="2013-11-08T17:00:00+00:00">
+        <venue id="9e847e81-5cd1-4740-a96c-e7c0c81f74e1" name="Eastern Michigan University Convocation Center" capacity="8824" address="799 North Hewitt Road" city="Ypsilanti" state="MI" zip="48197" country="USA"/>
+        <home name="Eastern Michigan Eagles" alias="EMU" id="2ed86226-3fff-4083-90fa-6b02307e6f73">
+        </home>
+        <away name="Albion Britons" alias="ALB" id="61be018b-2981-4140-b33e-7149797e42cb">
+        </away>
+      </game>
+      <game id="39b58648-afd6-447d-8030-59bc349ab276" status="scheduled" coverage="boxscore" home_team="aa7af640-5762-4686-9181-39f7b8a8186e" away_team="6dfaf0ba-47c4-4e05-b0a7-72734747d48f" scheduled="2013-11-08T18:00:00+00:00">
+        <venue id="be3d2087-13cb-478f-a460-9955288df206" name="Clune Arena" capacity="5858" address="2168 Field House Dr" city="US Air Force Academy" state="CO" zip="80840" country="USA"/>
+        <home name="Air Force Falcons" alias="AFA" id="aa7af640-5762-4686-9181-39f7b8a8186e">
+        </home>
+        <away name="Army Black Knights" alias="ARMY" id="6dfaf0ba-47c4-4e05-b0a7-72734747d48f">
+        </away>
+        <broadcast network="ESPNU" internet="WatchESPN"/>
+      </game>
+      <game id="ab187e2a-3841-4d7f-9438-6b42aeb9fc2b" status="scheduled" coverage="boxscore" home_team="1394dd8a-040e-4509-9ee3-761d60eaf6c9" away_team="61a3e5ab-1be3-4694-b83f-edae0953f409" scheduled="2013-11-08T20:00:00+00:00">
+        <venue id="c652d52c-d787-4a99-b50d-546c3a8b8b60" name="H.O. Clemmons Arena" capacity="4500" address="1200 University Drive" city="Pine Bluff" state="AR" zip="71601" country="USA"/>
+        <home name="Arkansas-Pine Bluff Golden Lions" alias="ARPB" id="1394dd8a-040e-4509-9ee3-761d60eaf6c9">
+        </home>
+        <away name="Green Bay Phoenix" alias="GB" id="61a3e5ab-1be3-4694-b83f-edae0953f409">
+        </away>
+      </game>
+      <game id="fbd4d02d-a1cc-4274-b186-4e6b08942080" status="scheduled" coverage="full" home_team="912f8837-1d81-4ef9-a576-a21f271d4c64" away_team="09920a5f-1b25-466c-b5ae-6167214f5ba9" scheduled="2013-11-08T20:00:00+00:00">
+        <venue id="2a1b8d6e-c275-4f77-a5dd-5d0154667a5d" name="O'Connell Center" capacity="12000" address="250 Gale Lemerand Drive" city="Gainesville" state="FL" zip="32611" country="USA"/>
+        <home name="Florida Gators" alias="FLA" id="912f8837-1d81-4ef9-a576-a21f271d4c64">
+        </home>
+        <away name="North Florida Ospreys" alias="UNF" id="09920a5f-1b25-466c-b5ae-6167214f5ba9">
+        </away>
+      </game>
+      <game id="60ed7cb9-40de-4167-ae67-c68eb756d641" status="scheduled" coverage="boxscore" home_team="227d3567-d57b-417e-afc4-735e4cb308a1" away_team="412e7f0d-fb93-4e6e-be1f-9a4c7490d121" scheduled="2013-11-08T20:30:00+00:00">
+        <venue id="bb58bce7-ccfc-41d6-96f8-77912e639e09" name="Cameron Hall" capacity="5020" address="401 N Main Street" city="Lexington" state="VA" zip="24450" country="USA"/>
+        <home name="Virginia Military Keydets" alias="VMI" id="227d3567-d57b-417e-afc4-735e4cb308a1">
+        </home>
+        <away name="Citadel Bulldogs" alias="CIT" id="412e7f0d-fb93-4e6e-be1f-9a4c7490d121">
+        </away>
+        <broadcast network="ESPNU" internet="WatchESPN"/>
+      </game>
+      <game id="52b2b738-8973-4f50-9caa-0b9f29dc934b" status="scheduled" coverage="boxscore" home_team="227d3567-d57b-417e-afc4-735e4cb308a1" away_team="dcc09eae-db08-404b-8f81-7f7a4fd37529" scheduled="2013-11-08T21:00:00+00:00">
+        <venue id="bb58bce7-ccfc-41d6-96f8-77912e639e09" name="Cameron Hall" capacity="5020" address="401 N Main Street" city="Lexington" state="VA" zip="24450" country="USA"/>
+        <home name="Virginia Military Keydets" alias="VMI" id="227d3567-d57b-417e-afc4-735e4cb308a1">
+        </home>
+        <away name="Emporia State Hornets" alias="ESU" id="dcc09eae-db08-404b-8f81-7f7a4fd37529">
+        </away>
+        <broadcast network="ESPNU" internet="WatchESPN"/>
+      </game>
+      <game id="2803840c-a776-4346-828d-1a4c0ee8d4cd" status="scheduled" coverage="boxscore" home_team="e48e3dd5-721c-4d96-8ff4-790fe2597bfd" away_team="a8ac24ca-3b7a-4610-ad99-042661584c48" scheduled="2013-11-08T22:00:00+00:00">
+        <venue id="730eda92-17aa-479c-aa90-05864f00d132" name="McBrayer Arena" capacity="6500" address="521 Lancaster Ave" city="Richmond" state="KY" zip="40475" country="USA"/>
+        <home name="Eastern Kentucky Colonels" alias="EKY" id="e48e3dd5-721c-4d96-8ff4-790fe2597bfd">
+        </home>
+        <away name="Florida International Golden Panthers" alias="FIU" id="a8ac24ca-3b7a-4610-ad99-042661584c48">
+        </away>
+      </game>
+      <game id="f5a45eec-7fd4-4fd3-97fa-c95071d0f339" status="scheduled" coverage="boxscore" home_team="ad4bc983-8d2e-4e6f-a8f9-80840a786c64" away_team="32755362-6336-4dd3-ac34-6f72a6cc150b" scheduled="2013-11-08T22:00:00+00:00">
+        <venue id="1cfb6fcd-84c0-464a-b9bb-7ce687500dbc" name="Wells Fargo Arena" capacity="10754" address="600 East Veterans Way" city="Tempe" state="AZ" zip="85287" country="USA"/>
+        <home name="Arizona State Sun Devils" alias="ASU" id="ad4bc983-8d2e-4e6f-a8f9-80840a786c64">
+        </home>
+        <away name="UMBC Retrievers" alias="UMBC" id="32755362-6336-4dd3-ac34-6f72a6cc150b">
+        </away>
+        <broadcast network="Pac-12 Networks"/>
+      </game>
+      <game id="d0bd2b39-bffa-492f-9e21-ed1366a44d33" status="scheduled" coverage="boxscore" home_team="4c9fb59b-6cec-4b0d-bb0f-628b391d138c" away_team="8709616c-fb1c-4210-bd0c-ec4bd68fd69f" scheduled="2013-11-08T22:30:00+00:00">
+        <home name="Chattanooga Mocs" alias="CHAT" id="4c9fb59b-6cec-4b0d-bb0f-628b391d138c">
+        </home>
+        <away name="Covenant Scots" alias="COV" id="8709616c-fb1c-4210-bd0c-ec4bd68fd69f">
+        </away>
+      </game>
+    </games>
+  </season-schedule>
+</league>
+<!-- Generation ended @ 2013-10-14 22:18:53 +0000 -->
