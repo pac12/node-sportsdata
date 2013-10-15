@@ -67,6 +67,9 @@ describe 'Node SportsData API', ->
     it 'should have a MLB function', ->
       node_sportsdata.v3.mlb.should.be.a('function')
 
+    it 'should have a NCAAMB function', ->
+      node_sportsdata.v3.ncaamb.should.be.a('function')
+
     describe '#mlb()', ->
 
       it 'should return an MLB object', ->
@@ -89,6 +92,29 @@ describe 'Node SportsData API', ->
       it 'should support test league mode', ->
         httpOptions =  node_sportsdata.v3.mlb('api-key', 't', true).getHttpOptions()
         httpOptions.path.should.match /mlb-test-t3/
+
+    describe '#ncaamb()', ->
+
+      it 'should return an NCAAMB object', ->
+        node_sportsdata.v3.ncaamb('api-key', 't').should.be.a('object')
+
+      it 'should throw an error without api key', ->
+        (->
+          node_sportsdata.v3.ncaamb()
+        ).should.throwError(/You must provide an API Key/)
+
+      it 'should throw an error without access level', ->
+        (->
+          node_sportsdata.v3.ncaamb('api-key')
+        ).should.throwError(/You must provide an Access Level/)
+
+      it 'should default to not test league mode', ->
+        httpOptions =  node_sportsdata.v3.ncaamb('api-key', 't').getHttpOptions()
+        httpOptions.path.should.match /ncaamb-t3/
+
+      it 'should support test league mode', ->
+        httpOptions =  node_sportsdata.v3.ncaamb('api-key', 't', true).getHttpOptions()
+        httpOptions.path.should.match /ncaamb-test-t3/
 
   describe 'v2', ->
 

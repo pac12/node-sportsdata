@@ -12,6 +12,7 @@ Licensed under the MIT license.
 
 MLB    = require './v3/mlb'
 NCAAFB  = require './v1/ncaafb'
+NCAAMB = require './v3/ncaamb'
 NFL    = require './v1/nfl'
 
 exports.awesome = ()->
@@ -20,6 +21,8 @@ exports.awesome = ()->
 exports.v3 = {
   mlb: (apiKey, accessLevel, testLeague) ->
     new MLB apiKey, accessLevel, testLeague
+  ncaamb: (apiKey, accessLevel, testLeague) ->
+    new NCAAMB apiKey, accessLevel, testLeague
 }
 
 exports.v2 = {
