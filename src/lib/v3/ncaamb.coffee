@@ -8,6 +8,10 @@ class NCAAMB extends SportApi
     [params, callback] = this.getYearSeasonParams params, callback
     this.getResource '/games/%(year)s/%(season)s/schedule.xml', params, callback
 
+  getDailySchedule: (date, callback) ->
+    [params, callback] = this.getDailyParams date, callback
+    this.getResource '/games/%(year)s/%(month)s/%(day)s/schedule.xml', params, callback
+
   getYearSeasonParams: (params, callback) ->
     if typeof params is 'function'
       callback = params
