@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-10-09 17:26:39 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/schedule-v2.0.xsd" id="cd4268ee-07aa-4c4d-a435-ec44ad2c76cb" name="NCAA MEN" alias="NCAAM">
+  <tournament-schedule id="ab0754a7-2a19-4e22-987a-c45ce217ea60" name="Las Vegas Invitational" location="Las Vegas, NV, USA" status="scheduled">
+    <round id="302dd794-7ef8-462f-b584-3c73d6abdd57" sequence="1" name="Round 1">
+    </round>
+    <round id="6a92d88a-3ae6-445e-8718-167d6b6fa829" sequence="2" name="Round 2">
+    </round>
+  </tournament-schedule>
+</league>
+<!-- Generation ended @ 2013-10-09 17:26:39 +0000 -->
