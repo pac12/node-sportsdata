@@ -1,6 +1,6 @@
 'use strict'
 
-node_sportsdata = require('../lib/node-sportsdata.js')
+node_sportsdata = require('../lib/node-sportsdata')
 
 ###
 ======== A Handy Little Mocha Reference ========
@@ -115,6 +115,14 @@ describe 'Node SportsData API', ->
       it 'should support test league mode', ->
         httpOptions =  node_sportsdata.v3.ncaamb('api-key', 't', true).getHttpOptions()
         httpOptions.path.should.match /ncaamb-test-t3/
+
+    describe '#ncaawb()', ->
+      it 'should return an NCAAWB object', ->
+        node_sportsdata.v3.ncaawb('api-key', 't').should.be.a('object')
+
+      it 'should have a path of /ncaawb', ->
+        httpOptions =  node_sportsdata.v3.ncaawb('api-key', 't').getHttpOptions()
+        httpOptions.path.should.match /ncaawb-t3/
 
   describe 'v2', ->
 
