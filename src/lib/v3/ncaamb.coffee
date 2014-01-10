@@ -24,6 +24,9 @@ class NCAAMB extends SportApi
     [params, callback] = this.getYearSeasonParams params, callback
     this.getResource '/games/%(year)s/%(season)s/schedule.xml', params, callback
 
+  getStandings: (params, callback) ->
+    [params, callback] = this.getYearSeasonParams params, callback
+    this.getResource '/seasontd/%(year)s/%(season)s/standings.xml', params, callback
 
   getTournamentList: (params, callback) ->
     [params, callback] = this.getYearSeasonParams params, callback

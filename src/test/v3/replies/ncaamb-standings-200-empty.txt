@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-07-25 20:52:34 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/ncaam/standings-v2.0.xsd" id="cd4268ee-07aa-4c4d-a435-ec44ad2c76cb" name="NCAA MEN" alias="NCAAM">
+  <season id="c2883ac6-e444-4fb3-bb60-04413eb85e38" year="2012" type="REG">
+  </season>
+</league>
+<!-- Generation ended @ 2013-07-25 20:52:34 +0000 -->
