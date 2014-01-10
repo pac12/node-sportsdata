@@ -26,7 +26,7 @@ describe 'V1 NCAAFB', ->
       ncaafb.getWeeklySchedule.should.be.a('function')
 
     it 'should pass error and no result with bad api key', (done) ->
-      badNcaafb.getWeeklySchedule (err, result) ->
+      badNcaafb.getWeeklySchedule {year: 2013}, (err, result) ->
         err.should.match /HTTP 403/
         should.not.exist result
         done()

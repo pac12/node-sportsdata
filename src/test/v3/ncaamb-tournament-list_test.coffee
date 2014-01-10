@@ -27,7 +27,7 @@ describe 'V3 NCAAMB', ->
       ncaamb.getTournamentList.should.be.a('function')
 
     it 'should pass error and no result with bad api key', (done) ->
-      badNcaamb.getTournamentList (err, result) ->
+      badNcaamb.getTournamentList {year: 2013}, (err, result) ->
         err.should.match /HTTP 403/
         should.not.exist result
         done()

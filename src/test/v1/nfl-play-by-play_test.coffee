@@ -38,7 +38,7 @@ describe 'V1 NFL', ->
         done()
 
     it 'should pass error and no result with bad api key', (done) ->
-      badNfl.getPlayByPlay {away: 'CLE', home: 'PIT'}, (err, result) ->
+      badNfl.getPlayByPlay {year: 2013, away: 'CLE', home: 'PIT'}, (err, result) ->
         err.should.match /HTTP 403/
         should.not.exist result
         done()

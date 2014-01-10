@@ -38,7 +38,7 @@ describe 'V1 NCAAFB', ->
         done()
 
     it 'should pass error and no result with bad api key', (done) ->
-      badNcaafb.getPlayByPlay {away: 'MICH', home: 'MSU'}, (err, result) ->
+      badNcaafb.getPlayByPlay {year: 2013, away: 'MICH', home: 'MSU'}, (err, result) ->
         err.should.match /HTTP 403/
         should.not.exist result
         done()
