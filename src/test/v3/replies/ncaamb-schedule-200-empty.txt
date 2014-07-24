@@ -2,8 +2,7 @@
 <!-- Generation started @ 2013-10-15 02:16:45 +0000 -->
 <league xmlns="http://feed.elasticstats.com/schema/basketball/schedule-v2.0.xsd" id="cd4268ee-07aa-4c4d-a435-ec44ad2c76cb" name="NCAA MEN" alias="NCAAM">
   <season-schedule id="c2883ac6-e444-4fb3-bb60-04413eb85e38" year="2012" type="REG">
-    <games>
-    </games>
+    <games></games>
   </season-schedule>
 </league>
 <!-- Generation ended @ 2013-10-15 02:16:45 +0000 -->

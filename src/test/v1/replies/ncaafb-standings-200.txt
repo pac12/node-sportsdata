@@ -1,0 +1,2156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<standings xmlns="http://feed.elasticstats.com/schema/ncaafb/standings-v1.0.xsd" season="2013" type="REG">
+  <division id="FBS" name="I-A">
+    <conference id="ACC" name="ACC">
+      <team id="FSU" name="Seminoles" market="Florida State" subdivision="ACC-ATLANTIC">
+        <overall wins="14" losses="0" ties="0" wpct="1.0"/>
+        <in_conference wins="8" losses="0" ties="0" wpct="1.0"/>
+        <non_conference wins="6" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="13" losses="0" ties="0" wpct="1.0"/>
+        <home wins="9" losses="0" ties="0" wpct="1.0"/>
+        <away wins="5" losses="0" ties="0" wpct="1.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="12" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="2" losses="0" ties="0" wpct="1.0"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="13" losses="0" ties="0"/>
+        <last_5 wins="5" losses="0" ties="0"/>
+        <points for="723" against="170" net="553"/>
+        <touchdowns for="94" against="21"/>
+        <streak type="win" value="14"/>
+      </team>
+      <team id="CLE" name="Tigers" market="Clemson" subdivision="ACC-ATLANTIC">
+        <overall wins="11" losses="2" ties="0" wpct="0.846"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="9" losses="2" ties="0" wpct="0.818"/>
+        <home wins="6" losses="1" ties="0" wpct="0.857"/>
+        <away wins="5" losses="1" ties="0" wpct="0.833"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="9" losses="2" ties="0" wpct="0.818"/>
+        <turf wins="2" losses="0" ties="0" wpct="1.0"/>
+        <decided_by_7_points wins="2" losses="0" ties="0"/>
+        <leading_at_half wins="8" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="522" against="288" net="234"/>
+        <touchdowns for="69" against="37"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="DUK" name="Blue Devils" market="Duke" subdivision="ACC-COASTAL">
+        <overall wins="10" losses="4" ties="0" wpct="0.714"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="4" losses="2" ties="0" wpct="0.667"/>
+        <in_division wins="9" losses="4" ties="0" wpct="0.692"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="5" losses="2" ties="0" wpct="0.714"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="8" losses="3" ties="0" wpct="0.727"/>
+        <turf wins="2" losses="1" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="4" losses="2" ties="0"/>
+        <leading_at_half wins="7" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="459" against="373" net="86"/>
+        <touchdowns for="60" against="48"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="MFL" name="Hurricanes" market="Miami (FL)" subdivision="ACC-COASTAL">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="6" losses="1" ties="0" wpct="0.857"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="9" losses="3" ties="0" wpct="0.75"/>
+        <turf wins="0" losses="1" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="3" losses="0" ties="0"/>
+        <leading_at_half wins="6" losses="0" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="440" against="348" net="92"/>
+        <touchdowns for="57" against="43"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="VT" name="Hokies" market="Virginia Tech" subdivision="ACC-COASTAL">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="4" losses="3" ties="0" wpct="0.571"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="8" losses="2" ties="0" wpct="0.8"/>
+        <turf wins="0" losses="3" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="2" losses="3" ties="0"/>
+        <leading_at_half wins="6" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="293" against="251" net="42"/>
+        <touchdowns for="35" against="31"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="NC" name="Tar Heels" market="North Carolina" subdivision="ACC-COASTAL">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="2" losses="3" ties="0" wpct="0.4"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="7" losses="6" ties="0" wpct="0.538"/>
+        <turf wins="0" losses="0" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="7" losses="2" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="425" against="318" net="107"/>
+        <touchdowns for="55" against="38"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="GT" name="Yellow Jackets" market="Georgia Tech" subdivision="ACC-COASTAL">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="5" losses="6" ties="0" wpct="0.455"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="2" losses="3" ties="0" wpct="0.4"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="7" losses="6" ties="0" wpct="0.538"/>
+        <turf wins="0" losses="0" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="0" losses="2" ties="0"/>
+        <leading_at_half wins="6" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="456" against="297" net="159"/>
+        <touchdowns for="61" against="38"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="SYR" name="Orange" market="Syracuse" subdivision="ACC-ATLANTIC">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="4" losses="3" ties="0" wpct="0.571"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="3" ties="0" wpct="0.4"/>
+        <turf wins="5" losses="3" ties="0" wpct="0.625"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="5" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="295" against="330" net="-35"/>
+        <touchdowns for="38" against="42"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="MAR" name="Terrapins" market="Maryland" subdivision="ACC-ATLANTIC">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="4" losses="4" ties="0" wpct="0.5"/>
+        <away wins="3" losses="2" ties="0" wpct="0.6"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="3" losses="1" ties="0" wpct="0.75"/>
+        <turf wins="4" losses="5" ties="0" wpct="0.444"/>
+        <decided_by_7_points wins="2" losses="1" ties="0"/>
+        <leading_at_half wins="6" losses="0" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="340" against="329" net="11"/>
+        <touchdowns for="39" against="38"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="BC" name="Eagles" market="Boston College" subdivision="ACC-ATLANTIC">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="3" ties="0" wpct="0.25"/>
+        <turf wins="6" losses="3" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="2" losses="1" ties="0"/>
+        <leading_at_half wins="4" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="360" against="376" net="-16"/>
+        <touchdowns for="43" against="48"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="PIT" name="Panthers" market="Pittsburgh" subdivision="ACC-COASTAL">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="4" losses="3" ties="0" wpct="0.571"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="5" losses="5" ties="0" wpct="0.5"/>
+        <turf wins="2" losses="1" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="4" losses="2" ties="0"/>
+        <leading_at_half wins="6" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="342" against="353" net="-11"/>
+        <touchdowns for="43" against="43"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="WF" name="Demon Deacons" market="Wake Forest" subdivision="ACC-ATLANTIC">
+        <overall wins="4" losses="8" ties="0" wpct="0.333"/>
+        <in_conference wins="2" losses="6" ties="0" wpct="0.25"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="3" losses="8" ties="0" wpct="0.273"/>
+        <home wins="3" losses="3" ties="0" wpct="0.5"/>
+        <away wins="1" losses="5" ties="0" wpct="0.167"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="4" losses="6" ties="0" wpct="0.4"/>
+        <decided_by_7_points wins="0" losses="4" ties="0"/>
+        <leading_at_half wins="4" losses="1" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="220" against="289" net="-69"/>
+        <touchdowns for="28" against="36"/>
+        <streak type="loss" value="5"/>
+      </team>
+      <team id="NCST" name="Wolfpack" market="North Carolina State" subdivision="ACC-ATLANTIC">
+        <overall wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_conference wins="0" losses="8" ties="0" wpct="0.0"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="2" losses="9" ties="0" wpct="0.182"/>
+        <home wins="3" losses="5" ties="0" wpct="0.375"/>
+        <away wins="0" losses="4" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="3" losses="7" ties="0" wpct="0.3"/>
+        <turf wins="0" losses="2" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="2" losses="0" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="274" against="362" net="-88"/>
+        <touchdowns for="31" against="48"/>
+        <streak type="loss" value="8"/>
+      </team>
+      <team id="UVA" name="Cavaliers" market="Virginia" subdivision="ACC-COASTAL">
+        <overall wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_conference wins="0" losses="8" ties="0" wpct="0.0"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="2" losses="6" ties="0" wpct="0.25"/>
+        <away wins="0" losses="4" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="9" ties="0" wpct="0.182"/>
+        <turf wins="0" losses="1" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="1" losses="2" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="237" against="399" net="-162"/>
+        <touchdowns for="27" against="51"/>
+        <streak type="loss" value="9"/>
+      </team>
+    </conference>
+    <conference id="AAC" name="American Athletic">
+      <team id="UCF" name="Knights" market="UCF" subdivision="CONFERENCE-USA-EAST">
+        <overall wins="12" losses="1" ties="0" wpct="0.923"/>
+        <in_conference wins="8" losses="0" ties="0" wpct="1.0"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="12" losses="1" ties="0" wpct="0.923"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="7" losses="0" ties="0" wpct="1.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="7" losses="1" ties="0" wpct="0.875"/>
+        <turf wins="5" losses="0" ties="0" wpct="1.0"/>
+        <decided_by_7_points wins="7" losses="1" ties="0"/>
+        <leading_at_half wins="9" losses="1" ties="0"/>
+        <last_5 wins="5" losses="0" ties="0"/>
+        <points for="450" against="277" net="173"/>
+        <touchdowns for="55" against="36"/>
+        <streak type="win" value="9"/>
+      </team>
+      <team id="LOU" name="Cardinals" market="Louisville">
+        <overall wins="12" losses="1" ties="0" wpct="0.923"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="5" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="11" losses="1" ties="0" wpct="0.917"/>
+        <home wins="7" losses="1" ties="0" wpct="0.875"/>
+        <away wins="5" losses="0" ties="0" wpct="1.0"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="3" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="9" losses="1" ties="0" wpct="0.9"/>
+        <decided_by_7_points wins="3" losses="1" ties="0"/>
+        <leading_at_half wins="11" losses="1" ties="0"/>
+        <last_5 wins="5" losses="0" ties="0"/>
+        <points for="457" against="158" net="299"/>
+        <touchdowns for="57" against="18"/>
+        <streak type="win" value="6"/>
+      </team>
+      <team id="CIN" name="Bearcats" market="Cincinnati">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="4" losses="3" ties="0" wpct="0.571"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="2" ties="0" wpct="0.333"/>
+        <turf wins="8" losses="2" ties="0" wpct="0.8"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="8" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="417" against="273" net="144"/>
+        <touchdowns for="57" against="34"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="HOU" name="Cougars" market="Houston" subdivision="CONFERENCE-USA-WEST">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="4" losses="3" ties="0" wpct="0.571"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="5" losses="3" ties="0" wpct="0.625"/>
+        <turf wins="3" losses="2" ties="0" wpct="0.6"/>
+        <decided_by_7_points wins="1" losses="4" ties="0"/>
+        <leading_at_half wins="6" losses="2" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="431" against="283" net="148"/>
+        <touchdowns for="54" against="34"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="RUT" name="Scarlet Knights" market="Rutgers">
+        <overall wins="6" losses="7" ties="0" wpct="0.462"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="5" losses="7" ties="0" wpct="0.417"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="1" losses="5" ties="0" wpct="0.167"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <decided_by_7_points wins="3" losses="1" ties="0"/>
+        <leading_at_half wins="4" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="345" against="387" net="-42"/>
+        <touchdowns for="44" against="49"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="SMU" name="Mustangs" market="Southern Methodist" subdivision="CONFERENCE-USA-WEST">
+        <overall wins="5" losses="7" ties="0" wpct="0.417"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="4" losses="7" ties="0" wpct="0.364"/>
+        <home wins="3" losses="3" ties="0" wpct="0.5"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="3" ties="0" wpct="0.25"/>
+        <turf wins="4" losses="4" ties="0" wpct="0.5"/>
+        <decided_by_7_points wins="2" losses="3" ties="0"/>
+        <leading_at_half wins="3" losses="2" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="321" against="400" net="-79"/>
+        <touchdowns for="38" against="54"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="UCONN" name="Huskies" market="Connecticut">
+        <overall wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="0" losses="4" ties="0" wpct="0.0"/>
+        <in_division wins="3" losses="8" ties="0" wpct="0.273"/>
+        <home wins="2" losses="5" ties="0" wpct="0.286"/>
+        <away wins="1" losses="4" ties="0" wpct="0.2"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="6" ties="0" wpct="0.25"/>
+        <turf wins="1" losses="3" ties="0" wpct="0.25"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="2" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="247" against="363" net="-116"/>
+        <touchdowns for="31" against="46"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="MEM" name="Tigers" market="Memphis" subdivision="CONFERENCE-USA-EAST">
+        <overall wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="2" losses="9" ties="0" wpct="0.182"/>
+        <home wins="2" losses="5" ties="0" wpct="0.286"/>
+        <away wins="1" losses="4" ties="0" wpct="0.2"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="2" ties="0" wpct="0.333"/>
+        <turf wins="2" losses="7" ties="0" wpct="0.222"/>
+        <decided_by_7_points wins="0" losses="4" ties="0"/>
+        <leading_at_half wins="3" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="234" against="295" net="-61"/>
+        <touchdowns for="26" against="35"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="USF" name="Bulls" market="South Florida">
+        <overall wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_conference wins="2" losses="6" ties="0" wpct="0.25"/>
+        <non_conference wins="0" losses="4" ties="0" wpct="0.0"/>
+        <in_division wins="2" losses="9" ties="0" wpct="0.182"/>
+        <home wins="1" losses="6" ties="0" wpct="0.143"/>
+        <away wins="1" losses="4" ties="0" wpct="0.2"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="9" ties="0" wpct="0.182"/>
+        <turf wins="0" losses="1" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="2" losses="1" ties="0"/>
+        <leading_at_half wins="1" losses="0" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="165" against="343" net="-178"/>
+        <touchdowns for="16" against="43"/>
+        <streak type="loss" value="6"/>
+      </team>
+      <team id="TEM" name="Owls" market="Temple">
+        <overall wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="2" losses="9" ties="0" wpct="0.182"/>
+        <home wins="1" losses="5" ties="0" wpct="0.167"/>
+        <away wins="1" losses="5" ties="0" wpct="0.167"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="2" losses="9" ties="0" wpct="0.182"/>
+        <decided_by_7_points wins="0" losses="5" ties="0"/>
+        <leading_at_half wins="2" losses="4" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="299" against="358" net="-59"/>
+        <touchdowns for="42" against="42"/>
+        <streak type="win" value="1"/>
+      </team>
+    </conference>
+    <conference id="BIG-12" name="Big 12">
+      <team id="OKL" name="Sooners" market="Oklahoma">
+        <overall wins="11" losses="2" ties="0" wpct="0.846"/>
+        <in_conference wins="7" losses="2" ties="0" wpct="0.778"/>
+        <non_conference wins="4" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="11" losses="2" ties="0" wpct="0.846"/>
+        <home wins="6" losses="0" ties="0" wpct="1.0"/>
+        <away wins="5" losses="2" ties="0" wpct="0.714"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="7" losses="1" ties="0" wpct="0.875"/>
+        <turf wins="4" losses="1" ties="0" wpct="0.8"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="9" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="427" against="287" net="140"/>
+        <touchdowns for="46" against="36"/>
+        <streak type="win" value="4"/>
+      </team>
+      <team id="BAY" name="Bears" market="Baylor">
+        <overall wins="11" losses="2" ties="0" wpct="0.846"/>
+        <in_conference wins="8" losses="1" ties="0" wpct="0.889"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="10" losses="2" ties="0" wpct="0.833"/>
+        <home wins="8" losses="1" ties="0" wpct="0.889"/>
+        <away wins="3" losses="1" ties="0" wpct="0.75"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="1" ties="0" wpct="0.5"/>
+        <turf wins="10" losses="1" ties="0" wpct="0.909"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="10" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="681" against="306" net="375"/>
+        <touchdowns for="91" against="41"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="OKS" name="Cowboys" market="Oklahoma State">
+        <overall wins="10" losses="3" ties="0" wpct="0.769"/>
+        <in_conference wins="7" losses="2" ties="0" wpct="0.778"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="9" losses="3" ties="0" wpct="0.75"/>
+        <home wins="6" losses="1" ties="0" wpct="0.857"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="8" losses="3" ties="0" wpct="0.727"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="10" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="508" against="281" net="227"/>
+        <touchdowns for="68" against="33"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="TT" name=" Red Raiders" market="Texas Tech">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="4" losses="5" ties="0" wpct="0.444"/>
+        <non_conference wins="4" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="8" losses="4" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="6" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="465" against="397" net="68"/>
+        <touchdowns for="57" against="51"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="TEX" name="Longhorns" market="Texas">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="7" losses="2" ties="0" wpct="0.778"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="8" losses="5" ties="0" wpct="0.615"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="3" losses="2" ties="0" wpct="0.6"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="3" losses="1" ties="0" wpct="0.75"/>
+        <turf wins="5" losses="4" ties="0" wpct="0.556"/>
+        <decided_by_7_points wins="2" losses="0" ties="0"/>
+        <leading_at_half wins="7" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="381" against="336" net="45"/>
+        <touchdowns for="31" against="31"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="KST" name="Wildcats" market="Kansas State">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="5" losses="4" ties="0" wpct="0.556"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="6" losses="3" ties="0" wpct="0.667"/>
+        <away wins="2" losses="2" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="7" losses="5" ties="0" wpct="0.583"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="7" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="432" against="298" net="134"/>
+        <touchdowns for="51" against="34"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="WVU" name="Mountaineers" market="West Virginia">
+        <overall wins="4" losses="8" ties="0" wpct="0.333"/>
+        <in_conference wins="2" losses="7" ties="0" wpct="0.222"/>
+        <non_conference wins="2" losses="1" ties="0" wpct="0.667"/>
+        <in_division wins="3" losses="8" ties="0" wpct="0.273"/>
+        <home wins="3" losses="3" ties="0" wpct="0.5"/>
+        <away wins="1" losses="5" ties="0" wpct="0.167"/>
+        <overtime wins="1" losses="2" ties="0" wpct="0.333"/>
+        <grass wins="1" losses="1" ties="0" wpct="0.5"/>
+        <turf wins="3" losses="7" ties="0" wpct="0.3"/>
+        <decided_by_7_points wins="2" losses="1" ties="0"/>
+        <leading_at_half wins="2" losses="3" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="316" against="400" net="-84"/>
+        <touchdowns for="38" against="48"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="TCU" name="Frogs" market="TCU">
+        <overall wins="4" losses="8" ties="0" wpct="0.333"/>
+        <in_conference wins="2" losses="7" ties="0" wpct="0.222"/>
+        <non_conference wins="2" losses="1" ties="0" wpct="0.667"/>
+        <in_division wins="3" losses="8" ties="0" wpct="0.273"/>
+        <home wins="3" losses="4" ties="0" wpct="0.429"/>
+        <away wins="1" losses="4" ties="0" wpct="0.2"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="4" losses="4" ties="0" wpct="0.5"/>
+        <turf wins="0" losses="4" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="1" losses="4" ties="0"/>
+        <leading_at_half wins="2" losses="1" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="301" against="303" net="-2"/>
+        <touchdowns for="37" against="33"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="ISU" name="Cyclones" market="Iowa State">
+        <overall wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_conference wins="2" losses="7" ties="0" wpct="0.222"/>
+        <non_conference wins="1" losses="2" ties="0" wpct="0.333"/>
+        <in_division wins="3" losses="8" ties="0" wpct="0.273"/>
+        <home wins="1" losses="5" ties="0" wpct="0.167"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="1" losses="6" ties="0" wpct="0.143"/>
+        <turf wins="2" losses="3" ties="0" wpct="0.4"/>
+        <decided_by_7_points wins="0" losses="4" ties="0"/>
+        <leading_at_half wins="1" losses="0" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="298" against="432" net="-134"/>
+        <touchdowns for="35" against="52"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="KAN" name="Jayhawks" market="Kansas">
+        <overall wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_conference wins="1" losses="8" ties="0" wpct="0.111"/>
+        <non_conference wins="2" losses="1" ties="0" wpct="0.667"/>
+        <in_division wins="2" losses="9" ties="0" wpct="0.182"/>
+        <home wins="3" losses="4" ties="0" wpct="0.429"/>
+        <away wins="0" losses="5" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="3" losses="7" ties="0" wpct="0.3"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="2" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="184" against="382" net="-198"/>
+        <touchdowns for="17" against="41"/>
+        <streak type="loss" value="2"/>
+      </team>
+    </conference>
+    <conference id="BIG-EAST" name="Big East">
+    </conference>
+    <conference id="BIG-TEN" name="Big Ten">
+      <team id="MSU" name="Spartans" market="Michigan State" subdivision="BIG-TEN-LEGENDS">
+        <overall wins="13" losses="1" ties="0" wpct="0.929"/>
+        <in_conference wins="8" losses="0" ties="0" wpct="1.0"/>
+        <non_conference wins="5" losses="1" ties="0" wpct="0.833"/>
+        <in_division wins="12" losses="1" ties="0" wpct="0.923"/>
+        <home wins="9" losses="0" ties="0" wpct="1.0"/>
+        <away wins="4" losses="1" ties="0" wpct="0.8"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="9" losses="1" ties="0" wpct="0.9"/>
+        <turf wins="4" losses="0" ties="0" wpct="1.0"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="11" losses="0" ties="0"/>
+        <last_5 wins="5" losses="0" ties="0"/>
+        <points for="411" against="185" net="226"/>
+        <touchdowns for="51" against="21"/>
+        <streak type="win" value="10"/>
+      </team>
+      <team id="OSU" name="Buckeyes" market="Ohio State" subdivision="BIG-TEN-LEADERS">
+        <overall wins="12" losses="2" ties="0" wpct="0.857"/>
+        <in_conference wins="8" losses="0" ties="0" wpct="1.0"/>
+        <non_conference wins="4" losses="2" ties="0" wpct="0.667"/>
+        <in_division wins="11" losses="2" ties="0" wpct="0.846"/>
+        <home wins="7" losses="1" ties="0" wpct="0.875"/>
+        <away wins="5" losses="1" ties="0" wpct="0.833"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="1" ties="0" wpct="0.667"/>
+        <turf wins="10" losses="1" ties="0" wpct="0.909"/>
+        <decided_by_7_points wins="2" losses="1" ties="0"/>
+        <leading_at_half wins="9" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="637" against="317" net="320"/>
+        <touchdowns for="87" against="42"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="WIS" name="Badgers" market="Wisconsin" subdivision="BIG-TEN-LEADERS">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="6" losses="1" ties="0" wpct="0.857"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="9" losses="3" ties="0" wpct="0.75"/>
+        <decided_by_7_points wins="0" losses="3" ties="0"/>
+        <leading_at_half wins="9" losses="2" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="453" against="212" net="241"/>
+        <touchdowns for="59" against="25"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="NEB" name="Cornhuskers" market="Nebraska" subdivision="BIG-TEN-LEGENDS">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="4" losses="1" ties="0" wpct="0.8"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="3" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="6" losses="4" ties="0" wpct="0.6"/>
+        <decided_by_7_points wins="5" losses="0" ties="0"/>
+        <leading_at_half wins="8" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="415" against="323" net="92"/>
+        <touchdowns for="54" against="38"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="MIN" name="Golden Gophers" market="Minnesota" subdivision="BIG-TEN-LEGENDS">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="3" losses="2" ties="0" wpct="0.6"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="2" ties="0" wpct="0.5"/>
+        <turf wins="6" losses="3" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="2" losses="1" ties="0"/>
+        <leading_at_half wins="7" losses="0" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="334" against="289" net="45"/>
+        <touchdowns for="42" against="36"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="IOW" name="Hawkeyes" market="Iowa" subdivision="BIG-TEN-LEGENDS">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="4" losses="3" ties="0" wpct="0.571"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="2" losses="1" ties="0" wpct="0.667"/>
+        <turf wins="6" losses="4" ties="0" wpct="0.6"/>
+        <decided_by_7_points wins="3" losses="2" ties="0"/>
+        <leading_at_half wins="7" losses="3" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="342" against="246" net="96"/>
+        <touchdowns for="42" against="30"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="PSU" name="Nittany Lions" market="Penn State" subdivision="BIG-TEN-LEADERS">
+        <overall wins="7" losses="5" ties="0" wpct="0.583"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="2" losses="3" ties="0" wpct="0.4"/>
+        <overtime wins="2" losses="1" ties="0" wpct="0.667"/>
+        <grass wins="5" losses="2" ties="0" wpct="0.714"/>
+        <turf wins="2" losses="3" ties="0" wpct="0.4"/>
+        <decided_by_7_points wins="4" losses="2" ties="0"/>
+        <leading_at_half wins="6" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="344" against="314" net="30"/>
+        <touchdowns for="43" against="38"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="MICH" name="Wolverines" market="Michigan" subdivision="BIG-TEN-LEGENDS">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="7" losses="6" ties="0" wpct="0.538"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="2" losses="3" ties="0" wpct="0.4"/>
+        <turf wins="5" losses="3" ties="0" wpct="0.625"/>
+        <decided_by_7_points wins="2" losses="4" ties="0"/>
+        <leading_at_half wins="5" losses="1" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="419" against="349" net="70"/>
+        <touchdowns for="52" against="40"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="NW" name="Wildcats" market="Northwestern" subdivision="BIG-TEN-LEGENDS">
+        <overall wins="5" losses="7" ties="0" wpct="0.417"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="4" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="4" losses="7" ties="0" wpct="0.364"/>
+        <home wins="3" losses="4" ties="0" wpct="0.429"/>
+        <away wins="2" losses="3" ties="0" wpct="0.4"/>
+        <overtime wins="0" losses="2" ties="0" wpct="0.0"/>
+        <grass wins="3" losses="4" ties="0" wpct="0.429"/>
+        <turf wins="2" losses="3" ties="0" wpct="0.4"/>
+        <decided_by_7_points wins="1" losses="3" ties="0"/>
+        <leading_at_half wins="5" losses="3" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="314" against="325" net="-11"/>
+        <touchdowns for="35" against="40"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="IU" name="Hoosiers" market="Indiana" subdivision="BIG-TEN-LEADERS">
+        <overall wins="5" losses="7" ties="0" wpct="0.417"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="4" losses="7" ties="0" wpct="0.364"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="0" losses="4" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="5" losses="6" ties="0" wpct="0.455"/>
+        <decided_by_7_points wins="0" losses="2" ties="0"/>
+        <leading_at_half wins="5" losses="0" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="461" against="466" net="-5"/>
+        <touchdowns for="62" against="63"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="ILL" name="Fighting Illini" market="Illinois" subdivision="BIG-TEN-LEADERS">
+        <overall wins="4" losses="8" ties="0" wpct="0.333"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="3" losses="8" ties="0" wpct="0.273"/>
+        <home wins="3" losses="5" ties="0" wpct="0.375"/>
+        <away wins="1" losses="3" ties="0" wpct="0.25"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="2" ties="0" wpct="0.333"/>
+        <turf wins="3" losses="6" ties="0" wpct="0.333"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="3" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="356" against="425" net="-69"/>
+        <touchdowns for="45" against="55"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="PUR" name="Boilermakers" market="Purdue" subdivision="BIG-TEN-LEADERS">
+        <overall wins="1" losses="11" ties="0" wpct="0.083"/>
+        <in_conference wins="0" losses="8" ties="0" wpct="0.0"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="0" losses="11" ties="0" wpct="0.0"/>
+        <home wins="1" losses="6" ties="0" wpct="0.143"/>
+        <away wins="0" losses="5" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="8" ties="0" wpct="0.111"/>
+        <turf wins="0" losses="3" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="1" losses="1" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="179" against="456" net="-277"/>
+        <touchdowns for="23" against="61"/>
+        <streak type="loss" value="10"/>
+      </team>
+    </conference>
+    <conference id="CONFERENCE-USA" name="Conference USA">
+      <team id="ECU" name="Pirates" market="East Carolina" subdivision="CONFERENCE-USA-EAST">
+        <overall wins="10" losses="3" ties="0" wpct="0.769"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="9" losses="3" ties="0" wpct="0.75"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="5" losses="2" ties="0" wpct="0.714"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="7" losses="1" ties="0" wpct="0.875"/>
+        <turf wins="3" losses="2" ties="0" wpct="0.6"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="10" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="522" against="322" net="200"/>
+        <touchdowns for="19" against="12"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="MSH" name="Thundering Herd" market="Marshall" subdivision="CONFERENCE-USA-EAST">
+        <overall wins="10" losses="4" ties="0" wpct="0.714"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="3" losses="3" ties="0" wpct="0.5"/>
+        <in_division wins="9" losses="4" ties="0" wpct="0.692"/>
+        <home wins="6" losses="0" ties="0" wpct="1.0"/>
+        <away wins="4" losses="4" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="1" ties="0" wpct="0.5"/>
+        <turf wins="9" losses="3" ties="0" wpct="0.75"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="9" losses="1" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="590" against="321" net="269"/>
+        <touchdowns for="7" against="6"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="RICE" name="Owls" market="Rice" subdivision="CONFERENCE-USA-WEST">
+        <overall wins="10" losses="4" ties="0" wpct="0.714"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="3" losses="3" ties="0" wpct="0.5"/>
+        <in_division wins="10" losses="4" ties="0" wpct="0.714"/>
+        <home wins="6" losses="1" ties="0" wpct="0.857"/>
+        <away wins="4" losses="3" ties="0" wpct="0.571"/>
+        <overtime wins="2" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="1" losses="2" ties="0" wpct="0.333"/>
+        <turf wins="9" losses="2" ties="0" wpct="0.818"/>
+        <decided_by_7_points wins="5" losses="1" ties="0"/>
+        <leading_at_half wins="9" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="415" against="342" net="73"/>
+        <touchdowns for="11" against="19"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="NTX" name="Mean Green" market="North Texas" subdivision="CONFERENCE-USA-WEST">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="9" losses="4" ties="0" wpct="0.692"/>
+        <home wins="6" losses="1" ties="0" wpct="0.857"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="1" ties="0" wpct="0.5"/>
+        <turf wins="8" losses="3" ties="0" wpct="0.727"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="7" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="414" against="231" net="183"/>
+        <touchdowns for="8" against="8"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="MTS" name="Blue Raiders" market="Middle Tennessee" subdivision="CONFERENCE-USA-EAST">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="3" losses="4" ties="0" wpct="0.429"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="1" losses="3" ties="0" wpct="0.25"/>
+        <turf wins="7" losses="2" ties="0" wpct="0.778"/>
+        <decided_by_7_points wins="4" losses="1" ties="0"/>
+        <leading_at_half wins="6" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="377" against="341" net="36"/>
+        <touchdowns for="3" against="8"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="UTSA" name="Roadrunners" market="UTSA" subdivision="CONFERENCE-USA-WEST">
+        <overall wins="7" losses="5" ties="0" wpct="0.583"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="3" losses="3" ties="0" wpct="0.5"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="1" ties="0" wpct="0.5"/>
+        <turf wins="6" losses="4" ties="0" wpct="0.6"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="5" losses="0" ties="0"/>
+        <last_5 wins="5" losses="0" ties="0"/>
+        <points for="307" against="316" net="-9"/>
+        <touchdowns for="10" against="21"/>
+        <streak type="win" value="5"/>
+      </team>
+      <team id="TUL" name="Green Wave" market="Tulane" subdivision="CONFERENCE-USA-WEST">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="2" losses="5" ties="0" wpct="0.286"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="7" losses="5" ties="0" wpct="0.583"/>
+        <decided_by_7_points wins="3" losses="4" ties="0"/>
+        <leading_at_half wins="4" losses="2" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="322" against="278" net="44"/>
+        <touchdowns for="5" against="10"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="FAU" name="Owls" market="Florida Atlantic" subdivision="CONFERENCE-USA-EAST">
+        <overall wins="6" losses="6" ties="0" wpct="0.5"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="3" losses="2" ties="0" wpct="0.6"/>
+        <away wins="3" losses="4" ties="0" wpct="0.429"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="4" losses="5" ties="0" wpct="0.444"/>
+        <turf wins="2" losses="1" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="0" losses="3" ties="0"/>
+        <leading_at_half wins="5" losses="1" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="317" against="267" net="50"/>
+        <touchdowns for="5" against="11"/>
+        <streak type="win" value="4"/>
+      </team>
+      <team id="LT" name="Bulldogs" market="Louisiana Tech" subdivision="CONFERENCE-USA-WEST">
+        <overall wins="4" losses="8" ties="0" wpct="0.333"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="3" losses="8" ties="0" wpct="0.273"/>
+        <home wins="2" losses="4" ties="0" wpct="0.333"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="4" losses="6" ties="0" wpct="0.4"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="4" losses="2" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="230" against="315" net="-85"/>
+        <touchdowns for="3" against="5"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="TSA" name="Golden Hurricane" market="Tulsa" subdivision="CONFERENCE-USA-WEST">
+        <overall wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_conference wins="2" losses="6" ties="0" wpct="0.25"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="3" losses="9" ties="0" wpct="0.25"/>
+        <home wins="1" losses="5" ties="0" wpct="0.167"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="3" losses="7" ties="0" wpct="0.3"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="2" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="253" against="407" net="-154"/>
+        <touchdowns for="5" against="11"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="TEP" name="Miners" market="UTEP" subdivision="CONFERENCE-USA-WEST">
+        <overall wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="2" losses="10" ties="0" wpct="0.167"/>
+        <home wins="1" losses="4" ties="0" wpct="0.2"/>
+        <away wins="1" losses="6" ties="0" wpct="0.143"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="1" ties="0" wpct="0.5"/>
+        <turf wins="1" losses="9" ties="0" wpct="0.1"/>
+        <decided_by_7_points wins="0" losses="2" ties="0"/>
+        <leading_at_half wins="2" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="261" against="472" net="-211"/>
+        <touchdowns for="1" against="8"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="UAB" name="Blazers" market="UAB" subdivision="CONFERENCE-USA-EAST">
+        <overall wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="1" losses="4" ties="0" wpct="0.2"/>
+        <away wins="1" losses="6" ties="0" wpct="0.143"/>
+        <overtime wins="0" losses="2" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="2" losses="8" ties="0" wpct="0.2"/>
+        <decided_by_7_points wins="1" losses="3" ties="0"/>
+        <leading_at_half wins="2" losses="3" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="315" against="525" net="-210"/>
+        <touchdowns for="4" against="15"/>
+        <streak type="loss" value="6"/>
+      </team>
+      <team id="FIU" name="Golden Panthers" market="Florida International" subdivision="CONFERENCE-USA-EAST">
+        <overall wins="1" losses="11" ties="0" wpct="0.083"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="0" losses="4" ties="0" wpct="0.0"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="0" losses="6" ties="0" wpct="0.0"/>
+        <away wins="1" losses="5" ties="0" wpct="0.167"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="1" losses="10" ties="0" wpct="0.091"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="1" losses="0" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="117" against="444" net="-327"/>
+        <touchdowns for="1" against="20"/>
+        <streak type="loss" value="7"/>
+      </team>
+      <team id="USM" name="Golden Eagles" market="Southern Miss" subdivision="CONFERENCE-USA-EAST">
+        <overall wins="1" losses="11" ties="0" wpct="0.083"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="0" losses="4" ties="0" wpct="0.0"/>
+        <in_division wins="1" losses="11" ties="0" wpct="0.083"/>
+        <home wins="0" losses="5" ties="0" wpct="0.0"/>
+        <away wins="1" losses="6" ties="0" wpct="0.143"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="1" losses="10" ties="0" wpct="0.091"/>
+        <decided_by_7_points wins="0" losses="2" ties="0"/>
+        <leading_at_half wins="0" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="205" against="503" net="-298"/>
+        <touchdowns for="1" against="11"/>
+        <streak type="win" value="1"/>
+      </team>
+    </conference>
+    <conference id="IA-INDEPENDENTS" name="IA Independents">
+      <team id="NAV" name="Midshipmen" market="Navy">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="0" losses="1" ties="0" wpct="0.0"/>
+        <non_conference wins="9" losses="3" ties="0" wpct="0.75"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="7" losses="0" ties="0" wpct="1.0"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="1" losses="1" ties="0" wpct="0.5"/>
+        <grass wins="1" losses="2" ties="0" wpct="0.333"/>
+        <turf wins="8" losses="2" ties="0" wpct="0.8"/>
+        <decided_by_7_points wins="3" losses="2" ties="0"/>
+        <leading_at_half wins="5" losses="3" ties="0"/>
+        <last_5 wins="5" losses="0" ties="0"/>
+        <points for="436" against="317" net="119"/>
+        <touchdowns for="17" against="17"/>
+        <streak type="win" value="5"/>
+      </team>
+      <team id="ND" name="Fighting Irish" market="Notre Dame">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="1" losses="0" ties="0" wpct="1.0"/>
+        <non_conference wins="8" losses="4" ties="0" wpct="0.667"/>
+        <in_division wins="9" losses="4" ties="0" wpct="0.692"/>
+        <home wins="7" losses="1" ties="0" wpct="0.875"/>
+        <away wins="2" losses="3" ties="0" wpct="0.4"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="6" losses="3" ties="0" wpct="0.667"/>
+        <turf wins="3" losses="1" ties="0" wpct="0.75"/>
+        <decided_by_7_points wins="5" losses="2" ties="0"/>
+        <leading_at_half wins="6" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="354" against="291" net="63"/>
+        <touchdowns for="42" against="34"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="BYU" name="Cougars" market="Brigham Young">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="0" losses="0" ties="0" wpct="0.0"/>
+        <non_conference wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="3" losses="4" ties="0" wpct="0.429"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="6" losses="4" ties="0" wpct="0.6"/>
+        <turf wins="2" losses="1" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="6" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="392" against="287" net="105"/>
+        <touchdowns for="22" against="24"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="ARM" name="Black Knights" market="Army">
+        <overall wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_conference wins="0" losses="0" ties="0" wpct="0.0"/>
+        <non_conference wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_division wins="2" losses="9" ties="0" wpct="0.182"/>
+        <home wins="2" losses="3" ties="0" wpct="0.4"/>
+        <away wins="1" losses="6" ties="0" wpct="0.143"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="2" losses="9" ties="0" wpct="0.182"/>
+        <decided_by_7_points wins="0" losses="2" ties="0"/>
+        <leading_at_half wins="3" losses="1" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="293" against="379" net="-86"/>
+        <touchdowns for="7" against="18"/>
+        <streak type="loss" value="5"/>
+      </team>
+      <team id="NMS" name="Aggies" market="New Mexico State">
+        <overall wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_conference wins="0" losses="0" ties="0" wpct="0.0"/>
+        <non_conference wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="2" losses="5" ties="0" wpct="0.286"/>
+        <away wins="0" losses="5" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="8" ties="0" wpct="0.2"/>
+        <turf wins="0" losses="2" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="0" losses="2" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="251" against="535" net="-284"/>
+        <touchdowns for="9" against="19"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="IDA" name="Vandals" market="Idaho">
+        <overall wins="1" losses="11" ties="0" wpct="0.083"/>
+        <in_conference wins="0" losses="1" ties="0" wpct="0.0"/>
+        <non_conference wins="1" losses="10" ties="0" wpct="0.091"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="1" losses="4" ties="0" wpct="0.2"/>
+        <away wins="0" losses="7" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="1" losses="9" ties="0" wpct="0.1"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="1" losses="2" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="211" against="561" net="-350"/>
+        <touchdowns for="6" against="28"/>
+        <streak type="loss" value="7"/>
+      </team>
+    </conference>
+    <conference id="MID-AMERICAN" name="Mid-American">
+      <team id="NIL" name="Huskies" market="Northern Illinois" subdivision="MID-AMERICAN-WEST">
+        <overall wins="12" losses="2" ties="0" wpct="0.857"/>
+        <in_conference wins="8" losses="0" ties="0" wpct="1.0"/>
+        <non_conference wins="4" losses="2" ties="0" wpct="0.667"/>
+        <in_division wins="11" losses="2" ties="0" wpct="0.846"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="7" losses="0" ties="0" wpct="1.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="11" losses="2" ties="0" wpct="0.846"/>
+        <decided_by_7_points wins="3" losses="1" ties="0"/>
+        <leading_at_half wins="7" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="555" against="351" net="204"/>
+        <touchdowns for="55" against="29"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="BALL" name="Cardinals" market="Ball State" subdivision="MID-AMERICAN-WEST">
+        <overall wins="10" losses="3" ties="0" wpct="0.769"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="9" losses="3" ties="0" wpct="0.75"/>
+        <home wins="6" losses="1" ties="0" wpct="0.857"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="9" losses="3" ties="0" wpct="0.75"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="7" losses="2" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="501" against="321" net="180"/>
+        <touchdowns for="11" against="11"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="BGN" name="Falcons" market="Bowling Green" subdivision="MID-AMERICAN-EAST">
+        <overall wins="10" losses="4" ties="0" wpct="0.714"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="3" losses="3" ties="0" wpct="0.5"/>
+        <in_division wins="9" losses="4" ties="0" wpct="0.692"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="5" losses="2" ties="0" wpct="0.714"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="0" ties="0" wpct="0.0"/>
+        <turf wins="10" losses="4" ties="0" wpct="0.714"/>
+        <decided_by_7_points wins="0" losses="3" ties="0"/>
+        <leading_at_half wins="8" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="487" against="222" net="265"/>
+        <touchdowns for="12" against="15"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="BUF" name="Bulls" market="Buffalo" subdivision="MID-AMERICAN-EAST">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="3" losses="4" ties="0" wpct="0.429"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="0" ties="0" wpct="0.0"/>
+        <turf wins="8" losses="5" ties="0" wpct="0.615"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="8" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="394" against="317" net="77"/>
+        <touchdowns for="13" against="23"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="TOL" name="Rockets" market="Toledo" subdivision="MID-AMERICAN-WEST">
+        <overall wins="7" losses="5" ties="0" wpct="0.583"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="6" losses="5" ties="0" wpct="0.545"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="7" losses="4" ties="0" wpct="0.636"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="6" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="396" against="343" net="53"/>
+        <touchdowns for="4" against="13"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="OHI" name="Bobcats" market="Ohio" subdivision="MID-AMERICAN-EAST">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="2" losses="3" ties="0" wpct="0.4"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="0" ties="0" wpct="0.0"/>
+        <turf wins="7" losses="6" ties="0" wpct="0.538"/>
+        <decided_by_7_points wins="2" losses="1" ties="0"/>
+        <leading_at_half wins="7" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="356" against="357" net="-1"/>
+        <touchdowns for="3" against="12"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="CMC" name="Chippewas" market="Central Michigan" subdivision="MID-AMERICAN-WEST">
+        <overall wins="6" losses="6" ties="0" wpct="0.5"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="5" losses="6" ties="0" wpct="0.455"/>
+        <home wins="3" losses="2" ties="0" wpct="0.6"/>
+        <away wins="3" losses="4" ties="0" wpct="0.429"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <decided_by_7_points wins="3" losses="0" ties="0"/>
+        <leading_at_half wins="5" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="279" against="343" net="-64"/>
+        <touchdowns for="4" against="19"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="AKR" name="Zips" market="Akron" subdivision="MID-AMERICAN-EAST">
+        <overall wins="5" losses="7" ties="0" wpct="0.417"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="4" losses="7" ties="0" wpct="0.364"/>
+        <home wins="3" losses="3" ties="0" wpct="0.5"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="5" losses="6" ties="0" wpct="0.455"/>
+        <decided_by_7_points wins="4" losses="3" ties="0"/>
+        <leading_at_half wins="4" losses="1" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="242" against="343" net="-101"/>
+        <touchdowns for="7" against="12"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="KNT" name="Golden Flashes" market="Kent State" subdivision="MID-AMERICAN-EAST">
+        <overall wins="4" losses="8" ties="0" wpct="0.333"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="3" losses="8" ties="0" wpct="0.273"/>
+        <home wins="2" losses="3" ties="0" wpct="0.4"/>
+        <away wins="2" losses="5" ties="0" wpct="0.286"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="4" losses="6" ties="0" wpct="0.4"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="4" losses="0" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="249" against="323" net="-74"/>
+        <touchdowns for="1" against="10"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="EMC" name="Eagles" market="Eastern Michigan" subdivision="MID-AMERICAN-WEST">
+        <overall wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="2" losses="3" ties="0" wpct="0.4"/>
+        <away wins="0" losses="7" ties="0" wpct="0.0"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="2" losses="9" ties="0" wpct="0.182"/>
+        <decided_by_7_points wins="1" losses="0" ties="0"/>
+        <leading_at_half wins="1" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="226" against="542" net="-316"/>
+        <touchdowns for="4" against="18"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="WMC" name="Broncos" market="Western Michigan" subdivision="MID-AMERICAN-WEST">
+        <overall wins="1" losses="11" ties="0" wpct="0.083"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="0" losses="4" ties="0" wpct="0.0"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="0" losses="5" ties="0" wpct="0.0"/>
+        <away wins="1" losses="6" ties="0" wpct="0.143"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="1" losses="9" ties="0" wpct="0.1"/>
+        <decided_by_7_points wins="1" losses="3" ties="0"/>
+        <leading_at_half wins="0" losses="1" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="206" against="425" net="-219"/>
+        <touchdowns for="6" against="20"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="UMASS" name="Minutemen" market="Massachusetts" subdivision="MID-AMERICAN-EAST">
+        <overall wins="1" losses="11" ties="0" wpct="0.083"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="0" losses="4" ties="0" wpct="0.0"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="1" losses="5" ties="0" wpct="0.167"/>
+        <away wins="0" losses="6" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="0" ties="0" wpct="0.0"/>
+        <turf wins="1" losses="11" ties="0" wpct="0.083"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="0" losses="1" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="140" against="396" net="-256"/>
+        <touchdowns for="2" against="18"/>
+        <streak type="loss" value="6"/>
+      </team>
+      <team id="MOH" name="RedHawks" market="Miami (OH)" subdivision="MID-AMERICAN-EAST">
+        <overall wins="0" losses="12" ties="0" wpct="0.0"/>
+        <in_conference wins="0" losses="8" ties="0" wpct="0.0"/>
+        <non_conference wins="0" losses="4" ties="0" wpct="0.0"/>
+        <in_division wins="0" losses="12" ties="0" wpct="0.0"/>
+        <home wins="0" losses="5" ties="0" wpct="0.0"/>
+        <away wins="0" losses="7" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="0" losses="11" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="0" losses="2" ties="0"/>
+        <leading_at_half wins="0" losses="0" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="117" against="428" net="-311"/>
+        <touchdowns for="3" against="14"/>
+        <streak type="loss" value="12"/>
+      </team>
+    </conference>
+    <conference id="MOUNTAIN-WEST" name="Mountain West">
+      <team id="FRE" name="Bulldogs" market="Fresno State" subdivision="MOUNTAIN-WEST-WEST">
+        <overall wins="11" losses="2" ties="0" wpct="0.846"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="10" losses="2" ties="0" wpct="0.833"/>
+        <home wins="7" losses="0" ties="0" wpct="1.0"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="2" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="0" ties="0" wpct="0.0"/>
+        <turf wins="11" losses="2" ties="0" wpct="0.846"/>
+        <decided_by_7_points wins="5" losses="0" ties="0"/>
+        <leading_at_half wins="10" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="565" against="394" net="171"/>
+        <touchdowns for="47" against="34"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="UTS" name="Aggies" market="Utah State" subdivision="MOUNTAIN-WEST-MOUNTAIN">
+        <overall wins="9" losses="5" ties="0" wpct="0.643"/>
+        <in_conference wins="6" losses="1" ties="0" wpct="0.857"/>
+        <non_conference wins="3" losses="4" ties="0" wpct="0.429"/>
+        <in_division wins="8" losses="5" ties="0" wpct="0.615"/>
+        <home wins="4" losses="2" ties="0" wpct="0.667"/>
+        <away wins="5" losses="3" ties="0" wpct="0.625"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="1" ties="0" wpct="0.5"/>
+        <turf wins="8" losses="4" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="2" losses="3" ties="0"/>
+        <leading_at_half wins="7" losses="1" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="445" against="239" net="206"/>
+        <touchdowns for="9" against="10"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="SDSU" name="Aztecs" market="San Diego State" subdivision="MOUNTAIN-WEST-WEST">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="4" losses="3" ties="0" wpct="0.571"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="3" losses="1" ties="0" wpct="0.75"/>
+        <grass wins="1" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="7" losses="5" ties="0" wpct="0.583"/>
+        <decided_by_7_points wins="6" losses="2" ties="0"/>
+        <leading_at_half wins="4" losses="1" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="387" against="412" net="-25"/>
+        <touchdowns for="15" against="19"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="BOISE" name="Broncos" market="Boise State" subdivision="MOUNTAIN-WEST-MOUNTAIN">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="6" losses="0" ties="0" wpct="1.0"/>
+        <away wins="2" losses="5" ties="0" wpct="0.286"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="8" losses="4" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="0" losses="2" ties="0"/>
+        <leading_at_half wins="7" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="488" against="323" net="165"/>
+        <touchdowns for="2" against="10"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="CSU" name="Rams" market="Colorado State" subdivision="MOUNTAIN-WEST-MOUNTAIN">
+        <overall wins="8" losses="6" ties="0" wpct="0.571"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="3" losses="3" ties="0" wpct="0.5"/>
+        <in_division wins="7" losses="6" ties="0" wpct="0.538"/>
+        <home wins="5" losses="3" ties="0" wpct="0.625"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="1" ties="0" wpct="0.667"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="6" losses="2" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="507" against="417" net="90"/>
+        <touchdowns for="8" against="14"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="UNLV" name="Rebels" market="UNLV" subdivision="MOUNTAIN-WEST-WEST">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="4" losses="3" ties="0" wpct="0.571"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="1" ties="0" wpct="0.5"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <decided_by_7_points wins="2" losses="1" ties="0"/>
+        <leading_at_half wins="3" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="389" against="414" net="-25"/>
+        <touchdowns for="7" against="19"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="SJS" name="Spartans" market="San Jose State" subdivision="MOUNTAIN-WEST-WEST">
+        <overall wins="6" losses="6" ties="0" wpct="0.5"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="5" losses="6" ties="0" wpct="0.455"/>
+        <home wins="3" losses="3" ties="0" wpct="0.5"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="4" losses="2" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="389" against="421" net="-32"/>
+        <touchdowns for="12" against="17"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="WYO" name="Cowboys" market="Wyoming" subdivision="MOUNTAIN-WEST-MOUNTAIN">
+        <overall wins="5" losses="7" ties="0" wpct="0.417"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="4" losses="7" ties="0" wpct="0.364"/>
+        <home wins="4" losses="2" ties="0" wpct="0.667"/>
+        <away wins="1" losses="5" ties="0" wpct="0.167"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="0" ties="0" wpct="0.0"/>
+        <turf wins="5" losses="7" ties="0" wpct="0.417"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="4" losses="1" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="375" against="434" net="-59"/>
+        <touchdowns for="6" against="12"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="NEV" name="Wolf Pack" market="Nevada" subdivision="MOUNTAIN-WEST-WEST">
+        <overall wins="4" losses="8" ties="0" wpct="0.333"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="3" losses="8" ties="0" wpct="0.273"/>
+        <home wins="4" losses="2" ties="0" wpct="0.667"/>
+        <away wins="0" losses="6" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="2" ties="0" wpct="0.0"/>
+        <turf wins="4" losses="6" ties="0" wpct="0.4"/>
+        <decided_by_7_points wins="1" losses="3" ties="0"/>
+        <leading_at_half wins="3" losses="4" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="323" against="413" net="-90"/>
+        <touchdowns for="6" against="21"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="NM" name="Lobos" market="New Mexico" subdivision="MOUNTAIN-WEST-MOUNTAIN">
+        <overall wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_conference wins="1" losses="7" ties="0" wpct="0.125"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="3" losses="9" ties="0" wpct="0.25"/>
+        <home wins="2" losses="4" ties="0" wpct="0.333"/>
+        <away wins="1" losses="5" ties="0" wpct="0.167"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="2" losses="5" ties="0" wpct="0.286"/>
+        <turf wins="1" losses="4" ties="0" wpct="0.2"/>
+        <decided_by_7_points wins="1" losses="2" ties="0"/>
+        <leading_at_half wins="2" losses="1" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="393" against="513" net="-120"/>
+        <touchdowns for="7" against="17"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="AF" name="Falcons" market="Air Force" subdivision="MOUNTAIN-WEST-MOUNTAIN">
+        <overall wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_conference wins="0" losses="7" ties="0" wpct="0.0"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="2" losses="5" ties="0" wpct="0.286"/>
+        <away wins="0" losses="5" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="2" losses="9" ties="0" wpct="0.182"/>
+        <decided_by_7_points wins="0" losses="2" ties="0"/>
+        <leading_at_half wins="1" losses="3" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="296" against="480" net="-184"/>
+        <touchdowns for="1" against="6"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="HAW" name="Warriors" market="Hawaii" subdivision="MOUNTAIN-WEST-WEST">
+        <overall wins="1" losses="11" ties="0" wpct="0.083"/>
+        <in_conference wins="0" losses="8" ties="0" wpct="0.0"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="1" losses="11" ties="0" wpct="0.083"/>
+        <home wins="1" losses="5" ties="0" wpct="0.167"/>
+        <away wins="0" losses="6" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="2" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="0" ties="0" wpct="0.0"/>
+        <turf wins="1" losses="11" ties="0" wpct="0.083"/>
+        <decided_by_7_points wins="1" losses="5" ties="0"/>
+        <leading_at_half wins="1" losses="2" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="329" against="471" net="-142"/>
+        <touchdowns for="3" against="8"/>
+        <streak type="win" value="1"/>
+      </team>
+    </conference>
+    <conference id="PAC-12" name="Pac-12">
+      <team id="ORE" name="Ducks" market="Oregon" subdivision="PAC-12-NORTH">
+        <overall wins="11" losses="2" ties="0" wpct="0.846"/>
+        <in_conference wins="7" losses="2" ties="0" wpct="0.778"/>
+        <non_conference wins="4" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="10" losses="2" ties="0" wpct="0.833"/>
+        <home wins="7" losses="0" ties="0" wpct="1.0"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="2" ties="0" wpct="0.5"/>
+        <turf wins="9" losses="0" ties="0" wpct="1.0"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="9" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="591" against="266" net="325"/>
+        <touchdowns for="81" against="32"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="STA" name="Cardinal" market="Stanford" subdivision="PAC-12-NORTH">
+        <overall wins="11" losses="3" ties="0" wpct="0.786"/>
+        <in_conference wins="7" losses="2" ties="0" wpct="0.778"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="11" losses="3" ties="0" wpct="0.786"/>
+        <home wins="7" losses="0" ties="0" wpct="1.0"/>
+        <away wins="4" losses="3" ties="0" wpct="0.571"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="8" losses="2" ties="0" wpct="0.8"/>
+        <turf wins="3" losses="1" ties="0" wpct="0.75"/>
+        <decided_by_7_points wins="3" losses="3" ties="0"/>
+        <leading_at_half wins="11" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="452" against="266" net="186"/>
+        <touchdowns for="56" against="31"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="UCLA" name="Bruins" market="UCLA" subdivision="PAC-12-SOUTH">
+        <overall wins="10" losses="3" ties="0" wpct="0.769"/>
+        <in_conference wins="6" losses="3" ties="0" wpct="0.667"/>
+        <non_conference wins="4" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="10" losses="3" ties="0" wpct="0.769"/>
+        <home wins="6" losses="1" ties="0" wpct="0.857"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="7" losses="2" ties="0" wpct="0.778"/>
+        <turf wins="3" losses="1" ties="0" wpct="0.75"/>
+        <decided_by_7_points wins="2" losses="1" ties="0"/>
+        <leading_at_half wins="9" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="480" against="301" net="179"/>
+        <touchdowns for="63" against="37"/>
+        <streak type="win" value="2"/>
+      </team>
+      <team id="USC" name="Trojans" market="USC" subdivision="PAC-12-SOUTH">
+        <overall wins="10" losses="4" ties="0" wpct="0.714"/>
+        <in_conference wins="6" losses="3" ties="0" wpct="0.667"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="10" losses="4" ties="0" wpct="0.714"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="7" losses="4" ties="0" wpct="0.636"/>
+        <turf wins="3" losses="0" ties="0" wpct="1.0"/>
+        <decided_by_7_points wins="3" losses="2" ties="0"/>
+        <leading_at_half wins="10" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="416" against="297" net="119"/>
+        <touchdowns for="53" against="39"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="ASU" name="Devils" market="Arizona State" subdivision="PAC-12-SOUTH">
+        <overall wins="10" losses="4" ties="0" wpct="0.714"/>
+        <in_conference wins="8" losses="1" ties="0" wpct="0.889"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="9" losses="4" ties="0" wpct="0.692"/>
+        <home wins="7" losses="1" ties="0" wpct="0.875"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="8" losses="2" ties="0" wpct="0.8"/>
+        <turf wins="2" losses="2" ties="0" wpct="0.5"/>
+        <decided_by_7_points wins="3" losses="1" ties="0"/>
+        <leading_at_half wins="8" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="556" against="373" net="183"/>
+        <touchdowns for="69" against="48"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="WAS" name="Huskies" market="Washington" subdivision="PAC-12-NORTH">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="5" losses="4" ties="0" wpct="0.556"/>
+        <non_conference wins="4" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="7" losses="1" ties="0" wpct="0.875"/>
+        <away wins="2" losses="3" ties="0" wpct="0.4"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="3" ties="0" wpct="0.4"/>
+        <turf wins="7" losses="1" ties="0" wpct="0.875"/>
+        <decided_by_7_points wins="0" losses="1" ties="0"/>
+        <leading_at_half wins="8" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="493" against="297" net="196"/>
+        <touchdowns for="64" against="37"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="ARI" name="Wildcats" market="Arizona" subdivision="PAC-12-SOUTH">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="4" losses="5" ties="0" wpct="0.444"/>
+        <non_conference wins="4" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="4" losses="2" ties="0" wpct="0.667"/>
+        <away wins="4" losses="3" ties="0" wpct="0.571"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="5" losses="4" ties="0" wpct="0.556"/>
+        <turf wins="3" losses="1" ties="0" wpct="0.75"/>
+        <decided_by_7_points wins="1" losses="3" ties="0"/>
+        <leading_at_half wins="8" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="435" against="315" net="120"/>
+        <touchdowns for="57" against="39"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="ORS" name="Beavers" market="Oregon State" subdivision="PAC-12-NORTH">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="4" losses="5" ties="0" wpct="0.444"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="3" losses="4" ties="0" wpct="0.429"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="7" losses="5" ties="0" wpct="0.583"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="5" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="458" against="408" net="50"/>
+        <touchdowns for="60" against="51"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="WST" name="Cougars" market="Washington State" subdivision="PAC-12-NORTH">
+        <overall wins="6" losses="7" ties="0" wpct="0.462"/>
+        <in_conference wins="4" losses="5" ties="0" wpct="0.444"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="5" losses="7" ties="0" wpct="0.417"/>
+        <home wins="3" losses="3" ties="0" wpct="0.5"/>
+        <away wins="3" losses="4" ties="0" wpct="0.429"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="2" ties="0" wpct="0.5"/>
+        <turf wins="4" losses="5" ties="0" wpct="0.444"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="4" losses="2" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="403" against="423" net="-20"/>
+        <touchdowns for="51" against="52"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="UTH" name="Utes" market="Utah" subdivision="PAC-12-SOUTH">
+        <overall wins="5" losses="7" ties="0" wpct="0.417"/>
+        <in_conference wins="2" losses="7" ties="0" wpct="0.222"/>
+        <non_conference wins="3" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="4" losses="7" ties="0" wpct="0.364"/>
+        <home wins="4" losses="3" ties="0" wpct="0.571"/>
+        <away wins="1" losses="4" ties="0" wpct="0.2"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="2" ties="0" wpct="0.333"/>
+        <turf wins="4" losses="5" ties="0" wpct="0.444"/>
+        <decided_by_7_points wins="4" losses="3" ties="0"/>
+        <leading_at_half wins="4" losses="1" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="350" against="336" net="14"/>
+        <touchdowns for="43" against="41"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="COL" name="Buffaloes" market="Colorado" subdivision="PAC-12-SOUTH">
+        <overall wins="4" losses="8" ties="0" wpct="0.333"/>
+        <in_conference wins="1" losses="8" ties="0" wpct="0.111"/>
+        <non_conference wins="3" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="2" losses="8" ties="0" wpct="0.2"/>
+        <home wins="3" losses="3" ties="0" wpct="0.5"/>
+        <away wins="1" losses="5" ties="0" wpct="0.167"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="3" losses="5" ties="0" wpct="0.375"/>
+        <turf wins="1" losses="3" ties="0" wpct="0.25"/>
+        <decided_by_7_points wins="0" losses="1" ties="0"/>
+        <leading_at_half wins="3" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="305" against="459" net="-154"/>
+        <touchdowns for="36" against="58"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="CAL" name="Bears" market="California" subdivision="PAC-12-NORTH">
+        <overall wins="1" losses="11" ties="0" wpct="0.083"/>
+        <in_conference wins="0" losses="9" ties="0" wpct="0.0"/>
+        <non_conference wins="1" losses="2" ties="0" wpct="0.333"/>
+        <in_division wins="0" losses="11" ties="0" wpct="0.0"/>
+        <home wins="1" losses="6" ties="0" wpct="0.143"/>
+        <away wins="0" losses="5" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="4" ties="0" wpct="0.0"/>
+        <turf wins="1" losses="7" ties="0" wpct="0.125"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="1" losses="0" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="276" against="551" net="-275"/>
+        <touchdowns for="32" against="72"/>
+        <streak type="loss" value="10"/>
+      </team>
+    </conference>
+    <conference id="SEC" name="SEC">
+      <team id="AUB" name="Tigers" market="Auburn" subdivision="SEC-WEST">
+        <overall wins="12" losses="2" ties="0" wpct="0.857"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="5" losses="1" ties="0" wpct="0.833"/>
+        <in_division wins="11" losses="2" ties="0" wpct="0.846"/>
+        <home wins="9" losses="0" ties="0" wpct="1.0"/>
+        <away wins="3" losses="2" ties="0" wpct="0.6"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="10" losses="2" ties="0" wpct="0.833"/>
+        <turf wins="2" losses="0" ties="0" wpct="1.0"/>
+        <decided_by_7_points wins="5" losses="1" ties="0"/>
+        <leading_at_half wins="10" losses="1" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="553" against="346" net="207"/>
+        <touchdowns for="73" against="41"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="MIZ" name="Tigers" market="Missouri" subdivision="SEC-EAST">
+        <overall wins="12" losses="2" ties="0" wpct="0.857"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="5" losses="1" ties="0" wpct="0.833"/>
+        <in_division wins="11" losses="2" ties="0" wpct="0.846"/>
+        <home wins="7" losses="1" ties="0" wpct="0.875"/>
+        <away wins="5" losses="1" ties="0" wpct="0.833"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="0" ties="0" wpct="1.0"/>
+        <turf wins="10" losses="2" ties="0" wpct="0.833"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="11" losses="1" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="548" against="323" net="225"/>
+        <touchdowns for="71" against="39"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="SC" name="Gamecocks" market="South Carolina" subdivision="SEC-EAST">
+        <overall wins="11" losses="2" ties="0" wpct="0.846"/>
+        <in_conference wins="6" losses="2" ties="0" wpct="0.75"/>
+        <non_conference wins="5" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="10" losses="2" ties="0" wpct="0.833"/>
+        <home wins="8" losses="0" ties="0" wpct="1.0"/>
+        <away wins="3" losses="2" ties="0" wpct="0.6"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="8" losses="2" ties="0" wpct="0.8"/>
+        <turf wins="3" losses="0" ties="0" wpct="1.0"/>
+        <decided_by_7_points wins="4" losses="1" ties="0"/>
+        <leading_at_half wins="7" losses="0" ties="0"/>
+        <last_5 wins="5" losses="0" ties="0"/>
+        <points for="443" against="264" net="179"/>
+        <touchdowns for="57" against="32"/>
+        <streak type="win" value="6"/>
+      </team>
+      <team id="BAMA" name="Crimson Tide" market="Alabama" subdivision="SEC-WEST">
+        <overall wins="11" losses="2" ties="0" wpct="0.846"/>
+        <in_conference wins="7" losses="1" ties="0" wpct="0.875"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="10" losses="2" ties="0" wpct="0.833"/>
+        <home wins="7" losses="1" ties="0" wpct="0.875"/>
+        <away wins="4" losses="1" ties="0" wpct="0.8"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="9" losses="1" ties="0" wpct="0.9"/>
+        <turf wins="2" losses="1" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="1" losses="1" ties="0"/>
+        <leading_at_half wins="11" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="496" against="181" net="315"/>
+        <touchdowns for="65" against="23"/>
+        <streak type="loss" value="2"/>
+      </team>
+      <team id="LSU" name="Tigers" market="LSU" subdivision="SEC-WEST">
+        <overall wins="10" losses="3" ties="0" wpct="0.769"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="5" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="9" losses="3" ties="0" wpct="0.75"/>
+        <home wins="8" losses="0" ties="0" wpct="1.0"/>
+        <away wins="2" losses="3" ties="0" wpct="0.4"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="8" losses="2" ties="0" wpct="0.8"/>
+        <turf wins="2" losses="1" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="9" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="465" against="286" net="179"/>
+        <touchdowns for="61" against="32"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="TXAM" name="Aggies" market="Texas A&amp;M" subdivision="SEC-WEST">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="5" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="7" losses="2" ties="0" wpct="0.778"/>
+        <away wins="2" losses="2" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="6" losses="3" ties="0" wpct="0.667"/>
+        <turf wins="3" losses="1" ties="0" wpct="0.75"/>
+        <decided_by_7_points wins="2" losses="3" ties="0"/>
+        <leading_at_half wins="8" losses="2" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="575" against="419" net="156"/>
+        <touchdowns for="78" against="55"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="VAN" name="Commodores" market="Vanderbilt" subdivision="SEC-EAST">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="4" losses="4" ties="0" wpct="0.5"/>
+        <non_conference wins="5" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="2" ties="0" wpct="0.5"/>
+        <turf wins="7" losses="2" ties="0" wpct="0.778"/>
+        <decided_by_7_points wins="3" losses="1" ties="0"/>
+        <leading_at_half wins="7" losses="1" ties="0"/>
+        <last_5 wins="5" losses="0" ties="0"/>
+        <points for="391" against="320" net="71"/>
+        <touchdowns for="49" against="40"/>
+        <streak type="win" value="5"/>
+      </team>
+      <team id="MIS" name="Rebels" market="Ole Miss" subdivision="SEC-WEST">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="5" losses="0" ties="0" wpct="1.0"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="2" ties="0" wpct="0.333"/>
+        <turf wins="7" losses="3" ties="0" wpct="0.7"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="6" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="390" against="308" net="82"/>
+        <touchdowns for="43" against="36"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="UGA" name="Bulldogs" market="Georgia" subdivision="SEC-EAST">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="5" losses="3" ties="0" wpct="0.625"/>
+        <non_conference wins="3" losses="2" ties="0" wpct="0.6"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="5" losses="2" ties="0" wpct="0.714"/>
+        <away wins="3" losses="3" ties="0" wpct="0.5"/>
+        <overtime wins="2" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="8" losses="4" ties="0" wpct="0.667"/>
+        <turf wins="0" losses="1" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="4" losses="4" ties="0"/>
+        <leading_at_half wins="6" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="477" against="377" net="100"/>
+        <touchdowns for="58" against="47"/>
+        <streak type="loss" value="1"/>
+      </team>
+      <team id="MSST" name="Bulldogs" market="Mississippi State" subdivision="SEC-WEST">
+        <overall wins="7" losses="6" ties="0" wpct="0.538"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="6" losses="6" ties="0" wpct="0.5"/>
+        <home wins="6" losses="2" ties="0" wpct="0.75"/>
+        <away wins="1" losses="4" ties="0" wpct="0.2"/>
+        <overtime wins="2" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="4" ties="0" wpct="0.0"/>
+        <turf wins="7" losses="2" ties="0" wpct="0.778"/>
+        <decided_by_7_points wins="4" losses="1" ties="0"/>
+        <leading_at_half wins="5" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="360" against="299" net="61"/>
+        <touchdowns for="48" against="36"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="TEN" name="Volunteers" market="Tennessee" subdivision="SEC-EAST">
+        <overall wins="5" losses="7" ties="0" wpct="0.417"/>
+        <in_conference wins="2" losses="6" ties="0" wpct="0.25"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="4" losses="7" ties="0" wpct="0.364"/>
+        <home wins="4" losses="3" ties="0" wpct="0.571"/>
+        <away wins="1" losses="4" ties="0" wpct="0.2"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="5" losses="5" ties="0" wpct="0.5"/>
+        <turf wins="0" losses="2" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="5" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="286" against="348" net="-62"/>
+        <touchdowns for="35" against="46"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="FLA" name="Gators" market="Florida" subdivision="SEC-EAST">
+        <overall wins="4" losses="8" ties="0" wpct="0.333"/>
+        <in_conference wins="3" losses="5" ties="0" wpct="0.375"/>
+        <non_conference wins="1" losses="3" ties="0" wpct="0.25"/>
+        <in_division wins="4" losses="7" ties="0" wpct="0.364"/>
+        <home wins="3" losses="4" ties="0" wpct="0.429"/>
+        <away wins="1" losses="4" ties="0" wpct="0.2"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="4" losses="7" ties="0" wpct="0.364"/>
+        <turf wins="0" losses="1" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="0" losses="4" ties="0"/>
+        <leading_at_half wins="4" losses="2" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="226" against="253" net="-27"/>
+        <touchdowns for="27" against="27"/>
+        <streak type="loss" value="7"/>
+      </team>
+      <team id="ARK" name="Razorbacks" market="Arkansas" subdivision="SEC-WEST">
+        <overall wins="3" losses="9" ties="0" wpct="0.25"/>
+        <in_conference wins="0" losses="8" ties="0" wpct="0.0"/>
+        <non_conference wins="3" losses="1" ties="0" wpct="0.75"/>
+        <in_division wins="2" losses="9" ties="0" wpct="0.182"/>
+        <home wins="3" losses="4" ties="0" wpct="0.429"/>
+        <away wins="0" losses="5" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="3" ties="0" wpct="0.0"/>
+        <turf wins="3" losses="6" ties="0" wpct="0.333"/>
+        <decided_by_7_points wins="0" losses="3" ties="0"/>
+        <leading_at_half wins="3" losses="2" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="248" against="369" net="-121"/>
+        <touchdowns for="30" against="49"/>
+        <streak type="loss" value="9"/>
+      </team>
+      <team id="KEN" name="Wildcats" market="Kentucky" subdivision="SEC-EAST">
+        <overall wins="2" losses="10" ties="0" wpct="0.167"/>
+        <in_conference wins="0" losses="8" ties="0" wpct="0.0"/>
+        <non_conference wins="2" losses="2" ties="0" wpct="0.5"/>
+        <in_division wins="1" losses="10" ties="0" wpct="0.091"/>
+        <home wins="2" losses="5" ties="0" wpct="0.286"/>
+        <away wins="0" losses="5" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="2" losses="8" ties="0" wpct="0.2"/>
+        <turf wins="0" losses="2" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="0" losses="2" ties="0"/>
+        <leading_at_half wins="2" losses="0" ties="0"/>
+        <last_5 wins="1" losses="4" ties="0"/>
+        <points for="246" against="374" net="-128"/>
+        <touchdowns for="30" against="49"/>
+        <streak type="loss" value="4"/>
+      </team>
+    </conference>
+    <conference id="SUN-BELT" name="Sun Belt">
+      <team id="ULL" name="Ragin' Cajuns" market="Louisiana-Lafayette">
+        <overall wins="9" losses="4" ties="0" wpct="0.692"/>
+        <in_conference wins="5" losses="2" ties="0" wpct="0.714"/>
+        <non_conference wins="4" losses="2" ties="0" wpct="0.667"/>
+        <in_division wins="8" losses="4" ties="0" wpct="0.667"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="4" losses="3" ties="0" wpct="0.571"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="0" ties="0" wpct="0.0"/>
+        <turf wins="9" losses="4" ties="0" wpct="0.692"/>
+        <decided_by_7_points wins="3" losses="1" ties="0"/>
+        <leading_at_half wins="6" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="436" against="344" net="92"/>
+        <touchdowns for="8" against="13"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="WKY" name="Hilltoppers" market="Western Kentucky">
+        <overall wins="8" losses="4" ties="0" wpct="0.667"/>
+        <in_conference wins="4" losses="3" ties="0" wpct="0.571"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="7" losses="4" ties="0" wpct="0.636"/>
+        <home wins="4" losses="2" ties="0" wpct="0.667"/>
+        <away wins="4" losses="2" ties="0" wpct="0.667"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="1" losses="1" ties="0" wpct="0.5"/>
+        <turf wins="7" losses="3" ties="0" wpct="0.7"/>
+        <decided_by_7_points wins="2" losses="2" ties="0"/>
+        <leading_at_half wins="6" losses="2" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="370" against="295" net="75"/>
+        <touchdowns for="7" against="10"/>
+        <streak type="win" value="4"/>
+      </team>
+      <team id="ARKS" name="Red Wolves" market="Arkansas State">
+        <overall wins="8" losses="5" ties="0" wpct="0.615"/>
+        <in_conference wins="5" losses="2" ties="0" wpct="0.714"/>
+        <non_conference wins="3" losses="3" ties="0" wpct="0.5"/>
+        <in_division wins="7" losses="5" ties="0" wpct="0.583"/>
+        <home wins="5" losses="1" ties="0" wpct="0.833"/>
+        <away wins="3" losses="4" ties="0" wpct="0.429"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="8" losses="4" ties="0" wpct="0.667"/>
+        <decided_by_7_points wins="4" losses="1" ties="0"/>
+        <leading_at_half wins="2" losses="0" ties="0"/>
+        <last_5 wins="4" losses="1" ties="0"/>
+        <points for="379" against="337" net="42"/>
+        <touchdowns for="4" against="17"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="ULM" name="Warhawks" market="Louisiana-Monroe">
+        <overall wins="6" losses="6" ties="0" wpct="0.5"/>
+        <in_conference wins="4" losses="3" ties="0" wpct="0.571"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="5" losses="6" ties="0" wpct="0.455"/>
+        <home wins="2" losses="3" ties="0" wpct="0.4"/>
+        <away wins="4" losses="3" ties="0" wpct="0.571"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <decided_by_7_points wins="3" losses="0" ties="0"/>
+        <leading_at_half wins="5" losses="0" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="267" against="362" net="-95"/>
+        <touchdowns for="4" against="12"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="SAB" name="Jaguars" market="South Alabama">
+        <overall wins="6" losses="6" ties="0" wpct="0.5"/>
+        <in_conference wins="4" losses="3" ties="0" wpct="0.571"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="6" losses="5" ties="0" wpct="0.545"/>
+        <home wins="4" losses="2" ties="0" wpct="0.667"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <decided_by_7_points wins="2" losses="5" ties="0"/>
+        <leading_at_half wins="5" losses="1" ties="0"/>
+        <last_5 wins="3" losses="2" ties="0"/>
+        <points for="353" against="302" net="51"/>
+        <touchdowns for="3" against="4"/>
+        <streak type="win" value="3"/>
+      </team>
+      <team id="TXST" name="Bobcats" market="Texas State">
+        <overall wins="6" losses="6" ties="0" wpct="0.5"/>
+        <in_conference wins="2" losses="5" ties="0" wpct="0.286"/>
+        <non_conference wins="4" losses="1" ties="0" wpct="0.8"/>
+        <in_division wins="5" losses="6" ties="0" wpct="0.455"/>
+        <home wins="4" losses="2" ties="0" wpct="0.667"/>
+        <away wins="2" losses="4" ties="0" wpct="0.333"/>
+        <overtime wins="0" losses="0" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="0" ties="0" wpct="0.0"/>
+        <turf wins="6" losses="6" ties="0" wpct="0.5"/>
+        <decided_by_7_points wins="3" losses="1" ties="0"/>
+        <leading_at_half wins="5" losses="0" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="287" against="328" net="-41"/>
+        <touchdowns for="1" against="3"/>
+        <streak type="loss" value="3"/>
+      </team>
+      <team id="TRY" name="Trojans" market="Troy">
+        <overall wins="6" losses="6" ties="0" wpct="0.5"/>
+        <in_conference wins="4" losses="3" ties="0" wpct="0.571"/>
+        <non_conference wins="2" losses="3" ties="0" wpct="0.4"/>
+        <in_division wins="5" losses="6" ties="0" wpct="0.455"/>
+        <home wins="4" losses="1" ties="0" wpct="0.8"/>
+        <away wins="2" losses="5" ties="0" wpct="0.286"/>
+        <overtime wins="1" losses="0" ties="0" wpct="1.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="6" losses="5" ties="0" wpct="0.545"/>
+        <decided_by_7_points wins="4" losses="3" ties="0"/>
+        <leading_at_half wins="4" losses="1" ties="0"/>
+        <last_5 wins="2" losses="3" ties="0"/>
+        <points for="409" against="431" net="-22"/>
+        <touchdowns for="8" against="20"/>
+        <streak type="win" value="1"/>
+      </team>
+      <team id="GST" name="Panthers" market="Georgia State">
+        <overall wins="0" losses="12" ties="0" wpct="0.0"/>
+        <in_conference wins="0" losses="7" ties="0" wpct="0.0"/>
+        <non_conference wins="0" losses="5" ties="0" wpct="0.0"/>
+        <in_division wins="0" losses="9" ties="0" wpct="0.0"/>
+        <home wins="0" losses="7" ties="0" wpct="0.0"/>
+        <away wins="0" losses="5" ties="0" wpct="0.0"/>
+        <overtime wins="0" losses="1" ties="0" wpct="0.0"/>
+        <grass wins="0" losses="1" ties="0" wpct="0.0"/>
+        <turf wins="0" losses="11" ties="0" wpct="0.0"/>
+        <decided_by_7_points wins="0" losses="4" ties="0"/>
+        <leading_at_half wins="0" losses="2" ties="0"/>
+        <last_5 wins="0" losses="5" ties="0"/>
+        <points for="225" against="440" net="-215"/>
+        <touchdowns for="1" against="11"/>
+        <streak type="loss" value="12"/>
+      </team>
+    </conference>
+    <conference id="WAC" name="WAC">
+    </conference>
+  </division>
+</standings>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<standings xmlns="http://feed.elasticstats.com/schema/ncaafb/standings-v1.0.xsd" season="2011" type="REG">
+  <division id="FBS" name="I-A">
+    <conference id="ACC" name="ACC">
+    </conference>
+    <conference id="AAC" name="American Athletic">
+    </conference>
+    <conference id="BIG-12" name="Big 12">
+    </conference>
+    <conference id="BIG-EAST" name="Big East">
+    </conference>
+    <conference id="BIG-TEN" name="Big Ten">
+    </conference>
+    <conference id="CONFERENCE-USA" name="Conference USA">
+    </conference>
+    <conference id="IA-INDEPENDENTS" name="IA Independents">
+    </conference>
+    <conference id="MID-AMERICAN" name="Mid-American">
+    </conference>
+    <conference id="MOUNTAIN-WEST" name="Mountain West">
+    </conference>
+    <conference id="PAC-12" name="Pac-12">
+    </conference>
+    <conference id="SEC" name="SEC">
+    </conference>
+    <conference id="SUN-BELT" name="Sun Belt">
+    </conference>
+    <conference id="WAC" name="WAC">
+    </conference>
+  </division>
+</standings>
