@@ -50,7 +50,15 @@ class NCAAFB extends V1
       week = new Date()
       week.setHours(0,0,0)
       week.setDate(week.getDate()+1-(week.getDay()||7))
-      params.week = Math.ceil((((week-new Date(week.getFullYear(),0,1))/8.64e7)+1)/7)
+      week = Math.ceil((((week-new Date(week.getFullYear(),0,1))/8.64e7)+1)/7)
+      if week < 10
+        seasonWeek = (week + 52) - 34
+      else if week < 35
+        seasonWeek = 1
+      else
+        seasonWeek = week - 34
+      params.week = seasonWeek
+
     if not params.year
       if week < 10
         params.year = new Date().getFullYear() - 1
