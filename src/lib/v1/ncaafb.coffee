@@ -40,6 +40,10 @@ class NCAAFB extends V1
     [params, callback] = this.getYearWeekParams params, callback
     this.getResource '/polls/AP25/%(year)s/%(week)s/rankings.xml', params, callback
 
+  getCfpRankings: (params,callback) ->
+    [params, callback] = this.getYearWeekParams params, callback
+    this.getResource '/polls/CFP25/%(year)s/%(week)s/rankings.xml', params, callback
+
   getYearWeekParams: (params, callback) ->
     if typeof params is 'function'
       callback = params
