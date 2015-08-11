@@ -45,6 +45,31 @@ class NCAAMB extends SportApi
 
     [params, callback]
 
+  getRankings: (params,callback) ->
+    [params, callback] = this.getYearWeekParams params, callback
+    this.getResource '/polls/AP/%(year)s/rankings.xml', params, callback
+
+  getYearWeekParams: (params, callback) ->
+    if typeof params is 'function'
+      callback = params
+      params = {}
+    if not params
+      params = {}
+
+    if not params.year
+      now = new Date()
+      year = now.getFullYear()
+      start = new Date(now.getFullYear(),0,0)
+      diff = now - start
+      oneDay = 1000 * 60 * 60 * 24
+      day = Math.floor(diff / oneDay)
+      if day > 180
+        params.year = year
+      else
+        params.year = year - 1
+
+    [params, callback]
+
   ###
 
   TournamentID based functions
