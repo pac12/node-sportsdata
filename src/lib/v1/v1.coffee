@@ -12,13 +12,13 @@ class V1 extends SportApi
     away = params.away
     _this = this
     [params, callback] = this.getYearSeasonWeekParams(params, callback)
-    result = this.getResource '/%(year)s/%(season)s/%(week)s/%(away)s/%(home)s/extended-boxscore.xml', params, (err, response) ->
+    this.getResource '/%(year)s/%(season)s/%(week)s/%(away)s/%(home)s/extended-boxscore.xml', params, (err, response) ->
       if err is 'GET returned HTTP 404'
         params.home = away
         params.away = home
         _this.getResource '/%(year)s/%(season)s/%(week)s/%(away)s/%(home)s/extended-boxscore.xml', params, callback
       else
-        response
+        callback(response)
 
 
   getPlayByPlay: (params, callback) ->
