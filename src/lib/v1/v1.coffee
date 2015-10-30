@@ -18,7 +18,7 @@ class V1 extends SportApi
         params.away = home
         _this.getResource '/%(year)s/%(season)s/%(week)s/%(away)s/%(home)s/extended-boxscore.xml', params, callback
       else
-        callback(response)
+        callback(null, response)
 
 
   getPlayByPlay: (params, callback) ->

@@ -1,7 +1,7 @@
 {
   "name": "node-sportsdata",
   "description": "A wrapper for the SportsData API",
-  "version": "0.3.11",
+  "version": "0.3.12",
   "homepage": "https://github.com/pac12/node-sportsdata",
   "author": {
     "name": "PAC-12",
