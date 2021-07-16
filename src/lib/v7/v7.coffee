@@ -1,3 +1,4 @@
+sprintf = require('sprintf-js').sprintf
 SportApi = require '../sport-api'
 
 class V7 extends SportApi
@@ -5,7 +6,7 @@ class V7 extends SportApi
 
   getWeeklySchedule: (params, callback) ->
     params = this.getYearSeasonWeekParams(params)
-    this.getResource '/%(year)s/%(season)s/%(week)s/schedule.xml', params, callback
+    this.getResource '/games/%(year)s/%(season)s/%(week)s/schedule.xml', params, callback
 
   getExtendedBoxscore: (params, callback) ->
     this.getResource '/games/%(gameId)s/boxscore.xml', params, callback
@@ -62,6 +63,33 @@ class V7 extends SportApi
         params.year = new Date().getFullYear()
 
     [params]
+
+  getResource: (pattern, params, callback) ->
+    if typeof params is 'function'
+      callback = params
+      params = {}
+
+    try
+      options = this.getHttpOptions pattern, params
+    catch e
+      return callback e
+
+    this.performHttpGet options, callback
+
+  getHttpOptions: (pattern, params) ->
+    if typeof params is 'undefined'
+      params = {}
+
+    path = "/#{@league}"
+    if (@testLeague)
+      path += "-test"
+    path += "/#{@accessLevel}/v#{@version}/en"
+    path += sprintf(pattern, params)
+    path += sprintf('?api_key=%s', @apiKey)
+
+    options =
+      hostname: @domain
+      path: path
 
 
 module.exports = V7
