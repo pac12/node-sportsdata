@@ -30,7 +30,7 @@
     "build": "./node_modules/grunt-cli/bin/grunt coffee"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.3.0",
     "grunt-cli": "^1.0.0",
     "grunt-coffeelint": "~0.0.6",
     "grunt-contrib-clean": "~0.4.1",
