@@ -11,9 +11,8 @@ class V7 extends SportApi
   getExtendedBoxscore: (params, callback) ->
     this.getResource '/games/%(gameId)s/boxscore.xml', params, callback
 
-  getGameStatistics = function(params, callback) {
-    return this.getResource('/games/%(gameId)s/statistics.xml', params, callback);
-  };
+  getGameStatistics: (params, callback) ->
+    this.getResource '/games/%(gameId)s/statistics.xml', params, callback
 
   getPlayByPlay: (params, callback) ->
     this.getResource '/games/%(gameId)s/pbp.xml', params, callback
