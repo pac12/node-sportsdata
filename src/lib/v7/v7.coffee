@@ -11,6 +11,10 @@ class V7 extends SportApi
   getExtendedBoxscore: (params, callback) ->
     this.getResource '/games/%(gameId)s/boxscore.xml', params, callback
 
+  getDailyStandings: (params, callback) ->
+    params = this.getYearSeasonWeekParams(params)
+    this.getResource '/seasons/%(year)s/%(season)s/standings/season.xml', params, callback
+
   getGameStatistics: (params, callback) ->
     this.getResource '/games/%(gameId)s/statistics.xml', params, callback
 
