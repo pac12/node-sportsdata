@@ -16,7 +16,7 @@ class V7 extends SportApi
     this.getResource '/seasons/%(year)s/%(season)s/standings/season.xml', params, callback
 
   getGameStatistics: (params, callback) ->
-    this.getResource '/games/%(gameId)s/statistics.xml', params, callback
+    this.getResource '/games/%(gameId)s/%statistics.xml', params, callback
 
   getPlayByPlay: (params, callback) ->
     this.getResource '/games/%(gameId)s/pbp.xml', params, callback
