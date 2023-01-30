@@ -14,6 +14,8 @@ MLB    = require './v3/mlb'
 NCAAFB  = require './v1/ncaafb'
 NCAAMB = require './v3/ncaamb'
 NCAAWB = require './v3/ncaawb'
+NCAAMBv7 = require './v7/ncaamb'
+NCAAWBv7 = require './v7/ncaawb'
 NFL    = require './v1/nfl'
 NCAAFBv7  = require './v7/ncaafb'
 
@@ -23,6 +25,10 @@ exports.awesome = ()->
 exports.v7 = {
   ncaafb: (apiKey, accessLevel, testLeague) ->
     new NCAAFBv7 apiKey, accessLevel, testLeague
+  ncaamb: (apiKey, accessLevel, testLeague) ->
+    new NCAAMBv7 apiKey, accessLevel, testLeague
+  ncaawb: (apiKey, accessLevel, testLeague) ->
+    new NCAAWBv7 apiKey, accessLevel, testLeague
 }
 
 exports.v3 = {
