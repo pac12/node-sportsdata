@@ -31,6 +31,10 @@ class V7 extends SportApi
 
   getRankings: (params,callback) ->
     [params] = this.getYearWeekParams params
+    this.getResource '/polls/AP25/%(year)s/%(week)s/rankings.xml', params, callback
+
+  getCurrentRankings: (params,callback) ->
+    [params] = this.getYearWeekParams params
     this.getResource '/polls/%(poll_type)s/%(year)s/rankings.xml', params, callback
 
   getCfpRankings: (params,callback) ->
