@@ -1,6 +1,6 @@
-NCAAMB = require './ncaamb'
+NCAAMBv7 = require './ncaamb'
 
-class NCAAWB extends NCAAMB
+class NCAAWBv7 extends NCAAMBv7
   league: 'ncaawb'
 
-module.exports = NCAAWB
+module.exports = NCAAWBv7
