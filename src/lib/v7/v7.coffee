@@ -8,12 +8,20 @@ class V7 extends SportApi
     params = this.getYearSeasonWeekParams(params)
     this.getResource '/games/%(year)s/%(season)s/%(week)s/schedule.xml', params, callback
 
+  getDailySchedule: (date, callback) ->
+    [params, callback] = this.getDailyParams date, callback
+    this.getResource '/games/%(year)s/%(month)s/%(day)s/schedule.xml', params, callback
+
   getExtendedBoxscore: (params, callback) ->
     this.getResource '/games/%(gameId)s/boxscore.xml', params, callback
 
   getDailyStandings: (params, callback) ->
     params = this.getYearSeasonWeekParams(params)
     this.getResource '/seasons/%(year)s/%(season)s/standings/season.xml', params, callback
+
+  getStandings: (params, callback) ->
+    params = this.getYearSeasonWeekParams(params)
+    this.getResource '/seasons/%(year)s/%(season)s/standings.xml', params, callback
 
   getGameStatistics: (params, callback) ->
     this.getResource '/games/%(gameId)s/statistics.xml', params, callback
@@ -23,7 +31,7 @@ class V7 extends SportApi
 
   getRankings: (params,callback) ->
     [params] = this.getYearWeekParams params
-    this.getResource '/polls/AP25/%(year)s/%(week)s/rankings.xml', params, callback
+    this.getResource '/polls/%(poll_type)s/%(year)s/rankings.xml', params, callback
 
   getCfpRankings: (params,callback) ->
     [params] = this.getYearWeekParams params
@@ -68,6 +76,8 @@ class V7 extends SportApi
         params.year = new Date().getFullYear() - 1
       if week >= 10
         params.year = new Date().getFullYear()
+    if not params.poll_type
+      params.poll_type = 'AP25'
 
     [params]
 
